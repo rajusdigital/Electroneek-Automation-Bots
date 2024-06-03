@@ -1,0 +1,79 @@
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 12/12/2022, 2:32:03 PM
+  ==========================================
+  
+
+[2022-12-12T21:37:09.953Z] : [success]: Robot saved successfully
+
+[2022-12-12T21:37:10.005Z] : [info]: ---------------------------------------------
+
+[2022-12-12T21:37:10.006Z] : [success]: Bot started
+
+[2022-12-12T21:37:10.006Z] : [info]: Robot start
+
+[2022-12-12T21:38:44.567Z] : [success]: Bot finished successfully, total execution time: 1m 34s 558ms
+
+[2022-12-12T21:38:44.569Z] : [info]: ---------------------------------------------
+
+[2022-12-12T21:41:38.128Z] : [success]: Robot saved successfully
+
+[2022-12-12T21:41:51.186Z] : [success]: The workflow has been exported successfully
+
+[2022-12-12T22:01:00.384Z] : [success]: Robot saved successfully
+
+[2022-12-12T22:01:00.428Z] : [info]: ---------------------------------------------
+
+[2022-12-12T22:01:00.428Z] : [success]: Bot started
+
+[2022-12-12T22:01:00.429Z] : [info]: Robot start
+
+[2022-12-12T22:01:12.636Z] : [error]: Input file not found
+
+[2022-12-12T22:01:12.640Z] : [error]: Total execution time: 12s 206ms
+
+[2022-12-12T22:01:12.641Z] : [info]: ---------------------------------------------
+
+[2022-12-12T22:06:12.323Z] : [success]: Robot saved successfully
+
+[2022-12-12T22:06:12.371Z] : [info]: ---------------------------------------------
+
+[2022-12-12T22:06:12.371Z] : [success]: Bot started
+
+[2022-12-12T22:06:12.372Z] : [info]: Robot start
+
+[2022-12-12T22:06:25.594Z] : [success]: Bot finished successfully, total execution time: 13s 220ms
+
+[2022-12-12T22:06:25.596Z] : [info]: ---------------------------------------------
+
+[2022-12-12T22:08:50.006Z] : [success]: Robot saved successfully
+
+[2022-12-12T22:08:50.063Z] : [success]: Bot started
+
+[2022-12-12T22:08:50.064Z] : [info]: Robot start
+
+[2022-12-12T22:08:56.188Z] : [success]: Bot finished successfully, total execution time: 6s 121ms
+
+[2022-12-12T22:08:56.190Z] : [info]: ---------------------------------------------
+
+[2022-12-12T22:13:50.942Z] : [success]: Robot saved successfully
+
+[2022-12-12T22:13:51.006Z] : [success]: Bot started
+
+[2022-12-12T22:13:51.008Z] : [info]: Robot start
+
+[2022-12-12T22:13:58.132Z] : [success]: Bot finished successfully, total execution time: 7s 123ms
+
+[2022-12-12T22:13:58.133Z] : [info]: ---------------------------------------------
+
+[2022-12-12T22:15:19.958Z] : [success]: Robot saved successfully
+
+[2022-12-12T22:15:20.012Z] : [success]: Bot started
+
+[2022-12-12T22:15:20.013Z] : [info]: Robot start
+
+[2022-12-12T22:15:36.287Z] : [success]: Bot finished successfully, total execution time: 16s 271ms
+
+[2022-12-12T22:15:36.288Z] : [info]: ---------------------------------------------
+
