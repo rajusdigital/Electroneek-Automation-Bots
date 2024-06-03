@@ -1,0 +1,17 @@
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 10/6/2023, 10:23:45 AM
+  ==========================================
+  
+
+[2023-10-06T04:54:36.698Z] : [success]: Bot started
+
+[2023-10-06T04:54:36.699Z] : [info]: Robot start
+
+[2023-10-06T04:55:17.957Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-10-06T04:55:18.723Z] : [success]: Bot finished successfully, total execution time: 42s 21ms
+
+[2023-10-06T04:55:18.727Z] : [info]: ---------------------------------------------
+
