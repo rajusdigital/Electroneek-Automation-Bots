@@ -1,0 +1,13 @@
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 3/8/2024, 5:16:26 PM
+  ==========================================
+  
+
+[2024-03-08T11:46:59.079Z] : [success]: Robot saved successfully
+
+[2024-03-11T06:22:11.177Z] : [success]: Connection to our licenses server is restored
+
+[2024-03-11T07:13:50.271Z] : [error]: Cannot read properties of null (reading 'type')
+
