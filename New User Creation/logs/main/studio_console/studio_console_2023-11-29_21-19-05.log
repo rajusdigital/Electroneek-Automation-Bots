@@ -1,0 +1,96 @@
+
+  ==========================================
+  Studio Pro version: 9.3.16
+  Started at: 11/29/2023, 9:23:31 PM
+  ==========================================
+  
+
+[2023-11-29T15:53:57.925Z] : [success]: Robot saved successfully
+
+[2023-11-29T15:53:58.204Z] : [info]: ---------------------------------------------
+
+[2023-11-29T15:53:58.205Z] : [success]: Bot started
+
+[2023-11-29T15:53:58.205Z] : [info]: Robot start
+
+[2023-11-29T15:54:25.762Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-11-29T15:54:26.083Z] : [info]: Total execution time: 27s 557ms
+
+[2023-11-29T15:54:26.084Z] : [info]: ---------------------------------------------
+
+[2023-11-29T15:54:41.996Z] : [success]: Bot started
+
+[2023-11-29T15:54:41.997Z] : [info]: Robot start
+
+[2023-11-29T15:54:47.158Z] : [error]: ERROR: The process "Chrome.exe" not found.
+
+
+[2023-11-29T15:54:47.364Z] : [info]: Total execution time: 5s 161ms
+
+[2023-11-29T15:54:47.365Z] : [info]: ---------------------------------------------
+
+[2023-11-29T15:54:54.646Z] : [success]: Robot saved successfully
+
+[2023-11-29T15:55:00.228Z] : [success]: Bot started
+
+[2023-11-29T15:55:00.229Z] : [info]: Robot start
+
+[2023-11-29T15:55:23.641Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-11-29T15:55:23.850Z] : [info]: Total execution time: 23s 411ms
+
+[2023-11-29T15:55:23.851Z] : [info]: ---------------------------------------------
+
+[2023-11-29T15:55:59.061Z] : [success]: Bot started
+
+[2023-11-29T15:55:59.062Z] : [info]: Robot start
+
+[2023-11-29T15:56:23.512Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-11-29T15:56:23.714Z] : [info]: Total execution time: 24s 450ms
+
+[2023-11-29T15:56:23.715Z] : [info]: ---------------------------------------------
+
+[2023-11-29T15:57:54.098Z] : [info]: ---------------------------------------------
+
+[2023-11-29T15:57:54.099Z] : [success]: Bot started
+
+[2023-11-29T15:57:54.100Z] : [info]: Robot start
+
+[2023-11-29T15:58:19.612Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-11-29T15:58:19.857Z] : [info]: Total execution time: 25s 511ms
+
+[2023-11-29T15:58:19.858Z] : [info]: ---------------------------------------------
+
+[2023-11-29T16:00:18.838Z] : [success]: Robot saved successfully
+
+[2023-11-29T16:00:19.111Z] : [success]: Bot started
+
+[2023-11-29T16:00:19.112Z] : [info]: Robot start
+
+[2023-11-29T16:01:45.215Z] : [success]: Bot finished successfully, total execution time: 1m 26s 102ms
+
+[2023-11-29T16:01:45.216Z] : [info]: ---------------------------------------------
+
+[2023-11-29T16:03:27.224Z] : [success]: Robot saved successfully
+
+[2023-11-29T16:04:11.360Z] : [info]: Internet connection // error
+
+[2023-11-29T16:04:11.515Z] : [success]: Bot started
+
+[2023-11-29T16:04:11.515Z] : [info]: Robot start
+
+[2023-11-29T16:05:28.528Z] : [success]: Bot finished successfully, total execution time: 1m 17s 13ms
+
+[2023-11-29T16:05:28.530Z] : [info]: ---------------------------------------------
+
+[2023-11-29T16:06:13.584Z] : [success]: The workflow has been exported successfully
+
+[2023-11-29T16:07:31.944Z] : [success]: Robot saved successfully
+
+[2023-11-29T16:11:15.841Z] : [success]: The workflow has been exported successfully
+
+[2023-11-29T16:13:32.522Z] : [success]: Connection to our licenses server is restored
+

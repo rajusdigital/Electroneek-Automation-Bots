@@ -1,0 +1,113 @@
+[2023-11-29T11:40:05.293Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 11/29/2023, 5:10:06 PM
+  ==========================================
+  
+
+[2023-11-29T11:40:26.217Z] : [info]: ---------------------------------------------
+
+[2023-11-29T11:40:26.218Z] : [success]: Bot started
+
+[2023-11-29T11:40:26.219Z] : [info]: Robot start
+
+[2023-11-29T11:41:29.109Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-11-29T11:41:29.662Z] : [info]: Total execution time: 1m 2s 889ms
+
+[2023-11-29T11:41:29.663Z] : [info]: ---------------------------------------------
+
+[2023-11-29T11:42:16.973Z] : [success]: Bot started
+
+[2023-11-29T11:42:16.974Z] : [info]: Robot start
+
+[2023-11-29T11:42:58.981Z] : [error]: Script Stopped.
+
+[2023-11-29T11:42:59.472Z] : [info]: Total execution time: 42s 6ms
+
+[2023-11-29T11:42:59.473Z] : [info]: ---------------------------------------------
+
+[2023-11-29T11:46:59.765Z] : [success]: Robot saved successfully
+
+[2023-11-29T11:47:00.833Z] : [success]: Robot saved successfully
+
+[2023-11-29T11:47:19.378Z] : [success]: Robot saved successfully
+
+[2023-11-29T11:48:23.619Z] : [success]: Bot started
+
+[2023-11-29T11:48:23.620Z] : [info]: Robot start
+
+[2023-11-29T11:49:33.366Z] : [error]: Script Stopped.
+
+[2023-11-29T11:49:33.975Z] : [info]: Total execution time: 1m 9s 744ms
+
+[2023-11-29T11:49:33.976Z] : [info]: ---------------------------------------------
+
+[2023-11-29T11:54:09.074Z] : [success]: Robot saved successfully
+
+[2023-11-29T11:54:37.076Z] : [success]: Bot started
+
+[2023-11-29T11:54:37.077Z] : [info]: Robot start
+
+[2023-11-29T11:56:06.584Z] : [success]: Bot finished successfully, total execution time: 1m 29s 504ms
+
+[2023-11-29T11:56:06.586Z] : [info]: ---------------------------------------------
+
+[2023-11-29T11:57:19.080Z] : [success]: Robot saved successfully
+
+[2023-11-29T12:00:25.346Z] : [success]: Robot saved successfully
+
+[2023-11-29T12:00:51.046Z] : [success]: Bot started
+
+[2023-11-29T12:00:51.048Z] : [info]: Robot start
+
+[2023-11-29T12:01:41.768Z] : [error]: Disposable been disposed
+
+[2023-11-29T12:01:42.597Z] : [info]: Total execution time: 50s 717ms
+
+[2023-11-29T12:01:42.598Z] : [info]: ---------------------------------------------
+
+[2023-11-29T12:01:47.529Z] : [success]: Bot started
+
+[2023-11-29T12:01:47.530Z] : [info]: Robot start
+
+[2023-11-29T12:03:18.643Z] : [error]: Script Stopped.
+
+[2023-11-29T12:03:19.248Z] : [info]: Total execution time: 1m 31s 112ms
+
+[2023-11-29T12:03:19.249Z] : [info]: ---------------------------------------------
+
+[2023-11-29T12:06:53.107Z] : [success]: Robot saved successfully
+
+[2023-11-29T12:07:18.366Z] : [success]: Bot started
+
+[2023-11-29T12:07:18.367Z] : [info]: Robot start
+
+[2023-11-29T12:08:59.691Z] : [success]: Bot finished successfully, total execution time: 1m 41s 317ms
+
+[2023-11-29T12:08:59.693Z] : [info]: ---------------------------------------------
+
+[2023-11-29T12:15:37.218Z] : [success]: Robot saved successfully
+
+[2023-11-29T12:15:39.158Z] : [success]: Robot saved successfully
+
+[2023-11-29T12:16:38.133Z] : [success]: Bot started
+
+[2023-11-29T12:16:38.135Z] : [info]: Robot start
+
+[2023-11-29T12:17:02.047Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-11-29T12:17:02.789Z] : [info]: Total execution time: 23s 911ms
+
+[2023-11-29T12:17:02.792Z] : [info]: ---------------------------------------------
+
+[2023-11-29T12:17:10.039Z] : [success]: Bot started
+
+[2023-11-29T12:17:10.041Z] : [info]: Robot start
+
+[2023-11-29T12:19:08.064Z] : [success]: Bot finished successfully, total execution time: 1m 58s 17ms
+
+[2023-11-29T12:19:08.066Z] : [info]: ---------------------------------------------
+

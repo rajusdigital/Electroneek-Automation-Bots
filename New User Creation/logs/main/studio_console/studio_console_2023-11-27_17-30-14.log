@@ -1,0 +1,81 @@
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 11/28/2023, 12:22:28 PM
+  ==========================================
+  
+
+[2023-11-28T07:25:54.068Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 11/28/2023, 12:55:55 PM
+  ==========================================
+  
+
+[2023-11-28T07:26:14.908Z] : [success]: Bot started
+
+[2023-11-28T07:26:14.911Z] : [info]: Robot start
+
+[2023-11-28T07:26:41.429Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-11-28T07:26:42.773Z] : [info]: Total execution time: 26s 516ms
+
+[2023-11-28T07:26:42.774Z] : [info]: ---------------------------------------------
+
+[2023-11-28T07:26:50.098Z] : [success]: Robot saved successfully
+
+[2023-11-28T07:27:10.585Z] : [success]: Bot started
+
+[2023-11-28T07:27:10.586Z] : [info]: Robot start
+
+[2023-11-28T07:27:53.873Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-11-28T07:27:54.723Z] : [info]: Total execution time: 43s 287ms
+
+[2023-11-28T07:27:54.724Z] : [info]: ---------------------------------------------
+
+[2023-11-29T06:36:49.725Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 11/29/2023, 12:06:50 PM
+  ==========================================
+  
+
+[2023-11-29T06:37:24.003Z] : [success]: Bot started
+
+[2023-11-29T06:37:24.004Z] : [info]: Robot start
+
+[2023-11-29T06:39:03.138Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2023-11-29T06:39:04.942Z] : [info]: Total execution time: 1m 39s 133ms
+
+[2023-11-29T06:39:04.944Z] : [info]: ---------------------------------------------
+
+[2023-11-29T06:43:15.818Z] : [success]: Robot saved successfully
+
+[2023-11-29T06:43:17.675Z] : [success]: Robot saved successfully
+
+[2023-11-29T06:44:16.712Z] : [success]: Bot started
+
+[2023-11-29T06:44:16.715Z] : [info]: Robot start
+
+[2023-11-29T06:45:28.986Z] : [error]: Script Stopped.
+
+[2023-11-29T06:45:30.094Z] : [info]: Total execution time: 1m 12s 269ms
+
+[2023-11-29T06:45:30.095Z] : [info]: ---------------------------------------------
+
+[2023-11-29T06:45:30.566Z] : [success]: Robot saved successfully
+
+[2023-11-29T06:46:00.028Z] : [success]: Bot started
+
+[2023-11-29T06:46:00.031Z] : [info]: Robot start
+
+[2023-11-29T06:49:03.215Z] : [success]: Bot finished successfully, total execution time: 3m 3s 178ms
+
+[2023-11-29T06:49:03.217Z] : [info]: ---------------------------------------------
+

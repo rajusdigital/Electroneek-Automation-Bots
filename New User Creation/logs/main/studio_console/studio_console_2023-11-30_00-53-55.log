@@ -1,0 +1,53 @@
+
+  ==========================================
+  Studio Pro version: 9.3.16
+  Started at: 11/30/2023, 12:54:04 AM
+  ==========================================
+  
+
+[2023-11-29T19:24:28.768Z] : [success]: Robot saved successfully
+
+[2023-11-29T19:24:33.854Z] : [info]: ---------------------------------------------
+
+[2023-11-29T19:24:33.855Z] : [success]: Bot started
+
+[2023-11-29T19:24:33.855Z] : [info]: Robot start
+
+[2023-11-29T19:24:49.833Z] : [success]: Bot finished successfully, total execution time: 15s 977ms
+
+[2023-11-29T19:24:49.834Z] : [info]: ---------------------------------------------
+
+[2023-11-29T19:24:54.856Z] : [success]: Bot started
+
+[2023-11-29T19:24:54.858Z] : [info]: Robot start
+
+[2023-11-29T19:25:07.130Z] : [success]: Bot finished successfully, total execution time: 12s 271ms
+
+[2023-11-29T19:25:07.133Z] : [info]: ---------------------------------------------
+
+[2023-11-29T19:26:08.486Z] : [success]: Robot saved successfully
+
+[2023-11-29T19:26:23.402Z] : [success]: Bot started
+
+[2023-11-29T19:26:23.403Z] : [info]: Robot start
+
+[2023-11-29T19:26:53.848Z] : [error]: Script Stopped.
+
+[2023-11-29T19:26:54.076Z] : [info]: Total execution time: 30s 444ms
+
+[2023-11-29T19:26:54.077Z] : [info]: ---------------------------------------------
+
+[2023-11-29T19:27:16.449Z] : [success]: Robot saved successfully
+
+[2023-11-29T19:27:32.866Z] : [success]: The workflow has been exported successfully
+
+[2023-11-29T19:36:23.145Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-11-29T19:36:23.147Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-11-29T19:36:23.150Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-11-29T19:36:23.151Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-11-29T19:36:23.155Z] : [error]: Cannot read properties of null (reading 'type')
+

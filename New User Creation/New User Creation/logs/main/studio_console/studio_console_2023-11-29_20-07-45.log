@@ -1,0 +1,86 @@
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 11/29/2023, 8:08:01 PM
+  ==========================================
+  
+
+[2023-11-29T14:39:12.476Z] : [info]: ---------------------------------------------
+
+[2023-11-29T14:39:12.477Z] : [success]: Bot started
+
+[2023-11-29T14:39:12.478Z] : [info]: Robot start
+
+[2023-11-29T14:40:05.584Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-11-29T14:40:06.313Z] : [info]: Total execution time: 53s 105ms
+
+[2023-11-29T14:40:06.314Z] : [info]: ---------------------------------------------
+
+[2023-11-29T14:41:22.012Z] : [success]: Robot saved successfully
+
+[2023-11-29T14:42:27.602Z] : [success]: Robot saved successfully
+
+[2023-11-29T14:42:47.398Z] : [success]: Bot started
+
+[2023-11-29T14:42:47.400Z] : [info]: Robot start
+
+[2023-11-29T14:43:48.227Z] : [error]: Script Stopped.
+
+[2023-11-29T14:43:48.803Z] : [info]: Total execution time: 1m 825ms
+
+[2023-11-29T14:43:48.805Z] : [info]: ---------------------------------------------
+
+[2023-11-29T14:48:39.634Z] : [success]: Robot saved successfully
+
+[2023-11-29T14:50:20.668Z] : [success]: Robot saved successfully
+
+[2023-11-29T14:54:47.851Z] : [success]: Robot saved successfully
+
+[2023-11-29T14:55:08.687Z] : [success]: Bot started
+
+[2023-11-29T14:55:08.689Z] : [info]: Robot start
+
+[2023-11-29T14:57:17.622Z] : [success]: Bot finished successfully, total execution time: 2m 8s 933ms
+
+[2023-11-29T14:57:17.625Z] : [info]: ---------------------------------------------
+
+[2023-11-29T14:58:38.216Z] : [success]: Robot saved successfully
+
+[2023-11-29T14:59:32.791Z] : [success]: The workflow has been exported successfully
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 11/29/2023, 8:35:54 PM
+  ==========================================
+  
+
+[2023-11-29T15:06:35.474Z] : [success]: Robot saved successfully
+
+[2023-11-29T15:08:12.358Z] : [success]: Robot saved successfully
+
+[2023-11-29T15:08:13.695Z] : [success]: Robot saved successfully
+
+[2023-11-29T15:08:54.483Z] : [success]: Bot started
+
+[2023-11-29T15:08:54.485Z] : [info]: Robot start
+
+[2023-11-29T15:11:16.835Z] : [success]: Bot finished successfully, total execution time: 2m 22s 349ms
+
+[2023-11-29T15:11:16.837Z] : [info]: ---------------------------------------------
+
+[2023-11-29T15:13:34.717Z] : [success]: Robot saved successfully
+
+[2023-11-29T15:13:38.027Z] : [success]: Robot saved successfully
+
+[2023-11-29T15:13:56.720Z] : [success]: Bot started
+
+[2023-11-29T15:13:56.721Z] : [info]: Robot start
+
+[2023-11-29T15:16:26.598Z] : [success]: Bot finished successfully, total execution time: 2m 29s 876ms
+
+[2023-11-29T15:16:26.601Z] : [info]: ---------------------------------------------
+
+[2023-11-29T15:16:43.345Z] : [success]: Robot saved successfully
+
