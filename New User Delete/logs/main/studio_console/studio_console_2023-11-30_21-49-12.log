@@ -1,0 +1,126 @@
+
+  ==========================================
+  Studio Pro version: 9.3.16
+  Started at: 11/30/2023, 9:49:13 PM
+  ==========================================
+  
+
+[2023-11-30T16:19:44.967Z] : [success]: Robot saved successfully
+
+[2023-11-30T16:20:24.906Z] : [info]: ---------------------------------------------
+
+[2023-11-30T16:20:24.907Z] : [success]: Bot started
+
+[2023-11-30T16:20:24.908Z] : [info]: Robot start
+
+[2023-11-30T16:20:29.334Z] : [error]: ERROR: The process "Chrome.exe" not found.
+
+
+[2023-11-30T16:20:29.542Z] : [info]: Total execution time: 4s 425ms
+
+[2023-11-30T16:20:29.546Z] : [info]: ---------------------------------------------
+
+[2023-11-30T16:20:51.369Z] : [success]: Robot saved successfully
+
+[2023-11-30T16:20:56.306Z] : [success]: Bot started
+
+[2023-11-30T16:20:56.306Z] : [info]: Robot start
+
+[2023-11-30T16:21:13.586Z] : [error]: Script Stopped.
+
+[2023-11-30T16:21:13.822Z] : [info]: Total execution time: 17s 279ms
+
+[2023-11-30T16:21:13.830Z] : [info]: ---------------------------------------------
+
+[2023-11-30T16:21:52.778Z] : [success]: Robot saved successfully
+
+[2023-11-30T16:22:05.686Z] : [success]: Bot started
+
+[2023-11-30T16:22:05.687Z] : [info]: Robot start
+
+[2023-11-30T16:23:05.561Z] : [error]: Outlook: Can't find accound
+
+[2023-11-30T16:23:05.911Z] : [info]: Total execution time: 59s 873ms
+
+[2023-11-30T16:23:05.912Z] : [info]: ---------------------------------------------
+
+[2023-11-30T16:23:13.734Z] : [success]: Robot saved successfully
+
+[2023-11-30T16:23:43.666Z] : [info]: ---------------------------------------------
+
+[2023-11-30T16:23:43.667Z] : [success]: Bot started
+
+[2023-11-30T16:23:43.667Z] : [info]: Robot start
+
+[2023-11-30T16:24:18.184Z] : [error]: Script Stopped.
+
+[2023-11-30T16:24:18.378Z] : [info]: Total execution time: 34s 517ms
+
+[2023-11-30T16:24:18.379Z] : [info]: ---------------------------------------------
+
+[2023-11-30T16:25:00.011Z] : [success]: Robot saved successfully
+
+[2023-11-30T16:25:04.632Z] : [success]: Robot saved successfully
+
+[2023-11-30T16:25:23.066Z] : [success]: Bot started
+
+[2023-11-30T16:25:23.067Z] : [info]: Robot start
+
+[2023-11-30T16:26:32.047Z] : [error]: Selectors: Nothing found
+
+[2023-11-30T16:26:32.267Z] : [info]: Total execution time: 1m 8s 979ms
+
+[2023-11-30T16:26:32.267Z] : [info]: ---------------------------------------------
+
+[2023-11-30T16:29:47.161Z] : [info]: Internet connection // error
+
+[2023-11-30T16:29:47.270Z] : [success]: Bot started
+
+[2023-11-30T16:29:47.270Z] : [info]: Robot start
+
+[2023-11-30T16:31:05.328Z] : [error]: Outlook: user_id is not defined
+
+[2023-11-30T16:31:05.663Z] : [info]: Total execution time: 1m 18s 57ms
+
+[2023-11-30T16:31:05.664Z] : [info]: ---------------------------------------------
+
+[2023-11-30T16:35:45.273Z] : [success]: Connection to our licenses server is restored
+
+[2023-11-30T16:35:45.328Z] : [success]: Robot saved successfully
+
+[2023-11-30T16:35:45.535Z] : [success]: Bot started
+
+[2023-11-30T16:35:45.535Z] : [info]: Robot start
+
+[2023-11-30T16:35:48.638Z] : [success]: Bot finished successfully, total execution time: 3s 102ms
+
+[2023-11-30T16:35:48.639Z] : [info]: ---------------------------------------------
+
+[2023-11-30T16:50:10.897Z] : [success]: Robot saved successfully
+
+[2023-11-30T16:53:08.025Z] : [success]: Robot saved successfully
+
+[2023-11-30T16:53:31.728Z] : [success]: Bot started
+
+[2023-11-30T16:53:31.729Z] : [info]: Robot start
+
+[2023-11-30T16:54:26.548Z] : [error]: Selectors: Nothing found
+
+[2023-11-30T16:54:26.801Z] : [info]: Total execution time: 54s 818ms
+
+[2023-11-30T16:54:26.801Z] : [info]: ---------------------------------------------
+
+[2023-11-30T16:56:12.236Z] : [success]: Robot saved successfully
+
+[2023-11-30T16:56:27.337Z] : [success]: Robot saved successfully
+
+[2023-11-30T16:56:27.568Z] : [success]: Bot started
+
+[2023-11-30T16:56:27.569Z] : [info]: Robot start
+
+[2023-11-30T16:57:36.529Z] : [success]: Bot finished successfully, total execution time: 1m 8s 957ms
+
+[2023-11-30T16:57:36.531Z] : [info]: ---------------------------------------------
+
+[2023-11-30T16:59:06.713Z] : [success]: The workflow has been exported successfully
+

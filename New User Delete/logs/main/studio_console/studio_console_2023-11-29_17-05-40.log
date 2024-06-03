@@ -1,0 +1,69 @@
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 11/29/2023, 5:49:30 PM
+  ==========================================
+  
+
+[2023-11-29T12:19:53.594Z] : [success]: Robot saved successfully
+
+[2023-11-29T12:20:17.129Z] : [success]: Robot saved successfully
+
+[2023-11-29T12:20:23.948Z] : [success]: Bot started
+
+[2023-11-29T12:20:23.949Z] : [info]: Robot start
+
+[2023-11-29T12:21:12.306Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-11-29T12:21:13.002Z] : [info]: Total execution time: 48s 356ms
+
+[2023-11-29T12:21:13.005Z] : [info]: ---------------------------------------------
+
+[2023-11-29T12:22:06.760Z] : [success]: Robot saved successfully
+
+[2023-11-29T12:22:17.377Z] : [success]: Robot saved successfully
+
+[2023-11-29T12:22:25.721Z] : [success]: Bot started
+
+[2023-11-29T12:22:25.723Z] : [info]: Robot start
+
+[2023-11-29T12:23:13.201Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-11-29T12:23:13.717Z] : [info]: Total execution time: 47s 478ms
+
+[2023-11-29T12:23:13.718Z] : [info]: ---------------------------------------------
+
+[2023-11-29T12:23:24.027Z] : [success]: Robot saved successfully
+
+[2023-11-29T12:23:30.822Z] : [success]: Bot started
+
+[2023-11-29T12:23:30.824Z] : [info]: Robot start
+
+[2023-11-29T12:24:46.730Z] : [error]: CAN_NOT_FIND_TAB
+
+[2023-11-29T12:24:47.345Z] : [info]: Total execution time: 1m 15s 904ms
+
+[2023-11-29T12:24:47.347Z] : [info]: ---------------------------------------------
+
+[2023-11-29T12:27:47.784Z] : [success]: Robot saved successfully
+
+[2023-11-29T12:28:12.028Z] : [success]: Robot saved successfully
+
+[2023-11-29T12:28:20.351Z] : [success]: Bot started
+
+[2023-11-29T12:28:20.353Z] : [info]: Robot start
+
+[2023-11-29T12:29:18.874Z] : [success]: Bot finished successfully, total execution time: 58s 517ms
+
+[2023-11-29T12:29:18.877Z] : [info]: ---------------------------------------------
+
+[2023-11-29T12:30:06.029Z] : [success]: Robot saved successfully
+
+[2023-11-29T12:30:14.549Z] : [success]: Bot started
+
+[2023-11-29T12:30:14.550Z] : [info]: Robot start
+
+[2023-11-29T12:31:15.166Z] : [success]: Bot finished successfully, total execution time: 1m 612ms
+
+[2023-11-29T12:31:15.167Z] : [info]: ---------------------------------------------
+

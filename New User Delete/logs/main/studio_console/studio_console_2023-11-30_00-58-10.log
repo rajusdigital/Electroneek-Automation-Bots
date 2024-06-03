@@ -1,0 +1,67 @@
+
+  ==========================================
+  Studio Pro version: 9.3.16
+  Started at: 11/30/2023, 12:58:11 AM
+  ==========================================
+  
+
+[2023-11-29T19:28:49.863Z] : [success]: Robot saved successfully
+
+[2023-11-29T19:28:50.121Z] : [info]: ---------------------------------------------
+
+[2023-11-29T19:28:50.121Z] : [success]: Bot started
+
+[2023-11-29T19:28:50.122Z] : [info]: Robot start
+
+[2023-11-29T19:29:03.803Z] : [success]: Bot finished successfully, total execution time: 13s 680ms
+
+[2023-11-29T19:29:03.804Z] : [info]: ---------------------------------------------
+
+[2023-11-29T19:29:55.395Z] : [success]: Robot saved successfully
+
+[2023-11-29T19:30:04.755Z] : [success]: Bot started
+
+[2023-11-29T19:30:04.756Z] : [info]: Robot start
+
+[2023-11-29T19:30:36.194Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-11-29T19:30:36.500Z] : [info]: Total execution time: 31s 438ms
+
+[2023-11-29T19:30:36.500Z] : [info]: ---------------------------------------------
+
+[2023-11-29T19:31:22.417Z] : [success]: Robot saved successfully
+
+[2023-11-29T19:31:32.172Z] : [success]: Bot started
+
+[2023-11-29T19:31:32.174Z] : [info]: Robot start
+
+[2023-11-29T19:32:05.750Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-11-29T19:32:05.968Z] : [info]: Total execution time: 33s 575ms
+
+[2023-11-29T19:32:05.968Z] : [info]: ---------------------------------------------
+
+[2023-11-29T19:32:59.022Z] : [success]: Robot saved successfully
+
+[2023-11-29T19:33:05.886Z] : [success]: Bot started
+
+[2023-11-29T19:33:05.887Z] : [info]: Robot start
+
+[2023-11-29T19:34:23.872Z] : [success]: Bot finished successfully, total execution time: 1m 17s 982ms
+
+[2023-11-29T19:34:23.874Z] : [info]: ---------------------------------------------
+
+[2023-11-29T19:34:26.291Z] : [success]: Robot saved successfully
+
+[2023-11-29T19:34:44.281Z] : [success]: The workflow has been exported successfully
+
+[2023-11-29T19:36:56.937Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-11-29T19:36:56.939Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-11-29T19:36:56.940Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-11-29T19:36:56.942Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-11-29T19:36:56.943Z] : [error]: Cannot read properties of null (reading 'type')
+
