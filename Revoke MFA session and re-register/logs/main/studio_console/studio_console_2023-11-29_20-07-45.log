@@ -1,0 +1,177 @@
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 11/29/2023, 8:34:27 PM
+  ==========================================
+  
+
+[2023-11-29T15:34:23.302Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 11/29/2023, 9:04:23 PM
+  ==========================================
+  
+
+[2023-11-29T15:35:38.057Z] : [success]: Robot saved successfully
+
+[2023-11-29T15:37:06.905Z] : [success]: Robot saved successfully
+
+[2023-11-29T15:42:12.048Z] : [success]: Robot saved successfully
+
+[2023-11-29T15:42:19.539Z] : [success]: Bot started
+
+[2023-11-29T15:42:19.540Z] : [info]: Robot start
+
+[2023-11-29T15:44:01.884Z] : [success]: Bot finished successfully, total execution time: 1m 42s 343ms
+
+[2023-11-29T15:44:01.885Z] : [info]: ---------------------------------------------
+
+[2023-11-29T15:44:09.869Z] : [success]: Robot saved successfully
+
+[2023-11-29T15:44:45.795Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 11/29/2023, 11:36:59 PM
+  ==========================================
+  
+
+[2023-11-29T18:07:14.465Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 11/29/2023, 11:38:53 PM
+  ==========================================
+  
+
+[2023-11-29T18:14:49.247Z] : [info]: Internet connection // error
+
+[2023-11-29T18:14:49.421Z] : [success]: Robot saved successfully
+
+[2023-11-29T18:14:49.679Z] : [success]: Bot started
+
+[2023-11-29T18:14:49.680Z] : [info]: Robot start
+
+[2023-11-29T18:15:32.986Z] : [success]: Bot finished successfully, total execution time: 43s 306ms
+
+[2023-11-29T18:15:32.987Z] : [info]: ---------------------------------------------
+
+[2023-11-29T18:19:00.969Z] : [success]: Robot saved successfully
+
+[2023-11-29T18:19:09.095Z] : [success]: Bot started
+
+[2023-11-29T18:19:09.096Z] : [info]: Robot start
+
+[2023-11-29T18:19:23.315Z] : [error]: Disposable been disposed
+
+[2023-11-29T18:19:24.608Z] : [info]: Total execution time: 14s 211ms
+
+[2023-11-29T18:19:24.610Z] : [info]: ---------------------------------------------
+
+[2023-11-29T18:19:44.189Z] : [success]: Robot saved successfully
+
+[2023-11-29T18:19:59.599Z] : [success]: Bot started
+
+[2023-11-29T18:19:59.601Z] : [info]: Robot start
+
+[2023-11-29T18:21:02.778Z] : [error]: Selectors: Nothing found
+
+[2023-11-29T18:21:03.682Z] : [info]: Total execution time: 1m 3s 177ms
+
+[2023-11-29T18:21:03.683Z] : [info]: ---------------------------------------------
+
+[2023-11-29T18:22:52.516Z] : [success]: Robot saved successfully
+
+[2023-11-29T18:23:00.361Z] : [success]: Bot started
+
+[2023-11-29T18:23:00.363Z] : [info]: Robot start
+
+[2023-11-29T18:24:28.282Z] : [success]: Bot finished successfully, total execution time: 1m 27s 919ms
+
+[2023-11-29T18:24:28.284Z] : [info]: ---------------------------------------------
+
+[2023-11-29T18:24:32.722Z] : [success]: Robot saved successfully
+
+[2023-11-29T18:24:33.519Z] : [success]: Robot saved successfully
+
+[2023-11-29T18:24:33.759Z] : [success]: Robot saved successfully
+
+[2023-11-29T18:24:34.019Z] : [success]: Robot saved successfully
+
+[2023-11-29T18:24:34.345Z] : [success]: Robot saved successfully
+
+[2023-11-29T18:24:34.659Z] : [success]: Robot saved successfully
+
+[2023-11-29T18:25:17.173Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 11/30/2023, 12:01:14 AM
+  ==========================================
+  
+
+[2023-11-29T18:35:27.128Z] : [success]: Robot saved successfully
+
+[2023-11-29T18:35:34.567Z] : [success]: Bot started
+
+[2023-11-29T18:35:34.570Z] : [info]: Robot start
+
+[2023-11-29T18:36:11.508Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-11-29T18:36:12.092Z] : [info]: Total execution time: 36s 936ms
+
+[2023-11-29T18:36:12.094Z] : [info]: ---------------------------------------------
+
+[2023-11-29T18:36:14.057Z] : [success]: Robot saved successfully
+
+[2023-11-29T18:36:21.335Z] : [success]: Bot started
+
+[2023-11-29T18:36:21.336Z] : [info]: Robot start
+
+[2023-11-29T18:37:32.398Z] : [error]: Selectors: Nothing found
+
+[2023-11-29T18:37:32.880Z] : [info]: Total execution time: 1m 11s 60ms
+
+[2023-11-29T18:37:32.881Z] : [info]: ---------------------------------------------
+
+[2023-11-29T18:38:43.900Z] : [success]: Robot saved successfully
+
+[2023-11-29T18:38:52.302Z] : [success]: Bot started
+
+[2023-11-29T18:38:52.304Z] : [info]: Robot start
+
+[2023-11-29T18:39:57.251Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-11-29T18:39:58.403Z] : [info]: Total execution time: 1m 4s 947ms
+
+[2023-11-29T18:39:58.405Z] : [info]: ---------------------------------------------
+
+[2023-11-29T18:40:56.912Z] : [success]: Connection to our licenses server is restored
+
+[2023-11-29T18:40:59.327Z] : [info]: Internet connection // error
+
+[2023-11-29T18:41:13.365Z] : [success]: Connection to our licenses server is restored
+
+[2023-11-29T18:43:48.665Z] : [success]: Robot saved successfully
+
+[2023-11-29T18:43:58.843Z] : [info]: Internet connection // error
+
+[2023-11-29T18:43:59.092Z] : [success]: Bot started
+
+[2023-11-29T18:43:59.093Z] : [info]: Robot start
+
+[2023-11-29T18:45:21.865Z] : [success]: Bot finished successfully, total execution time: 1m 22s 772ms
+
+[2023-11-29T18:45:21.866Z] : [info]: ---------------------------------------------
+
+[2023-11-29T18:45:33.451Z] : [success]: Connection to our licenses server is restored
+
+[2023-11-29T18:46:30.550Z] : [success]: Robot saved successfully
+
+[2023-11-29T18:46:44.205Z] : [success]: Robot saved successfully
+

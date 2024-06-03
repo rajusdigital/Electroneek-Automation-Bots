@@ -1,0 +1,156 @@
+
+  ==========================================
+  Studio Pro version: 9.3.16
+  Started at: 11/30/2023, 12:26:19 AM
+  ==========================================
+  
+
+[2023-11-29T18:56:25.623Z] : [success]: Robot saved successfully
+
+[2023-11-29T18:56:25.810Z] : [info]: ---------------------------------------------
+
+[2023-11-29T18:56:25.811Z] : [success]: Bot started
+
+[2023-11-29T18:56:25.814Z] : [info]: Robot start
+
+[2023-11-29T18:56:30.174Z] : [error]: ERROR: The process "Chrome.exe" not found.
+
+
+[2023-11-29T18:56:30.448Z] : [info]: Total execution time: 4s 360ms
+
+[2023-11-29T18:56:30.449Z] : [info]: ---------------------------------------------
+
+[2023-11-29T18:56:38.826Z] : [success]: Robot saved successfully
+
+[2023-11-29T18:56:39.070Z] : [success]: Robot saved successfully
+
+[2023-11-29T18:56:47.024Z] : [success]: Bot started
+
+[2023-11-29T18:56:47.025Z] : [info]: Robot start
+
+[2023-11-29T18:57:19.538Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-11-29T18:57:19.940Z] : [info]: Total execution time: 32s 513ms
+
+[2023-11-29T18:57:19.941Z] : [info]: ---------------------------------------------
+
+[2023-11-29T19:02:47.162Z] : [success]: Robot saved successfully
+
+[2023-11-29T19:04:17.339Z] : [info]: ---------------------------------------------
+
+[2023-11-29T19:04:17.340Z] : [success]: Bot started
+
+[2023-11-29T19:04:17.341Z] : [info]: Robot start
+
+[2023-11-29T19:04:42.752Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-11-29T19:04:42.986Z] : [info]: Total execution time: 25s 411ms
+
+[2023-11-29T19:04:42.987Z] : [info]: ---------------------------------------------
+
+[2023-11-29T19:05:23.791Z] : [success]: Bot started
+
+[2023-11-29T19:05:23.792Z] : [info]: Robot start
+
+[2023-11-29T19:05:47.158Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-11-29T19:05:47.372Z] : [info]: Total execution time: 23s 365ms
+
+[2023-11-29T19:05:47.373Z] : [info]: ---------------------------------------------
+
+[2023-11-29T19:08:21.188Z] : [success]: Robot saved successfully
+
+[2023-11-29T19:08:21.432Z] : [success]: Bot started
+
+[2023-11-29T19:08:21.433Z] : [info]: Robot start
+
+[2023-11-29T19:09:07.149Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-11-29T19:09:07.369Z] : [info]: Total execution time: 45s 715ms
+
+[2023-11-29T19:09:07.370Z] : [info]: ---------------------------------------------
+
+[2023-11-29T19:10:02.283Z] : [success]: Robot saved successfully
+
+[2023-11-29T19:10:14.098Z] : [success]: Robot saved successfully
+
+[2023-11-29T19:10:14.286Z] : [info]: ---------------------------------------------
+
+[2023-11-29T19:10:14.287Z] : [success]: Bot started
+
+[2023-11-29T19:10:14.287Z] : [info]: Robot start
+
+[2023-11-29T19:10:34.640Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-11-29T19:10:34.858Z] : [info]: Total execution time: 20s 353ms
+
+[2023-11-29T19:10:34.859Z] : [info]: ---------------------------------------------
+
+[2023-11-29T19:11:29.405Z] : [success]: Robot saved successfully
+
+[2023-11-29T19:11:36.854Z] : [success]: Bot started
+
+[2023-11-29T19:11:36.854Z] : [info]: Robot start
+
+[2023-11-29T19:11:41.004Z] : [error]: ENOENT: no such file or directory, stat 'C:\Users\ASMESPL\AppData\Local\Google\Chrome\User Data\lockfile'
+
+[2023-11-29T19:11:41.291Z] : [info]: Total execution time: 4s 149ms
+
+[2023-11-29T19:11:41.291Z] : [info]: ---------------------------------------------
+
+[2023-11-29T19:12:01.735Z] : [success]: Robot saved successfully
+
+[2023-11-29T19:12:07.919Z] : [success]: Bot started
+
+[2023-11-29T19:12:07.920Z] : [info]: Robot start
+
+[2023-11-29T19:12:55.580Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-11-29T19:12:55.791Z] : [info]: Total execution time: 47s 660ms
+
+[2023-11-29T19:12:55.791Z] : [info]: ---------------------------------------------
+
+[2023-11-29T19:14:08.376Z] : [success]: Robot saved successfully
+
+[2023-11-29T19:14:14.889Z] : [success]: Bot started
+
+[2023-11-29T19:14:14.890Z] : [info]: Robot start
+
+[2023-11-29T19:14:56.506Z] : [error]: Selectors: Nothing found
+
+[2023-11-29T19:14:56.838Z] : [info]: Total execution time: 41s 615ms
+
+[2023-11-29T19:14:56.840Z] : [info]: ---------------------------------------------
+
+[2023-11-29T19:15:53.967Z] : [success]: Robot saved successfully
+
+[2023-11-29T19:17:15.540Z] : [success]: Robot saved successfully
+
+[2023-11-29T19:17:18.688Z] : [success]: Robot saved successfully
+
+[2023-11-29T19:17:23.769Z] : [success]: Bot started
+
+[2023-11-29T19:17:23.770Z] : [info]: Robot start
+
+[2023-11-29T19:18:08.478Z] : [error]: Selectors: Nothing found
+
+[2023-11-29T19:18:08.750Z] : [info]: Total execution time: 44s 707ms
+
+[2023-11-29T19:18:08.751Z] : [info]: ---------------------------------------------
+
+[2023-11-29T19:19:19.489Z] : [success]: Robot saved successfully
+
+[2023-11-29T19:19:24.089Z] : [success]: Robot saved successfully
+
+[2023-11-29T19:19:51.648Z] : [info]: ---------------------------------------------
+
+[2023-11-29T19:19:51.649Z] : [success]: Bot started
+
+[2023-11-29T19:19:51.650Z] : [info]: Robot start
+
+[2023-11-29T19:21:02.544Z] : [success]: Bot finished successfully, total execution time: 1m 10s 892ms
+
+[2023-11-29T19:21:02.545Z] : [info]: ---------------------------------------------
+
+[2023-11-29T19:21:58.393Z] : [success]: The workflow has been exported successfully
+

@@ -1,0 +1,85 @@
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 8/25/2023, 12:27:13 PM
+  ==========================================
+  
+
+[2023-08-25T06:57:40.035Z] : [success]: Robot saved successfully
+
+[2023-08-25T06:57:50.261Z] : [success]: Bot started
+
+[2023-08-25T06:57:50.263Z] : [info]: Robot start
+
+[2023-08-25T06:58:09.530Z] : [error]: Script Stopped.
+
+[2023-08-25T06:58:09.949Z] : [info]: Total execution time: 19s 265ms
+
+[2023-08-25T06:58:09.950Z] : [info]: ---------------------------------------------
+
+[2023-08-25T06:58:46.542Z] : [success]: Bot started
+
+[2023-08-25T06:58:46.542Z] : [info]: Robot start
+
+[2023-08-25T07:00:01.845Z] : [error]: Script Stopped.
+
+[2023-08-25T07:00:02.195Z] : [info]: Total execution time: 1m 15s 301ms
+
+[2023-08-25T07:00:02.196Z] : [info]: ---------------------------------------------
+
+[2023-08-25T07:03:55.069Z] : [success]: Robot saved successfully
+
+[2023-08-25T07:03:55.504Z] : [success]: Bot started
+
+[2023-08-25T07:03:55.505Z] : [info]: Robot start
+
+[2023-08-25T07:04:23.993Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-08-25T07:04:24.387Z] : [info]: Total execution time: 28s 487ms
+
+[2023-08-25T07:04:24.388Z] : [info]: ---------------------------------------------
+
+[2023-08-25T07:04:41.770Z] : [success]: Bot started
+
+[2023-08-25T07:04:41.787Z] : [info]: Robot start
+
+[2023-08-25T07:05:58.449Z] : [error]: CAN_NOT_FIND_TAB
+
+[2023-08-25T07:05:58.930Z] : [info]: Total execution time: 1m 16s 660ms
+
+[2023-08-25T07:05:58.931Z] : [info]: ---------------------------------------------
+
+[2023-08-25T07:06:15.657Z] : [success]: Robot saved successfully
+
+[2023-08-25T07:06:41.592Z] : [success]: Robot saved successfully
+
+[2023-08-25T07:07:04.958Z] : [success]: Bot started
+
+[2023-08-25T07:07:04.959Z] : [info]: Robot start
+
+[2023-08-25T07:07:14.271Z] : [error]: Disposable been disposed
+
+[2023-08-25T07:07:14.599Z] : [info]: Total execution time: 9s 312ms
+
+[2023-08-25T07:07:14.600Z] : [info]: ---------------------------------------------
+
+[2023-08-25T07:07:33.125Z] : [success]: Bot started
+
+[2023-08-25T07:07:33.125Z] : [info]: Robot start
+
+[2023-08-25T07:08:42.762Z] : [error]: CAN_NOT_FIND_TAB
+
+[2023-08-25T07:08:43.147Z] : [info]: Total execution time: 1m 9s 637ms
+
+[2023-08-25T07:08:43.148Z] : [info]: ---------------------------------------------
+
+[2023-08-25T07:08:55.283Z] : [success]: Robot saved successfully
+
+[2023-08-25T07:09:34.672Z] : [success]: Bot started
+
+[2023-08-25T07:09:34.673Z] : [info]: Robot start
+
+[2023-08-25T07:11:13.856Z] : [success]: Bot finished successfully, total execution time: 1m 39s 177ms
+
+[2023-08-25T07:11:13.857Z] : [info]: ---------------------------------------------
+

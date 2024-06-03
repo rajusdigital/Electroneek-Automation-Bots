@@ -1,0 +1,67 @@
+
+  ==========================================
+  Studio Pro version: 9.3.16
+  Started at: 12/1/2023, 3:30:14 PM
+  ==========================================
+  
+
+[2023-12-01T10:00:18.065Z] : [success]: Robot saved successfully
+
+[2023-12-01T10:01:12.868Z] : [success]: Robot saved successfully
+
+[2023-12-01T10:01:30.214Z] : [success]: Robot saved successfully
+
+[2023-12-01T10:01:36.502Z] : [info]: ---------------------------------------------
+
+[2023-12-01T10:01:36.504Z] : [success]: Bot started
+
+[2023-12-01T10:01:36.504Z] : [info]: Robot start
+
+[2023-12-01T10:02:32.891Z] : [error]: Selectors: Nothing found
+
+[2023-12-01T10:02:33.280Z] : [info]: Total execution time: 56s 386ms
+
+[2023-12-01T10:02:33.281Z] : [info]: ---------------------------------------------
+
+[2023-12-01T10:02:51.360Z] : [success]: Robot saved successfully
+
+[2023-12-01T10:04:19.777Z] : [success]: Bot started
+
+[2023-12-01T10:04:19.779Z] : [info]: Robot start
+
+[2023-12-01T10:05:12.543Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-12-01T10:05:12.760Z] : [info]: Total execution time: 52s 764ms
+
+[2023-12-01T10:05:12.761Z] : [info]: ---------------------------------------------
+
+[2023-12-01T10:07:17.141Z] : [success]: Robot saved successfully
+
+[2023-12-01T10:07:17.384Z] : [success]: Bot started
+
+[2023-12-01T10:07:17.384Z] : [info]: Robot start
+
+[2023-12-01T10:08:04.000Z] : [success]: Bot finished successfully, total execution time: 46s 614ms
+
+[2023-12-01T10:08:04.001Z] : [info]: ---------------------------------------------
+
+[2023-12-01T10:08:38.973Z] : [success]: Robot saved successfully
+
+[2023-12-01T10:08:53.130Z] : [info]: ---------------------------------------------
+
+[2023-12-01T10:08:53.131Z] : [success]: Bot started
+
+[2023-12-01T10:08:53.131Z] : [info]: Robot start
+
+[2023-12-01T10:10:09.071Z] : [success]: Bot finished successfully, total execution time: 1m 15s 938ms
+
+[2023-12-01T10:10:09.072Z] : [info]: ---------------------------------------------
+
+[2023-12-01T10:10:29.633Z] : [success]: Robot saved successfully
+
+[2023-12-01T10:13:01.570Z] : [success]: Robot saved successfully
+
+[2023-12-01T10:13:10.801Z] : [success]: Robot saved successfully
+
+[2023-12-01T10:13:30.663Z] : [success]: The workflow has been exported successfully
+

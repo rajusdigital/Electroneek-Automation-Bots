@@ -1,0 +1,63 @@
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 8/25/2023, 11:47:58 AM
+  ==========================================
+  
+
+[2023-08-25T06:19:36.177Z] : [success]: Robot saved successfully
+
+[2023-08-25T06:19:36.473Z] : [info]: ---------------------------------------------
+
+[2023-08-25T06:19:36.473Z] : [success]: Bot started
+
+[2023-08-25T06:19:36.474Z] : [info]: Robot start
+
+[2023-08-25T06:20:55.320Z] : [error]: CAN_NOT_FIND_TAB
+
+[2023-08-25T06:20:55.930Z] : [info]: Total execution time: 1m 18s 845ms
+
+[2023-08-25T06:20:55.933Z] : [info]: ---------------------------------------------
+
+[2023-08-25T06:21:43.032Z] : [success]: Robot saved successfully
+
+[2023-08-25T06:21:46.510Z] : [success]: Robot saved successfully
+
+[2023-08-25T06:21:46.845Z] : [success]: Robot saved successfully
+
+[2023-08-25T06:21:47.023Z] : [success]: Robot saved successfully
+
+[2023-08-25T06:21:47.227Z] : [success]: Robot saved successfully
+
+[2023-08-25T06:21:48.408Z] : [success]: Robot saved successfully
+
+[2023-08-25T06:21:48.584Z] : [success]: Robot saved successfully
+
+[2023-08-25T06:22:07.318Z] : [success]: Bot started
+
+[2023-08-25T06:22:07.320Z] : [info]: Robot start
+
+[2023-08-25T06:22:32.811Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-08-25T06:22:33.166Z] : [info]: Total execution time: 25s 490ms
+
+[2023-08-25T06:22:33.167Z] : [info]: ---------------------------------------------
+
+[2023-08-25T06:22:40.515Z] : [success]: Bot started
+
+[2023-08-25T06:22:40.516Z] : [info]: Robot start
+
+[2023-08-25T06:24:15.797Z] : [success]: Bot finished successfully, total execution time: 1m 35s 273ms
+
+[2023-08-25T06:24:15.799Z] : [info]: ---------------------------------------------
+
+[2023-08-25T06:25:02.330Z] : [success]: Robot saved successfully
+
+[2023-08-25T06:25:30.791Z] : [success]: Bot started
+
+[2023-08-25T06:25:30.792Z] : [info]: Robot start
+
+[2023-08-25T06:27:05.003Z] : [success]: Bot finished successfully, total execution time: 1m 34s 204ms
+
+[2023-08-25T06:27:05.006Z] : [info]: ---------------------------------------------
+

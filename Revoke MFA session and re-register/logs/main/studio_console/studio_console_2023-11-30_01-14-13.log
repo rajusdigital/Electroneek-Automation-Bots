@@ -1,0 +1,33 @@
+
+  ==========================================
+  Studio Pro version: 9.3.16
+  Started at: 11/30/2023, 1:14:20 AM
+  ==========================================
+  
+
+[2023-11-29T19:45:14.405Z] : [success]: Robot saved successfully
+
+[2023-11-29T19:45:31.077Z] : [info]: ---------------------------------------------
+
+[2023-11-29T19:45:31.078Z] : [success]: Bot started
+
+[2023-11-29T19:45:31.079Z] : [info]: Robot start
+
+[2023-11-29T19:46:10.190Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-11-29T19:46:10.397Z] : [info]: Total execution time: 39s 110ms
+
+[2023-11-29T19:46:10.398Z] : [info]: ---------------------------------------------
+
+[2023-11-29T19:46:49.884Z] : [success]: Robot saved successfully
+
+[2023-11-29T19:46:53.917Z] : [success]: Bot started
+
+[2023-11-29T19:46:53.919Z] : [info]: Robot start
+
+[2023-11-29T19:48:13.012Z] : [success]: Bot finished successfully, total execution time: 1m 19s 91ms
+
+[2023-11-29T19:48:13.014Z] : [info]: ---------------------------------------------
+
+[2023-11-29T19:48:40.834Z] : [success]: The workflow has been exported successfully
+
