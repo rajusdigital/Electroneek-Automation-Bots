@@ -1,0 +1,61 @@
+
+  ==========================================
+  Studio Pro version: 9.2.6
+  Started at: 3/7/2023, 3:09:00 PM
+  ==========================================
+  
+
+[2023-03-07T22:09:26.170Z] : [success]: Robot saved successfully
+
+[2023-03-07T22:09:26.225Z] : [info]: ---------------------------------------------
+
+[2023-03-07T22:09:26.225Z] : [success]: Bot started
+
+[2023-03-07T22:09:26.226Z] : [info]: Robot start
+
+[2023-03-07T22:09:27.460Z] : [info]: C:\Users\arran\Documents\ElectroNeek\Videos\IntelliDocs\Utility Bills Processing and Classification\IntelliDocs - Utility Bills Processing\Input\Img\Energy1.png
+
+[2023-03-07T22:09:27.491Z] : [info]: C:\Users\arran\Documents\ElectroNeek\Videos\IntelliDocs\Utility Bills Processing and Classification\IntelliDocs - Utility Bills Processing\Input\Img\internet1.png
+
+[2023-03-07T22:09:27.522Z] : [info]: C:\Users\arran\Documents\ElectroNeek\Videos\IntelliDocs\Utility Bills Processing and Classification\IntelliDocs - Utility Bills Processing\Input\Img\Phone.jpg
+
+[2023-03-07T22:09:27.553Z] : [info]: C:\Users\arran\Documents\ElectroNeek\Videos\IntelliDocs\Utility Bills Processing and Classification\IntelliDocs - Utility Bills Processing\Input\Img\Water1.jpg
+
+[2023-03-07T22:09:28.398Z] : [success]: Bot finished successfully, total execution time: 2s 171ms
+
+[2023-03-07T22:09:28.399Z] : [info]: ---------------------------------------------
+
+[2023-03-07T22:10:26.193Z] : [success]: Robot saved successfully
+
+[2023-03-07T22:11:13.612Z] : [success]: Robot saved successfully
+
+[2023-03-07T22:12:27.346Z] : [success]: Robot saved successfully
+
+[2023-03-07T22:12:36.860Z] : [success]: Bot started
+
+[2023-03-07T22:12:36.860Z] : [info]: Robot start
+
+[2023-03-07T22:12:44.256Z] : [info]: Energy
+
+[2023-03-07T22:12:46.446Z] : [info]: C:\Users\arran\Documents\ElectroNeek\Videos\IntelliDocs\Utility Bills Processing and Classification\IntelliDocs - Utility Bills Processing\Input\Img\Energy1.png
+
+[2023-03-07T22:12:53.911Z] : [info]: Internet
+
+[2023-03-07T22:12:55.556Z] : [info]: C:\Users\arran\Documents\ElectroNeek\Videos\IntelliDocs\Utility Bills Processing and Classification\IntelliDocs - Utility Bills Processing\Input\Img\internet1.png
+
+[2023-03-07T22:13:00.409Z] : [info]: Phone
+
+[2023-03-07T22:13:01.990Z] : [info]: C:\Users\arran\Documents\ElectroNeek\Videos\IntelliDocs\Utility Bills Processing and Classification\IntelliDocs - Utility Bills Processing\Input\Img\Phone.jpg
+
+[2023-03-07T22:13:09.956Z] : [info]: Water
+
+[2023-03-07T22:13:11.522Z] : [info]: C:\Users\arran\Documents\ElectroNeek\Videos\IntelliDocs\Utility Bills Processing and Classification\IntelliDocs - Utility Bills Processing\Input\Img\Water1.jpg
+
+[2023-03-07T22:13:12.352Z] : [success]: Bot finished successfully, total execution time: 35s 490ms
+
+[2023-03-07T22:13:12.354Z] : [info]: ---------------------------------------------
+
+[2023-03-07T22:23:01.523Z] : [success]: Robot saved successfully
+
+[2023-03-07T22:23:28.460Z] : [success]: The workflow has been exported successfully
+
