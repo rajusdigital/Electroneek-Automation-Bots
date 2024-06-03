@@ -1,0 +1,49 @@
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 9/1/2023, 11:46:56 AM
+  ==========================================
+  
+
+[2023-09-01T06:20:29.645Z] : [success]: Robot saved successfully
+
+[2023-09-01T06:20:48.515Z] : [info]: ---------------------------------------------
+
+[2023-09-01T06:20:48.516Z] : [success]: Bot started
+
+[2023-09-01T06:20:48.517Z] : [info]: Robot start
+
+[2023-09-01T06:21:37.631Z] : [success]: Bot finished successfully, total execution time: 49s 114ms
+
+[2023-09-01T06:21:37.633Z] : [info]: ---------------------------------------------
+
+[2023-09-01T06:21:53.570Z] : [success]: Robot saved successfully
+
+[2023-09-01T06:22:05.635Z] : [success]: Robot saved successfully
+
+[2023-09-01T06:22:19.046Z] : [success]: Bot started
+
+[2023-09-01T06:22:19.047Z] : [info]: Robot start
+
+[2023-09-01T06:23:08.840Z] : [success]: Bot finished successfully, total execution time: 49s 793ms
+
+[2023-09-01T06:23:08.842Z] : [info]: ---------------------------------------------
+
+[2023-09-01T06:27:27.248Z] : [success]: Robot saved successfully
+
+[2023-09-01T06:27:27.429Z] : [success]: Robot saved successfully
+
+[2023-09-01T06:27:27.594Z] : [success]: Robot saved successfully
+
+[2023-09-01T06:27:27.902Z] : [success]: Robot saved successfully
+
+[2023-09-01T06:27:28.112Z] : [success]: Robot saved successfully
+
+[2023-09-01T06:27:28.239Z] : [success]: Robot saved successfully
+
+[2023-09-01T06:28:04.497Z] : [success]: The workflow has been exported successfully
+
+[2023-09-01T07:47:01.144Z] : [success]: Connection to our licenses server is restored
+
+[2023-09-01T08:18:55.936Z] : [error]: Cannot read properties of null (reading 'type')
+
