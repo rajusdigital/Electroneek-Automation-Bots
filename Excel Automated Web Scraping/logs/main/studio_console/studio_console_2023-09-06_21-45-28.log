@@ -1,0 +1,161 @@
+[2023-09-08T07:26:26.368Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 9/8/2023, 12:56:26 PM
+  ==========================================
+  
+
+[2023-09-08T07:26:29.078Z] : [success]: Robot saved successfully
+
+[2023-09-08T07:26:29.273Z] : [success]: Robot saved successfully
+
+[2023-09-08T07:32:33.676Z] : [success]: Rel file saved successfully
+
+[2023-09-08T07:32:33.681Z] : [success]: Robot saved successfully
+
+[2023-09-08T07:32:37.508Z] : [success]: Robot saved successfully
+
+[2023-09-08T07:32:45.020Z] : [success]: Bot started
+
+[2023-09-08T07:32:45.020Z] : [info]: Robot start
+
+[2023-09-08T07:33:09.590Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2023-09-08T07:33:09.979Z] : [info]: Total execution time: 24s 570ms
+
+[2023-09-08T07:33:09.980Z] : [info]: ---------------------------------------------
+
+[2023-09-08T07:46:38.880Z] : [success]: Robot saved successfully
+
+[2023-09-08T08:09:37.780Z] : [success]: Robot saved successfully
+
+[2023-09-08T08:09:44.999Z] : [success]: Bot started
+
+[2023-09-08T08:09:45.000Z] : [info]: Robot start
+
+[2023-09-08T08:10:19.484Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2023-09-08T08:10:19.966Z] : [info]: Total execution time: 34s 484ms
+
+[2023-09-08T08:10:19.967Z] : [info]: ---------------------------------------------
+
+[2023-09-08T08:25:10.603Z] : [success]: Bot started
+
+[2023-09-08T08:25:10.605Z] : [info]: Robot start
+
+[2023-09-08T08:25:26.941Z] : [error]: No extension found. Please 
+
+[2023-09-08T08:25:27.253Z] : [info]: Total execution time: 16s 335ms
+
+[2023-09-08T08:25:27.253Z] : [info]: ---------------------------------------------
+
+[2023-09-08T08:26:02.438Z] : [success]: Bot started
+
+[2023-09-08T08:26:02.438Z] : [info]: Robot start
+
+[2023-09-08T08:26:08.596Z] : [error]: No extension found. Please 
+
+[2023-09-08T08:26:08.982Z] : [info]: Total execution time: 6s 158ms
+
+[2023-09-08T08:26:08.982Z] : [info]: ---------------------------------------------
+
+[2023-09-08T08:26:46.050Z] : [success]: Bot started
+
+[2023-09-08T08:26:46.051Z] : [info]: Robot start
+
+[2023-09-08T08:27:15.446Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2023-09-08T08:27:16.007Z] : [info]: Total execution time: 29s 395ms
+
+[2023-09-08T08:27:16.007Z] : [info]: ---------------------------------------------
+
+[2023-09-08T08:28:04.320Z] : [success]: Robot saved successfully
+
+[2023-09-08T08:29:23.296Z] : [success]: Robot saved successfully
+
+[2023-09-08T08:29:30.628Z] : [success]: Bot started
+
+[2023-09-08T08:29:30.629Z] : [info]: Robot start
+
+[2023-09-08T08:30:22.261Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2023-09-08T08:30:22.635Z] : [info]: Total execution time: 51s 631ms
+
+[2023-09-08T08:30:22.636Z] : [info]: ---------------------------------------------
+
+[2023-09-08T08:31:26.637Z] : [success]: Robot saved successfully
+
+[2023-09-08T08:31:37.039Z] : [success]: Bot started
+
+[2023-09-08T08:31:37.040Z] : [info]: Robot start
+
+[2023-09-08T08:32:29.667Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2023-09-08T08:32:30.080Z] : [info]: Total execution time: 52s 627ms
+
+[2023-09-08T08:32:30.080Z] : [info]: ---------------------------------------------
+
+[2023-09-08T08:34:05.899Z] : [success]: Rel file saved successfully
+
+[2023-09-08T08:34:05.918Z] : [success]: Robot saved successfully
+
+[2023-09-08T08:36:59.128Z] : [success]: Rel file saved successfully
+
+[2023-09-08T08:36:59.135Z] : [success]: Robot saved successfully
+
+[2023-09-08T08:37:07.783Z] : [success]: Bot started
+
+[2023-09-08T08:37:07.784Z] : [info]: Robot start
+
+[2023-09-08T08:38:01.559Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2023-09-08T08:38:01.889Z] : [info]: Total execution time: 53s 774ms
+
+[2023-09-08T08:38:01.889Z] : [info]: ---------------------------------------------
+
+[2023-09-08T08:38:39.751Z] : [success]: Robot saved successfully
+
+[2023-09-08T08:38:47.749Z] : [success]: Robot saved successfully
+
+[2023-09-08T08:38:59.375Z] : [success]: Bot started
+
+[2023-09-08T08:38:59.376Z] : [info]: Robot start
+
+[2023-09-08T08:41:11.924Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2023-09-08T08:41:12.253Z] : [info]: Total execution time: 2m 12s 547ms
+
+[2023-09-08T08:41:12.253Z] : [info]: ---------------------------------------------
+
+[2023-09-08T08:43:40.737Z] : [success]: Robot saved successfully
+
+[2023-09-08T08:43:41.554Z] : [success]: Robot saved successfully
+
+[2023-09-08T08:43:49.141Z] : [success]: Bot started
+
+[2023-09-08T08:43:49.141Z] : [info]: Robot start
+
+[2023-09-08T08:49:43.267Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2023-09-08T08:49:43.826Z] : [info]: Total execution time: 5m 54s 126ms
+
+[2023-09-08T08:49:43.828Z] : [info]: ---------------------------------------------
+
+[2023-09-08T08:53:05.721Z] : [success]: Robot saved successfully
+
+[2023-09-08T09:15:52.800Z] : [success]: Bot started
+
+[2023-09-08T09:15:52.801Z] : [info]: Robot start
+
+[2023-09-08T09:22:44.073Z] : [success]: Bot finished successfully, total execution time: 6m 51s 271ms
+
+[2023-09-08T09:22:44.074Z] : [info]: ---------------------------------------------
+
+[2023-09-08T09:41:24.012Z] : [success]: Connection to our licenses server is restored
+
+[2023-09-08T09:46:45.215Z] : [success]: Robot saved successfully
+
+[2023-09-08T09:48:04.896Z] : [success]: The workflow has been exported successfully
+

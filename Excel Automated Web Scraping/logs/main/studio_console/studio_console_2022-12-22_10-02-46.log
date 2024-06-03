@@ -1,0 +1,165 @@
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 12/22/2022, 10:04:15 AM
+  ==========================================
+  
+
+[2022-12-22T17:47:07.641Z] : [success]: Rel file saved successfully
+
+[2022-12-22T17:47:07.643Z] : [success]: Robot saved successfully
+
+[2022-12-22T17:47:07.708Z] : [info]: ---------------------------------------------
+
+[2022-12-22T17:47:07.708Z] : [success]: Bot started
+
+[2022-12-22T17:47:07.708Z] : [info]: Robot start
+
+[2022-12-22T17:47:18.911Z] : [error]: CAN_NOT_FIND_TAB
+
+[2022-12-22T17:47:18.912Z] : [error]: Total execution time: 11s 202ms
+
+[2022-12-22T17:47:18.913Z] : [info]: ---------------------------------------------
+
+[2022-12-22T17:48:53.455Z] : [success]: Rel file saved successfully
+
+[2022-12-22T17:48:53.458Z] : [success]: Robot saved successfully
+
+[2022-12-22T17:48:53.525Z] : [success]: Bot started
+
+[2022-12-22T17:48:53.525Z] : [info]: Robot start
+
+[2022-12-22T17:49:13.824Z] : [error]: Script Stopped.
+
+[2022-12-22T17:49:13.825Z] : [warn]: Total execution time: 20s 298ms
+
+[2022-12-22T17:49:13.825Z] : [info]: ---------------------------------------------
+
+[2022-12-22T17:49:40.969Z] : [success]: Bot started
+
+[2022-12-22T17:49:40.970Z] : [info]: Robot start
+
+[2022-12-22T17:49:51.120Z] : [error]: CAN_NOT_FIND_TAB
+
+[2022-12-22T17:49:51.122Z] : [error]: Total execution time: 10s 149ms
+
+[2022-12-22T17:49:51.122Z] : [info]: ---------------------------------------------
+
+[2022-12-22T17:51:10.689Z] : [success]: Rel file saved successfully
+
+[2022-12-22T17:51:10.691Z] : [success]: Robot saved successfully
+
+[2022-12-22T17:51:10.763Z] : [success]: Bot started
+
+[2022-12-22T17:51:10.763Z] : [info]: Robot start
+
+[2022-12-22T17:51:18.890Z] : [error]: CAN_NOT_FIND_TAB
+
+[2022-12-22T17:51:18.891Z] : [error]: Total execution time: 8s 126ms
+
+[2022-12-22T17:51:18.892Z] : [info]: ---------------------------------------------
+
+[2022-12-22T17:55:35.347Z] : [success]: Rel file saved successfully
+
+[2022-12-22T17:55:35.349Z] : [success]: Robot saved successfully
+
+[2022-12-22T17:55:35.418Z] : [success]: Bot started
+
+[2022-12-22T17:55:35.419Z] : [info]: Robot start
+
+[2022-12-22T17:56:06.947Z] : [error]: Cannot read properties of undefined (reading 'Amazon_innerText')
+
+[2022-12-22T17:56:06.950Z] : [error]: Total execution time: 31s 527ms
+
+[2022-12-22T17:56:06.951Z] : [info]: ---------------------------------------------
+
+[2022-12-22T17:57:12.089Z] : [success]: Rel file saved successfully
+
+[2022-12-22T17:57:12.091Z] : [success]: Robot saved successfully
+
+[2022-12-22T17:57:12.173Z] : [success]: Bot started
+
+[2022-12-22T17:57:12.173Z] : [info]: Robot start
+
+[2022-12-22T17:59:50.617Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2022-12-22T17:59:50.621Z] : [error]: Total execution time: 2m 38s 444ms
+
+[2022-12-22T17:59:50.623Z] : [info]: ---------------------------------------------
+
+[2022-12-22T18:01:29.634Z] : [success]: Bot started
+
+[2022-12-22T18:01:29.635Z] : [info]: Robot start
+
+[2022-12-22T18:02:26.518Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2022-12-22T18:02:26.521Z] : [error]: Total execution time: 56s 882ms
+
+[2022-12-22T18:02:26.523Z] : [info]: ---------------------------------------------
+
+[2022-12-22T18:09:31.603Z] : [success]: Rel file saved successfully
+
+[2022-12-22T18:09:31.605Z] : [success]: Robot saved successfully
+
+[2022-12-22T18:09:31.681Z] : [success]: Bot started
+
+[2022-12-22T18:09:31.682Z] : [info]: Robot start
+
+[2022-12-22T18:15:21.116Z] : [success]: Bot finished successfully, total execution time: 5m 49s 431ms
+
+[2022-12-22T18:15:21.118Z] : [info]: ---------------------------------------------
+
+[2022-12-22T19:26:08.926Z] : [info]: ---------------------------------------------
+
+[2022-12-22T19:26:08.928Z] : [success]: Bot started
+
+[2022-12-22T19:26:08.929Z] : [info]: Robot start
+
+[2022-12-22T19:31:44.010Z] : [success]: Bot finished successfully, total execution time: 5m 35s 77ms
+
+[2022-12-22T19:31:44.011Z] : [info]: ---------------------------------------------
+
+[2022-12-22T19:49:39.749Z] : [error]: Cannot read properties of undefined (reading 'attributes')
+
+[2022-12-22T19:49:40.542Z] : [error]: Cannot read properties of undefined (reading 'atom')
+
+[2022-12-22T20:28:25.841Z] : [success]: Rel file saved successfully
+
+[2022-12-22T20:28:25.844Z] : [success]: Robot saved successfully
+
+[2022-12-22T20:28:25.920Z] : [info]: ---------------------------------------------
+
+[2022-12-22T20:28:25.920Z] : [success]: Bot started
+
+[2022-12-22T20:28:25.921Z] : [info]: Robot start
+
+[2022-12-22T20:31:08.395Z] : [error]: Cannot read properties of null (reading '0')
+
+[2022-12-22T20:31:08.396Z] : [error]: Total execution time: 2m 42s 473ms
+
+[2022-12-22T20:31:08.397Z] : [info]: ---------------------------------------------
+
+[2022-12-22T20:34:53.072Z] : [info]: ---------------------------------------------
+
+[2022-12-22T20:34:53.073Z] : [success]: Bot started
+
+[2022-12-22T20:34:53.073Z] : [info]: Robot start
+
+[2022-12-22T20:36:38.033Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2022-12-22T20:36:38.034Z] : [error]: Total execution time: 1m 44s 960ms
+
+[2022-12-22T20:36:38.035Z] : [info]: ---------------------------------------------
+
+[2022-12-22T20:37:47.054Z] : [info]: ---------------------------------------------
+
+[2022-12-22T20:37:47.055Z] : [success]: Bot started
+
+[2022-12-22T20:37:47.055Z] : [info]: Robot start
+
+[2022-12-22T20:43:34.990Z] : [success]: Bot finished successfully, total execution time: 5m 47s 934ms
+
+[2022-12-22T20:43:34.991Z] : [info]: ---------------------------------------------
+
+[2022-12-22T20:53:24.227Z] : [success]: The workflow has been exported successfully
+
