@@ -1,0 +1,83 @@
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 2/17/2023, 12:13:52 AM
+  ==========================================
+  
+
+[2023-02-17T05:21:48.569Z] : [success]: Robot saved successfully
+
+[2023-02-17T05:26:04.087Z] : [error]: Cannot read properties of undefined (reading 'attributes')
+
+[2023-02-17T05:29:17.984Z] : [error]: Cannot read properties of undefined (reading 'atom')
+
+[2023-02-17T05:36:02.061Z] : [success]: Rel file saved successfully
+
+[2023-02-17T05:36:02.064Z] : [success]: Robot saved successfully
+
+[2023-02-17T05:49:44.854Z] : [success]: Rel file saved successfully
+
+[2023-02-17T05:49:44.865Z] : [success]: Rel file saved successfully
+
+[2023-02-17T05:49:44.871Z] : [success]: Robot saved successfully
+
+[2023-02-17T06:15:38.866Z] : [success]: Rel file saved successfully
+
+[2023-02-17T06:15:38.871Z] : [success]: Rel file saved successfully
+
+[2023-02-17T06:15:38.877Z] : [success]: Robot saved successfully
+
+[2023-02-17T06:16:03.166Z] : [info]: ---------------------------------------------
+
+[2023-02-17T06:16:03.167Z] : [success]: Bot started
+
+[2023-02-17T06:16:03.167Z] : [info]: Robot start
+
+[2023-02-17T06:16:15.406Z] : [error]: Cannot read properties of null (reading '0')
+
+[2023-02-17T06:16:15.410Z] : [info]: Total execution time: 12s 239ms
+
+[2023-02-17T06:16:15.411Z] : [info]: ---------------------------------------------
+
+[2023-02-17T06:17:38.313Z] : [info]: ---------------------------------------------
+
+[2023-02-17T06:17:38.314Z] : [success]: Bot started
+
+[2023-02-17T06:17:38.314Z] : [info]: Robot start
+
+[2023-02-17T06:17:49.469Z] : [error]: Data is not defined
+
+[2023-02-17T06:17:49.474Z] : [info]: Total execution time: 11s 155ms
+
+[2023-02-17T06:17:49.475Z] : [info]: ---------------------------------------------
+
+[2023-02-17T06:18:09.465Z] : [success]: Rel file saved successfully
+
+[2023-02-17T06:18:09.470Z] : [success]: Rel file saved successfully
+
+[2023-02-17T06:18:09.476Z] : [success]: Robot saved successfully
+
+[2023-02-17T06:18:52.539Z] : [info]: ---------------------------------------------
+
+[2023-02-17T06:18:52.540Z] : [success]: Bot started
+
+[2023-02-17T06:18:52.541Z] : [info]: Robot start
+
+[2023-02-17T06:20:06.151Z] : [success]: Bot finished successfully, total execution time: 1m 13s 608ms
+
+[2023-02-17T06:20:06.153Z] : [info]: ---------------------------------------------
+
+[2023-02-17T06:20:32.004Z] : [info]: ---------------------------------------------
+
+[2023-02-17T06:20:32.004Z] : [success]: Bot started
+
+[2023-02-17T06:20:32.005Z] : [info]: Robot start
+
+[2023-02-17T06:21:43.537Z] : [success]: Bot finished successfully, total execution time: 1m 11s 530ms
+
+[2023-02-17T06:21:43.538Z] : [info]: ---------------------------------------------
+
+[2023-02-17T06:23:49.796Z] : [success]: The workflow has been exported successfully
+
+[2023-02-17T06:23:51.305Z] : [error]: Cannot read properties of null (reading 'type')
+

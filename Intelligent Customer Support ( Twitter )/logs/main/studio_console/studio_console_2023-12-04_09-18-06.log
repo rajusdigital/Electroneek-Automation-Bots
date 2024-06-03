@@ -1,0 +1,116 @@
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 12/4/2023, 9:21:06 AM
+  ==========================================
+  
+
+[2023-12-04T03:51:16.915Z] : [success]: Robot saved successfully
+
+[2023-12-04T03:51:24.193Z] : [info]: ---------------------------------------------
+
+[2023-12-04T03:51:24.195Z] : [success]: Bot started
+
+[2023-12-04T03:51:24.197Z] : [info]: Robot start
+
+[2023-12-04T03:51:51.272Z] : [error]: Cannot read properties of null (reading '0')
+
+[2023-12-04T03:51:53.428Z] : [info]: Total execution time: 27s 73ms
+
+[2023-12-04T03:51:53.430Z] : [info]: ---------------------------------------------
+
+[2023-12-04T03:54:01.329Z] : [success]: Rel file saved successfully
+
+[2023-12-04T03:54:01.345Z] : [success]: Robot saved successfully
+
+[2023-12-04T04:03:27.112Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-04T04:09:14.983Z] : [success]: Robot saved successfully
+
+[2023-12-04T04:09:24.673Z] : [info]: Internet connection // error
+
+[2023-12-04T04:09:24.825Z] : [success]: Bot started
+
+[2023-12-04T04:09:24.826Z] : [info]: Robot start
+
+[2023-12-04T04:09:41.663Z] : [info]: Tweet 0 has no replies.
+
+[2023-12-04T04:09:47.172Z] : [info]: Tweet 1 has no replies.
+
+[2023-12-04T04:09:52.558Z] : [info]: Tweet 2 has no replies.
+
+[2023-12-04T04:10:04.055Z] : [success]: Bot finished successfully, total execution time: 39s 228ms
+
+[2023-12-04T04:10:04.059Z] : [info]: ---------------------------------------------
+
+[2023-12-04T04:12:52.285Z] : [success]: Robot saved successfully
+
+[2023-12-04T04:13:48.246Z] : [success]: Robot saved successfully
+
+[2023-12-04T04:19:57.585Z] : [success]: Rel file saved successfully
+
+[2023-12-04T04:19:57.593Z] : [success]: Robot saved successfully
+
+[2023-12-04T04:20:04.810Z] : [success]: Bot started
+
+[2023-12-04T04:20:04.811Z] : [info]: Robot start
+
+[2023-12-04T04:20:22.305Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2023-12-04T04:20:22.987Z] : [info]: Total execution time: 17s 494ms
+
+[2023-12-04T04:20:22.988Z] : [info]: ---------------------------------------------
+
+[2023-12-04T04:59:02.978Z] : [success]: Rel file saved successfully
+
+[2023-12-04T04:59:02.993Z] : [success]: Rel file saved successfully
+
+[2023-12-04T04:59:03.008Z] : [success]: Robot saved successfully
+
+[2023-12-04T04:59:11.852Z] : [info]: Internet connection // error
+
+[2023-12-04T04:59:11.979Z] : [success]: Bot started
+
+[2023-12-04T04:59:11.980Z] : [info]: Robot start
+
+[2023-12-04T04:59:29.842Z] : [info]: Tweet 0 has no replies.
+
+[2023-12-04T04:59:34.136Z] : [info]: Tweet 1 has no replies.
+
+[2023-12-04T04:59:38.410Z] : [info]: Tweet 2 has no replies.
+
+[2023-12-04T04:59:45.805Z] : [success]: Bot finished successfully, total execution time: 33s 825ms
+
+[2023-12-04T04:59:45.806Z] : [info]: ---------------------------------------------
+
+[2023-12-04T05:02:30.593Z] : [success]: Rel file saved successfully
+
+[2023-12-04T05:02:30.594Z] : [success]: Rel file saved successfully
+
+[2023-12-04T05:02:30.601Z] : [success]: Robot saved successfully
+
+[2023-12-04T05:02:39.297Z] : [success]: Bot started
+
+[2023-12-04T05:02:39.298Z] : [info]: Robot start
+
+[2023-12-04T05:05:36.752Z] : [success]: Robot saved successfully
+
+[2023-12-04T05:05:44.124Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-04T05:05:44.186Z] : [success]: Bot started
+
+[2023-12-04T05:05:44.187Z] : [info]: Robot start
+
+[2023-12-04T05:05:56.051Z] : [info]: Internet connection // error
+
+[2023-12-04T05:11:40.483Z] : [success]: Robot saved successfully
+
+[2023-12-04T05:11:47.664Z] : [info]: Internet connection // error
+
+[2023-12-04T05:11:47.739Z] : [success]: Bot started
+
+[2023-12-04T05:11:47.740Z] : [info]: Robot start
+
+[2023-12-04T05:11:52.309Z] : [error]: Uncaught (in promise): Error: Operation was aborted
+Error: Operation was aborted
+

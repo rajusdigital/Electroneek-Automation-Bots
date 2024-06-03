@@ -1,0 +1,223 @@
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 12/1/2023, 3:41:50 PM
+  ==========================================
+  
+
+[2023-12-01T10:12:38.606Z] : [info]: ---------------------------------------------
+
+[2023-12-01T10:12:38.608Z] : [success]: Bot started
+
+[2023-12-01T10:12:38.609Z] : [info]: Robot start
+
+[2023-12-01T10:12:56.421Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2023-12-01T10:12:57.552Z] : [info]: Total execution time: 17s 812ms
+
+[2023-12-01T10:12:57.554Z] : [info]: ---------------------------------------------
+
+[2023-12-01T10:18:55.707Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T10:19:22.489Z] : [info]: Internet connection // error
+
+[2023-12-01T10:19:29.020Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T10:20:21.257Z] : [info]: Internet connection // error
+
+[2023-12-01T10:20:25.058Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T10:20:50.931Z] : [info]: Internet connection // error
+
+[2023-12-01T10:20:56.613Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T10:21:22.897Z] : [info]: Internet connection // error
+
+[2023-12-01T10:21:31.502Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T10:22:23.714Z] : [info]: Internet connection // error
+
+[2023-12-01T10:22:29.283Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T10:22:52.796Z] : [success]: Robot saved successfully
+
+[2023-12-01T10:23:02.494Z] : [info]: Internet connection // error
+
+[2023-12-01T10:23:05.266Z] : [success]: Bot started
+
+[2023-12-01T10:23:05.267Z] : [info]: Robot start
+
+[2023-12-01T10:23:27.183Z] : [error]: Cannot read properties of null (reading '0')
+
+[2023-12-01T10:23:28.953Z] : [info]: Total execution time: 21s 913ms
+
+[2023-12-01T10:23:28.955Z] : [info]: ---------------------------------------------
+
+[2023-12-01T10:23:33.268Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T10:24:24.271Z] : [info]: Internet connection // error
+
+[2023-12-01T10:24:32.150Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T10:25:24.465Z] : [info]: Internet connection // error
+
+[2023-12-01T10:25:30.787Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T12:05:10.597Z] : [info]: Internet connection // error
+
+[2023-12-01T12:05:11.251Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T12:05:17.116Z] : [success]: Robot saved successfully
+
+[2023-12-01T12:06:53.388Z] : [info]: Internet connection // error
+
+[2023-12-01T12:07:01.344Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T12:07:52.369Z] : [info]: Internet connection // error
+
+[2023-12-01T12:07:59.064Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T12:08:26.036Z] : [info]: Internet connection // error
+
+[2023-12-01T12:08:32.640Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T12:09:25.048Z] : [info]: Internet connection // error
+
+[2023-12-01T12:09:31.723Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T12:24:23.142Z] : [info]: Internet connection // error
+
+[2023-12-01T12:24:35.831Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T12:25:53.009Z] : [info]: Internet connection // error
+
+[2023-12-01T12:26:01.790Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T12:26:53.601Z] : [info]: Internet connection // error
+
+[2023-12-01T12:26:58.505Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T12:27:51.846Z] : [info]: Internet connection // error
+
+[2023-12-01T12:27:57.467Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T12:28:24.301Z] : [info]: Internet connection // error
+
+[2023-12-01T12:28:30.382Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T12:29:21.925Z] : [info]: Internet connection // error
+
+[2023-12-01T12:29:28.245Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T12:29:54.987Z] : [info]: Internet connection // error
+
+[2023-12-01T12:30:02.100Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T12:30:54.071Z] : [info]: Internet connection // error
+
+[2023-12-01T12:30:59.728Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T12:31:52.028Z] : [info]: Internet connection // error
+
+[2023-12-01T12:31:58.761Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T12:32:51.202Z] : [info]: Internet connection // error
+
+[2023-12-01T12:33:04.716Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T12:34:22.380Z] : [info]: Internet connection // error
+
+[2023-12-01T12:34:30.857Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T12:49:22.148Z] : [info]: Internet connection // error
+
+[2023-12-01T12:49:26.408Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T12:49:53.178Z] : [info]: Internet connection // error
+
+[2023-12-01T12:49:58.151Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T12:50:24.976Z] : [info]: Internet connection // error
+
+[2023-12-01T12:50:31.438Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T12:51:22.479Z] : [info]: Internet connection // error
+
+[2023-12-01T12:51:31.891Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T12:52:23.719Z] : [info]: Internet connection // error
+
+[2023-12-01T12:52:31.575Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T12:53:22.515Z] : [info]: Internet connection // error
+
+[2023-12-01T12:53:29.174Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T12:53:55.981Z] : [info]: Internet connection // error
+
+[2023-12-01T12:54:02.990Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T12:54:54.744Z] : [info]: Internet connection // error
+
+[2023-12-01T12:55:02.649Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T12:55:54.745Z] : [info]: Internet connection // error
+
+[2023-12-01T12:56:01.097Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T12:56:53.183Z] : [info]: Internet connection // error
+
+[2023-12-01T12:57:00.013Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T12:57:52.246Z] : [info]: Internet connection // error
+
+[2023-12-01T12:58:05.639Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T13:13:23.739Z] : [info]: Internet connection // error
+
+[2023-12-01T13:13:31.397Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T13:14:23.619Z] : [info]: Internet connection // error
+
+[2023-12-01T13:14:26.956Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T13:15:19.170Z] : [info]: Internet connection // error
+
+[2023-12-01T13:15:33.719Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T13:16:25.783Z] : [info]: Internet connection // error
+
+[2023-12-01T13:16:35.235Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T13:17:52.788Z] : [info]: Internet connection // error
+
+[2023-12-01T13:18:00.013Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T13:18:26.812Z] : [info]: Internet connection // error
+
+[2023-12-01T13:18:32.120Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T13:19:24.197Z] : [info]: Internet connection // error
+
+[2023-12-01T13:19:28.990Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T13:20:21.213Z] : [info]: Internet connection // error
+
+[2023-12-01T13:20:32.457Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T13:21:24.143Z] : [info]: Internet connection // error
+
+[2023-12-01T13:21:30.401Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T13:22:22.582Z] : [info]: Internet connection // error
+
+[2023-12-01T13:22:29.729Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T13:23:21.959Z] : [info]: Internet connection // error
+
+[2023-12-01T13:23:33.719Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T13:24:25.838Z] : [info]: Internet connection // error
+
+[2023-12-01T13:24:30.876Z] : [success]: Connection to our licenses server is restored
+

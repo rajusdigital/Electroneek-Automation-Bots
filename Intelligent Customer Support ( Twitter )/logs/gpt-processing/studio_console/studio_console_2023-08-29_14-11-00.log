@@ -1,0 +1,100 @@
+[2023-08-29T08:41:48.689Z] : [error]: Too Many Requests
+
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 8/29/2023, 2:11:48 PM
+  ==========================================
+  
+
+[2023-08-29T08:41:49.138Z] : [info]: Total execution time: 24s 969ms
+
+[2023-08-29T08:41:49.139Z] : [info]: ---------------------------------------------
+
+[2023-08-29T08:42:23.617Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 8/29/2023, 2:12:23 PM
+  ==========================================
+  
+
+[2023-08-29T08:42:38.417Z] : [error]: Cannot read properties of null (reading 'comment')
+
+[2023-08-29T08:53:36.932Z] : [error]: Too Many Requests
+
+[2023-08-29T08:53:38.085Z] : [info]: Total execution time: 24s 460ms
+
+[2023-08-29T08:53:38.086Z] : [info]: ---------------------------------------------
+
+[2023-08-29T09:13:06.157Z] : [success]: Robot saved successfully
+
+[2023-08-29T09:14:23.193Z] : [success]: Robot saved successfully
+
+[2023-08-29T09:17:34.245Z] : [error]: Unauthorized
+
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 8/29/2023, 2:47:34 PM
+  ==========================================
+  
+
+[2023-08-29T09:17:35.003Z] : [info]: Total execution time: 23s 768ms
+
+[2023-08-29T09:17:35.004Z] : [info]: ---------------------------------------------
+
+[2023-08-29T09:19:13.278Z] : [success]: Bot started
+
+[2023-08-29T09:19:13.279Z] : [info]: Robot start
+
+[2023-08-29T09:19:13.331Z] : [success]: Robot saved successfully
+
+[2023-08-29T09:19:18.269Z] : [error]: Unauthorized
+
+[2023-08-29T09:19:18.998Z] : [info]: Total execution time: 4s 989ms
+
+[2023-08-29T09:19:18.999Z] : [info]: ---------------------------------------------
+
+[2023-08-29T09:25:13.311Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 8/29/2023, 3:23:41 PM
+  ==========================================
+  
+
+[2023-08-29T09:54:26.704Z] : [success]: Robot saved successfully
+
+[2023-08-29T09:55:02.980Z] : [error]: Cannot read properties of null (reading 'choices')
+
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 8/29/2023, 3:25:03 PM
+  ==========================================
+  
+
+[2023-08-29T09:55:03.357Z] : [info]: Total execution time: 28s 998ms
+
+[2023-08-29T09:55:03.357Z] : [info]: ---------------------------------------------
+
+[2023-08-29T09:55:12.608Z] : [error]: Cannot read properties of undefined (reading 'attributes')
+
+[2023-08-29T09:55:22.146Z] : [success]: Robot saved successfully
+
+[2023-08-29T09:56:00.065Z] : [error]: Cannot read properties of null (reading 'choices')
+
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 8/29/2023, 3:26:00 PM
+  ==========================================
+  
+
+[2023-08-29T09:56:00.360Z] : [info]: Total execution time: 18s 340ms
+
+[2023-08-29T09:56:00.361Z] : [info]: ---------------------------------------------
+

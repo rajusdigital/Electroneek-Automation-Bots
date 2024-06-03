@@ -1,0 +1,79 @@
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 8/28/2023, 11:27:08 AM
+  ==========================================
+  
+
+[2023-08-28T05:59:02.371Z] : [success]: Rel file saved successfully
+
+[2023-08-28T05:59:02.399Z] : [info]: ---------------------------------------------
+
+[2023-08-28T05:59:02.399Z] : [success]: Bot started
+
+[2023-08-28T05:59:02.400Z] : [info]: Robot start
+
+[2023-08-28T05:59:02.446Z] : [success]: Robot saved successfully
+
+[2023-08-28T05:59:14.614Z] : [error]: Cannot read properties of undefined (reading 'links_datetime')
+
+[2023-08-28T05:59:15.062Z] : [info]: Total execution time: 12s 213ms
+
+[2023-08-28T05:59:15.062Z] : [info]: ---------------------------------------------
+
+[2023-08-28T06:02:12.000Z] : [success]: Rel file saved successfully
+
+[2023-08-28T06:02:12.010Z] : [success]: Robot saved successfully
+
+[2023-08-28T06:02:32.998Z] : [success]: Rel file saved successfully
+
+[2023-08-28T06:02:33.009Z] : [success]: Robot saved successfully
+
+[2023-08-28T06:02:36.545Z] : [success]: Bot started
+
+[2023-08-28T06:02:36.546Z] : [info]: Robot start
+
+[2023-08-28T06:03:05.222Z] : [error]: Script Stopped.
+
+[2023-08-28T06:03:05.499Z] : [info]: Total execution time: 28s 675ms
+
+[2023-08-28T06:03:05.500Z] : [info]: ---------------------------------------------
+
+[2023-08-28T06:03:35.014Z] : [success]: Bot started
+
+[2023-08-28T06:03:35.015Z] : [info]: Robot start
+
+[2023-08-28T06:04:04.775Z] : [success]: Bot finished successfully, total execution time: 29s 754ms
+
+[2023-08-28T06:04:04.777Z] : [info]: ---------------------------------------------
+
+[2023-08-28T06:04:23.595Z] : [success]: Rel file saved successfully
+
+[2023-08-28T06:04:23.627Z] : [success]: Bot started
+
+[2023-08-28T06:04:23.628Z] : [info]: Robot start
+
+[2023-08-28T06:04:23.668Z] : [success]: Robot saved successfully
+
+[2023-08-28T06:04:40.717Z] : [success]: Bot finished successfully, total execution time: 17s 85ms
+
+[2023-08-28T06:04:40.719Z] : [info]: ---------------------------------------------
+
+[2023-08-28T06:16:46.303Z] : [success]: Rel file saved successfully
+
+[2023-08-28T06:16:46.330Z] : [success]: Bot started
+
+[2023-08-28T06:16:46.331Z] : [info]: Robot start
+
+[2023-08-28T06:16:46.375Z] : [success]: Robot saved successfully
+
+[2023-08-28T06:16:56.490Z] : [error]: Cannot read properties of undefined (reading 'links_datetime')
+
+[2023-08-28T06:16:56.903Z] : [info]: Total execution time: 10s 157ms
+
+[2023-08-28T06:16:56.903Z] : [info]: ---------------------------------------------
+
+[2023-08-28T06:18:11.129Z] : [success]: Rel file saved successfully
+
+[2023-08-28T06:18:11.141Z] : [success]: Robot saved successfully
+

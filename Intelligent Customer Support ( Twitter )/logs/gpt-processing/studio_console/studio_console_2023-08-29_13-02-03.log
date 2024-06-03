@@ -1,0 +1,46 @@
+[2023-08-29T07:36:16.123Z] : [error]: Too Many Requests
+
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 8/29/2023, 1:06:16 PM
+  ==========================================
+  
+
+[2023-08-29T07:36:16.749Z] : [info]: Total execution time: 30s 373ms
+
+[2023-08-29T07:36:16.750Z] : [info]: ---------------------------------------------
+
+[2023-08-29T07:40:05.507Z] : [success]: Robot saved successfully
+
+[2023-08-29T07:40:11.099Z] : [success]: Bot started
+
+[2023-08-29T07:40:11.100Z] : [info]: Robot start
+
+[2023-08-29T07:40:15.576Z] : [success]: Bot finished successfully, total execution time: 4s 474ms
+
+[2023-08-29T07:40:15.577Z] : [info]: ---------------------------------------------
+
+[2023-08-29T07:40:46.766Z] : [success]: Robot saved successfully
+
+[2023-08-29T07:40:50.960Z] : [success]: Bot started
+
+[2023-08-29T07:40:50.961Z] : [info]: Robot start
+
+[2023-08-29T07:40:54.201Z] : [success]: Bot finished successfully, total execution time: 3s 237ms
+
+[2023-08-29T07:40:54.202Z] : [info]: ---------------------------------------------
+
+[2023-08-29T07:42:31.315Z] : [error]: Too Many Requests
+
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 8/29/2023, 1:12:31 PM
+  ==========================================
+  
+
+[2023-08-29T07:42:31.677Z] : [info]: Total execution time: 19s 32ms
+
+[2023-08-29T07:42:31.678Z] : [info]: ---------------------------------------------
+

@@ -1,0 +1,225 @@
+[2023-08-29T05:39:06.751Z] : [success]: Robot saved successfully
+
+[2023-08-29T05:39:14.857Z] : [info]: ---------------------------------------------
+
+[2023-08-29T05:39:14.858Z] : [success]: Bot started
+
+[2023-08-29T05:39:14.858Z] : [info]: Robot start
+
+[2023-08-29T05:39:43.588Z] : [info]: Tweet 0 has no replies.
+
+[2023-08-29T05:39:49.885Z] : [info]: Tweet 1 has no replies.
+
+[2023-08-29T05:39:56.154Z] : [info]: Tweet 2 has no replies.
+
+[2023-08-29T05:40:06.516Z] : [error]: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials e14-20020a63ae4e000000b0056946623d7esm8292931pgp.55 - gsmtp
+
+[2023-08-29T05:40:07.842Z] : [info]: Total execution time: 51s 657ms
+
+[2023-08-29T05:40:07.844Z] : [info]: ---------------------------------------------
+
+[2023-08-29T05:40:52.550Z] : [error]: Cannot read properties of undefined (reading 'attributes')
+
+[2023-08-29T05:41:19.009Z] : [error]: Cannot read properties of undefined (reading 'atom')
+
+[2023-08-29T05:42:40.214Z] : [success]: Robot saved successfully
+
+[2023-08-29T05:42:49.281Z] : [success]: Bot started
+
+[2023-08-29T05:42:49.283Z] : [info]: Robot start
+
+[2023-08-29T05:43:06.889Z] : [info]: Tweet 0 has no replies.
+
+[2023-08-29T05:43:13.193Z] : [info]: Tweet 1 has no replies.
+
+[2023-08-29T05:43:19.440Z] : [info]: Tweet 2 has no replies.
+
+[2023-08-29T05:43:26.877Z] : [success]: Bot finished successfully, total execution time: 37s 591ms
+
+[2023-08-29T05:43:26.878Z] : [info]: ---------------------------------------------
+
+[2023-08-29T05:45:45.077Z] : [success]: Robot saved successfully
+
+[2023-08-29T05:45:55.563Z] : [success]: Bot started
+
+[2023-08-29T05:45:55.564Z] : [info]: Robot start
+
+[2023-08-29T05:46:13.612Z] : [info]: Tweet 0 has no replies.
+
+[2023-08-29T05:46:18.923Z] : [info]: Tweet 1 has no replies.
+
+[2023-08-29T05:46:24.136Z] : [info]: Tweet 2 has no replies.
+
+[2023-08-29T05:46:32.153Z] : [success]: Bot finished successfully, total execution time: 36s 586ms
+
+[2023-08-29T05:46:32.155Z] : [info]: ---------------------------------------------
+
+[2023-08-29T05:53:42.431Z] : [success]: Bot started
+
+[2023-08-29T05:53:42.432Z] : [info]: Robot start
+
+[2023-08-29T05:53:57.268Z] : [info]: Tweet 0 has no replies.
+
+[2023-08-29T05:54:01.526Z] : [info]: Tweet 1 has no replies.
+
+[2023-08-29T05:54:05.734Z] : [info]: Tweet 2 has no replies.
+
+[2023-08-29T05:54:13.321Z] : [success]: Bot finished successfully, total execution time: 30s 884ms
+
+[2023-08-29T05:54:13.322Z] : [info]: ---------------------------------------------
+
+[2023-08-29T06:02:01.318Z] : [success]: Rel file saved successfully
+
+[2023-08-29T06:02:01.374Z] : [success]: Bot started
+
+[2023-08-29T06:02:01.375Z] : [info]: Robot start
+
+[2023-08-29T06:02:01.445Z] : [success]: Robot saved successfully
+
+[2023-08-29T06:02:18.120Z] : [info]: Tweet 0 has no replies.
+
+[2023-08-29T06:02:22.435Z] : [info]: Tweet 1 has no replies.
+
+[2023-08-29T06:02:26.678Z] : [info]: Tweet 2 has no replies.
+
+[2023-08-29T06:02:31.904Z] : [success]: Bot finished successfully, total execution time: 30s 525ms
+
+[2023-08-29T06:02:31.907Z] : [info]: ---------------------------------------------
+
+[2023-08-29T06:10:18.480Z] : [success]: Rel file saved successfully
+
+[2023-08-29T06:10:18.515Z] : [success]: Rel file saved successfully
+
+[2023-08-29T06:10:18.569Z] : [success]: Bot started
+
+[2023-08-29T06:10:18.570Z] : [info]: Robot start
+
+[2023-08-29T06:10:18.615Z] : [success]: Robot saved successfully
+
+[2023-08-29T06:10:18.657Z] : [success]: Robot saved successfully
+
+[2023-08-29T06:28:16.758Z] : [success]: Rel file saved successfully
+
+[2023-08-29T06:28:16.776Z] : [success]: Rel file saved successfully
+
+[2023-08-29T06:28:16.800Z] : [success]: Bot started
+
+[2023-08-29T06:28:16.801Z] : [info]: Robot start
+
+[2023-08-29T06:28:16.822Z] : [success]: Robot saved successfully
+
+[2023-08-29T06:28:16.850Z] : [success]: Robot saved successfully
+
+[2023-08-29T06:28:17.445Z] : [success]: Rel file saved successfully
+
+[2023-08-29T06:28:17.481Z] : [success]: Robot saved successfully
+
+[2023-08-29T06:29:22.226Z] : [success]: Rel file saved successfully
+
+[2023-08-29T06:29:22.251Z] : [success]: Rel file saved successfully
+
+[2023-08-29T06:29:22.286Z] : [success]: Bot started
+
+[2023-08-29T06:29:22.287Z] : [info]: Robot start
+
+[2023-08-29T06:29:22.373Z] : [success]: Robot saved successfully
+
+[2023-08-29T06:29:22.443Z] : [success]: Robot saved successfully
+
+[2023-08-29T06:30:56.816Z] : [success]: Rel file saved successfully
+
+[2023-08-29T06:30:56.841Z] : [success]: Rel file saved successfully
+
+[2023-08-29T06:30:56.873Z] : [success]: Bot started
+
+[2023-08-29T06:30:56.874Z] : [info]: Robot start
+
+[2023-08-29T06:30:56.988Z] : [success]: Robot saved successfully
+
+[2023-08-29T06:30:57.046Z] : [success]: Robot saved successfully
+
+[2023-08-29T06:31:43.185Z] : [success]: Rel file saved successfully
+
+[2023-08-29T06:31:43.206Z] : [success]: Rel file saved successfully
+
+[2023-08-29T06:31:43.227Z] : [success]: Bot started
+
+[2023-08-29T06:31:43.228Z] : [info]: Robot start
+
+[2023-08-29T06:31:43.295Z] : [success]: Robot saved successfully
+
+[2023-08-29T06:31:43.345Z] : [success]: Robot saved successfully
+
+[2023-08-29T06:33:19.451Z] : [success]: Rel file saved successfully
+
+[2023-08-29T06:33:19.467Z] : [success]: Robot saved successfully
+
+[2023-08-29T06:33:25.580Z] : [success]: Bot started
+
+[2023-08-29T06:33:25.581Z] : [info]: Robot start
+
+[2023-08-29T06:59:50.105Z] : [success]: Rel file saved successfully
+
+[2023-08-29T06:59:50.124Z] : [success]: Rel file saved successfully
+
+[2023-08-29T06:59:50.144Z] : [success]: Bot started
+
+[2023-08-29T06:59:50.144Z] : [info]: Robot start
+
+[2023-08-29T06:59:50.207Z] : [success]: Robot saved successfully
+
+[2023-08-29T06:59:50.238Z] : [success]: Robot saved successfully
+
+[2023-08-29T07:08:42.785Z] : [error]: Too Many Requests
+
+[2023-08-29T07:08:43.240Z] : [info]: Total execution time: 3s 726ms
+
+[2023-08-29T07:08:43.241Z] : [info]: ---------------------------------------------
+
+[2023-08-29T07:11:00.941Z] : [success]: Rel file saved successfully
+
+[2023-08-29T07:11:00.980Z] : [success]: Bot started
+
+[2023-08-29T07:11:00.981Z] : [info]: Robot start
+
+[2023-08-29T07:11:01.006Z] : [success]: Robot saved successfully
+
+[2023-08-29T07:13:29.074Z] : [success]: Rel file saved successfully
+
+[2023-08-29T07:13:29.136Z] : [success]: Bot started
+
+[2023-08-29T07:13:29.137Z] : [info]: Robot start
+
+[2023-08-29T07:13:29.165Z] : [success]: Robot saved successfully
+
+[2023-08-29T07:16:29.616Z] : [success]: Rel file saved successfully
+
+[2023-08-29T07:16:29.636Z] : [success]: Bot started
+
+[2023-08-29T07:16:29.637Z] : [info]: Robot start
+
+[2023-08-29T07:16:29.670Z] : [success]: Robot saved successfully
+
+[2023-08-29T07:17:51.492Z] : [success]: Rel file saved successfully
+
+[2023-08-29T07:17:51.503Z] : [success]: Robot saved successfully
+
+[2023-08-29T07:17:58.629Z] : [success]: Robot saved successfully
+
+[2023-08-29T07:17:58.799Z] : [success]: Robot saved successfully
+
+[2023-08-29T07:17:58.971Z] : [success]: Robot saved successfully
+
+[2023-08-29T07:17:59.160Z] : [success]: Robot saved successfully
+
+[2023-08-29T07:17:59.322Z] : [success]: Robot saved successfully
+
+[2023-08-29T07:17:59.494Z] : [success]: Robot saved successfully
+
+[2023-08-29T07:18:31.756Z] : [success]: Bot started
+
+[2023-08-29T07:18:31.756Z] : [info]: Robot start
+
+[2023-08-29T07:23:50.658Z] : [success]: Robot saved successfully
+

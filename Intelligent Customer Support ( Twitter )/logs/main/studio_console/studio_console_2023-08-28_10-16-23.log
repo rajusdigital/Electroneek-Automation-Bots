@@ -1,0 +1,65 @@
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 8/28/2023, 10:16:39 AM
+  ==========================================
+  
+
+[2023-08-28T04:58:02.545Z] : [success]: Rel file saved successfully
+
+[2023-08-28T04:58:02.601Z] : [info]: ---------------------------------------------
+
+[2023-08-28T04:58:02.602Z] : [success]: Bot started
+
+[2023-08-28T04:58:02.602Z] : [info]: Robot start
+
+[2023-08-28T04:58:02.651Z] : [success]: Robot saved successfully
+
+[2023-08-28T04:58:17.854Z] : [error]: Cannot read properties of null (reading '0')
+
+[2023-08-28T04:58:18.486Z] : [info]: Total execution time: 15s 251ms
+
+[2023-08-28T04:58:18.487Z] : [info]: ---------------------------------------------
+
+[2023-08-28T04:59:16.105Z] : [success]: Rel file saved successfully
+
+[2023-08-28T04:59:16.118Z] : [success]: Robot saved successfully
+
+[2023-08-28T04:59:20.392Z] : [success]: Bot started
+
+[2023-08-28T04:59:20.393Z] : [info]: Robot start
+
+[2023-08-28T04:59:31.834Z] : [error]: Cannot read properties of null (reading '0')
+
+[2023-08-28T04:59:32.347Z] : [info]: Total execution time: 11s 441ms
+
+[2023-08-28T04:59:32.347Z] : [info]: ---------------------------------------------
+
+[2023-08-28T05:04:21.203Z] : [success]: Rel file saved successfully
+
+[2023-08-28T05:04:21.217Z] : [success]: Robot saved successfully
+
+[2023-08-28T05:09:15.201Z] : [success]: Rel file saved successfully
+
+[2023-08-28T05:09:15.251Z] : [success]: Bot started
+
+[2023-08-28T05:09:15.252Z] : [info]: Robot start
+
+[2023-08-28T05:09:26.917Z] : [error]: Cannot read properties of null (reading '0')
+
+[2023-08-28T05:09:27.691Z] : [info]: Total execution time: 11s 663ms
+
+[2023-08-28T05:09:27.692Z] : [info]: ---------------------------------------------
+
+[2023-08-28T05:30:14.103Z] : [success]: Rel file saved successfully
+
+[2023-08-28T05:30:14.146Z] : [success]: Bot started
+
+[2023-08-28T05:30:14.147Z] : [info]: Robot start
+
+[2023-08-28T05:30:25.488Z] : [error]: Cannot read properties of null (reading '0')
+
+[2023-08-28T05:30:26.142Z] : [info]: Total execution time: 11s 340ms
+
+[2023-08-28T05:30:26.143Z] : [info]: ---------------------------------------------
+

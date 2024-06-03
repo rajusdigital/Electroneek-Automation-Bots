@@ -1,0 +1,142 @@
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 8/28/2023, 12:50:37 PM
+  ==========================================
+  
+
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 8/28/2023, 2:40:45 PM
+  ==========================================
+  
+
+[2023-08-28T09:11:40.533Z] : [success]: Robot saved successfully
+
+[2023-08-28T09:11:44.832Z] : [success]: Bot started
+
+[2023-08-28T09:11:44.832Z] : [info]: Robot start
+
+[2023-08-28T09:11:54.078Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-08-28T09:11:55.362Z] : [error]: Cannot read properties of null (reading '0')
+
+[2023-08-28T09:11:55.892Z] : [info]: Total execution time: 10s 529ms
+
+[2023-08-28T09:11:55.893Z] : [info]: ---------------------------------------------
+
+[2023-08-28T09:12:08.424Z] : [success]: Bot started
+
+[2023-08-28T09:12:08.425Z] : [info]: Robot start
+
+[2023-08-28T09:12:16.658Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-08-28T09:12:16.847Z] : [error]: Cannot read properties of null (reading '0')
+
+[2023-08-28T09:12:17.369Z] : [info]: Total execution time: 8s 422ms
+
+[2023-08-28T09:12:17.369Z] : [info]: ---------------------------------------------
+
+[2023-08-28T09:15:11.409Z] : [success]: Rel file saved successfully
+
+[2023-08-28T09:15:11.435Z] : [success]: Bot started
+
+[2023-08-28T09:15:11.435Z] : [info]: Robot start
+
+[2023-08-28T09:15:11.481Z] : [success]: Robot saved successfully
+
+[2023-08-28T09:15:21.077Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-08-28T09:15:21.190Z] : [error]: Cannot read properties of null (reading '0')
+
+[2023-08-28T09:15:21.735Z] : [info]: Total execution time: 9s 753ms
+
+[2023-08-28T09:15:21.736Z] : [info]: ---------------------------------------------
+
+[2023-08-28T09:15:44.392Z] : [success]: Rel file saved successfully
+
+[2023-08-28T09:15:44.401Z] : [success]: Robot saved successfully
+
+[2023-08-28T09:15:49.613Z] : [success]: Bot started
+
+[2023-08-28T09:15:49.614Z] : [info]: Robot start
+
+[2023-08-28T09:15:59.037Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-08-28T09:16:00.039Z] : [error]: Cannot read properties of null (reading '0')
+
+[2023-08-28T09:16:00.590Z] : [info]: Total execution time: 10s 425ms
+
+[2023-08-28T09:16:00.590Z] : [info]: ---------------------------------------------
+
+[2023-08-28T09:16:41.912Z] : [success]: Rel file saved successfully
+
+[2023-08-28T09:16:41.921Z] : [success]: Robot saved successfully
+
+[2023-08-28T09:16:49.583Z] : [success]: Bot started
+
+[2023-08-28T09:16:49.584Z] : [info]: Robot start
+
+[2023-08-28T09:17:00.373Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-08-28T09:17:00.986Z] : [error]: ENOENT: no such file or directory, open '\tweets.rel'
+
+[2023-08-28T09:17:01.482Z] : [info]: Total execution time: 11s 402ms
+
+[2023-08-28T09:17:01.483Z] : [info]: ---------------------------------------------
+
+[2023-08-28T09:17:11.467Z] : [success]: Rel file saved successfully
+
+[2023-08-28T09:17:11.478Z] : [success]: Robot saved successfully
+
+[2023-08-28T09:17:12.502Z] : [success]: Rel file saved successfully
+
+[2023-08-28T09:17:12.513Z] : [success]: Robot saved successfully
+
+[2023-08-28T09:17:12.743Z] : [success]: Rel file saved successfully
+
+[2023-08-28T09:17:12.752Z] : [success]: Robot saved successfully
+
+[2023-08-28T09:17:12.955Z] : [success]: Rel file saved successfully
+
+[2023-08-28T09:17:12.966Z] : [success]: Robot saved successfully
+
+[2023-08-28T09:17:17.990Z] : [success]: Bot started
+
+[2023-08-28T09:17:17.990Z] : [info]: Robot start
+
+[2023-08-28T09:17:44.174Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-08-28T09:17:44.595Z] : [error]: Cannot read properties of null (reading '0')
+
+[2023-08-28T09:17:45.107Z] : [info]: Total execution time: 26s 605ms
+
+[2023-08-28T09:17:45.107Z] : [info]: ---------------------------------------------
+
+[2023-08-28T09:32:02.277Z] : [success]: Rel file saved successfully
+
+[2023-08-28T09:32:02.350Z] : [success]: Bot started
+
+[2023-08-28T09:32:02.353Z] : [info]: Robot start
+
+[2023-08-28T09:32:02.392Z] : [success]: Robot saved successfully
+
+[2023-08-28T09:32:09.431Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-08-28T09:32:10.202Z] : [error]: Script Stopped.
+
+[2023-08-28T09:32:10.959Z] : [info]: Total execution time: 7s 847ms
+
+[2023-08-28T09:32:10.960Z] : [info]: ---------------------------------------------
+
+[2023-08-28T09:32:31.937Z] : [success]: Bot started
+
+[2023-08-28T09:32:31.938Z] : [info]: Robot start
+
+[2023-08-28T09:33:01.424Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-08-28T09:33:02.461Z] : [success]: Bot finished successfully, total execution time: 30s 518ms
+
+[2023-08-28T09:33:02.462Z] : [info]: ---------------------------------------------
+

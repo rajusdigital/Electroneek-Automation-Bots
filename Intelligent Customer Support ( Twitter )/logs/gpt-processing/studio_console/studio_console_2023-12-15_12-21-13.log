@@ -1,0 +1,37 @@
+[2023-12-18T06:45:16.092Z] : [error]: Too Many Requests
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 12/18/2023, 12:15:16 PM
+  ==========================================
+  
+
+[2023-12-18T06:45:18.731Z] : [info]: Total execution time: 32s 285ms
+
+[2023-12-18T06:45:18.732Z] : [info]: ---------------------------------------------
+
+[2023-12-18T06:45:43.196Z] : [success]: Robot saved successfully
+
+[2023-12-18T06:45:45.829Z] : [success]: Robot saved successfully
+
+[2023-12-18T07:03:39.700Z] : [success]: Robot saved successfully
+
+[2023-12-18T08:04:46.743Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-12-18T08:04:46.747Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-12-18T08:04:46.749Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-12-18T08:04:46.752Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-12-18T08:04:46.754Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-12-18T08:04:46.769Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-12-18T08:04:46.794Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-12-18T08:04:46.795Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-12-18T08:04:46.798Z] : [error]: Cannot read properties of null (reading 'type')
+

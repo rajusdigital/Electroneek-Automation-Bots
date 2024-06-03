@@ -1,0 +1,51 @@
+[2023-08-29T09:58:01.510Z] : [error]: Cannot read properties of null (reading 'choices')
+
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 8/29/2023, 3:28:01 PM
+  ==========================================
+  
+
+[2023-08-29T09:58:01.939Z] : [info]: Total execution time: 21s 690ms
+
+[2023-08-29T09:58:01.941Z] : [info]: ---------------------------------------------
+
+[2023-08-29T09:59:20.573Z] : [error]: Cannot read properties of null (reading 'choices')
+
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 8/29/2023, 3:29:20 PM
+  ==========================================
+  
+
+[2023-08-29T09:59:21.171Z] : [info]: Total execution time: 22s 282ms
+
+[2023-08-29T09:59:21.173Z] : [info]: ---------------------------------------------
+
+[2023-08-29T10:06:20.975Z] : [error]: Cannot read properties of null (reading 'choices')
+
+[2023-08-29T10:06:21.443Z] : [info]: Total execution time: 16s 508ms
+
+[2023-08-29T10:06:21.444Z] : [info]: ---------------------------------------------
+
+[2023-08-29T10:07:59.258Z] : [success]: Robot saved successfully
+
+[2023-08-29T12:04:20.747Z] : [error]: Cannot read properties of null (reading 'choices')
+
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 8/29/2023, 5:34:20 PM
+  ==========================================
+  
+
+[2023-08-29T12:04:21.160Z] : [info]: Total execution time: 20s 162ms
+
+[2023-08-29T12:04:21.160Z] : [info]: ---------------------------------------------
+
+[2023-08-29T12:04:25.981Z] : [success]: Robot saved successfully
+
+[2023-08-29T12:05:00.471Z] : [success]: The workflow has been exported successfully
+

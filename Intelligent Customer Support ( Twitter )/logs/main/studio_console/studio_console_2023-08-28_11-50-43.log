@@ -1,0 +1,203 @@
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 8/28/2023, 11:50:53 AM
+  ==========================================
+  
+
+[2023-08-28T06:41:44.161Z] : [info]: ---------------------------------------------
+
+[2023-08-28T06:41:44.162Z] : [success]: Bot started
+
+[2023-08-28T06:41:44.162Z] : [info]: Robot start
+
+[2023-08-28T06:41:44.204Z] : [success]: Robot saved successfully
+
+[2023-08-28T06:41:58.273Z] : [error]: Cannot read properties of undefined (reading 'links_datetime')
+
+[2023-08-28T06:41:58.701Z] : [info]: Total execution time: 14s 110ms
+
+[2023-08-28T06:41:58.702Z] : [info]: ---------------------------------------------
+
+[2023-08-28T06:42:22.427Z] : [success]: Robot saved successfully
+
+[2023-08-28T06:42:26.927Z] : [success]: Bot started
+
+[2023-08-28T06:42:26.927Z] : [info]: Robot start
+
+[2023-08-28T06:42:42.293Z] : [success]: Bot finished successfully, total execution time: 15s 363ms
+
+[2023-08-28T06:42:42.294Z] : [info]: ---------------------------------------------
+
+[2023-08-28T06:43:08.551Z] : [success]: Robot saved successfully
+
+[2023-08-28T06:46:59.906Z] : [success]: Robot saved successfully
+
+[2023-08-28T06:47:02.921Z] : [success]: Bot started
+
+[2023-08-28T06:47:02.921Z] : [info]: Robot start
+
+[2023-08-28T06:47:21.348Z] : [success]: Bot finished successfully, total execution time: 18s 424ms
+
+[2023-08-28T06:47:21.349Z] : [info]: ---------------------------------------------
+
+[2023-08-28T06:50:02.258Z] : [success]: Robot saved successfully
+
+[2023-08-28T06:50:06.411Z] : [success]: Bot started
+
+[2023-08-28T06:50:06.411Z] : [info]: Robot start
+
+[2023-08-28T06:50:15.747Z] : [error]: Cannot read properties of undefined (reading 'links_datetime')
+
+[2023-08-28T06:50:16.176Z] : [info]: Total execution time: 9s 335ms
+
+[2023-08-28T06:50:16.177Z] : [info]: ---------------------------------------------
+
+[2023-08-28T06:50:42.648Z] : [success]: Robot saved successfully
+
+[2023-08-28T06:50:51.705Z] : [success]: Robot saved successfully
+
+[2023-08-28T06:50:55.682Z] : [success]: Bot started
+
+[2023-08-28T06:50:55.683Z] : [info]: Robot start
+
+[2023-08-28T06:51:05.039Z] : [error]: Cannot read properties of undefined (reading 'links_datetime')
+
+[2023-08-28T06:51:05.412Z] : [info]: Total execution time: 9s 355ms
+
+[2023-08-28T06:51:05.412Z] : [info]: ---------------------------------------------
+
+[2023-08-28T06:52:17.101Z] : [success]: Robot saved successfully
+
+[2023-08-28T06:52:22.213Z] : [success]: Bot started
+
+[2023-08-28T06:52:22.213Z] : [info]: Robot start
+
+[2023-08-28T06:52:32.501Z] : [error]: Cannot read properties of undefined (reading 'links_datetime')
+
+[2023-08-28T06:52:32.891Z] : [info]: Total execution time: 10s 288ms
+
+[2023-08-28T06:52:32.892Z] : [info]: ---------------------------------------------
+
+[2023-08-28T06:53:52.599Z] : [success]: Bot started
+
+[2023-08-28T06:53:52.599Z] : [info]: Robot start
+
+[2023-08-28T06:53:52.627Z] : [success]: Robot saved successfully
+
+[2023-08-28T06:54:09.751Z] : [success]: Bot finished successfully, total execution time: 17s 149ms
+
+[2023-08-28T06:54:09.752Z] : [info]: ---------------------------------------------
+
+[2023-08-28T06:54:51.982Z] : [success]: Bot started
+
+[2023-08-28T06:54:51.982Z] : [info]: Robot start
+
+[2023-08-28T06:54:52.012Z] : [success]: Robot saved successfully
+
+[2023-08-28T06:55:02.835Z] : [error]: date is not defined
+
+[2023-08-28T06:55:03.350Z] : [info]: Total execution time: 10s 853ms
+
+[2023-08-28T06:55:03.351Z] : [info]: ---------------------------------------------
+
+[2023-08-28T06:55:41.621Z] : [success]: Robot saved successfully
+
+[2023-08-28T06:55:47.139Z] : [success]: Bot started
+
+[2023-08-28T06:55:47.139Z] : [info]: Robot start
+
+[2023-08-28T06:55:56.483Z] : [error]: date is not defined
+
+[2023-08-28T06:55:56.854Z] : [info]: Total execution time: 9s 344ms
+
+[2023-08-28T06:55:56.855Z] : [info]: ---------------------------------------------
+
+[2023-08-28T06:58:10.835Z] : [success]: Robot saved successfully
+
+[2023-08-28T06:58:14.701Z] : [success]: Bot started
+
+[2023-08-28T06:58:14.701Z] : [info]: Robot start
+
+[2023-08-28T06:58:29.082Z] : [error]: ENOENT: no such file or directory, open 'D:\automation\Intelligent Customer Support\replies.rel'
+
+[2023-08-28T06:58:29.645Z] : [info]: Total execution time: 14s 379ms
+
+[2023-08-28T06:58:29.646Z] : [info]: ---------------------------------------------
+
+[2023-08-28T06:58:49.498Z] : [success]: Robot saved successfully
+
+[2023-08-28T06:58:53.931Z] : [success]: Bot started
+
+[2023-08-28T06:58:53.932Z] : [info]: Robot start
+
+[2023-08-28T06:59:03.263Z] : [error]: Cannot read properties of undefined (reading 'links_datetime')
+
+[2023-08-28T06:59:03.645Z] : [info]: Total execution time: 9s 330ms
+
+[2023-08-28T06:59:03.645Z] : [info]: ---------------------------------------------
+
+[2023-08-28T07:01:30.553Z] : [success]: Robot saved successfully
+
+[2023-08-28T07:01:35.841Z] : [success]: Bot started
+
+[2023-08-28T07:01:35.842Z] : [info]: Robot start
+
+[2023-08-28T07:01:46.169Z] : [error]: Cannot read properties of undefined (reading 'links_datetime')
+
+[2023-08-28T07:01:46.668Z] : [info]: Total execution time: 10s 326ms
+
+[2023-08-28T07:01:46.668Z] : [info]: ---------------------------------------------
+
+[2023-08-28T07:02:18.475Z] : [success]: Robot saved successfully
+
+[2023-08-28T07:02:23.013Z] : [success]: Bot started
+
+[2023-08-28T07:02:23.013Z] : [info]: Robot start
+
+[2023-08-28T07:02:32.369Z] : [error]: Cannot read properties of undefined (reading 'links_datetime')
+
+[2023-08-28T07:02:32.903Z] : [info]: Total execution time: 9s 356ms
+
+[2023-08-28T07:02:32.904Z] : [info]: ---------------------------------------------
+
+[2023-08-28T07:02:48.235Z] : [success]: Robot saved successfully
+
+[2023-08-28T07:02:53.021Z] : [success]: Bot started
+
+[2023-08-28T07:02:53.022Z] : [info]: Robot start
+
+[2023-08-28T07:03:12.454Z] : [success]: Bot finished successfully, total execution time: 19s 429ms
+
+[2023-08-28T07:03:12.455Z] : [info]: ---------------------------------------------
+
+[2023-08-28T07:03:30.295Z] : [success]: Robot saved successfully
+
+[2023-08-28T07:03:35.078Z] : [success]: Bot started
+
+[2023-08-28T07:03:35.078Z] : [info]: Robot start
+
+[2023-08-28T07:03:44.379Z] : [error]: Cannot read properties of undefined (reading 'links_datetime')
+
+[2023-08-28T07:03:44.855Z] : [info]: Total execution time: 9s 300ms
+
+[2023-08-28T07:03:44.856Z] : [info]: ---------------------------------------------
+
+[2023-08-28T07:05:22.409Z] : [success]: Robot saved successfully
+
+[2023-08-28T07:05:22.590Z] : [success]: Robot saved successfully
+
+[2023-08-28T07:05:22.730Z] : [success]: Robot saved successfully
+
+[2023-08-28T07:05:22.928Z] : [success]: Robot saved successfully
+
+[2023-08-28T07:05:36.027Z] : [success]: Bot started
+
+[2023-08-28T07:05:36.028Z] : [info]: Robot start
+
+[2023-08-28T07:05:45.307Z] : [error]: Cannot read properties of undefined (reading 'links_datetime')
+
+[2023-08-28T07:05:45.651Z] : [info]: Total execution time: 9s 278ms
+
+[2023-08-28T07:05:45.651Z] : [info]: ---------------------------------------------
+

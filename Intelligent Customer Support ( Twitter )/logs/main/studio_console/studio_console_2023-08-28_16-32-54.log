@@ -1,0 +1,26 @@
+[2023-08-28T12:27:57.547Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 8/28/2023, 5:57:57 PM
+  ==========================================
+  
+
+[2023-08-28T12:28:02.552Z] : [success]: Bot started
+
+[2023-08-28T12:28:02.552Z] : [info]: Robot start
+
+[2023-08-28T12:28:20.729Z] : [info]: Tweet 0 has no replies.
+
+[2023-08-28T12:28:28.119Z] : [info]: Tweet 1 has no replies.
+
+[2023-08-28T12:28:35.493Z] : [info]: Tweet 2 has no replies.
+
+[2023-08-28T12:28:48.703Z] : [error]: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials e3-20020a17090a728300b00268dac826d4sm6929936pjg.0 - gsmtp
+
+[2023-08-28T12:28:49.580Z] : [info]: Total execution time: 46s 148ms
+
+[2023-08-28T12:28:49.580Z] : [info]: ---------------------------------------------
+

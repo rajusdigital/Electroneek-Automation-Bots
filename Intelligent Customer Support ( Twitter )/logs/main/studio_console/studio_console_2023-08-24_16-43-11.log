@@ -1,0 +1,86 @@
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 8/24/2023, 4:43:23 PM
+  ==========================================
+  
+
+[2023-08-24T11:13:30.645Z] : [success]: Robot saved successfully
+
+[2023-08-24T11:13:31.219Z] : [error]: Activity parameters required: Send email
+
+[2023-08-24T11:13:31.947Z] : [error]: Activity parameters required: Get password
+
+[2023-08-24T11:13:31.948Z] : [info]: ---------------------------------------------
+
+[2023-08-24T11:14:42.365Z] : [success]: Robot saved successfully
+
+[2023-08-24T11:15:18.822Z] : [success]: Connection to our licenses server is restored
+
+[2023-08-24T11:15:18.915Z] : [success]: Bot started
+
+[2023-08-24T11:15:18.916Z] : [info]: Robot start
+
+[2023-08-24T11:15:18.952Z] : [success]: Robot saved successfully
+
+[2023-08-24T11:15:18.986Z] : [success]: Robot saved successfully
+
+[2023-08-24T11:15:42.110Z] : [error]: Cannot read properties of null (reading '0')
+
+[2023-08-24T11:15:42.865Z] : [info]: Total execution time: 23s 194ms
+
+[2023-08-24T11:15:42.866Z] : [info]: ---------------------------------------------
+
+[2023-08-24T11:21:45.950Z] : [success]: Robot saved successfully
+
+[2023-08-24T11:21:51.420Z] : [success]: Bot started
+
+[2023-08-24T11:21:51.420Z] : [info]: Robot start
+
+[2023-08-24T11:22:08.920Z] : [error]: Cannot read properties of null (reading '0')
+
+[2023-08-24T11:22:09.555Z] : [info]: Total execution time: 17s 498ms
+
+[2023-08-24T11:22:09.556Z] : [info]: ---------------------------------------------
+
+[2023-08-25T06:38:10.496Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 8/25/2023, 12:08:10 PM
+  ==========================================
+  
+
+[2023-08-25T06:38:27.703Z] : [success]: Bot started
+
+[2023-08-25T06:38:27.704Z] : [info]: Robot start
+
+[2023-08-25T06:38:48.868Z] : [error]: Cannot read properties of null (reading '0')
+
+[2023-08-25T06:38:49.836Z] : [info]: Total execution time: 21s 163ms
+
+[2023-08-25T06:38:49.838Z] : [info]: ---------------------------------------------
+
+[2023-08-25T06:46:08.753Z] : [success]: Bot started
+
+[2023-08-25T06:46:08.754Z] : [info]: Robot start
+
+[2023-08-25T06:46:08.807Z] : [success]: Robot saved successfully
+
+[2023-08-25T06:46:38.459Z] : [success]: Bot finished successfully, total execution time: 29s 699ms
+
+[2023-08-25T06:46:38.461Z] : [info]: ---------------------------------------------
+
+[2023-08-25T06:46:58.511Z] : [success]: Robot saved successfully
+
+[2023-08-25T06:47:05.107Z] : [success]: Bot started
+
+[2023-08-25T06:47:05.108Z] : [info]: Robot start
+
+[2023-08-25T06:47:21.826Z] : [error]: Cannot read properties of null (reading '0')
+
+[2023-08-25T06:47:22.486Z] : [info]: Total execution time: 16s 717ms
+
+[2023-08-25T06:47:22.486Z] : [info]: ---------------------------------------------
+

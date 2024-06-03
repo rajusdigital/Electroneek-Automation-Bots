@@ -1,0 +1,120 @@
+[2023-08-25T11:30:20.181Z] : [success]: Rel file saved successfully
+
+[2023-08-25T11:30:20.190Z] : [success]: Rel file saved successfully
+
+[2023-08-25T11:30:20.214Z] : [info]: ---------------------------------------------
+
+[2023-08-25T11:30:20.214Z] : [success]: Bot started
+
+[2023-08-25T11:30:20.215Z] : [info]: Robot start
+
+[2023-08-25T11:30:20.240Z] : [success]: Robot saved successfully
+
+[2023-08-25T11:31:31.961Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2023-08-25T11:31:32.403Z] : [info]: Total execution time: 1m 11s 746ms
+
+[2023-08-25T11:31:32.412Z] : [info]: ---------------------------------------------
+
+[2023-08-25T11:31:49.385Z] : [success]: Bot started
+
+[2023-08-25T11:31:49.385Z] : [info]: Robot start
+
+[2023-08-25T11:32:00.676Z] : [error]: Cannot read properties of null (reading '0')
+
+[2023-08-25T11:32:01.245Z] : [info]: Total execution time: 11s 291ms
+
+[2023-08-25T11:32:01.246Z] : [info]: ---------------------------------------------
+
+[2023-08-25T11:34:17.202Z] : [success]: Bot started
+
+[2023-08-25T11:34:17.202Z] : [info]: Robot start
+
+[2023-08-25T11:34:32.600Z] : [error]: Cannot read properties of null (reading '0')
+
+[2023-08-25T11:34:33.015Z] : [info]: Total execution time: 15s 398ms
+
+[2023-08-25T11:34:33.015Z] : [info]: ---------------------------------------------
+
+[2023-08-25T11:35:06.895Z] : [success]: Rel file saved successfully
+
+[2023-08-25T11:35:06.906Z] : [success]: Rel file saved successfully
+
+[2023-08-25T11:35:06.939Z] : [success]: Bot started
+
+[2023-08-25T11:35:06.939Z] : [info]: Robot start
+
+[2023-08-25T11:35:06.976Z] : [success]: Robot saved successfully
+
+[2023-08-25T11:35:18.063Z] : [error]: Cannot read properties of null (reading '0')
+
+[2023-08-25T11:35:18.466Z] : [info]: Total execution time: 11s 124ms
+
+[2023-08-25T11:35:18.467Z] : [info]: ---------------------------------------------
+
+[2023-08-25T11:38:31.885Z] : [success]: Rel file saved successfully
+
+[2023-08-25T11:38:31.896Z] : [success]: Rel file saved successfully
+
+[2023-08-25T11:38:31.929Z] : [success]: Bot started
+
+[2023-08-25T11:38:31.930Z] : [info]: Robot start
+
+[2023-08-25T11:38:31.950Z] : [success]: Robot saved successfully
+
+[2023-08-25T11:38:42.093Z] : [error]: Cannot read properties of null (reading '0')
+
+[2023-08-25T11:38:42.496Z] : [info]: Total execution time: 10s 162ms
+
+[2023-08-25T11:38:42.497Z] : [info]: ---------------------------------------------
+
+[2023-08-25T11:39:19.183Z] : [success]: Rel file saved successfully
+
+[2023-08-25T11:39:19.192Z] : [success]: Rel file saved successfully
+
+[2023-08-25T11:39:19.201Z] : [success]: Robot saved successfully
+
+[2023-08-25T11:39:34.141Z] : [success]: Rel file saved successfully
+
+[2023-08-25T11:39:34.152Z] : [success]: Rel file saved successfully
+
+[2023-08-25T11:39:34.180Z] : [success]: Robot saved successfully
+
+[2023-08-25T11:39:52.837Z] : [success]: Rel file saved successfully
+
+[2023-08-25T11:39:52.847Z] : [success]: Rel file saved successfully
+
+[2023-08-25T11:39:52.861Z] : [success]: Rel file saved successfully
+
+[2023-08-25T11:39:52.870Z] : [success]: Rel file saved successfully
+
+[2023-08-25T11:39:52.899Z] : [success]: Bot started
+
+[2023-08-25T11:39:52.899Z] : [info]: Robot start
+
+[2023-08-25T11:39:52.947Z] : [success]: Robot saved successfully
+
+[2023-08-25T11:39:52.989Z] : [success]: Robot saved successfully
+
+[2023-08-25T11:40:06.362Z] : [error]: Cannot read properties of null (reading '0')
+
+[2023-08-25T11:40:06.899Z] : [info]: Total execution time: 13s 462ms
+
+[2023-08-25T11:40:06.900Z] : [info]: ---------------------------------------------
+
+[2023-08-25T11:54:15.395Z] : [success]: Rel file saved successfully
+
+[2023-08-25T11:54:15.406Z] : [success]: Rel file saved successfully
+
+[2023-08-25T11:54:15.434Z] : [success]: Bot started
+
+[2023-08-25T11:54:15.435Z] : [info]: Robot start
+
+[2023-08-25T11:54:15.502Z] : [success]: Robot saved successfully
+
+[2023-08-25T11:54:27.138Z] : [error]: Cannot read properties of null (reading '0')
+
+[2023-08-25T11:54:27.728Z] : [info]: Total execution time: 11s 702ms
+
+[2023-08-25T11:54:27.729Z] : [info]: ---------------------------------------------
+
