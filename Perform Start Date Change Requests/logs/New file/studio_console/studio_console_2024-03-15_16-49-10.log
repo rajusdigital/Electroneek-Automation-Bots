@@ -1,0 +1,556 @@
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 3/15/2024, 4:49:30 PM
+  ==========================================
+  
+
+[2024-03-15T11:19:34.280Z] : [success]: Robot saved successfully
+
+[2024-03-15T11:20:26.268Z] : [info]: Internet connection // error
+
+[2024-03-15T11:22:22.779Z] : [success]: Robot saved successfully
+
+[2024-03-15T11:22:27.886Z] : [info]: ---------------------------------------------
+
+[2024-03-15T11:22:27.887Z] : [success]: Bot started
+
+[2024-03-15T11:22:27.888Z] : [info]: Robot start
+
+[2024-03-15T11:22:29.012Z] : [error]: Connection lost due to Error: getaddrinfo ENOTFOUND mail.acldigital.com
+
+[2024-03-15T11:22:29.504Z] : [info]: Total execution time: 1s 124ms
+
+[2024-03-15T11:22:29.506Z] : [info]: ---------------------------------------------
+
+[2024-03-15T11:22:33.688Z] : [success]: Bot started
+
+[2024-03-15T11:22:33.689Z] : [info]: Robot start
+
+[2024-03-15T11:22:35.911Z] : [error]: Connection lost due to Error: getaddrinfo ENOTFOUND mail.acldigital.com
+
+[2024-03-15T11:22:36.498Z] : [info]: Total execution time: 2s 222ms
+
+[2024-03-15T11:22:36.498Z] : [info]: ---------------------------------------------
+
+[2024-03-15T11:22:54.961Z] : [success]: Robot saved successfully
+
+[2024-03-15T11:23:06.749Z] : [success]: Connection to our licenses server is restored
+
+[2024-03-15T11:23:15.283Z] : [success]: Robot saved successfully
+
+[2024-03-15T11:23:19.832Z] : [success]: Bot started
+
+[2024-03-15T11:23:19.833Z] : [info]: Robot start
+
+[2024-03-15T11:23:26.048Z] : [error]: email_content is not defined
+
+[2024-03-15T11:23:26.611Z] : [info]: Total execution time: 6s 215ms
+
+[2024-03-15T11:23:26.612Z] : [info]: ---------------------------------------------
+
+[2024-03-15T11:23:32.263Z] : [success]: Robot saved successfully
+
+[2024-03-15T11:23:36.763Z] : [success]: Bot started
+
+[2024-03-15T11:23:36.764Z] : [info]: Robot start
+
+[2024-03-15T11:23:41.896Z] : [error]: email_content is not defined
+
+[2024-03-15T11:23:42.127Z] : [info]: Total execution time: 5s 132ms
+
+[2024-03-15T11:23:42.127Z] : [info]: ---------------------------------------------
+
+[2024-03-15T11:23:55.236Z] : [success]: Robot saved successfully
+
+[2024-03-15T11:23:59.255Z] : [success]: Bot started
+
+[2024-03-15T11:23:59.257Z] : [info]: Robot start
+
+[2024-03-15T11:24:05.404Z] : [error]: OpenAI: The model `text-davinci-003` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations
+
+[2024-03-15T11:24:05.766Z] : [info]: Total execution time: 6s 147ms
+
+[2024-03-15T11:24:05.767Z] : [info]: ---------------------------------------------
+
+[2024-03-15T11:24:19.587Z] : [success]: Robot saved successfully
+
+[2024-03-15T11:24:23.556Z] : [success]: Bot started
+
+[2024-03-15T11:24:23.557Z] : [info]: Robot start
+
+[2024-03-15T11:24:30.763Z] : [success]: Bot finished successfully, total execution time: 7s 202ms
+
+[2024-03-15T11:24:30.764Z] : [info]: ---------------------------------------------
+
+[2024-03-15T11:25:16.908Z] : [success]: Robot saved successfully
+
+[2024-03-15T11:25:20.949Z] : [success]: Bot started
+
+[2024-03-15T11:25:20.950Z] : [info]: Robot start
+
+[2024-03-15T11:25:26.105Z] : [error]: email_content is not defined
+
+[2024-03-15T11:25:26.372Z] : [info]: Total execution time: 5s 155ms
+
+[2024-03-15T11:25:26.373Z] : [info]: ---------------------------------------------
+
+[2024-03-15T11:25:33.593Z] : [success]: Robot saved successfully
+
+[2024-03-15T11:25:37.727Z] : [success]: Bot started
+
+[2024-03-15T11:25:37.727Z] : [info]: Robot start
+
+[2024-03-15T11:25:42.846Z] : [error]: email_content is not defined
+
+[2024-03-15T11:25:43.071Z] : [info]: Total execution time: 5s 118ms
+
+[2024-03-15T11:25:43.072Z] : [info]: ---------------------------------------------
+
+[2024-03-15T11:25:50.585Z] : [success]: Robot saved successfully
+
+[2024-03-15T11:25:54.623Z] : [success]: Bot started
+
+[2024-03-15T11:25:54.624Z] : [info]: Robot start
+
+[2024-03-15T11:26:03.811Z] : [success]: Bot finished successfully, total execution time: 9s 183ms
+
+[2024-03-15T11:26:03.812Z] : [info]: ---------------------------------------------
+
+[2024-03-15T11:26:13.347Z] : [success]: Robot saved successfully
+
+[2024-03-15T11:26:17.463Z] : [success]: Bot started
+
+[2024-03-15T11:26:17.463Z] : [info]: Robot start
+
+[2024-03-15T11:26:30.730Z] : [success]: Bot finished successfully, total execution time: 13s 265ms
+
+[2024-03-15T11:26:30.731Z] : [info]: ---------------------------------------------
+
+[2024-03-15T11:26:59.894Z] : [success]: Robot saved successfully
+
+[2024-03-15T11:27:04.080Z] : [success]: Bot started
+
+[2024-03-15T11:27:04.081Z] : [info]: Robot start
+
+[2024-03-15T11:27:12.238Z] : [success]: Bot finished successfully, total execution time: 8s 155ms
+
+[2024-03-15T11:27:12.238Z] : [info]: ---------------------------------------------
+
+[2024-03-15T11:27:34.612Z] : [success]: Robot saved successfully
+
+[2024-03-15T11:27:38.647Z] : [success]: Bot started
+
+[2024-03-15T11:27:38.648Z] : [info]: Robot start
+
+[2024-03-15T11:27:46.804Z] : [success]: Bot finished successfully, total execution time: 8s 152ms
+
+[2024-03-15T11:27:46.805Z] : [info]: ---------------------------------------------
+
+[2024-03-15T11:28:42.062Z] : [success]: Robot saved successfully
+
+[2024-03-15T11:28:46.136Z] : [success]: Bot started
+
+[2024-03-15T11:28:46.138Z] : [info]: Robot start
+
+[2024-03-15T11:29:05.453Z] : [success]: Bot finished successfully, total execution time: 19s 311ms
+
+[2024-03-15T11:29:05.456Z] : [info]: ---------------------------------------------
+
+[2024-03-15T11:29:10.134Z] : [success]: Robot saved successfully
+
+[2024-03-15T11:29:48.787Z] : [success]: Robot saved successfully
+
+[2024-03-15T11:29:55.440Z] : [success]: Bot started
+
+[2024-03-15T11:29:55.440Z] : [info]: Robot start
+
+[2024-03-15T11:30:02.596Z] : [success]: Bot finished successfully, total execution time: 7s 153ms
+
+[2024-03-15T11:30:02.598Z] : [info]: ---------------------------------------------
+
+[2024-03-15T11:31:25.788Z] : [success]: Robot saved successfully
+
+[2024-03-15T11:31:29.997Z] : [success]: Bot started
+
+[2024-03-15T11:31:29.998Z] : [info]: Robot start
+
+[2024-03-15T11:31:44.227Z] : [success]: Bot finished successfully, total execution time: 14s 227ms
+
+[2024-03-15T11:31:44.228Z] : [info]: ---------------------------------------------
+
+[2024-03-15T11:35:39.656Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 3/15/2024, 5:07:59 PM
+  ==========================================
+  
+
+[2024-03-15T11:42:54.215Z] : [success]: Robot saved successfully
+
+[2024-03-15T11:43:00.169Z] : [success]: Bot started
+
+[2024-03-15T11:43:00.170Z] : [info]: Robot start
+
+[2024-03-15T11:43:09.539Z] : [error]: dcontent is not defined
+
+[2024-03-15T11:43:10.036Z] : [info]: Total execution time: 9s 368ms
+
+[2024-03-15T11:43:10.037Z] : [info]: ---------------------------------------------
+
+[2024-03-15T11:43:30.389Z] : [success]: Robot saved successfully
+
+[2024-03-15T11:43:36.409Z] : [success]: Bot started
+
+[2024-03-15T11:43:36.410Z] : [info]: Robot start
+
+[2024-03-15T11:43:45.705Z] : [error]: Cannot read properties of undefined (reading 'emplid')
+
+[2024-03-15T11:43:46.100Z] : [info]: Total execution time: 9s 294ms
+
+[2024-03-15T11:43:46.101Z] : [info]: ---------------------------------------------
+
+[2024-03-15T11:44:19.331Z] : [success]: Robot saved successfully
+
+[2024-03-15T11:44:24.081Z] : [success]: Bot started
+
+[2024-03-15T11:44:24.082Z] : [info]: Robot start
+
+[2024-03-15T11:44:33.390Z] : [error]: Cannot read properties of undefined (reading 'Emplid')
+
+[2024-03-15T11:44:33.704Z] : [info]: Total execution time: 9s 307ms
+
+[2024-03-15T11:44:33.705Z] : [info]: ---------------------------------------------
+
+[2024-03-15T11:44:51.989Z] : [success]: Robot saved successfully
+
+[2024-03-15T11:44:56.925Z] : [success]: Bot started
+
+[2024-03-15T11:44:56.925Z] : [info]: Robot start
+
+[2024-03-15T11:45:06.236Z] : [error]: Cannot read properties of undefined (reading 'Emplid')
+
+[2024-03-15T11:45:06.637Z] : [info]: Total execution time: 9s 311ms
+
+[2024-03-15T11:45:06.638Z] : [info]: ---------------------------------------------
+
+[2024-03-15T11:45:55.045Z] : [success]: Robot saved successfully
+
+[2024-03-15T11:46:02.632Z] : [success]: Robot saved successfully
+
+[2024-03-15T11:46:04.631Z] : [success]: Robot saved successfully
+
+[2024-03-15T11:46:09.200Z] : [success]: Bot started
+
+[2024-03-15T11:46:09.201Z] : [info]: Robot start
+
+[2024-03-15T11:46:17.445Z] : [error]: Cannot read properties of undefined (reading 'Emplid')
+
+[2024-03-15T11:46:17.791Z] : [info]: Total execution time: 8s 243ms
+
+[2024-03-15T11:46:17.792Z] : [info]: ---------------------------------------------
+
+[2024-03-15T11:46:42.883Z] : [success]: Robot saved successfully
+
+[2024-03-15T11:46:47.965Z] : [success]: Bot started
+
+[2024-03-15T11:46:47.965Z] : [info]: Robot start
+
+[2024-03-15T11:46:56.257Z] : [error]: Cannot read properties of undefined (reading 'Emplid')
+
+[2024-03-15T11:46:56.566Z] : [info]: Total execution time: 8s 292ms
+
+[2024-03-15T11:46:56.567Z] : [info]: ---------------------------------------------
+
+[2024-03-15T11:47:12.159Z] : [success]: Robot saved successfully
+
+[2024-03-15T11:47:14.457Z] : [success]: Robot saved successfully
+
+[2024-03-15T11:47:19.763Z] : [success]: Bot started
+
+[2024-03-15T11:47:19.764Z] : [info]: Robot start
+
+[2024-03-15T11:47:28.012Z] : [error]: Cannot read properties of undefined (reading 'Emplid')
+
+[2024-03-15T11:47:28.415Z] : [info]: Total execution time: 8s 248ms
+
+[2024-03-15T11:47:28.416Z] : [info]: ---------------------------------------------
+
+[2024-03-15T11:48:24.969Z] : [success]: Robot saved successfully
+
+[2024-03-15T11:48:32.985Z] : [success]: Robot saved successfully
+
+[2024-03-15T11:48:47.125Z] : [success]: Robot saved successfully
+
+[2024-03-15T11:48:52.037Z] : [success]: Bot started
+
+[2024-03-15T11:48:52.037Z] : [info]: Robot start
+
+[2024-03-15T11:49:03.358Z] : [success]: Bot finished successfully, total execution time: 11s 317ms
+
+[2024-03-15T11:49:03.360Z] : [info]: ---------------------------------------------
+
+[2024-03-15T11:49:18.919Z] : [success]: Robot saved successfully
+
+[2024-03-15T11:49:22.680Z] : [success]: Bot started
+
+[2024-03-15T11:49:22.681Z] : [info]: Robot start
+
+[2024-03-15T11:49:33.100Z] : [error]: Cannot read properties of undefined (reading 'emplid')
+
+[2024-03-15T11:49:33.465Z] : [info]: Total execution time: 10s 418ms
+
+[2024-03-15T11:49:33.465Z] : [info]: ---------------------------------------------
+
+[2024-03-15T11:51:57.962Z] : [success]: Robot saved successfully
+
+[2024-03-15T11:52:11.996Z] : [success]: Robot saved successfully
+
+[2024-03-15T11:52:17.200Z] : [success]: Bot started
+
+[2024-03-15T11:52:17.201Z] : [info]: Robot start
+
+[2024-03-15T11:52:27.436Z] : [error]: Cannot read properties of undefined (reading 'emplid')
+
+[2024-03-15T11:52:27.879Z] : [info]: Total execution time: 10s 235ms
+
+[2024-03-15T11:52:27.880Z] : [info]: ---------------------------------------------
+
+[2024-03-15T11:53:29.501Z] : [success]: Robot saved successfully
+
+[2024-03-15T11:53:34.233Z] : [success]: Bot started
+
+[2024-03-15T11:53:34.234Z] : [info]: Robot start
+
+[2024-03-15T11:53:42.473Z] : [error]: Cannot read properties of undefined (reading 'emplid')
+
+[2024-03-15T11:53:42.815Z] : [info]: Total execution time: 8s 238ms
+
+[2024-03-15T11:53:42.815Z] : [info]: ---------------------------------------------
+
+[2024-03-15T11:54:58.024Z] : [success]: Robot saved successfully
+
+[2024-03-15T11:55:02.800Z] : [success]: Bot started
+
+[2024-03-15T11:55:02.800Z] : [info]: Robot start
+
+[2024-03-15T11:55:14.030Z] : [success]: Bot finished successfully, total execution time: 11s 227ms
+
+[2024-03-15T11:55:14.031Z] : [info]: ---------------------------------------------
+
+[2024-03-15T11:57:12.972Z] : [success]: Robot saved successfully
+
+[2024-03-15T11:57:16.013Z] : [success]: Robot saved successfully
+
+[2024-03-15T11:57:18.092Z] : [success]: Robot saved successfully
+
+[2024-03-15T11:57:22.756Z] : [success]: Bot started
+
+[2024-03-15T11:57:22.757Z] : [info]: Robot start
+
+[2024-03-15T11:57:30.979Z] : [error]: Cannot read properties of undefined (reading 'emplid')
+
+[2024-03-15T11:57:31.284Z] : [info]: Total execution time: 8s 222ms
+
+[2024-03-15T11:57:31.284Z] : [info]: ---------------------------------------------
+
+[2024-03-15T11:57:50.522Z] : [success]: Robot saved successfully
+
+[2024-03-15T11:57:55.321Z] : [success]: Bot started
+
+[2024-03-15T11:57:55.322Z] : [info]: Robot start
+
+[2024-03-15T11:58:07.592Z] : [success]: Bot finished successfully, total execution time: 12s 267ms
+
+[2024-03-15T11:58:07.593Z] : [info]: ---------------------------------------------
+
+[2024-03-15T11:59:02.780Z] : [success]: Robot saved successfully
+
+[2024-03-15T11:59:07.855Z] : [success]: Bot started
+
+[2024-03-15T11:59:07.855Z] : [info]: Robot start
+
+[2024-03-15T11:59:22.165Z] : [success]: Bot finished successfully, total execution time: 14s 308ms
+
+[2024-03-15T11:59:22.166Z] : [info]: ---------------------------------------------
+
+[2024-03-15T11:59:48.241Z] : [success]: Robot saved successfully
+
+[2024-03-15T11:59:52.525Z] : [success]: Bot started
+
+[2024-03-15T11:59:52.526Z] : [info]: Robot start
+
+[2024-03-15T12:00:01.906Z] : [success]: Bot finished successfully, total execution time: 9s 375ms
+
+[2024-03-15T12:00:01.907Z] : [info]: ---------------------------------------------
+
+[2024-03-15T12:00:12.180Z] : [success]: Robot saved successfully
+
+[2024-03-15T12:00:24.697Z] : [success]: Robot saved successfully
+
+[2024-03-15T12:00:24.920Z] : [success]: Bot started
+
+[2024-03-15T12:00:24.921Z] : [info]: Robot start
+
+[2024-03-15T12:00:26.845Z] : [error]: Unexpected token '['
+
+[2024-03-15T12:00:27.278Z] : [info]: Total execution time: 1s 924ms
+
+[2024-03-15T12:00:27.279Z] : [info]: ---------------------------------------------
+
+[2024-03-15T12:00:36.568Z] : [success]: Robot saved successfully
+
+[2024-03-15T12:00:36.860Z] : [success]: Bot started
+
+[2024-03-15T12:00:36.861Z] : [info]: Robot start
+
+[2024-03-15T12:00:46.684Z] : [success]: Bot finished successfully, total execution time: 9s 820ms
+
+[2024-03-15T12:00:46.685Z] : [info]: ---------------------------------------------
+
+[2024-03-15T12:01:43.773Z] : [success]: Robot saved successfully
+
+[2024-03-15T12:01:47.629Z] : [success]: Bot started
+
+[2024-03-15T12:01:47.631Z] : [info]: Robot start
+
+[2024-03-15T12:01:54.929Z] : [success]: Bot finished successfully, total execution time: 7s 295ms
+
+[2024-03-15T12:01:54.930Z] : [info]: ---------------------------------------------
+
+[2024-03-15T12:02:04.051Z] : [success]: Robot saved successfully
+
+[2024-03-15T12:02:08.118Z] : [success]: Bot started
+
+[2024-03-15T12:02:08.119Z] : [info]: Robot start
+
+[2024-03-15T12:02:16.336Z] : [error]: Cannot read properties of undefined (reading 'Current Requirement Term')
+
+[2024-03-15T12:02:16.705Z] : [info]: Total execution time: 8s 216ms
+
+[2024-03-15T12:02:16.705Z] : [info]: ---------------------------------------------
+
+[2024-03-15T12:03:36.659Z] : [success]: Robot saved successfully
+
+[2024-03-15T12:03:40.850Z] : [success]: Bot started
+
+[2024-03-15T12:03:40.851Z] : [info]: Robot start
+
+[2024-03-15T12:03:45.980Z] : [error]: Invalid or unexpected token
+
+[2024-03-15T12:03:46.282Z] : [info]: Total execution time: 5s 128ms
+
+[2024-03-15T12:03:46.283Z] : [info]: ---------------------------------------------
+
+[2024-03-15T12:04:46.188Z] : [success]: Robot saved successfully
+
+[2024-03-15T12:04:50.115Z] : [success]: Bot started
+
+[2024-03-15T12:04:50.117Z] : [info]: Robot start
+
+[2024-03-15T12:04:55.365Z] : [error]: Invalid or unexpected token
+
+[2024-03-15T12:04:55.869Z] : [info]: Total execution time: 5s 247ms
+
+[2024-03-15T12:04:55.870Z] : [info]: ---------------------------------------------
+
+[2024-03-15T12:05:57.449Z] : [success]: Robot saved successfully
+
+[2024-03-15T12:05:57.904Z] : [success]: Robot saved successfully
+
+[2024-03-15T12:06:02.047Z] : [success]: Bot started
+
+[2024-03-15T12:06:02.048Z] : [info]: Robot start
+
+[2024-03-15T12:06:11.313Z] : [success]: Bot finished successfully, total execution time: 9s 262ms
+
+[2024-03-15T12:06:11.314Z] : [info]: ---------------------------------------------
+
+[2024-03-15T12:06:32.643Z] : [info]: Internet connection // error
+
+[2024-03-15T12:06:50.099Z] : [success]: Robot saved successfully
+
+[2024-03-15T12:07:06.448Z] : [success]: Robot saved successfully
+
+[2024-03-15T12:07:09.180Z] : [success]: Bot started
+
+[2024-03-15T12:07:09.180Z] : [info]: Robot start
+
+[2024-03-15T12:07:11.377Z] : [error]: Connection lost due to Error: getaddrinfo ENOTFOUND mail.acldigital.com
+
+[2024-03-15T12:07:12.390Z] : [info]: Total execution time: 2s 196ms
+
+[2024-03-15T12:07:12.392Z] : [info]: ---------------------------------------------
+
+[2024-03-15T12:07:19.645Z] : [success]: Robot saved successfully
+
+[2024-03-15T12:07:23.688Z] : [success]: Connection to our licenses server is restored
+
+[2024-03-15T12:07:26.917Z] : [success]: Bot started
+
+[2024-03-15T12:07:26.918Z] : [info]: Robot start
+
+[2024-03-15T12:07:36.336Z] : [success]: Bot finished successfully, total execution time: 9s 415ms
+
+[2024-03-15T12:07:36.337Z] : [info]: ---------------------------------------------
+
+[2024-03-15T12:07:54.585Z] : [success]: Robot saved successfully
+
+[2024-03-15T12:08:06.332Z] : [success]: Bot started
+
+[2024-03-15T12:08:06.333Z] : [info]: Robot start
+
+[2024-03-15T12:08:16.923Z] : [success]: Bot finished successfully, total execution time: 10s 587ms
+
+[2024-03-15T12:08:16.924Z] : [info]: ---------------------------------------------
+
+[2024-03-15T12:11:36.421Z] : [success]: Robot saved successfully
+
+[2024-03-15T12:11:48.446Z] : [success]: Bot started
+
+[2024-03-15T12:11:48.447Z] : [info]: Robot start
+
+[2024-03-15T12:12:30.345Z] : [error]: Selectors: Cannot access read-only document 'Start Date Exchang.xlsx'.
+
+[2024-03-15T12:12:30.873Z] : [info]: Total execution time: 41s 897ms
+
+[2024-03-15T12:12:30.874Z] : [info]: ---------------------------------------------
+
+[2024-03-15T12:15:57.690Z] : [success]: Robot saved successfully
+
+[2024-03-15T12:16:04.879Z] : [success]: Bot started
+
+[2024-03-15T12:16:04.880Z] : [info]: Robot start
+
+[2024-03-15T12:16:18.271Z] : [success]: Bot finished successfully, total execution time: 13s 386ms
+
+[2024-03-15T12:16:18.273Z] : [info]: ---------------------------------------------
+
+[2024-03-15T12:17:48.863Z] : [success]: Robot saved successfully
+
+[2024-03-15T12:18:31.842Z] : [success]: Robot saved successfully
+
+[2024-03-15T12:18:34.806Z] : [success]: Robot saved successfully
+
+[2024-03-15T12:18:39.838Z] : [success]: Bot started
+
+[2024-03-15T12:18:39.839Z] : [info]: Robot start
+
+[2024-03-15T12:18:57.235Z] : [success]: Bot finished successfully, total execution time: 17s 393ms
+
+[2024-03-15T12:18:57.236Z] : [info]: ---------------------------------------------
+
+[2024-03-15T12:22:41.629Z] : [success]: Robot saved successfully
+
+[2024-03-15T12:22:45.768Z] : [success]: Bot started
+
+[2024-03-15T12:22:45.771Z] : [info]: Robot start
+
+[2024-03-15T12:23:06.477Z] : [success]: Bot finished successfully, total execution time: 20s 701ms
+
+[2024-03-15T12:23:06.478Z] : [info]: ---------------------------------------------
+
+[2024-03-15T12:25:52.659Z] : [info]: Internet connection // error
+

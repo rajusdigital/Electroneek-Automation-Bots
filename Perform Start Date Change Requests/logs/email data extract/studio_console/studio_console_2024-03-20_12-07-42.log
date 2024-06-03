@@ -1,0 +1,61 @@
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 3/20/2024, 4:58:39 PM
+  ==========================================
+  
+
+[2024-03-20T11:29:06.032Z] : [success]: Robot saved successfully
+
+[2024-03-20T11:31:02.381Z] : [success]: Robot saved successfully
+
+[2024-03-20T11:31:09.846Z] : [success]: Bot started
+
+[2024-03-20T11:31:09.848Z] : [info]: Robot start
+
+[2024-03-20T11:31:19.322Z] : [success]: Bot finished successfully, total execution time: 9s 470ms
+
+[2024-03-20T11:31:19.324Z] : [info]: ---------------------------------------------
+
+[2024-03-20T11:38:39.371Z] : [success]: Robot saved successfully
+
+[2024-03-20T11:38:46.162Z] : [success]: Bot started
+
+[2024-03-20T11:38:46.164Z] : [info]: Robot start
+
+[2024-03-20T11:38:50.476Z] : [success]: Bot finished successfully, total execution time: 4s 306ms
+
+[2024-03-20T11:38:50.478Z] : [info]: ---------------------------------------------
+
+[2024-03-20T11:43:10.266Z] : [success]: Robot saved successfully
+
+[2024-03-20T11:43:17.676Z] : [success]: Bot started
+
+[2024-03-20T11:43:17.677Z] : [info]: Robot start
+
+[2024-03-20T11:43:22.099Z] : [success]: Bot finished successfully, total execution time: 4s 418ms
+
+[2024-03-20T11:43:22.101Z] : [info]: ---------------------------------------------
+
+[2024-03-20T12:23:08.127Z] : [info]: Internet connection // error
+
+[2024-03-20T12:24:19.891Z] : [success]: Connection to our licenses server is restored
+
+[2024-03-20T12:43:23.096Z] : [info]: Internet connection // error
+
+[2024-03-20T12:43:32.879Z] : [success]: Connection to our licenses server is restored
+
+[2024-03-20T12:59:37.603Z] : [success]: Robot saved successfully
+
+[2024-03-20T13:06:05.432Z] : [info]: Internet connection // error
+
+[2024-03-20T16:37:58.412Z] : [success]: Connection to our licenses server is restored
+
+[2024-03-20T17:11:39.729Z] : [info]: Internet connection // error
+
+[2024-03-20T17:28:08.360Z] : [error]: Uncaught (in promise): n: {"headers":{"normalizedNames":{},"lazyUpdate":null,"headers":{}},"status":0,"statusText":"Unknown Error","url":"http://localhost:5000/api/ask-hardstop","ok":false,"name":"HttpErrorResponse","message":"Http failure response for http://localhost:5000/api/ask-hardstop: 0 Unknown Error","error":{"isTrusted":true}}
+
+[2024-03-20T17:28:08.373Z] : [error]: Uncaught (in promise): n: {"headers":{"normalizedNames":{},"lazyUpdate":null,"headers":{}},"status":0,"statusText":"Unknown Error","url":"http://localhost:5000/api/ask-hardstop","ok":false,"name":"HttpErrorResponse","message":"Http failure response for http://localhost:5000/api/ask-hardstop: 0 Unknown Error","error":{"isTrusted":true}}
+
+[2024-03-20T17:28:08.384Z] : [error]: Uncaught (in promise): n: {"headers":{"normalizedNames":{},"lazyUpdate":null,"headers":{}},"status":0,"statusText":"Unknown Error","url":"http://localhost:5000/api/ask-hardstop","ok":false,"name":"HttpErrorResponse","message":"Http failure response for http://localhost:5000/api/ask-hardstop: 0 Unknown Error","error":{"isTrusted":true}}
+

@@ -1,0 +1,75 @@
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 3/18/2024, 2:18:16 PM
+  ==========================================
+  
+
+[2024-03-18T08:48:20.639Z] : [success]: Robot saved successfully
+
+[2024-03-18T08:48:28.416Z] : [info]: ---------------------------------------------
+
+[2024-03-18T08:48:28.417Z] : [success]: Bot started
+
+[2024-03-18T08:48:28.419Z] : [info]: Robot start
+
+[2024-03-18T08:48:52.226Z] : [error]: Selectors: Value cannot be null.
+Parameter name: columnName
+
+[2024-03-18T08:48:52.965Z] : [info]: Total execution time: 23s 806ms
+
+[2024-03-18T08:48:52.967Z] : [info]: ---------------------------------------------
+
+[2024-03-18T08:49:54.011Z] : [success]: Robot saved successfully
+
+[2024-03-18T08:50:06.977Z] : [success]: Robot saved successfully
+
+[2024-03-18T08:50:07.507Z] : [success]: Robot saved successfully
+
+[2024-03-18T08:50:15.505Z] : [success]: Bot started
+
+[2024-03-18T08:50:15.507Z] : [info]: Robot start
+
+[2024-03-18T08:50:35.109Z] : [error]: Selectors: Value cannot be null.
+Parameter name: columnName
+
+[2024-03-18T08:50:35.816Z] : [info]: Total execution time: 19s 602ms
+
+[2024-03-18T08:50:35.817Z] : [info]: ---------------------------------------------
+
+[2024-03-18T08:53:19.759Z] : [success]: Robot saved successfully
+
+[2024-03-18T08:53:27.682Z] : [success]: Bot started
+
+[2024-03-18T08:53:27.684Z] : [info]: Robot start
+
+[2024-03-18T08:53:34.996Z] : [error]: Script Stopped.
+
+[2024-03-18T08:53:35.717Z] : [info]: Total execution time: 7s 310ms
+
+[2024-03-18T08:53:35.718Z] : [info]: ---------------------------------------------
+
+[2024-03-18T08:53:41.225Z] : [success]: Robot saved successfully
+
+[2024-03-18T08:53:48.569Z] : [success]: Bot started
+
+[2024-03-18T08:53:48.570Z] : [info]: Robot start
+
+[2024-03-18T08:54:11.195Z] : [success]: Bot finished successfully, total execution time: 22s 625ms
+
+[2024-03-18T08:54:11.199Z] : [info]: ---------------------------------------------
+
+[2024-03-18T09:06:26.902Z] : [success]: Connection to our licenses server is restored
+
+[2024-03-18T11:28:30.200Z] : [success]: Robot saved successfully
+
+[2024-03-18T11:28:38.414Z] : [info]: Internet connection // error
+
+[2024-03-18T11:28:38.601Z] : [success]: Bot started
+
+[2024-03-18T11:28:38.602Z] : [info]: Robot start
+
+[2024-03-18T11:29:04.237Z] : [success]: Bot finished successfully, total execution time: 25s 635ms
+
+[2024-03-18T11:29:04.240Z] : [info]: ---------------------------------------------
+

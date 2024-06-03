@@ -1,0 +1,712 @@
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 3/14/2024, 5:27:38 PM
+  ==========================================
+  
+
+[2024-03-14T11:57:42.561Z] : [success]: Robot saved successfully
+
+[2024-03-14T12:13:23.631Z] : [success]: Robot saved successfully
+
+[2024-03-14T12:13:31.078Z] : [info]: ---------------------------------------------
+
+[2024-03-14T12:13:31.079Z] : [success]: Bot started
+
+[2024-03-14T12:13:31.080Z] : [info]: Robot start
+
+[2024-03-14T12:13:57.077Z] : [success]: Bot finished successfully, total execution time: 25s 997ms
+
+[2024-03-14T12:13:57.079Z] : [info]: ---------------------------------------------
+
+[2024-03-14T12:15:58.827Z] : [success]: Robot saved successfully
+
+[2024-03-14T12:16:53.729Z] : [success]: Robot saved successfully
+
+[2024-03-14T12:18:18.296Z] : [success]: Robot saved successfully
+
+[2024-03-14T12:18:36.962Z] : [success]: Bot started
+
+[2024-03-14T12:18:36.964Z] : [info]: Robot start
+
+[2024-03-14T12:19:04.991Z] : [success]: Bot finished successfully, total execution time: 28s 27ms
+
+[2024-03-14T12:19:04.993Z] : [info]: ---------------------------------------------
+
+[2024-03-14T12:35:08.689Z] : [success]: Robot saved successfully
+
+[2024-03-14T12:35:26.726Z] : [success]: Robot saved successfully
+
+[2024-03-14T12:35:35.868Z] : [success]: Bot started
+
+[2024-03-14T12:35:35.869Z] : [info]: Robot start
+
+[2024-03-14T12:36:15.212Z] : [error]: CAN_NOT_FIND_TAB
+
+[2024-03-14T12:36:15.938Z] : [info]: Total execution time: 39s 341ms
+
+[2024-03-14T12:36:15.939Z] : [info]: ---------------------------------------------
+
+[2024-03-14T12:37:26.427Z] : [success]: Robot saved successfully
+
+[2024-03-14T12:37:34.199Z] : [success]: Bot started
+
+[2024-03-14T12:37:34.204Z] : [info]: Robot start
+
+[2024-03-14T12:38:03.974Z] : [error]: CAN_NOT_FIND_TAB
+
+[2024-03-14T12:38:04.391Z] : [info]: Total execution time: 29s 768ms
+
+[2024-03-14T12:38:04.393Z] : [info]: ---------------------------------------------
+
+[2024-03-14T12:38:45.996Z] : [success]: Robot saved successfully
+
+[2024-03-14T12:39:03.714Z] : [success]: Bot started
+
+[2024-03-14T12:39:03.716Z] : [info]: Robot start
+
+[2024-03-14T12:39:32.548Z] : [error]: CAN_NOT_FIND_TAB
+
+[2024-03-14T12:39:33.091Z] : [info]: Total execution time: 28s 831ms
+
+[2024-03-14T12:39:33.092Z] : [info]: ---------------------------------------------
+
+[2024-03-14T12:39:42.884Z] : [success]: Robot saved successfully
+
+[2024-03-14T12:40:21.419Z] : [success]: Robot saved successfully
+
+[2024-03-14T12:40:28.910Z] : [success]: Bot started
+
+[2024-03-14T12:40:28.911Z] : [info]: Robot start
+
+[2024-03-14T12:41:06.853Z] : [success]: Bot finished successfully, total execution time: 37s 941ms
+
+[2024-03-14T12:41:06.854Z] : [info]: ---------------------------------------------
+
+[2024-03-14T12:41:12.250Z] : [success]: Robot saved successfully
+
+[2024-03-14T13:15:10.250Z] : [success]: Connection to our licenses server is restored
+
+[2024-03-14T13:16:04.597Z] : [success]: Robot saved successfully
+
+[2024-03-14T13:16:11.966Z] : [info]: Internet connection // error
+
+[2024-03-14T13:16:12.070Z] : [success]: Bot started
+
+[2024-03-14T13:16:12.071Z] : [info]: Robot start
+
+[2024-03-14T13:16:45.799Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2024-03-14T13:16:46.364Z] : [info]: Total execution time: 33s 727ms
+
+[2024-03-14T13:16:46.367Z] : [info]: ---------------------------------------------
+
+[2024-03-14T13:16:52.546Z] : [success]: Robot saved successfully
+
+[2024-03-14T13:17:00.435Z] : [success]: Bot started
+
+[2024-03-14T13:17:00.437Z] : [info]: Robot start
+
+[2024-03-14T13:17:35.471Z] : [success]: Bot finished successfully, total execution time: 35s 33ms
+
+[2024-03-14T13:17:35.473Z] : [info]: ---------------------------------------------
+
+[2024-03-14T13:21:03.848Z] : [success]: Robot saved successfully
+
+[2024-03-14T13:21:11.774Z] : [success]: Bot started
+
+[2024-03-14T13:21:11.778Z] : [info]: Robot start
+
+[2024-03-14T13:21:17.118Z] : [success]: Bot finished successfully, total execution time: 5s 339ms
+
+[2024-03-14T13:21:17.119Z] : [info]: ---------------------------------------------
+
+[2024-03-14T13:25:39.064Z] : [success]: Connection to our licenses server is restored
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 3/15/2024, 10:18:41 AM
+  ==========================================
+  
+
+[2024-03-15T05:11:11.879Z] : [info]: Internet connection // error
+
+[2024-03-15T05:17:14.757Z] : [success]: Connection to our licenses server is restored
+
+[2024-03-15T05:32:14.880Z] : [success]: Robot saved successfully
+
+[2024-03-15T05:32:31.545Z] : [success]: Bot started
+
+[2024-03-15T05:32:31.547Z] : [info]: Robot start
+
+[2024-03-15T05:32:45.049Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2024-03-15T05:32:45.459Z] : [info]: Total execution time: 13s 502ms
+
+[2024-03-15T05:32:45.461Z] : [info]: ---------------------------------------------
+
+[2024-03-15T05:32:51.335Z] : [success]: Robot saved successfully
+
+[2024-03-15T05:32:57.831Z] : [success]: Bot started
+
+[2024-03-15T05:32:57.833Z] : [info]: Robot start
+
+[2024-03-15T05:33:10.342Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2024-03-15T05:33:10.758Z] : [info]: Total execution time: 12s 509ms
+
+[2024-03-15T05:33:10.759Z] : [info]: ---------------------------------------------
+
+[2024-03-15T05:34:01.670Z] : [success]: Robot saved successfully
+
+[2024-03-15T05:34:08.177Z] : [success]: Bot started
+
+[2024-03-15T05:34:08.178Z] : [info]: Robot start
+
+[2024-03-15T05:34:25.670Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2024-03-15T05:34:26.190Z] : [info]: Total execution time: 17s 492ms
+
+[2024-03-15T05:34:26.191Z] : [info]: ---------------------------------------------
+
+[2024-03-15T05:35:26.609Z] : [success]: Robot saved successfully
+
+[2024-03-15T05:35:32.262Z] : [success]: Bot started
+
+[2024-03-15T05:35:32.264Z] : [info]: Robot start
+
+[2024-03-15T05:35:51.770Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2024-03-15T05:35:52.211Z] : [info]: Total execution time: 19s 506ms
+
+[2024-03-15T05:35:52.212Z] : [info]: ---------------------------------------------
+
+[2024-03-15T05:37:32.623Z] : [success]: Robot saved successfully
+
+[2024-03-15T05:37:39.378Z] : [success]: Bot started
+
+[2024-03-15T05:37:39.379Z] : [info]: Robot start
+
+[2024-03-15T05:37:57.713Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2024-03-15T05:37:58.024Z] : [info]: Total execution time: 18s 334ms
+
+[2024-03-15T05:37:58.025Z] : [info]: ---------------------------------------------
+
+[2024-03-15T05:39:01.739Z] : [success]: Robot saved successfully
+
+[2024-03-15T05:39:07.731Z] : [success]: Bot started
+
+[2024-03-15T05:39:07.732Z] : [info]: Robot start
+
+[2024-03-15T05:39:23.267Z] : [success]: Bot finished successfully, total execution time: 15s 530ms
+
+[2024-03-15T05:39:23.269Z] : [info]: ---------------------------------------------
+
+[2024-03-15T05:42:02.138Z] : [success]: Robot saved successfully
+
+[2024-03-15T05:44:32.545Z] : [success]: Robot saved successfully
+
+[2024-03-15T05:45:10.309Z] : [success]: Robot saved successfully
+
+[2024-03-15T05:45:11.528Z] : [success]: Robot saved successfully
+
+[2024-03-15T05:45:11.671Z] : [success]: Robot saved successfully
+
+[2024-03-15T05:45:16.904Z] : [success]: Bot started
+
+[2024-03-15T05:45:16.906Z] : [info]: Robot start
+
+[2024-03-15T05:45:39.335Z] : [success]: Bot finished successfully, total execution time: 22s 424ms
+
+[2024-03-15T05:45:39.337Z] : [info]: ---------------------------------------------
+
+[2024-03-15T05:48:55.895Z] : [success]: Robot saved successfully
+
+[2024-03-15T05:52:18.528Z] : [success]: Robot saved successfully
+
+[2024-03-15T05:53:37.006Z] : [success]: Robot saved successfully
+
+[2024-03-15T05:55:55.175Z] : [success]: Robot saved successfully
+
+[2024-03-15T05:56:11.898Z] : [success]: Robot saved successfully
+
+[2024-03-15T05:56:30.115Z] : [success]: Robot saved successfully
+
+[2024-03-15T05:57:05.862Z] : [success]: Robot saved successfully
+
+[2024-03-15T05:58:41.210Z] : [success]: Robot saved successfully
+
+[2024-03-15T05:58:48.380Z] : [success]: Robot saved successfully
+
+[2024-03-15T05:59:05.525Z] : [success]: Bot started
+
+[2024-03-15T05:59:05.526Z] : [info]: Robot start
+
+[2024-03-15T05:59:56.864Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2024-03-15T05:59:57.154Z] : [info]: Total execution time: 51s 337ms
+
+[2024-03-15T05:59:57.155Z] : [info]: ---------------------------------------------
+
+[2024-03-15T06:01:01.668Z] : [success]: Robot saved successfully
+
+[2024-03-15T06:01:08.358Z] : [success]: Bot started
+
+[2024-03-15T06:01:08.359Z] : [info]: Robot start
+
+[2024-03-15T06:01:53.228Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2024-03-15T06:01:53.463Z] : [info]: Total execution time: 44s 868ms
+
+[2024-03-15T06:01:53.464Z] : [info]: ---------------------------------------------
+
+[2024-03-15T06:02:02.589Z] : [success]: Robot saved successfully
+
+[2024-03-15T06:02:31.376Z] : [success]: Robot saved successfully
+
+[2024-03-15T06:02:39.117Z] : [success]: Bot started
+
+[2024-03-15T06:02:39.118Z] : [info]: Robot start
+
+[2024-03-15T06:03:22.037Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2024-03-15T06:03:22.291Z] : [info]: Total execution time: 42s 919ms
+
+[2024-03-15T06:03:22.292Z] : [info]: ---------------------------------------------
+
+[2024-03-15T06:04:39.597Z] : [info]: Internet connection // error
+
+[2024-03-15T06:04:43.623Z] : [success]: Connection to our licenses server is restored
+
+[2024-03-15T06:05:02.193Z] : [success]: Robot saved successfully
+
+[2024-03-15T06:05:08.345Z] : [success]: Bot started
+
+[2024-03-15T06:05:08.346Z] : [info]: Robot start
+
+[2024-03-15T06:05:54.085Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2024-03-15T06:05:54.363Z] : [info]: Total execution time: 45s 739ms
+
+[2024-03-15T06:05:54.364Z] : [info]: ---------------------------------------------
+
+[2024-03-15T06:06:40.243Z] : [success]: Robot saved successfully
+
+[2024-03-15T06:06:46.540Z] : [success]: Bot started
+
+[2024-03-15T06:06:46.541Z] : [info]: Robot start
+
+[2024-03-15T06:07:22.452Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2024-03-15T06:07:22.714Z] : [info]: Total execution time: 35s 911ms
+
+[2024-03-15T06:07:22.714Z] : [info]: ---------------------------------------------
+
+[2024-03-15T06:09:00.571Z] : [success]: Robot saved successfully
+
+[2024-03-15T06:09:03.196Z] : [info]: Internet connection // error
+
+[2024-03-15T06:09:06.673Z] : [success]: Connection to our licenses server is restored
+
+[2024-03-15T06:09:06.870Z] : [success]: Bot started
+
+[2024-03-15T06:09:06.871Z] : [info]: Robot start
+
+[2024-03-15T06:09:47.645Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2024-03-15T06:09:47.922Z] : [info]: Total execution time: 40s 774ms
+
+[2024-03-15T06:09:47.923Z] : [info]: ---------------------------------------------
+
+[2024-03-15T06:11:31.910Z] : [success]: Robot saved successfully
+
+[2024-03-15T06:11:37.798Z] : [success]: Bot started
+
+[2024-03-15T06:11:37.799Z] : [info]: Robot start
+
+[2024-03-15T06:11:57.246Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2024-03-15T06:11:57.509Z] : [info]: Total execution time: 19s 446ms
+
+[2024-03-15T06:11:57.510Z] : [info]: ---------------------------------------------
+
+[2024-03-15T06:12:43.671Z] : [success]: Robot saved successfully
+
+[2024-03-15T06:12:50.276Z] : [info]: Internet connection // error
+
+[2024-03-15T06:12:50.384Z] : [success]: Bot started
+
+[2024-03-15T06:12:50.384Z] : [info]: Robot start
+
+[2024-03-15T06:13:10.864Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2024-03-15T06:13:11.097Z] : [info]: Total execution time: 20s 479ms
+
+[2024-03-15T06:13:11.098Z] : [info]: ---------------------------------------------
+
+[2024-03-15T06:14:05.860Z] : [success]: Robot saved successfully
+
+[2024-03-15T06:14:15.116Z] : [success]: Connection to our licenses server is restored
+
+[2024-03-15T06:14:15.306Z] : [success]: Bot started
+
+[2024-03-15T06:14:15.307Z] : [info]: Robot start
+
+[2024-03-15T06:14:41.017Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2024-03-15T06:14:41.354Z] : [info]: Total execution time: 25s 709ms
+
+[2024-03-15T06:14:41.354Z] : [info]: ---------------------------------------------
+
+[2024-03-15T06:15:33.418Z] : [success]: Robot saved successfully
+
+[2024-03-15T06:15:38.722Z] : [success]: Robot saved successfully
+
+[2024-03-15T06:15:45.095Z] : [success]: Bot started
+
+[2024-03-15T06:15:45.096Z] : [info]: Robot start
+
+[2024-03-15T06:16:05.757Z] : [success]: Bot finished successfully, total execution time: 20s 657ms
+
+[2024-03-15T06:16:05.759Z] : [info]: ---------------------------------------------
+
+[2024-03-15T06:16:34.346Z] : [success]: Robot saved successfully
+
+[2024-03-15T06:16:40.753Z] : [success]: Robot saved successfully
+
+[2024-03-15T06:16:48.996Z] : [success]: Bot started
+
+[2024-03-15T06:16:48.997Z] : [info]: Robot start
+
+[2024-03-15T06:17:42.490Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2024-03-15T06:17:42.868Z] : [info]: Total execution time: 53s 492ms
+
+[2024-03-15T06:17:42.869Z] : [info]: ---------------------------------------------
+
+[2024-03-15T06:18:55.250Z] : [success]: Robot saved successfully
+
+[2024-03-15T06:19:04.094Z] : [success]: Bot started
+
+[2024-03-15T06:19:04.095Z] : [info]: Robot start
+
+[2024-03-15T06:19:47.204Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2024-03-15T06:19:47.506Z] : [info]: Total execution time: 43s 108ms
+
+[2024-03-15T06:19:47.507Z] : [info]: ---------------------------------------------
+
+[2024-03-15T06:20:40.550Z] : [info]: Internet connection // error
+
+[2024-03-15T06:20:43.890Z] : [success]: Connection to our licenses server is restored
+
+[2024-03-15T06:21:36.858Z] : [success]: Robot saved successfully
+
+[2024-03-15T06:21:45.955Z] : [success]: Bot started
+
+[2024-03-15T06:21:45.957Z] : [info]: Robot start
+
+[2024-03-15T06:22:38.881Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2024-03-15T06:22:39.191Z] : [info]: Total execution time: 52s 922ms
+
+[2024-03-15T06:22:39.193Z] : [info]: ---------------------------------------------
+
+[2024-03-15T06:25:24.223Z] : [success]: Robot saved successfully
+
+[2024-03-15T06:25:45.724Z] : [success]: Robot saved successfully
+
+[2024-03-15T06:25:52.880Z] : [success]: Bot started
+
+[2024-03-15T06:25:52.881Z] : [info]: Robot start
+
+[2024-03-15T06:26:07.325Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2024-03-15T06:26:07.683Z] : [info]: Total execution time: 14s 443ms
+
+[2024-03-15T06:26:07.685Z] : [info]: ---------------------------------------------
+
+[2024-03-15T06:26:47.936Z] : [info]: Internet connection // error
+
+[2024-03-15T06:26:51.937Z] : [success]: Connection to our licenses server is restored
+
+[2024-03-15T06:26:58.392Z] : [success]: Robot saved successfully
+
+[2024-03-15T06:27:04.955Z] : [success]: Bot started
+
+[2024-03-15T06:27:04.956Z] : [info]: Robot start
+
+[2024-03-15T06:27:17.322Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2024-03-15T06:27:17.699Z] : [info]: Total execution time: 12s 365ms
+
+[2024-03-15T06:27:17.700Z] : [info]: ---------------------------------------------
+
+[2024-03-15T06:28:35.319Z] : [success]: Robot saved successfully
+
+[2024-03-15T06:28:40.868Z] : [success]: Bot started
+
+[2024-03-15T06:28:40.869Z] : [info]: Robot start
+
+[2024-03-15T06:28:55.602Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2024-03-15T06:28:56.164Z] : [info]: Total execution time: 14s 732ms
+
+[2024-03-15T06:28:56.166Z] : [info]: ---------------------------------------------
+
+[2024-03-15T06:29:47.136Z] : [success]: Robot saved successfully
+
+[2024-03-15T06:29:54.694Z] : [success]: Bot started
+
+[2024-03-15T06:29:54.696Z] : [info]: Robot start
+
+[2024-03-15T06:30:08.141Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2024-03-15T06:30:08.847Z] : [info]: Total execution time: 13s 445ms
+
+[2024-03-15T06:30:08.850Z] : [info]: ---------------------------------------------
+
+[2024-03-15T06:32:08.945Z] : [success]: Robot saved successfully
+
+[2024-03-15T06:32:14.138Z] : [success]: Bot started
+
+[2024-03-15T06:32:14.140Z] : [info]: Robot start
+
+[2024-03-15T06:32:27.564Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2024-03-15T06:32:28.171Z] : [info]: Total execution time: 13s 422ms
+
+[2024-03-15T06:32:28.173Z] : [info]: ---------------------------------------------
+
+[2024-03-15T07:05:31.549Z] : [success]: Robot saved successfully
+
+[2024-03-15T07:05:39.013Z] : [success]: Bot started
+
+[2024-03-15T07:05:39.014Z] : [info]: Robot start
+
+[2024-03-15T07:05:56.538Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2024-03-15T07:05:57.285Z] : [info]: Total execution time: 17s 522ms
+
+[2024-03-15T07:05:57.287Z] : [info]: ---------------------------------------------
+
+[2024-03-15T07:06:17.578Z] : [success]: Robot saved successfully
+
+[2024-03-15T07:06:25.406Z] : [success]: Bot started
+
+[2024-03-15T07:06:25.407Z] : [info]: Robot start
+
+[2024-03-15T07:06:39.817Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2024-03-15T07:06:40.521Z] : [info]: Total execution time: 14s 410ms
+
+[2024-03-15T07:06:40.522Z] : [info]: ---------------------------------------------
+
+[2024-03-15T07:06:43.894Z] : [success]: Robot saved successfully
+
+[2024-03-15T07:06:51.527Z] : [success]: Bot started
+
+[2024-03-15T07:06:51.528Z] : [info]: Robot start
+
+[2024-03-15T07:07:04.926Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2024-03-15T07:07:05.461Z] : [info]: Total execution time: 13s 397ms
+
+[2024-03-15T07:07:05.462Z] : [info]: ---------------------------------------------
+
+[2024-03-15T07:08:34.804Z] : [success]: Robot saved successfully
+
+[2024-03-15T07:08:42.954Z] : [success]: Bot started
+
+[2024-03-15T07:08:42.955Z] : [info]: Robot start
+
+[2024-03-15T07:08:52.445Z] : [success]: Bot finished successfully, total execution time: 9s 487ms
+
+[2024-03-15T07:08:52.446Z] : [info]: ---------------------------------------------
+
+[2024-03-15T07:09:16.560Z] : [success]: Bot started
+
+[2024-03-15T07:09:16.562Z] : [info]: Robot start
+
+[2024-03-15T07:09:28.992Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2024-03-15T07:09:29.608Z] : [info]: Total execution time: 12s 430ms
+
+[2024-03-15T07:09:29.610Z] : [info]: ---------------------------------------------
+
+[2024-03-15T08:04:14.637Z] : [success]: Robot saved successfully
+
+[2024-03-15T08:04:21.559Z] : [success]: Bot started
+
+[2024-03-15T08:04:21.561Z] : [info]: Robot start
+
+[2024-03-15T08:04:36.240Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2024-03-15T08:04:37.135Z] : [info]: Total execution time: 14s 678ms
+
+[2024-03-15T08:04:37.138Z] : [info]: ---------------------------------------------
+
+[2024-03-15T08:04:50.165Z] : [success]: Robot saved successfully
+
+[2024-03-15T08:04:58.012Z] : [success]: Bot started
+
+[2024-03-15T08:04:58.013Z] : [info]: Robot start
+
+[2024-03-15T08:05:04.367Z] : [success]: Bot finished successfully, total execution time: 6s 349ms
+
+[2024-03-15T08:05:04.368Z] : [info]: ---------------------------------------------
+
+[2024-03-15T08:05:20.223Z] : [success]: Robot saved successfully
+
+[2024-03-15T08:05:27.626Z] : [success]: Bot started
+
+[2024-03-15T08:05:27.627Z] : [info]: Robot start
+
+[2024-03-15T08:05:33.993Z] : [success]: Bot finished successfully, total execution time: 6s 362ms
+
+[2024-03-15T08:05:33.995Z] : [info]: ---------------------------------------------
+
+[2024-03-15T08:05:48.749Z] : [success]: Robot saved successfully
+
+[2024-03-15T08:06:03.264Z] : [success]: Robot saved successfully
+
+[2024-03-15T08:06:10.431Z] : [success]: Bot started
+
+[2024-03-15T08:06:10.432Z] : [info]: Robot start
+
+[2024-03-15T08:06:27.127Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2024-03-15T08:06:27.908Z] : [info]: Total execution time: 16s 694ms
+
+[2024-03-15T08:06:27.909Z] : [info]: ---------------------------------------------
+
+[2024-03-15T08:06:33.374Z] : [success]: Robot saved successfully
+
+[2024-03-15T08:07:10.536Z] : [success]: Robot saved successfully
+
+[2024-03-15T08:07:18.072Z] : [success]: Bot started
+
+[2024-03-15T08:07:18.073Z] : [info]: Robot start
+
+[2024-03-15T08:07:39.789Z] : [success]: Bot finished successfully, total execution time: 21s 712ms
+
+[2024-03-15T08:07:39.791Z] : [info]: ---------------------------------------------
+
+[2024-03-15T08:07:42.182Z] : [success]: Robot saved successfully
+
+[2024-03-15T08:07:51.433Z] : [success]: Bot started
+
+[2024-03-15T08:07:51.434Z] : [info]: Robot start
+
+[2024-03-15T08:08:07.860Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2024-03-15T08:08:08.456Z] : [info]: Total execution time: 16s 426ms
+
+[2024-03-15T08:08:08.457Z] : [info]: ---------------------------------------------
+
+[2024-03-15T08:08:58.925Z] : [success]: Robot saved successfully
+
+[2024-03-15T08:09:06.812Z] : [success]: Bot started
+
+[2024-03-15T08:09:06.813Z] : [info]: Robot start
+
+[2024-03-15T08:09:26.334Z] : [info]: Internet connection // error
+
+[2024-03-15T08:09:27.664Z] : [error]: Unknown Error: {"headers":{"normalizedNames":{},"lazyUpdate":null,"headers":{}},"status":0,"statusText":"Unknown Error","url":"http://localhost:5000/api/execute","ok":false,"name":"HttpErrorResponse","message":"Http failure response for http://localhost:5000/api/execute: 0 Unknown Error","error":{"isTrusted":true}}
+
+[2024-03-15T08:09:27.843Z] : [info]: ---------------------------------------------
+
+[2024-03-15T08:09:33.018Z] : [success]: Robot saved successfully
+
+[2024-03-15T08:09:38.941Z] : [success]: Connection to our licenses server is restored
+
+[2024-03-15T08:09:40.898Z] : [success]: Bot started
+
+[2024-03-15T08:09:40.899Z] : [info]: Robot start
+
+[2024-03-15T08:09:42.314Z] : [success]: Bot finished successfully, total execution time: 1s 409ms
+
+[2024-03-15T08:09:42.316Z] : [info]: ---------------------------------------------
+
+[2024-03-15T08:09:56.273Z] : [success]: Robot saved successfully
+
+[2024-03-15T08:10:02.970Z] : [success]: Bot started
+
+[2024-03-15T08:10:02.971Z] : [info]: Robot start
+
+[2024-03-15T08:10:04.075Z] : [success]: Bot finished successfully, total execution time: 1s 102ms
+
+[2024-03-15T08:10:04.075Z] : [info]: ---------------------------------------------
+
+[2024-03-15T08:10:23.035Z] : [success]: Robot saved successfully
+
+[2024-03-15T08:10:37.360Z] : [success]: Bot started
+
+[2024-03-15T08:10:37.360Z] : [info]: Robot start
+
+[2024-03-15T08:10:38.449Z] : [success]: Bot finished successfully, total execution time: 1s 86ms
+
+[2024-03-15T08:10:38.450Z] : [info]: ---------------------------------------------
+
+[2024-03-15T08:11:24.235Z] : [success]: Robot saved successfully
+
+[2024-03-15T08:11:29.787Z] : [success]: Robot saved successfully
+
+[2024-03-15T08:11:33.715Z] : [success]: Robot saved successfully
+
+[2024-03-15T08:11:40.219Z] : [success]: Bot started
+
+[2024-03-15T08:11:40.220Z] : [info]: Robot start
+
+[2024-03-15T08:11:41.376Z] : [error]: Script Stopped.
+
+[2024-03-15T08:11:42.216Z] : [info]: Total execution time: 1s 156ms
+
+[2024-03-15T08:11:42.217Z] : [info]: ---------------------------------------------
+
+[2024-03-15T08:12:39.572Z] : [success]: Robot saved successfully
+
+[2024-03-15T08:12:39.793Z] : [success]: Robot saved successfully
+
+[2024-03-15T08:12:49.161Z] : [success]: Bot started
+
+[2024-03-15T08:12:49.162Z] : [info]: Robot start
+
+[2024-03-15T08:12:50.405Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2024-03-15T08:12:51.531Z] : [info]: Total execution time: 1s 243ms
+
+[2024-03-15T08:12:51.533Z] : [info]: ---------------------------------------------
+
+[2024-03-15T08:14:02.186Z] : [success]: Robot saved successfully
+
+[2024-03-15T08:14:13.960Z] : [success]: Robot saved successfully
+
+[2024-03-15T08:14:25.884Z] : [success]: Bot started
+
+[2024-03-15T08:14:25.886Z] : [info]: Robot start
+
+[2024-03-15T08:14:27.318Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2024-03-15T08:14:28.961Z] : [info]: Total execution time: 1s 432ms
+
+[2024-03-15T08:14:28.963Z] : [info]: ---------------------------------------------
+
+[2024-03-15T08:14:43.355Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2024-03-15T08:14:43.357Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2024-03-15T08:14:43.360Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2024-03-15T08:14:43.366Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2024-03-15T08:14:43.369Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2024-03-15T08:14:43.385Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2024-03-15T08:14:43.405Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2024-03-15T08:14:43.407Z] : [error]: Cannot read properties of null (reading 'type')
+

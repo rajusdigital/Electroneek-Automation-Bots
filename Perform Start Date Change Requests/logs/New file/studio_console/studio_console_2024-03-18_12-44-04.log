@@ -1,0 +1,90 @@
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 3/18/2024, 12:44:18 PM
+  ==========================================
+  
+
+[2024-03-18T07:15:21.002Z] : [success]: Robot saved successfully
+
+[2024-03-18T07:15:29.981Z] : [info]: ---------------------------------------------
+
+[2024-03-18T07:15:29.982Z] : [success]: Bot started
+
+[2024-03-18T07:15:29.983Z] : [info]: Robot start
+
+[2024-03-18T07:15:40.778Z] : [error]: Cannot read properties of undefined (reading 'textPlain')
+
+[2024-03-18T07:15:42.505Z] : [info]: Total execution time: 10s 793ms
+
+[2024-03-18T07:15:42.507Z] : [info]: ---------------------------------------------
+
+[2024-03-18T07:16:19.688Z] : [success]: Robot saved successfully
+
+[2024-03-18T07:16:26.781Z] : [success]: Bot started
+
+[2024-03-18T07:16:26.788Z] : [info]: Robot start
+
+[2024-03-18T07:16:47.456Z] : [error]: Selectors: Value cannot be null.
+Parameter name: columnName
+
+[2024-03-18T07:16:48.451Z] : [info]: Total execution time: 20s 668ms
+
+[2024-03-18T07:16:48.452Z] : [info]: ---------------------------------------------
+
+[2024-03-18T07:17:11.861Z] : [success]: Robot saved successfully
+
+[2024-03-18T07:17:19.166Z] : [success]: Connection to our licenses server is restored
+
+[2024-03-18T07:17:19.706Z] : [success]: Bot started
+
+[2024-03-18T07:17:19.708Z] : [info]: Robot start
+
+[2024-03-18T07:17:40.403Z] : [error]: Selectors: Value cannot be null.
+Parameter name: columnName
+
+[2024-03-18T07:17:41.386Z] : [info]: Total execution time: 20s 694ms
+
+[2024-03-18T07:17:41.388Z] : [info]: ---------------------------------------------
+
+[2024-03-18T07:18:52.422Z] : [success]: Robot saved successfully
+
+[2024-03-18T07:18:59.559Z] : [info]: Internet connection // error
+
+[2024-03-18T07:18:59.961Z] : [success]: Bot started
+
+[2024-03-18T07:18:59.963Z] : [info]: Robot start
+
+[2024-03-18T07:19:22.638Z] : [error]: Selectors: Value cannot be null.
+Parameter name: columnName
+
+[2024-03-18T07:19:23.617Z] : [info]: Total execution time: 22s 673ms
+
+[2024-03-18T07:19:23.618Z] : [info]: ---------------------------------------------
+
+[2024-03-18T07:20:30.834Z] : [success]: Robot saved successfully
+
+[2024-03-18T07:20:38.333Z] : [success]: Bot started
+
+[2024-03-18T07:20:38.336Z] : [info]: Robot start
+
+[2024-03-18T07:20:59.123Z] : [error]: Selectors: Value cannot be null.
+Parameter name: columnName
+
+[2024-03-18T07:21:00.203Z] : [info]: Total execution time: 20s 786ms
+
+[2024-03-18T07:21:00.205Z] : [info]: ---------------------------------------------
+
+[2024-03-18T07:22:12.632Z] : [success]: Robot saved successfully
+
+[2024-03-18T07:22:20.145Z] : [success]: Bot started
+
+[2024-03-18T07:22:20.146Z] : [info]: Robot start
+
+[2024-03-18T07:22:40.697Z] : [error]: Selectors: Value cannot be null.
+Parameter name: columnName
+
+[2024-03-18T07:22:41.353Z] : [info]: Total execution time: 20s 550ms
+
+[2024-03-18T07:22:41.354Z] : [info]: ---------------------------------------------
+
