@@ -1,0 +1,97 @@
+
+  ==========================================
+  Studio Pro version: 9.3.16
+  Started at: 12/1/2023, 11:48:42 AM
+  ==========================================
+  
+
+[2023-12-01T06:20:07.230Z] : [info]: Internet connection // error
+
+[2023-12-01T06:20:13.567Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T06:21:54.736Z] : [success]: Robot saved successfully
+
+[2023-12-01T06:21:55.132Z] : [info]: ---------------------------------------------
+
+[2023-12-01T06:21:55.132Z] : [success]: Bot started
+
+[2023-12-01T06:21:55.133Z] : [info]: Robot start
+
+[2023-12-01T06:22:34.143Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-12-01T06:22:34.414Z] : [info]: Total execution time: 39s 9ms
+
+[2023-12-01T06:22:34.415Z] : [info]: ---------------------------------------------
+
+[2023-12-01T06:23:04.851Z] : [success]: Robot saved successfully
+
+[2023-12-01T06:23:13.305Z] : [success]: Bot started
+
+[2023-12-01T06:23:13.306Z] : [info]: Robot start
+
+[2023-12-01T06:24:05.024Z] : [error]: Selectors: Nothing found
+
+[2023-12-01T06:24:05.278Z] : [info]: Total execution time: 51s 717ms
+
+[2023-12-01T06:24:05.279Z] : [info]: ---------------------------------------------
+
+[2023-12-01T06:24:56.529Z] : [info]: Internet connection // error
+
+[2023-12-01T06:29:25.086Z] : [success]: Connection to our licenses server is restored
+
+[2023-12-01T06:30:04.064Z] : [success]: Bot started
+
+[2023-12-01T06:30:04.066Z] : [info]: Robot start
+
+[2023-12-01T06:30:16.339Z] : [error]: Script Stopped.
+
+[2023-12-01T06:30:16.556Z] : [info]: Total execution time: 12s 272ms
+
+[2023-12-01T06:30:16.557Z] : [info]: ---------------------------------------------
+
+[2023-12-01T06:31:57.973Z] : [success]: Robot saved successfully
+
+[2023-12-01T06:31:58.316Z] : [success]: Bot started
+
+[2023-12-01T06:31:58.318Z] : [info]: Robot start
+
+[2023-12-01T06:33:08.177Z] : [error]: Selectors: Nothing found
+
+[2023-12-01T06:33:08.422Z] : [info]: Total execution time: 1m 9s 858ms
+
+[2023-12-01T06:33:08.424Z] : [info]: ---------------------------------------------
+
+[2023-12-01T06:34:25.036Z] : [success]: Robot saved successfully
+
+[2023-12-01T06:34:53.569Z] : [success]: Bot started
+
+[2023-12-01T06:34:53.570Z] : [info]: Robot start
+
+[2023-12-01T06:36:02.390Z] : [error]: Selectors: Nothing found
+
+[2023-12-01T06:36:02.661Z] : [info]: Total execution time: 1m 8s 819ms
+
+[2023-12-01T06:36:02.662Z] : [info]: ---------------------------------------------
+
+[2023-12-01T06:39:11.165Z] : [success]: Bot started
+
+[2023-12-01T06:39:11.167Z] : [info]: Robot start
+
+[2023-12-01T06:40:29.131Z] : [error]: Outlook: Can't find accound
+
+[2023-12-01T06:40:29.663Z] : [info]: Total execution time: 1m 17s 963ms
+
+[2023-12-01T06:40:29.663Z] : [info]: ---------------------------------------------
+
+[2023-12-01T06:40:51.274Z] : [success]: Robot saved successfully
+
+[2023-12-01T06:41:19.825Z] : [success]: Bot started
+
+[2023-12-01T06:41:19.826Z] : [info]: Robot start
+
+[2023-12-01T06:42:48.963Z] : [success]: Bot finished successfully, total execution time: 1m 29s 135ms
+
+[2023-12-01T06:42:48.965Z] : [info]: ---------------------------------------------
+
+[2023-12-01T06:43:32.212Z] : [success]: The workflow has been exported successfully
+

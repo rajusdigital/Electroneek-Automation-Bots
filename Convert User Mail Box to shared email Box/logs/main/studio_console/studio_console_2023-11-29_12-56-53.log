@@ -1,0 +1,33 @@
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 11/29/2023, 12:57:39 PM
+  ==========================================
+  
+
+[2023-11-29T07:27:42.414Z] : [success]: Robot saved successfully
+
+[2023-11-29T07:27:45.553Z] : [info]: ---------------------------------------------
+
+[2023-11-29T07:27:45.554Z] : [success]: Bot started
+
+[2023-11-29T07:27:45.555Z] : [info]: Robot start
+
+[2023-11-29T07:28:11.730Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-11-29T07:28:12.651Z] : [info]: Total execution time: 26s 174ms
+
+[2023-11-29T07:28:12.652Z] : [info]: ---------------------------------------------
+
+[2023-11-29T07:28:14.125Z] : [success]: Robot saved successfully
+
+[2023-11-29T07:28:20.709Z] : [success]: Bot started
+
+[2023-11-29T07:28:20.711Z] : [info]: Robot start
+
+[2023-11-29T07:29:14.900Z] : [error]: Script Stopped.
+
+[2023-11-29T07:29:15.840Z] : [info]: Total execution time: 54s 188ms
+
+[2023-11-29T07:29:15.842Z] : [info]: ---------------------------------------------
+

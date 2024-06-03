@@ -1,0 +1,45 @@
+
+  ==========================================
+  Studio Pro version: 9.3.16
+  Started at: 11/30/2023, 11:13:29 AM
+  ==========================================
+  
+
+[2023-11-30T05:43:52.170Z] : [success]: Robot saved successfully
+
+[2023-11-30T05:43:52.442Z] : [info]: ---------------------------------------------
+
+[2023-11-30T05:43:52.442Z] : [success]: Bot started
+
+[2023-11-30T05:43:52.443Z] : [info]: Robot start
+
+[2023-11-30T05:44:06.004Z] : [success]: Bot finished successfully, total execution time: 13s 559ms
+
+[2023-11-30T05:44:06.005Z] : [info]: ---------------------------------------------
+
+[2023-11-30T05:45:04.680Z] : [success]: Robot saved successfully
+
+[2023-11-30T05:45:11.939Z] : [success]: Bot started
+
+[2023-11-30T05:45:11.940Z] : [info]: Robot start
+
+[2023-11-30T05:45:43.463Z] : [error]: Disposable been disposed
+
+[2023-11-30T05:45:43.723Z] : [info]: Total execution time: 31s 522ms
+
+[2023-11-30T05:45:43.724Z] : [info]: ---------------------------------------------
+
+[2023-11-30T05:48:06.636Z] : [success]: Robot saved successfully
+
+[2023-11-30T05:48:12.492Z] : [success]: Bot started
+
+[2023-11-30T05:48:12.493Z] : [info]: Robot start
+
+[2023-11-30T05:49:13.419Z] : [error]: Script Stopped.
+
+[2023-11-30T05:49:13.640Z] : [info]: Total execution time: 1m 925ms
+
+[2023-11-30T05:49:13.641Z] : [info]: ---------------------------------------------
+
+[2023-11-30T05:50:17.323Z] : [success]: The workflow has been exported successfully
+

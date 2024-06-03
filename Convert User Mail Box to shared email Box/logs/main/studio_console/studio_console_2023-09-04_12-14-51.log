@@ -1,0 +1,132 @@
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 9/5/2023, 10:09:42 AM
+  ==========================================
+  
+
+[2023-09-05T04:48:07.052Z] : [success]: Robot saved successfully
+
+[2023-09-05T04:49:31.883Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 9/5/2023, 11:09:17 AM
+  ==========================================
+  
+
+[2023-09-05T05:39:20.533Z] : [success]: Robot saved successfully
+
+[2023-09-05T05:52:53.384Z] : [info]: Internet connection // error
+
+[2023-09-05T05:54:15.416Z] : [success]: Connection to our licenses server is restored
+
+[2023-09-05T05:55:41.636Z] : [info]: Internet connection // error
+
+[2023-09-05T05:55:47.843Z] : [success]: Connection to our licenses server is restored
+
+[2023-09-05T05:56:19.431Z] : [info]: Internet connection // error
+
+[2023-09-05T05:56:24.069Z] : [success]: Connection to our licenses server is restored
+
+[2023-09-05T05:58:10.631Z] : [info]: Internet connection // error
+
+[2023-09-05T05:58:17.769Z] : [success]: Connection to our licenses server is restored
+
+[2023-09-05T05:59:13.006Z] : [info]: Internet connection // error
+
+[2023-09-05T06:01:20.292Z] : [success]: Connection to our licenses server is restored
+
+[2023-09-05T06:01:49.821Z] : [info]: Internet connection // error
+
+[2023-09-05T06:03:08.712Z] : [success]: Connection to our licenses server is restored
+
+[2023-09-05T07:21:08.853Z] : [success]: Robot saved successfully
+
+[2023-09-05T07:21:55.032Z] : [info]: Internet connection // error
+
+[2023-09-05T07:21:55.246Z] : [success]: Bot started
+
+[2023-09-05T07:21:55.249Z] : [info]: Robot start
+
+[2023-09-05T07:23:00.904Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-09-05T07:23:01.336Z] : [info]: Total execution time: 1m 5s 654ms
+
+[2023-09-05T07:23:01.337Z] : [info]: ---------------------------------------------
+
+[2023-09-05T07:25:36.827Z] : [success]: Robot saved successfully
+
+[2023-09-05T07:25:48.590Z] : [success]: Bot started
+
+[2023-09-05T07:25:48.591Z] : [info]: Robot start
+
+[2023-09-05T07:27:05.845Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-09-05T07:27:06.152Z] : [info]: Total execution time: 1m 17s 253ms
+
+[2023-09-05T07:27:06.153Z] : [info]: ---------------------------------------------
+
+[2023-09-05T07:28:49.658Z] : [success]: Robot saved successfully
+
+[2023-09-05T07:29:27.049Z] : [success]: Bot started
+
+[2023-09-05T07:29:27.051Z] : [info]: Robot start
+
+[2023-09-05T07:30:45.365Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-09-05T07:30:45.709Z] : [info]: Total execution time: 1m 18s 312ms
+
+[2023-09-05T07:30:45.709Z] : [info]: ---------------------------------------------
+
+[2023-09-05T07:34:04.691Z] : [success]: Connection to our licenses server is restored
+
+[2023-09-05T07:37:33.767Z] : [info]: Internet connection // error
+
+[2023-09-05T07:37:40.170Z] : [success]: Connection to our licenses server is restored
+
+[2023-09-05T07:38:09.796Z] : [info]: Internet connection // error
+
+[2023-09-05T08:17:51.302Z] : [success]: Connection to our licenses server is restored
+
+[2023-09-05T10:58:11.067Z] : [info]: Internet connection // error
+
+[2023-09-05T10:58:14.940Z] : [success]: Connection to our licenses server is restored
+
+[2023-09-05T10:59:09.936Z] : [info]: Internet connection // error
+
+[2023-09-05T10:59:42.299Z] : [success]: Connection to our licenses server is restored
+
+[2023-09-05T11:01:27.266Z] : [info]: Internet connection // error
+
+[2023-09-05T11:02:50.084Z] : [success]: Connection to our licenses server is restored
+
+[2023-09-05T11:04:12.410Z] : [info]: Internet connection // error
+
+[2023-09-05T11:05:47.887Z] : [success]: Connection to our licenses server is restored
+
+[2023-09-05T11:07:10.614Z] : [info]: Internet connection // error
+
+[2023-09-05T11:09:29.094Z] : [success]: Connection to our licenses server is restored
+
+[2023-09-05T11:12:54.062Z] : [success]: Robot saved successfully
+
+[2023-09-05T11:13:15.662Z] : [success]: Robot saved successfully
+
+[2023-09-05T11:13:15.828Z] : [success]: Robot saved successfully
+
+[2023-09-05T11:13:19.674Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-09-05T11:13:19.677Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-09-05T11:13:19.680Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-09-05T11:13:19.685Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-09-05T11:13:19.688Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-09-05T11:13:19.701Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-09-05T11:13:19.704Z] : [error]: Cannot read properties of null (reading 'type')
+
