@@ -1,0 +1,189 @@
+
+  ==========================================
+  Studio Pro version: 9.2.8
+  Started at: 3/16/2023, 8:35:41 AM
+  ==========================================
+  
+
+[2023-03-16T14:35:49.075Z] : [info]: ---------------------------------------------
+
+[2023-03-16T14:35:49.076Z] : [success]: Bot started
+
+[2023-03-16T14:35:49.076Z] : [info]: Robot start
+
+[2023-03-16T14:36:10.608Z] : [error]: Selectors: Nothing found
+
+[2023-03-16T14:36:10.612Z] : [info]: Total execution time: 21s 531ms
+
+[2023-03-16T14:36:10.613Z] : [info]: ---------------------------------------------
+
+[2023-03-16T14:36:23.161Z] : [success]: Robot saved successfully
+
+[2023-03-16T14:36:32.292Z] : [success]: Bot started
+
+[2023-03-16T14:36:32.292Z] : [info]: Robot start
+
+[2023-03-16T14:36:53.588Z] : [error]: Selectors: Nothing found
+
+[2023-03-16T14:36:53.590Z] : [info]: Total execution time: 21s 295ms
+
+[2023-03-16T14:36:53.590Z] : [info]: ---------------------------------------------
+
+[2023-03-16T14:37:12.069Z] : [success]: Robot saved successfully
+
+[2023-03-16T14:37:12.117Z] : [success]: Bot started
+
+[2023-03-16T14:37:12.118Z] : [info]: Robot start
+
+[2023-03-16T14:37:35.374Z] : [error]: Selectors: Nothing found
+
+[2023-03-16T14:37:35.376Z] : [info]: Total execution time: 23s 256ms
+
+[2023-03-16T14:37:35.376Z] : [info]: ---------------------------------------------
+
+[2023-03-16T14:37:56.481Z] : [success]: Robot saved successfully
+
+[2023-03-16T14:37:56.535Z] : [success]: Bot started
+
+[2023-03-16T14:37:56.536Z] : [info]: Robot start
+
+[2023-03-16T14:38:34.028Z] : [error]: Script Stopped.
+
+[2023-03-16T14:38:34.030Z] : [info]: ---------------------------------------------
+
+[2023-03-16T14:38:43.630Z] : [success]: Bot started
+
+[2023-03-16T14:38:43.630Z] : [info]: Robot start
+
+[2023-03-16T14:39:04.990Z] : [error]: Selectors: Nothing found
+
+[2023-03-16T14:39:04.992Z] : [info]: Total execution time: 21s 360ms
+
+[2023-03-16T14:39:04.993Z] : [info]: ---------------------------------------------
+
+[2023-03-16T14:39:57.553Z] : [success]: Robot saved successfully
+
+[2023-03-16T14:39:57.614Z] : [success]: Bot started
+
+[2023-03-16T14:39:57.614Z] : [info]: Robot start
+
+[2023-03-16T14:40:18.884Z] : [error]: Selectors: Nothing found
+
+[2023-03-16T14:40:18.886Z] : [info]: Total execution time: 21s 270ms
+
+[2023-03-16T14:40:18.887Z] : [info]: ---------------------------------------------
+
+[2023-03-16T14:42:06.078Z] : [success]: Robot saved successfully
+
+[2023-03-16T14:42:06.129Z] : [info]: ---------------------------------------------
+
+[2023-03-16T14:42:06.130Z] : [success]: Bot started
+
+[2023-03-16T14:42:06.130Z] : [info]: Robot start
+
+[2023-03-16T14:42:14.299Z] : [error]: Selectors: Nothing found
+
+[2023-03-16T14:42:14.301Z] : [info]: Total execution time: 8s 169ms
+
+[2023-03-16T14:42:14.302Z] : [info]: ---------------------------------------------
+
+[2023-03-16T14:42:26.659Z] : [success]: Bot started
+
+[2023-03-16T14:42:26.660Z] : [info]: Robot start
+
+[2023-03-16T14:42:47.916Z] : [error]: Selectors: Nothing found
+
+[2023-03-16T14:42:47.917Z] : [info]: Total execution time: 21s 255ms
+
+[2023-03-16T14:42:47.918Z] : [info]: ---------------------------------------------
+
+[2023-03-16T14:43:16.944Z] : [success]: Bot started
+
+[2023-03-16T14:43:16.944Z] : [info]: Robot start
+
+[2023-03-16T14:43:38.217Z] : [error]: Selectors: Nothing found
+
+[2023-03-16T14:43:38.219Z] : [info]: Total execution time: 21s 273ms
+
+[2023-03-16T14:43:38.219Z] : [info]: ---------------------------------------------
+
+[2023-03-16T14:43:44.070Z] : [success]: Robot saved successfully
+
+[2023-03-16T14:43:53.137Z] : [success]: Bot started
+
+[2023-03-16T14:43:53.138Z] : [info]: Robot start
+
+[2023-03-16T14:44:14.355Z] : [error]: Selectors: Nothing found
+
+[2023-03-16T14:44:14.356Z] : [info]: Total execution time: 21s 217ms
+
+[2023-03-16T14:44:14.357Z] : [info]: ---------------------------------------------
+
+[2023-03-16T14:44:34.967Z] : [success]: Robot saved successfully
+
+[2023-03-16T14:44:35.032Z] : [success]: Bot started
+
+[2023-03-16T14:44:35.032Z] : [info]: Robot start
+
+[2023-03-16T14:44:56.318Z] : [error]: Selectors: Nothing found
+
+[2023-03-16T14:44:56.319Z] : [info]: Total execution time: 21s 286ms
+
+[2023-03-16T14:44:56.319Z] : [info]: ---------------------------------------------
+
+[2023-03-16T14:45:24.538Z] : [success]: Robot saved successfully
+
+[2023-03-16T14:45:24.591Z] : [success]: Bot started
+
+[2023-03-16T14:45:24.591Z] : [info]: Robot start
+
+[2023-03-16T14:45:45.952Z] : [error]: Selectors: Nothing found
+
+[2023-03-16T14:45:45.977Z] : [info]: Total execution time: 21s 361ms
+
+[2023-03-16T14:45:45.979Z] : [info]: ---------------------------------------------
+
+[2023-03-16T14:46:08.717Z] : [success]: Robot saved successfully
+
+[2023-03-16T14:46:08.780Z] : [success]: Bot started
+
+[2023-03-16T14:46:08.781Z] : [info]: Robot start
+
+[2023-03-16T14:46:31.106Z] : [error]: Selectors: Nothing found
+
+[2023-03-16T14:46:31.107Z] : [info]: Total execution time: 22s 325ms
+
+[2023-03-16T14:46:31.108Z] : [info]: ---------------------------------------------
+
+[2023-03-16T14:46:52.586Z] : [success]: Robot saved successfully
+
+[2023-03-16T14:46:52.633Z] : [success]: Bot started
+
+[2023-03-16T14:46:52.633Z] : [info]: Robot start
+
+[2023-03-16T14:47:11.905Z] : [success]: Bot finished successfully, total execution time: 19s 271ms
+
+[2023-03-16T14:47:11.905Z] : [info]: ---------------------------------------------
+
+[2023-03-16T14:50:19.843Z] : [success]: Robot saved successfully
+
+[2023-03-16T14:50:19.896Z] : [success]: Bot started
+
+[2023-03-16T14:50:19.896Z] : [info]: Robot start
+
+[2023-03-16T14:50:42.181Z] : [success]: Bot finished successfully, total execution time: 22s 284ms
+
+[2023-03-16T14:50:42.182Z] : [info]: ---------------------------------------------
+
+[2023-03-16T14:53:16.443Z] : [success]: Robot saved successfully
+
+[2023-03-16T14:53:19.856Z] : [success]: Bot started
+
+[2023-03-16T14:53:19.856Z] : [info]: Robot start
+
+[2023-03-16T14:53:44.240Z] : [error]: Selectors: Failed to allocate 221333784 bytes
+
+[2023-03-16T14:53:44.243Z] : [info]: Total execution time: 24s 384ms
+
+[2023-03-16T14:53:44.244Z] : [info]: ---------------------------------------------
+

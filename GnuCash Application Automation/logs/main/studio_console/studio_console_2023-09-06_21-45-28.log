@@ -1,0 +1,125 @@
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 9/8/2023, 3:20:26 PM
+  ==========================================
+  
+
+[2023-09-08T09:51:57.501Z] : [success]: Robot saved successfully
+
+[2023-09-08T09:52:04.841Z] : [info]: Internet connection // error
+
+[2023-09-08T09:52:04.985Z] : [success]: Bot started
+
+[2023-09-08T09:52:04.986Z] : [info]: Robot start
+
+[2023-09-08T09:52:12.613Z] : [error]: The system cannot find the file specified
+
+[2023-09-08T09:52:12.850Z] : [info]: Total execution time: 7s 625ms
+
+[2023-09-08T09:52:12.850Z] : [info]: ---------------------------------------------
+
+[2023-09-08T10:13:46.235Z] : [success]: Connection to our licenses server is restored
+
+[2023-09-08T10:33:37.972Z] : [info]: Internet connection // error
+
+[2023-09-08T10:34:01.940Z] : [success]: Connection to our licenses server is restored
+
+[2023-09-08T11:16:11.461Z] : [success]: Robot saved successfully
+
+[2023-09-08T11:16:22.085Z] : [info]: Internet connection // error
+
+[2023-09-08T11:16:22.171Z] : [success]: Bot started
+
+[2023-09-08T11:16:22.172Z] : [info]: Robot start
+
+[2023-09-08T11:16:36.403Z] : [error]: Selectors: Nothing found
+
+[2023-09-08T11:16:36.797Z] : [info]: Total execution time: 14s 229ms
+
+[2023-09-08T11:16:36.797Z] : [info]: ---------------------------------------------
+
+[2023-09-08T11:22:23.878Z] : [success]: Bot started
+
+[2023-09-08T11:22:23.879Z] : [info]: Robot start
+
+[2023-09-08T11:22:35.107Z] : [error]: Selectors: Nothing found
+
+[2023-09-08T11:22:35.435Z] : [info]: Total execution time: 11s 226ms
+
+[2023-09-08T11:22:35.436Z] : [info]: ---------------------------------------------
+
+[2023-09-08T11:25:14.417Z] : [success]: Robot saved successfully
+
+[2023-09-08T11:25:25.037Z] : [success]: Bot started
+
+[2023-09-08T11:25:25.038Z] : [info]: Robot start
+
+[2023-09-08T11:25:34.250Z] : [error]: Selectors: Nothing found
+
+[2023-09-08T11:25:34.569Z] : [info]: Total execution time: 9s 212ms
+
+[2023-09-08T11:25:34.569Z] : [info]: ---------------------------------------------
+
+[2023-09-08T11:26:36.427Z] : [success]: Robot saved successfully
+
+[2023-09-08T11:26:43.986Z] : [success]: Bot started
+
+[2023-09-08T11:26:43.986Z] : [info]: Robot start
+
+[2023-09-08T11:26:54.154Z] : [error]: Selectors: Nothing found
+
+[2023-09-08T11:26:54.573Z] : [info]: Total execution time: 10s 168ms
+
+[2023-09-08T11:26:54.574Z] : [info]: ---------------------------------------------
+
+[2023-09-08T11:28:45.211Z] : [success]: Robot saved successfully
+
+[2023-09-08T11:28:52.440Z] : [success]: Bot started
+
+[2023-09-08T11:28:52.440Z] : [info]: Robot start
+
+[2023-09-08T11:29:01.621Z] : [error]: Selectors: Nothing found
+
+[2023-09-08T11:29:01.982Z] : [info]: Total execution time: 9s 179ms
+
+[2023-09-08T11:29:01.982Z] : [info]: ---------------------------------------------
+
+[2023-09-08T11:30:17.498Z] : [success]: Robot saved successfully
+
+[2023-09-08T11:30:24.529Z] : [success]: Bot started
+
+[2023-09-08T11:30:24.530Z] : [info]: Robot start
+
+[2023-09-08T11:30:38.854Z] : [error]: Selectors: Nothing found
+
+[2023-09-08T11:30:39.295Z] : [info]: Total execution time: 14s 323ms
+
+[2023-09-08T11:30:39.296Z] : [info]: ---------------------------------------------
+
+[2023-09-08T11:31:56.292Z] : [success]: Robot saved successfully
+
+[2023-09-08T11:32:03.520Z] : [success]: Bot started
+
+[2023-09-08T11:32:03.521Z] : [info]: Robot start
+
+[2023-09-08T11:32:16.809Z] : [error]: Selectors: Nothing found
+
+[2023-09-08T11:32:17.210Z] : [info]: Total execution time: 13s 288ms
+
+[2023-09-08T11:32:17.211Z] : [info]: ---------------------------------------------
+
+[2023-09-08T11:38:23.553Z] : [success]: Robot saved successfully
+
+[2023-09-08T11:38:23.637Z] : [success]: Bot started
+
+[2023-09-08T11:38:23.638Z] : [info]: Robot start
+
+[2023-09-08T11:38:35.991Z] : [error]: Selectors: Nothing found
+
+[2023-09-08T11:38:36.374Z] : [info]: Total execution time: 12s 352ms
+
+[2023-09-08T11:38:36.374Z] : [info]: ---------------------------------------------
+
+[2023-09-08T11:38:42.674Z] : [error]: Cannot read properties of null (reading 'type')
+
