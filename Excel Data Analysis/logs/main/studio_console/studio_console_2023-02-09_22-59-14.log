@@ -1,0 +1,52 @@
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 09/02/2023 23:02:51
+  ==========================================
+  
+
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 09/02/2023 23:48:18
+  ==========================================
+  
+
+[2023-02-10T02:50:00.728Z] : [success]: Bot started
+
+[2023-02-10T02:50:00.729Z] : [info]: Robot start
+
+[2023-02-10T02:50:25.994Z] : [info]: 
+
+For February 2022, the total sales is 52,684, the total cost is 11,300, the total projected is 73,000, the difference between projected and sales is 20,316, which is 27.75% lower than the projected. The best sales for February 2022 is Smith Glass Co. with 10,000 and the worst sales is Sony with 215. To reach the goal of 200,000 in sales, 147,316 more sales is needed.
+
+For March 2022, the total sales is 63,305, the total cost is 9,000, the total projected is 83,000, the difference between projected and sales is 19,695, which is 23.78% lower than the projected. The best sales for March 2022 is Saudi Aramco with 19,000 and the worst sales is CVS Health with -300. To reach the goal of 200,000 in sales, 136,695 more sales is needed.
+
+Comparing February and March, the total sales increase by 10,621 and the total cost decrease by 2,300. The difference between the projected and sales in March is lower than in February, which is a good sign. However, to reach the goal of 200,000 in sales, both months need a significant amount of more sales.
+
+[2023-02-10T02:50:25.996Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-02-10T02:50:26.171Z] : [success]: Bot finished successfully, total execution time: 25s 441ms
+
+[2023-02-10T02:50:26.172Z] : [info]: ---------------------------------------------
+
+[2023-02-10T02:51:22.933Z] : [success]: Robot saved successfully
+
+[2023-02-10T02:51:23.051Z] : [success]: Bot started
+
+[2023-02-10T02:51:23.052Z] : [info]: Robot start
+
+[2023-02-10T02:51:49.156Z] : [info]: 
+
+An analysis of the February and March sales worksheets shows that the total sales for February was 52,684 while the total sales for March was 63,305. The total cost for February was 11,300 while the total cost for March was 9,000. The total projected sales for February was 73,000 while the total projected sales for March was 83,000. The difference between the projected and sales for February was 20,316 while the difference between the projected and sales for March was 19,695. This difference represents 28% of the February projected sales and 24% of the March projected sales. 
+
+The best sales of February was Smith Glass Co. with 10,000 and the worst was Sony with 215. The best sales of March was Saudi Aramco with 19,000 and the worst was CVS Health with -300. To reach the goal of 200,000 in sales, 136,695 will be left to be achieved. 
+
+In comparison, the sales for March was higher than the sales for February and the cost for March was lower than the cost for February. The projected sales for March was also higher than the projected sales for February.
+
+[2023-02-10T02:51:52.248Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-02-10T02:51:52.404Z] : [success]: Bot finished successfully, total execution time: 29s 350ms
+
+[2023-02-10T02:51:52.404Z] : [info]: ---------------------------------------------
+

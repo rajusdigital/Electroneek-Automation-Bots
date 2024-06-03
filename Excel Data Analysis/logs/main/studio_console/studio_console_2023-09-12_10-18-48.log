@@ -1,0 +1,75 @@
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 9/12/2023, 2:07:49 PM
+  ==========================================
+  
+
+[2023-09-12T08:40:40.221Z] : [success]: Robot saved successfully
+
+[2023-09-12T08:40:45.733Z] : [success]: Bot started
+
+[2023-09-12T08:40:45.733Z] : [info]: Robot start
+
+[2023-09-12T08:40:58.965Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-09-12T08:40:59.268Z] : [error]: Too Many Requests
+
+[2023-09-12T08:40:59.981Z] : [info]: Total execution time: 13s 535ms
+
+[2023-09-12T08:40:59.982Z] : [info]: ---------------------------------------------
+
+[2023-09-12T08:41:49.628Z] : [success]: Robot saved successfully
+
+[2023-09-12T08:41:54.581Z] : [success]: Bot started
+
+[2023-09-12T08:41:54.582Z] : [info]: Robot start
+
+[2023-09-12T08:42:14.860Z] : [info]: 
+
+An analysis of the two worksheets reveal that in February, the total Sales were 52,684, the total Projected was 73,000, the total Cost was 11,300 and the total Revenue was 41,384. The difference between projected and sales was 20,316, and the difference in percentage was 27.79%. The best sale of the month was Smith Glass Co. with 10,000 in sales, and the worst sale of the month was Sony with 215 in sales. To reach the goal of 200,000 in sales, 146,316 more in sales is needed.
+
+In March, the total Sales were 63,305, the total Projected was 83,000, the total Cost was 9,000 and the total Revenue was -2,146,826,273. The difference between projected and sales was 19,695, and the difference in percentage was 23.75%. The best sale of the month was Saudi Aramco with 19,000 in sales, and the worst sale of the month was CVS Health with -300 in sales. To reach the goal of 200,000 in sales, 136,695 more in sales is needed.
+
+Overall, the total Sales of both months was 115,989, the total Projected was 156,000, the total Cost was 20,300 and the total Revenue was -2,134,441,089. The difference between projected and sales was 40,011, and the difference in percentage was 25.64%. To reach the goal of 200,000 in sales, 84,011 more in sales is needed.
+
+[2023-09-12T08:42:19.753Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-09-12T08:42:20.041Z] : [success]: Bot finished successfully, total execution time: 25s 454ms
+
+[2023-09-12T08:42:20.042Z] : [info]: ---------------------------------------------
+
+[2023-09-12T08:46:13.605Z] : [success]: Bot started
+
+[2023-09-12T08:46:13.606Z] : [info]: Robot start
+
+[2023-09-12T08:46:33.581Z] : [info]: 
+
+Analysis of the February and March sales:
+
+Total Sales in February: 52,684
+Total Cost in February: 11,300
+Total Projected in February: 73,000
+Total Revenue in February: 41,384
+
+Total Sales in March: 63,305
+Total Cost in March: 9,000
+Total Projected in March: 83,000
+Total Revenue in March: -2,146,826,273
+
+The difference between projected and sales for February is 20,316, which is 27.76% of the projected sales. For March, the difference is 19,695 which is 23.72% of the projected sales. 
+
+The best sales in February were from Smith Glass Co. (10,000) and the worst sales were from Dell (1,225). The best sales in March were from Saudi Aramco (19,000) and the worst sales were from CVS Health (-300).
+
+In order to reach the goal of 200k in sales, 87,095 more sales would be needed.
+
+[2023-09-12T08:46:39.823Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-09-12T08:46:40.003Z] : [success]: Bot finished successfully, total execution time: 26s 391ms
+
+[2023-09-12T08:46:40.005Z] : [info]: ---------------------------------------------
+
+[2023-09-12T08:48:28.764Z] : [success]: Robot saved successfully
+
+[2023-09-12T08:48:54.400Z] : [success]: The workflow has been exported successfully
+
