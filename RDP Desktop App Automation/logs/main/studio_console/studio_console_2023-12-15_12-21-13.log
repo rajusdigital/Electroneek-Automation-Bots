@@ -1,0 +1,33 @@
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 12/18/2023, 11:54:02 AM
+  ==========================================
+  
+
+[2023-12-18T06:24:12.026Z] : [success]: Robot saved successfully
+
+[2023-12-18T06:24:16.526Z] : [success]: Bot started
+
+[2023-12-18T06:24:16.528Z] : [info]: Robot start
+
+[2023-12-18T06:24:19.574Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-12-18T06:24:20.015Z] : [error]: The system cannot find the file specified
+
+[2023-12-18T06:24:20.551Z] : [info]: Total execution time: 3s 486ms
+
+[2023-12-18T06:24:20.552Z] : [info]: ---------------------------------------------
+
+[2023-12-18T06:24:52.502Z] : [success]: Robot saved successfully
+
+[2023-12-18T06:24:56.671Z] : [success]: Bot started
+
+[2023-12-18T06:24:56.672Z] : [info]: Robot start
+
+[2023-12-18T06:24:59.919Z] : [error]: The system cannot find the file specified
+
+[2023-12-18T06:25:00.463Z] : [info]: Total execution time: 3s 247ms
+
+[2023-12-18T06:25:00.464Z] : [info]: ---------------------------------------------
+

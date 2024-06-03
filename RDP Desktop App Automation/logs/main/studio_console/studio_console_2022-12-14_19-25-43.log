@@ -1,0 +1,101 @@
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 12/14/2022, 7:26:37 PM
+  ==========================================
+  
+
+[2022-12-15T02:38:20.173Z] : [success]: Robot saved successfully
+
+[2022-12-15T02:38:20.217Z] : [info]: ---------------------------------------------
+
+[2022-12-15T02:38:20.217Z] : [success]: Bot started
+
+[2022-12-15T02:38:20.218Z] : [info]: Robot start
+
+[2022-12-15T02:38:23.291Z] : [success]: Bot finished successfully, total execution time: 3s 72ms
+
+[2022-12-15T02:38:23.291Z] : [info]: ---------------------------------------------
+
+[2022-12-15T02:39:53.735Z] : [success]: Robot saved successfully
+
+[2022-12-15T02:39:53.819Z] : [success]: Bot started
+
+[2022-12-15T02:39:53.819Z] : [info]: Robot start
+
+[2022-12-15T02:39:57.892Z] : [success]: Bot finished successfully, total execution time: 4s 72ms
+
+[2022-12-15T02:39:57.893Z] : [info]: ---------------------------------------------
+
+[2022-12-15T02:44:34.278Z] : [success]: Robot saved successfully
+
+[2022-12-15T02:44:34.364Z] : [success]: Bot started
+
+[2022-12-15T02:44:34.364Z] : [info]: Robot start
+
+[2022-12-15T02:44:53.624Z] : [success]: Bot finished successfully, total execution time: 19s 259ms
+
+[2022-12-15T02:44:53.625Z] : [info]: ---------------------------------------------
+
+[2022-12-15T02:48:46.805Z] : [success]: Robot saved successfully
+
+[2022-12-15T02:48:46.877Z] : [info]: ---------------------------------------------
+
+[2022-12-15T02:48:46.878Z] : [success]: Bot started
+
+[2022-12-15T02:48:46.878Z] : [info]: Robot start
+
+[2022-12-15T02:48:49.932Z] : [success]: Bot finished successfully, total execution time: 3s 53ms
+
+[2022-12-15T02:48:49.932Z] : [info]: ---------------------------------------------
+
+[2022-12-15T02:50:07.891Z] : [success]: Robot saved successfully
+
+[2022-12-15T02:50:07.962Z] : [success]: Bot started
+
+[2022-12-15T02:50:07.963Z] : [info]: Robot start
+
+[2022-12-15T02:50:12.043Z] : [success]: Bot finished successfully, total execution time: 4s 79ms
+
+[2022-12-15T02:50:12.043Z] : [info]: ---------------------------------------------
+
+[2022-12-15T02:54:24.720Z] : [success]: Robot saved successfully
+
+[2022-12-15T02:54:24.797Z] : [success]: Bot started
+
+[2022-12-15T02:54:24.798Z] : [info]: Robot start
+
+[2022-12-15T02:54:35.937Z] : [success]: Bot finished successfully, total execution time: 11s 139ms
+
+[2022-12-15T02:54:35.938Z] : [info]: ---------------------------------------------
+
+[2022-12-15T03:02:56.605Z] : [success]: Robot saved successfully
+
+[2022-12-15T03:02:56.674Z] : [success]: Bot started
+
+[2022-12-15T03:02:56.674Z] : [info]: Robot start
+
+[2022-12-15T03:03:17.918Z] : [success]: Bot finished successfully, total execution time: 21s 243ms
+
+[2022-12-15T03:03:17.919Z] : [info]: ---------------------------------------------
+
+[2022-12-15T03:06:36.051Z] : [success]: Robot saved successfully
+
+[2022-12-15T03:06:36.133Z] : [success]: Bot started
+
+[2022-12-15T03:06:36.133Z] : [info]: Robot start
+
+[2022-12-15T03:07:19.585Z] : [success]: Bot finished successfully, total execution time: 43s 451ms
+
+[2022-12-15T03:07:19.586Z] : [info]: ---------------------------------------------
+
+[2022-12-15T03:07:39.724Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-12-15T03:07:39.725Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-12-15T03:07:39.726Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-12-15T03:07:39.727Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-12-15T03:07:39.728Z] : [error]: Cannot read properties of null (reading 'type')
+
