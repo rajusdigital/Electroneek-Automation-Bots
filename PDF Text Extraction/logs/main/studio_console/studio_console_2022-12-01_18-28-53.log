@@ -1,0 +1,44 @@
+
+  ==========================================
+  Studio Pro version: 8.6.9
+  Started at: 12/1/2022, 6:29:05 PM
+  ==========================================
+  
+
+[2022-12-01T13:14:07.729Z] : [success]: Robot saved successfully
+
+[2022-12-01T13:14:07.903Z] : [info]: ---------------------------------------------
+
+[2022-12-01T13:14:07.905Z] : [success]: Bot started
+
+[2022-12-01T13:14:07.907Z] : [info]: Robot start
+
+[2022-12-01T13:14:10.073Z] : [error]: "No file exists at: E:\\Video-rec\\test_Pdf.pdf"
+
+
+[2022-12-01T13:14:10.076Z] : [error]: Total execution time: 2s 165ms
+
+[2022-12-01T13:14:10.078Z] : [info]: ---------------------------------------------
+
+[2022-12-01T13:14:36.932Z] : [success]: Robot saved successfully
+
+[2022-12-01T13:14:37.102Z] : [info]: ---------------------------------------------
+
+[2022-12-01T13:14:37.103Z] : [success]: Bot started
+
+[2022-12-01T13:14:37.105Z] : [info]: Robot start
+
+[2022-12-01T13:14:40.213Z] : [success]: Bot finished successfully, total execution time: 3s 106ms
+
+[2022-12-01T13:14:40.215Z] : [info]: ---------------------------------------------
+
+[2022-12-01T13:35:07.175Z] : [success]: Robot saved successfully
+
+[2022-12-01T13:35:08.477Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-12-01T13:35:08.480Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-12-01T13:35:08.482Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-12-01T13:35:08.484Z] : [error]: Cannot read properties of null (reading 'type')
+

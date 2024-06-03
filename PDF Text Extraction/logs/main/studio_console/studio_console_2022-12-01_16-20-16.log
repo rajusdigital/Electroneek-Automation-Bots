@@ -1,0 +1,159 @@
+
+  ==========================================
+  Studio Pro version: 8.6.9
+  Started at: 12/1/2022, 4:22:51 PM
+  ==========================================
+  
+
+[2022-12-01T10:55:39.299Z] : [success]: Robot saved successfully
+
+[2022-12-01T10:55:39.539Z] : [info]: ---------------------------------------------
+
+[2022-12-01T10:55:39.540Z] : [success]: Bot started
+
+[2022-12-01T10:55:39.541Z] : [info]: Robot start
+
+[2022-12-01T10:55:42.716Z] : [error]: Extract start greater than extract end
+
+[2022-12-01T10:55:42.718Z] : [error]: Total execution time: 3s 174ms
+
+[2022-12-01T10:55:42.720Z] : [info]: ---------------------------------------------
+
+[2022-12-01T10:57:01.792Z] : [success]: Robot saved successfully
+
+[2022-12-01T10:57:05.423Z] : [info]: ---------------------------------------------
+
+[2022-12-01T10:57:05.425Z] : [success]: Bot started
+
+[2022-12-01T10:57:05.426Z] : [info]: Robot start
+
+[2022-12-01T10:57:08.575Z] : [error]: The extraction end point has not been found. Make sure the specified text in the "Before" parameter actually exists in the input string
+
+[2022-12-01T10:57:08.578Z] : [error]: Total execution time: 3s 148ms
+
+[2022-12-01T10:57:08.579Z] : [info]: ---------------------------------------------
+
+[2022-12-01T10:57:36.672Z] : [success]: Robot saved successfully
+
+[2022-12-01T10:57:36.892Z] : [success]: Bot started
+
+[2022-12-01T10:57:36.893Z] : [info]: Robot start
+
+[2022-12-01T10:57:40.027Z] : [success]: Bot finished successfully, total execution time: 3s 132ms
+
+[2022-12-01T10:57:40.028Z] : [info]: ---------------------------------------------
+
+[2022-12-01T10:59:48.673Z] : [success]: Robot saved successfully
+
+[2022-12-01T10:59:48.702Z] : [error]: Activity parameters required: Assign value to variable
+
+[2022-12-01T10:59:48.705Z] : [info]: ---------------------------------------------
+
+[2022-12-01T10:59:55.487Z] : [success]: Robot saved successfully
+
+[2022-12-01T10:59:59.951Z] : [info]: ---------------------------------------------
+
+[2022-12-01T10:59:59.953Z] : [success]: Bot started
+
+[2022-12-01T10:59:59.954Z] : [info]: Robot start
+
+[2022-12-01T11:00:03.103Z] : [success]: Bot finished successfully, total execution time: 3s 148ms
+
+[2022-12-01T11:00:03.104Z] : [info]: ---------------------------------------------
+
+[2022-12-01T11:00:18.612Z] : [success]: Robot saved successfully
+
+[2022-12-01T11:00:22.586Z] : [success]: Bot started
+
+[2022-12-01T11:00:22.589Z] : [info]: Robot start
+
+[2022-12-01T11:00:25.712Z] : [success]: Bot finished successfully, total execution time: 3s 121ms
+
+[2022-12-01T11:00:25.713Z] : [info]: ---------------------------------------------
+
+[2022-12-01T11:02:34.117Z] : [success]: Robot saved successfully
+
+[2022-12-01T11:02:34.310Z] : [success]: Bot started
+
+[2022-12-01T11:02:34.312Z] : [info]: Robot start
+
+[2022-12-01T11:02:37.443Z] : [error]: The extraction start point has not been found. Make sure the specified text in the "After" parameter actually exists in the input string
+
+[2022-12-01T11:02:37.445Z] : [error]: Total execution time: 3s 130ms
+
+[2022-12-01T11:02:37.446Z] : [info]: ---------------------------------------------
+
+[2022-12-01T11:03:53.262Z] : [success]: Robot saved successfully
+
+[2022-12-01T11:03:53.423Z] : [success]: Bot started
+
+[2022-12-01T11:03:53.424Z] : [info]: Robot start
+
+[2022-12-01T11:03:56.558Z] : [error]: The extraction start point has not been found. Make sure the specified text in the "After" parameter actually exists in the input string
+
+[2022-12-01T11:03:56.561Z] : [error]: Total execution time: 3s 134ms
+
+[2022-12-01T11:03:56.562Z] : [info]: ---------------------------------------------
+
+[2022-12-01T11:04:28.195Z] : [success]: Robot saved successfully
+
+[2022-12-01T11:04:28.354Z] : [info]: ---------------------------------------------
+
+[2022-12-01T11:04:28.356Z] : [success]: Bot started
+
+[2022-12-01T11:04:28.357Z] : [info]: Robot start
+
+[2022-12-01T11:04:31.492Z] : [success]: Bot finished successfully, total execution time: 3s 133ms
+
+[2022-12-01T11:04:31.493Z] : [info]: ---------------------------------------------
+
+[2022-12-01T11:29:30.654Z] : [success]: Robot saved successfully
+
+[2022-12-01T11:29:30.828Z] : [success]: Bot started
+
+[2022-12-01T11:29:30.830Z] : [info]: Robot start
+
+[2022-12-01T11:29:33.962Z] : [error]: The extraction start point has not been found. Make sure the specified text in the "After" parameter actually exists in the input string
+
+[2022-12-01T11:29:33.964Z] : [error]: Total execution time: 3s 131ms
+
+[2022-12-01T11:29:33.965Z] : [info]: ---------------------------------------------
+
+[2022-12-01T11:30:09.445Z] : [success]: Robot saved successfully
+
+[2022-12-01T11:30:09.613Z] : [info]: ---------------------------------------------
+
+[2022-12-01T11:30:09.614Z] : [success]: Bot started
+
+[2022-12-01T11:30:09.615Z] : [info]: Robot start
+
+[2022-12-01T11:30:12.766Z] : [success]: Bot finished successfully, total execution time: 3s 150ms
+
+[2022-12-01T11:30:12.768Z] : [info]: ---------------------------------------------
+
+[2022-12-01T11:32:09.824Z] : [success]: Robot saved successfully
+
+[2022-12-01T11:32:52.419Z] : [success]: Robot saved successfully
+
+[2022-12-01T11:32:55.628Z] : [info]: ---------------------------------------------
+
+[2022-12-01T11:32:55.629Z] : [success]: Bot started
+
+[2022-12-01T11:32:55.630Z] : [info]: Robot start
+
+[2022-12-01T11:32:58.752Z] : [success]: Bot finished successfully, total execution time: 3s 120ms
+
+[2022-12-01T11:32:58.753Z] : [info]: ---------------------------------------------
+
+[2022-12-01T11:33:18.704Z] : [success]: Robot saved successfully
+
+[2022-12-01T11:35:37.483Z] : [success]: Robot saved successfully
+
+[2022-12-01T11:35:44.074Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-12-01T11:35:44.078Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-12-01T11:35:44.080Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-12-01T11:35:44.082Z] : [error]: Cannot read properties of null (reading 'type')
+

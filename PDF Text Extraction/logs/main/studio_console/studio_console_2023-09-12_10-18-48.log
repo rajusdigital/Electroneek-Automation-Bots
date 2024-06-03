@@ -1,0 +1,57 @@
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 9/12/2023, 10:36:25 AM
+  ==========================================
+  
+
+[2023-09-12T05:09:19.050Z] : [success]: Robot saved successfully
+
+[2023-09-12T05:09:25.991Z] : [info]: ---------------------------------------------
+
+[2023-09-12T05:09:25.992Z] : [success]: Bot started
+
+[2023-09-12T05:09:25.992Z] : [info]: Robot start
+
+[2023-09-12T05:10:13.027Z] : [error]: Canceled by user
+
+[2023-09-12T05:10:13.254Z] : [info]: Total execution time: 47s 33ms
+
+[2023-09-12T05:10:13.255Z] : [info]: ---------------------------------------------
+
+[2023-09-12T05:10:25.378Z] : [success]: Robot saved successfully
+
+[2023-09-12T05:10:30.848Z] : [success]: Bot started
+
+[2023-09-12T05:10:30.848Z] : [info]: Robot start
+
+[2023-09-12T05:10:46.215Z] : [error]: The extraction start point has not been found. Make sure the specified text in the "After" parameter actually exists in the input string
+
+[2023-09-12T05:10:46.478Z] : [info]: Total execution time: 15s 367ms
+
+[2023-09-12T05:10:46.479Z] : [info]: ---------------------------------------------
+
+[2023-09-12T05:22:06.962Z] : [success]: Robot saved successfully
+
+[2023-09-12T05:22:20.083Z] : [success]: Bot started
+
+[2023-09-12T05:22:20.084Z] : [info]: Robot start
+
+[2023-09-12T05:22:41.592Z] : [success]: Bot finished successfully, total execution time: 21s 499ms
+
+[2023-09-12T05:22:41.595Z] : [info]: ---------------------------------------------
+
+[2023-09-12T05:24:21.740Z] : [success]: Robot saved successfully
+
+[2023-09-12T05:24:59.587Z] : [success]: Bot started
+
+[2023-09-12T05:24:59.588Z] : [info]: Robot start
+
+[2023-09-12T05:25:16.860Z] : [success]: Bot finished successfully, total execution time: 17s 267ms
+
+[2023-09-12T05:25:16.862Z] : [info]: ---------------------------------------------
+
+[2023-09-12T05:26:14.409Z] : [success]: Robot saved successfully
+
+[2023-09-12T05:26:50.973Z] : [success]: The workflow has been exported successfully
+
