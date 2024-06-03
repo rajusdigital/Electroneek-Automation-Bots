@@ -1,0 +1,61 @@
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 12/13/2022, 12:22:16 PM
+  ==========================================
+  
+
+[2022-12-13T18:52:30.966Z] : [success]: Robot saved successfully
+
+[2022-12-13T18:58:16.629Z] : [success]: Robot saved successfully
+
+[2022-12-13T18:58:25.328Z] : [success]: Robot saved successfully
+
+[2022-12-13T19:01:19.551Z] : [success]: Robot saved successfully
+
+[2022-12-13T19:01:26.614Z] : [error]: Activity parameters required: Replace words in template
+
+[2022-12-13T19:01:26.616Z] : [info]: ---------------------------------------------
+
+[2022-12-13T19:01:42.540Z] : [success]: Robot saved successfully
+
+[2022-12-13T19:01:42.838Z] : [success]: Robot saved successfully
+
+[2022-12-13T19:02:54.543Z] : [success]: Robot saved successfully
+
+[2022-12-13T19:02:58.283Z] : [info]: ---------------------------------------------
+
+[2022-12-13T19:02:58.284Z] : [success]: Bot started
+
+[2022-12-13T19:02:58.285Z] : [info]: Robot start
+
+[2022-12-13T19:03:19.500Z] : [error]: Bad parameters
+
+[2022-12-13T19:03:19.502Z] : [error]: Total execution time: 21s 214ms
+
+[2022-12-13T19:03:19.503Z] : [info]: ---------------------------------------------
+
+[2022-12-13T19:03:28.396Z] : [success]: Bot started
+
+[2022-12-13T19:03:28.396Z] : [info]: Robot start
+
+[2022-12-13T19:03:35.530Z] : [error]: name is not defined
+
+[2022-12-13T19:03:35.534Z] : [error]: Total execution time: 7s 133ms
+
+[2022-12-13T19:03:35.536Z] : [info]: ---------------------------------------------
+
+[2022-12-13T19:04:48.995Z] : [success]: Robot saved successfully
+
+[2022-12-13T19:04:53.828Z] : [success]: Bot started
+
+[2022-12-13T19:04:53.828Z] : [info]: Robot start
+
+[2022-12-13T19:05:01.053Z] : [success]: Bot finished successfully, total execution time: 7s 221ms
+
+[2022-12-13T19:05:01.055Z] : [info]: ---------------------------------------------
+
+[2022-12-13T19:05:48.880Z] : [success]: The workflow has been exported successfully
+
+[2022-12-13T19:05:54.422Z] : [error]: Cannot read properties of null (reading 'type')
+
