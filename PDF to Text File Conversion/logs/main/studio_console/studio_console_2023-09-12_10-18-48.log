@@ -1,0 +1,53 @@
+[2023-09-12T05:37:36.204Z] : [warn]: You opened a file that contained UI elements to interact with. But Studio Pro can't find the elements. This happens because the .neek file can't find the .elm file associated with the workflow. Please, put the .elm file to the corresponding elements folder in the same folder where the workflow is placed or select the elements manually again. Reopen the workflow
+
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 9/12/2023, 11:07:36 AM
+  ==========================================
+  
+
+[2023-09-12T05:38:23.440Z] : [success]: Robot saved successfully
+
+[2023-09-12T05:38:29.173Z] : [success]: Bot started
+
+[2023-09-12T05:38:29.181Z] : [info]: Robot start
+
+[2023-09-12T05:38:34.509Z] : [error]: Selectors: Selector is empty
+
+[2023-09-12T05:38:34.711Z] : [info]: Total execution time: 5s 326ms
+
+[2023-09-12T05:38:34.712Z] : [info]: ---------------------------------------------
+
+[2023-09-12T05:40:29.170Z] : [success]: Robot saved successfully
+
+[2023-09-12T05:41:11.941Z] : [success]: Robot saved successfully
+
+[2023-09-12T05:41:24.687Z] : [success]: Bot started
+
+[2023-09-12T05:41:24.688Z] : [info]: Robot start
+
+[2023-09-12T05:41:43.013Z] : [success]: Bot finished successfully, total execution time: 18s 320ms
+
+[2023-09-12T05:41:43.015Z] : [info]: ---------------------------------------------
+
+[2023-09-12T05:46:05.683Z] : [success]: Robot saved successfully
+
+[2023-09-12T05:46:10.037Z] : [success]: Bot started
+
+[2023-09-12T05:46:10.038Z] : [info]: Robot start
+
+[2023-09-12T05:46:28.395Z] : [success]: Bot finished successfully, total execution time: 18s 352ms
+
+[2023-09-12T05:46:28.396Z] : [info]: ---------------------------------------------
+
+[2023-09-12T05:48:14.115Z] : [success]: Bot started
+
+[2023-09-12T05:48:14.116Z] : [info]: Robot start
+
+[2023-09-12T05:48:32.485Z] : [success]: Bot finished successfully, total execution time: 18s 362ms
+
+[2023-09-12T05:48:32.488Z] : [info]: ---------------------------------------------
+
+[2023-09-12T05:51:04.657Z] : [success]: The workflow has been exported successfully
+

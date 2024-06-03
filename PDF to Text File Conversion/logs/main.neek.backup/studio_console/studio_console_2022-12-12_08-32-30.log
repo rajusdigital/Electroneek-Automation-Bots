@@ -1,0 +1,134 @@
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 12/12/2022, 8:34:15 AM
+  ==========================================
+  
+
+[2022-12-12T15:50:44.171Z] : [info]: ---------------------------------------------
+
+[2022-12-12T15:50:44.172Z] : [success]: Bot started
+
+[2022-12-12T15:50:44.172Z] : [info]: Robot start
+
+[2022-12-12T15:50:46.226Z] : [success]: Bot finished successfully, total execution time: 2s 53ms
+
+[2022-12-12T15:50:46.227Z] : [info]: ---------------------------------------------
+
+[2022-12-12T15:55:27.977Z] : [error]: Uncaught (in promise): TypeError: Cannot set properties of null (setting 'value')
+TypeError: Cannot set properties of null (setting 'value')
+    at e.setVariableValue (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.368b290c72d304242a31.js:1:2433156)
+    at t.set (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.368b290c72d304242a31.js:1:4028922)
+    at file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.368b290c72d304242a31.js:1:4028892
+    at file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.368b290c72d304242a31.js:1:2938525
+    at e.invoke (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.368b290c72d304242a31.js:1:577201)
+    at Object.onInvoke (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.368b290c72d304242a31.js:1:2054436)
+    at e.invoke (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.368b290c72d304242a31.js:1:577141)
+    at t.run (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.368b290c72d304242a31.js:1:572301)
+    at e.value (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.368b290c72d304242a31.js:1:2054881)
+    at file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.368b290c72d304242a31.js:1:2938510
+
+[2022-12-12T16:02:42.292Z] : [info]: ---------------------------------------------
+
+[2022-12-12T16:02:42.293Z] : [success]: Bot started
+
+[2022-12-12T16:02:42.294Z] : [info]: Robot start
+
+[2022-12-12T16:02:46.380Z] : [success]: Bot finished successfully, total execution time: 4s 85ms
+
+[2022-12-12T16:02:46.380Z] : [info]: ---------------------------------------------
+
+[2022-12-12T16:03:20.789Z] : [success]: Bot started
+
+[2022-12-12T16:03:20.790Z] : [info]: Robot start
+
+[2022-12-12T16:03:24.855Z] : [success]: Bot finished successfully, total execution time: 4s 64ms
+
+[2022-12-12T16:03:24.856Z] : [info]: ---------------------------------------------
+
+[2022-12-12T16:05:53.451Z] : [success]: Bot started
+
+[2022-12-12T16:05:53.452Z] : [info]: Robot start
+
+[2022-12-12T16:05:57.540Z] : [success]: Bot finished successfully, total execution time: 4s 87ms
+
+[2022-12-12T16:05:57.541Z] : [info]: ---------------------------------------------
+
+[2022-12-12T16:06:42.434Z] : [success]: Bot started
+
+[2022-12-12T16:06:42.435Z] : [info]: Robot start
+
+[2022-12-12T16:06:46.511Z] : [success]: Bot finished successfully, total execution time: 4s 75ms
+
+[2022-12-12T16:06:46.512Z] : [info]: ---------------------------------------------
+
+[2022-12-12T16:07:42.079Z] : [success]: Bot started
+
+[2022-12-12T16:07:42.079Z] : [info]: Robot start
+
+[2022-12-12T16:07:46.165Z] : [success]: Bot finished successfully, total execution time: 4s 85ms
+
+[2022-12-12T16:07:46.166Z] : [info]: ---------------------------------------------
+
+[2022-12-12T16:14:06.168Z] : [info]: ---------------------------------------------
+
+[2022-12-12T16:14:06.168Z] : [success]: Bot started
+
+[2022-12-12T16:14:06.169Z] : [info]: Robot start
+
+[2022-12-12T16:14:07.211Z] : [success]: Bot finished successfully, total execution time: 1s 41ms
+
+[2022-12-12T16:14:07.211Z] : [info]: ---------------------------------------------
+
+[2022-12-12T16:16:19.304Z] : [success]: Bot started
+
+[2022-12-12T16:16:19.305Z] : [info]: Robot start
+
+[2022-12-12T16:16:23.393Z] : [success]: Bot finished successfully, total execution time: 4s 87ms
+
+[2022-12-12T16:16:23.393Z] : [info]: ---------------------------------------------
+
+[2022-12-12T16:17:21.105Z] : [success]: Bot started
+
+[2022-12-12T16:17:21.106Z] : [info]: Robot start
+
+[2022-12-12T16:17:25.214Z] : [success]: Bot finished successfully, total execution time: 4s 108ms
+
+[2022-12-12T16:17:25.215Z] : [info]: ---------------------------------------------
+
+[2022-12-12T16:18:53.399Z] : [success]: Bot started
+
+[2022-12-12T16:18:53.399Z] : [info]: Robot start
+
+[2022-12-12T16:18:57.485Z] : [success]: Bot finished successfully, total execution time: 4s 85ms
+
+[2022-12-12T16:18:57.486Z] : [info]: ---------------------------------------------
+
+[2022-12-12T16:19:52.176Z] : [success]: Bot started
+
+[2022-12-12T16:19:52.177Z] : [info]: Robot start
+
+[2022-12-12T16:19:56.245Z] : [success]: Bot finished successfully, total execution time: 4s 67ms
+
+[2022-12-12T16:19:56.246Z] : [info]: ---------------------------------------------
+
+[2022-12-12T16:22:00.706Z] : [success]: Bot started
+
+[2022-12-12T16:22:00.707Z] : [info]: Robot start
+
+[2022-12-12T16:22:04.799Z] : [success]: Bot finished successfully, total execution time: 4s 91ms
+
+[2022-12-12T16:22:04.800Z] : [info]: ---------------------------------------------
+
+[2022-12-12T16:23:50.899Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-12-12T16:23:50.901Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-12-12T16:23:50.902Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-12-12T16:23:50.904Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-12-12T16:23:50.907Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-12-12T16:23:50.911Z] : [error]: Cannot read properties of null (reading 'type')
+
