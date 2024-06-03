@@ -1,0 +1,306 @@
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 8/30/2023, 11:30:25 PM
+  ==========================================
+  
+
+[2023-08-30T18:14:43.697Z] : [success]: Robot saved successfully
+
+[2023-08-30T18:23:38.630Z] : [success]: Robot saved successfully
+
+[2023-08-30T18:23:38.930Z] : [success]: Robot saved successfully
+
+[2023-08-30T18:23:39.327Z] : [success]: Robot saved successfully
+
+[2023-08-30T18:25:03.665Z] : [info]: Internet connection // error
+
+[2023-08-30T18:25:03.780Z] : [success]: Bot started
+
+[2023-08-30T18:25:03.780Z] : [info]: Robot start
+
+[2023-08-30T18:25:31.953Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-08-30T18:25:32.715Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-08-30T18:25:32.960Z] : [info]: Total execution time: 28s 934ms
+
+[2023-08-30T18:25:32.962Z] : [info]: ---------------------------------------------
+
+[2023-08-30T18:26:35.938Z] : [success]: Robot saved successfully
+
+[2023-08-30T18:26:46.708Z] : [success]: Bot started
+
+[2023-08-30T18:26:46.708Z] : [info]: Robot start
+
+[2023-08-30T18:27:40.449Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-08-30T18:27:40.552Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-08-30T18:27:40.816Z] : [info]: Total execution time: 53s 844ms
+
+[2023-08-30T18:27:40.817Z] : [info]: ---------------------------------------------
+
+[2023-08-30T18:29:21.823Z] : [success]: Robot saved successfully
+
+[2023-08-30T18:29:31.387Z] : [success]: Bot started
+
+[2023-08-30T18:29:31.389Z] : [info]: Robot start
+
+[2023-08-30T18:30:34.806Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-08-30T18:30:35.389Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2023-08-30T18:30:35.535Z] : [info]: Total execution time: 1m 4s
+
+[2023-08-30T18:30:35.536Z] : [info]: ---------------------------------------------
+
+[2023-08-30T18:30:46.287Z] : [success]: Robot saved successfully
+
+[2023-08-30T18:30:54.104Z] : [success]: Bot started
+
+[2023-08-30T18:30:54.105Z] : [info]: Robot start
+
+[2023-08-30T18:31:50.970Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-08-30T18:31:51.982Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-08-30T18:31:52.218Z] : [info]: Total execution time: 57s 877ms
+
+[2023-08-30T18:31:52.219Z] : [info]: ---------------------------------------------
+
+[2023-08-30T18:32:32.174Z] : [success]: Robot saved successfully
+
+[2023-08-30T18:32:42.390Z] : [success]: Bot started
+
+[2023-08-30T18:32:42.393Z] : [info]: Robot start
+
+[2023-08-30T18:33:47.690Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-08-30T18:33:48.406Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-08-30T18:33:48.650Z] : [info]: Total execution time: 1m 6s 13ms
+
+[2023-08-30T18:33:48.651Z] : [info]: ---------------------------------------------
+
+[2023-08-30T18:35:06.127Z] : [success]: Robot saved successfully
+
+[2023-08-30T18:35:47.845Z] : [success]: Bot started
+
+[2023-08-30T18:35:47.846Z] : [info]: Robot start
+
+[2023-08-30T18:37:07.236Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-08-30T18:37:08.012Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-08-30T18:37:08.288Z] : [info]: Total execution time: 1m 20s 165ms
+
+[2023-08-30T18:37:08.288Z] : [info]: ---------------------------------------------
+
+[2023-08-30T18:38:27.637Z] : [success]: Robot saved successfully
+
+[2023-08-30T18:38:55.860Z] : [success]: Bot started
+
+[2023-08-30T18:38:55.861Z] : [info]: Robot start
+
+[2023-08-30T18:40:15.346Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-08-30T18:40:16.061Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-08-30T18:40:16.379Z] : [info]: Total execution time: 1m 20s 199ms
+
+[2023-08-30T18:40:16.380Z] : [info]: ---------------------------------------------
+
+[2023-08-30T18:43:22.033Z] : [success]: Robot saved successfully
+
+[2023-08-30T18:43:46.247Z] : [success]: Bot started
+
+[2023-08-30T18:43:46.249Z] : [info]: Robot start
+
+[2023-08-30T18:45:06.601Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-08-30T18:45:07.464Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-08-30T18:45:07.744Z] : [info]: Total execution time: 1m 21s 214ms
+
+[2023-08-30T18:45:07.745Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 8/31/2023, 10:47:37 AM
+  ==========================================
+  
+
+[2023-08-31T05:18:30.061Z] : [success]: Bot started
+
+[2023-08-31T05:18:30.062Z] : [info]: Robot start
+
+[2023-08-31T05:19:56.080Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-08-31T05:19:56.928Z] : [success]: Bot finished successfully, total execution time: 1m 26s 862ms
+
+[2023-08-31T05:19:56.929Z] : [info]: ---------------------------------------------
+
+[2023-08-31T05:26:18.487Z] : [success]: Robot saved successfully
+
+[2023-08-31T05:26:48.144Z] : [success]: Bot started
+
+[2023-08-31T05:26:48.144Z] : [info]: Robot start
+
+[2023-08-31T05:28:06.861Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-08-31T05:28:07.471Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-08-31T05:28:07.815Z] : [info]: Total execution time: 1m 19s 327ms
+
+[2023-08-31T05:28:07.815Z] : [info]: ---------------------------------------------
+
+[2023-08-31T05:30:59.788Z] : [success]: Robot saved successfully
+
+[2023-08-31T05:31:11.088Z] : [success]: Bot started
+
+[2023-08-31T05:31:11.089Z] : [info]: Robot start
+
+[2023-08-31T05:32:31.124Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-08-31T05:32:31.460Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-08-31T05:32:31.797Z] : [info]: Total execution time: 1m 20s 371ms
+
+[2023-08-31T05:32:31.799Z] : [info]: ---------------------------------------------
+
+[2023-08-31T05:34:09.420Z] : [success]: Robot saved successfully
+
+[2023-08-31T05:34:35.028Z] : [success]: Bot started
+
+[2023-08-31T05:34:35.028Z] : [info]: Robot start
+
+[2023-08-31T05:36:03.968Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-08-31T05:36:04.473Z] : [success]: Bot finished successfully, total execution time: 1m 29s 442ms
+
+[2023-08-31T05:36:04.474Z] : [info]: ---------------------------------------------
+
+[2023-08-31T05:38:43.646Z] : [success]: Robot saved successfully
+
+[2023-08-31T05:39:12.113Z] : [success]: Bot started
+
+[2023-08-31T05:39:12.114Z] : [info]: Robot start
+
+[2023-08-31T05:40:46.555Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-08-31T05:40:47.555Z] : [success]: Bot finished successfully, total execution time: 1m 35s 437ms
+
+[2023-08-31T05:40:47.556Z] : [info]: ---------------------------------------------
+
+[2023-08-31T05:47:25.902Z] : [success]: Robot saved successfully
+
+[2023-08-31T05:47:51.998Z] : [success]: Bot started
+
+[2023-08-31T05:47:51.999Z] : [info]: Robot start
+
+[2023-08-31T05:49:12.451Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-08-31T05:49:13.330Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-08-31T05:49:13.793Z] : [info]: Total execution time: 1m 21s 330ms
+
+[2023-08-31T05:49:13.794Z] : [info]: ---------------------------------------------
+
+[2023-08-31T05:55:17.857Z] : [success]: Robot saved successfully
+
+[2023-08-31T05:55:40.803Z] : [success]: Bot started
+
+[2023-08-31T05:55:40.804Z] : [info]: Robot start
+
+[2023-08-31T05:57:00.539Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-08-31T05:57:01.086Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-08-31T05:57:01.424Z] : [info]: Total execution time: 1m 20s 281ms
+
+[2023-08-31T05:57:01.424Z] : [info]: ---------------------------------------------
+
+[2023-08-31T06:00:25.805Z] : [success]: Robot saved successfully
+
+[2023-08-31T06:00:36.956Z] : [success]: Bot started
+
+[2023-08-31T06:00:36.958Z] : [info]: Robot start
+
+[2023-08-31T06:02:10.131Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-08-31T06:02:10.590Z] : [success]: Bot finished successfully, total execution time: 1m 33s 629ms
+
+[2023-08-31T06:02:10.591Z] : [info]: ---------------------------------------------
+
+[2023-08-31T06:08:12.258Z] : [success]: Robot saved successfully
+
+[2023-08-31T06:08:35.550Z] : [success]: Bot started
+
+[2023-08-31T06:08:35.550Z] : [info]: Robot start
+
+[2023-08-31T06:10:10.044Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-08-31T06:10:10.169Z] : [error]: Script Stopped.
+
+[2023-08-31T06:10:10.695Z] : [info]: Total execution time: 1m 34s 617ms
+
+[2023-08-31T06:10:10.695Z] : [info]: ---------------------------------------------
+
+[2023-08-31T06:14:27.454Z] : [success]: Robot saved successfully
+
+[2023-08-31T06:14:57.947Z] : [success]: Bot started
+
+[2023-08-31T06:14:57.948Z] : [info]: Robot start
+
+[2023-08-31T06:16:33.131Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-08-31T06:16:33.492Z] : [success]: Bot finished successfully, total execution time: 1m 35s 541ms
+
+[2023-08-31T06:16:33.493Z] : [info]: ---------------------------------------------
+
+[2023-08-31T06:45:06.105Z] : [success]: Robot saved successfully
+
+[2023-08-31T06:45:28.161Z] : [success]: Bot started
+
+[2023-08-31T06:45:28.162Z] : [info]: Robot start
+
+[2023-08-31T06:46:52.195Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-08-31T06:46:53.110Z] : [success]: Bot finished successfully, total execution time: 1m 24s 944ms
+
+[2023-08-31T06:46:53.113Z] : [info]: ---------------------------------------------
+
+[2023-08-31T06:49:04.144Z] : [success]: Robot saved successfully
+
+[2023-08-31T06:49:29.609Z] : [success]: Bot started
+
+[2023-08-31T06:49:29.610Z] : [info]: Robot start
+
+[2023-08-31T06:50:50.729Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-08-31T06:50:50.957Z] : [error]: Script Stopped.
+
+[2023-08-31T06:50:51.410Z] : [info]: Total execution time: 1m 21s 344ms
+
+[2023-08-31T06:50:51.411Z] : [info]: ---------------------------------------------
+
+[2023-08-31T06:51:06.284Z] : [success]: Robot saved successfully
+
+[2023-08-31T06:52:07.445Z] : [success]: Bot started
+
+[2023-08-31T06:52:07.446Z] : [info]: Robot start
+
+[2023-08-31T06:54:18.497Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-08-31T06:54:19.558Z] : [success]: Bot finished successfully, total execution time: 2m 12s 106ms
+
+[2023-08-31T06:54:19.560Z] : [info]: ---------------------------------------------
+
+[2023-08-31T07:01:43.833Z] : [success]: Robot saved successfully
+
+[2023-08-31T07:02:00.881Z] : [success]: Robot saved successfully
+
+[2023-08-31T07:03:02.858Z] : [success]: The workflow has been exported successfully
+

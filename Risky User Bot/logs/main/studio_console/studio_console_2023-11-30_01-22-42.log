@@ -1,0 +1,49 @@
+
+  ==========================================
+  Studio Pro version: 9.3.16
+  Started at: 11/30/2023, 1:22:58 AM
+  ==========================================
+  
+
+[2023-11-29T19:53:26.562Z] : [success]: Robot saved successfully
+
+[2023-11-29T19:53:26.800Z] : [info]: ---------------------------------------------
+
+[2023-11-29T19:53:26.801Z] : [success]: Bot started
+
+[2023-11-29T19:53:26.801Z] : [info]: Robot start
+
+[2023-11-29T19:54:06.606Z] : [error]: Selectors: Nothing found
+
+[2023-11-29T19:54:06.891Z] : [info]: Total execution time: 39s 804ms
+
+[2023-11-29T19:54:06.894Z] : [info]: ---------------------------------------------
+
+[2023-11-29T19:55:00.184Z] : [success]: Bot started
+
+[2023-11-29T19:55:00.185Z] : [info]: Robot start
+
+[2023-11-29T19:55:56.962Z] : [error]: Selectors: Nothing found
+
+[2023-11-29T19:55:57.192Z] : [info]: Total execution time: 56s 776ms
+
+[2023-11-29T19:55:57.192Z] : [info]: ---------------------------------------------
+
+[2023-11-29T19:56:34.886Z] : [success]: Robot saved successfully
+
+[2023-11-29T19:57:26.407Z] : [success]: Robot saved successfully
+
+[2023-11-29T19:57:31.191Z] : [success]: Robot saved successfully
+
+[2023-11-29T19:57:57.430Z] : [info]: ---------------------------------------------
+
+[2023-11-29T19:57:57.430Z] : [success]: Bot started
+
+[2023-11-29T19:57:57.431Z] : [info]: Robot start
+
+[2023-11-29T19:59:20.547Z] : [success]: Bot finished successfully, total execution time: 1m 23s 114ms
+
+[2023-11-29T19:59:20.548Z] : [info]: ---------------------------------------------
+
+[2023-11-29T19:59:48.514Z] : [success]: The workflow has been exported successfully
+

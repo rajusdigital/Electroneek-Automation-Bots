@@ -1,0 +1,53 @@
+
+  ==========================================
+  Studio Pro version: 9.3.16
+  Started at: 12/1/2023, 12:21:02 PM
+  ==========================================
+  
+
+[2023-12-01T06:54:12.787Z] : [success]: Robot saved successfully
+
+[2023-12-01T06:55:01.218Z] : [success]: Robot saved successfully
+
+[2023-12-01T06:55:13.333Z] : [info]: ---------------------------------------------
+
+[2023-12-01T06:55:13.336Z] : [success]: Bot started
+
+[2023-12-01T06:55:13.340Z] : [info]: Robot start
+
+[2023-12-01T06:56:05.423Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-12-01T06:56:05.736Z] : [info]: Total execution time: 52s 84ms
+
+[2023-12-01T06:56:05.740Z] : [info]: ---------------------------------------------
+
+[2023-12-01T06:57:19.153Z] : [success]: Robot saved successfully
+
+[2023-12-01T06:57:27.677Z] : [success]: Robot saved successfully
+
+[2023-12-01T07:01:29.471Z] : [success]: Bot started
+
+[2023-12-01T07:01:29.472Z] : [info]: Robot start
+
+[2023-12-01T07:02:42.394Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-12-01T07:02:42.563Z] : [info]: Total execution time: 1m 12s 922ms
+
+[2023-12-01T07:02:42.564Z] : [info]: ---------------------------------------------
+
+[2023-12-01T07:06:13.950Z] : [success]: Robot saved successfully
+
+[2023-12-01T07:06:14.188Z] : [info]: ---------------------------------------------
+
+[2023-12-01T07:06:14.189Z] : [success]: Bot started
+
+[2023-12-01T07:06:14.190Z] : [info]: Robot start
+
+[2023-12-01T07:07:45.327Z] : [success]: Bot finished successfully, total execution time: 1m 31s 135ms
+
+[2023-12-01T07:07:45.330Z] : [info]: ---------------------------------------------
+
+[2023-12-01T07:08:28.360Z] : [success]: The workflow has been exported successfully
+
+[2023-12-01T07:09:08.847Z] : [success]: The workflow has been exported successfully
+
