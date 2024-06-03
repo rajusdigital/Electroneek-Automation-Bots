@@ -1,0 +1,57 @@
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 12/13/2022, 5:26:21 PM
+  ==========================================
+  
+
+[2022-12-13T22:26:41.970Z] : [success]: Robot saved successfully
+
+[2022-12-13T22:26:49.712Z] : [info]: ---------------------------------------------
+
+[2022-12-13T22:26:49.713Z] : [success]: Bot started
+
+[2022-12-13T22:26:49.713Z] : [info]: Robot start
+
+[2022-12-13T22:26:55.915Z] : [error]: Selectors: Object reference not set to an instance of an object.
+
+[2022-12-13T22:26:55.917Z] : [error]: Total execution time: 6s 201ms
+
+[2022-12-13T22:26:55.918Z] : [info]: ---------------------------------------------
+
+[2022-12-13T22:27:35.002Z] : [success]: Robot saved successfully
+
+[2022-12-13T22:46:34.742Z] : [success]: Rel file saved successfully
+
+[2022-12-13T22:46:34.746Z] : [success]: Robot saved successfully
+
+[2022-12-13T22:46:45.486Z] : [info]: ---------------------------------------------
+
+[2022-12-13T22:46:45.486Z] : [success]: Bot started
+
+[2022-12-13T22:46:45.487Z] : [info]: Robot start
+
+[2022-12-13T22:46:50.687Z] : [error]: Selectors: Object reference not set to an instance of an object.
+
+[2022-12-13T22:46:50.689Z] : [error]: Total execution time: 5s 199ms
+
+[2022-12-13T22:46:50.690Z] : [info]: ---------------------------------------------
+
+[2022-12-13T22:50:28.867Z] : [success]: Bot started
+
+[2022-12-13T22:50:28.868Z] : [info]: Robot start
+
+[2022-12-13T22:50:43.040Z] : [success]: Bot finished successfully, total execution time: 14s 171ms
+
+[2022-12-13T22:50:43.041Z] : [info]: ---------------------------------------------
+
+[2022-12-13T22:51:35.525Z] : [info]: ---------------------------------------------
+
+[2022-12-13T22:51:35.526Z] : [success]: Bot started
+
+[2022-12-13T22:51:35.526Z] : [info]: Robot start
+
+[2022-12-13T22:51:51.707Z] : [success]: Bot finished successfully, total execution time: 16s 180ms
+
+[2022-12-13T22:51:51.707Z] : [info]: ---------------------------------------------
+

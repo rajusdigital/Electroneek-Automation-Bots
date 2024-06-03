@@ -1,0 +1,39 @@
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 12/12/2022, 5:08:36 PM
+  ==========================================
+  
+
+[2022-12-12T22:09:15.265Z] : [success]: Robot saved successfully
+
+[2022-12-12T22:09:21.836Z] : [success]: Robot saved successfully
+
+[2022-12-12T23:55:10.363Z] : [success]: Robot saved successfully
+
+[2022-12-12T23:56:58.445Z] : [success]: Robot saved successfully
+
+[2022-12-12T23:57:08.647Z] : [info]: ---------------------------------------------
+
+[2022-12-12T23:57:08.648Z] : [success]: Bot started
+
+[2022-12-12T23:57:08.655Z] : [info]: Robot start
+
+[2022-12-12T23:57:26.237Z] : [error]: Unknown Error: {"name":"NoSuchWindowError","remoteStacktrace":"Backtrace:\n\tOrdinal0 [0x007BACD3+2075859]\n\tOrdinal0 [0x0074EE61+1633889]\n\tOrdinal0 [0x0064B7BD+571325]\n\tOrdinal0 [0x00632E1A+470554]\n\tOrdinal0 [0x0069AA0B+895499]\n\tOrdinal0 [0x006AAC96+961686]\n\tOrdinal0 [0x00697136+880950]\n\tOrdinal0 [0x0066FEFD+720637]\n\tOrdinal0 [0x00670F3F+724799]\n\tGetHandleVerifier [0x00A6EED2+2769538]\n\tGetHandleVerifier [0x00A60D95+2711877]\n\tGetHandleVerifier [0x0084A03A+521194]\n\tGetHandleVerifier [0x00848DA0+516432]\n\tOrdinal0 [0x0075682C+1665068]\n\tOrdinal0 [0x0075B128+1683752]\n\tOrdinal0 [0x0075B215+1683989]\n\tOrdinal0 [0x00766484+1729668]\n\tBaseThreadInitThunk [0x76087BA9+25]\n\tRtlInitializeExceptionChain [0x773CBB9B+107]\n\tRtlClearBits [0x773CBB1F+191]\n"}
+
+[2022-12-12T23:57:26.502Z] : [error]: i.includes is not a function
+
+[2022-12-12T23:57:36.349Z] : [success]: Robot saved successfully
+
+[2022-12-12T23:57:43.056Z] : [info]: ---------------------------------------------
+
+[2022-12-12T23:57:43.057Z] : [success]: Bot started
+
+[2022-12-12T23:57:43.057Z] : [info]: Robot start
+
+[2022-12-12T23:59:20.345Z] : [success]: The workflow has been exported successfully
+
+[2022-12-13T00:00:36.649Z] : [success]: The workflow has been exported successfully
+
+[2022-12-13T00:03:12.916Z] : [error]: Cannot read properties of null (reading 'type')
+

@@ -1,0 +1,25 @@
+[2024-01-12T07:24:19.890Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 1/12/2024, 12:54:19 PM
+  ==========================================
+  
+
+[2024-01-12T07:37:42.572Z] : [success]: Robot saved successfully
+
+[2024-01-12T07:38:44.498Z] : [success]: Robot saved successfully
+
+[2024-01-12T07:38:48.910Z] : [info]: ---------------------------------------------
+
+[2024-01-12T07:38:48.912Z] : [success]: Bot started
+
+[2024-01-12T07:38:48.913Z] : [info]: Robot start
+
+[2024-01-12T07:39:20.046Z] : [error]: Selectors: Object reference not set to an instance of an object.
+
+[2024-01-12T07:39:22.235Z] : [info]: Total execution time: 31s 131ms
+
+[2024-01-12T07:39:22.238Z] : [info]: ---------------------------------------------
+
