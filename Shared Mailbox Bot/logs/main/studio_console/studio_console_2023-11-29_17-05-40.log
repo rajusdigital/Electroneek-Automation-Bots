@@ -1,0 +1,17 @@
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 11/29/2023, 6:03:52 PM
+  ==========================================
+  
+
+[2023-11-29T12:34:08.825Z] : [success]: Bot started
+
+[2023-11-29T12:34:08.826Z] : [info]: Robot start
+
+[2023-11-29T12:36:25.914Z] : [success]: Bot finished successfully, total execution time: 2m 17s 78ms
+
+[2023-11-29T12:36:25.917Z] : [info]: ---------------------------------------------
+
+[2023-11-29T12:37:42.164Z] : [error]: Cannot read properties of null (reading 'type')
+
