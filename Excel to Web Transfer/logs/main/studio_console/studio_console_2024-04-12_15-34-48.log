@@ -1,0 +1,99 @@
+[2024-04-15T09:28:05.024Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 4/15/2024, 2:58:05 PM
+  ==========================================
+  
+
+[2024-04-15T09:28:27.836Z] : [success]: Robot saved successfully
+
+[2024-04-15T09:28:35.177Z] : [success]: Bot started
+
+[2024-04-15T09:28:35.178Z] : [info]: Robot start
+
+[2024-04-15T09:29:11.592Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2024-04-15T09:29:13.501Z] : [info]: Total execution time: 36s 414ms
+
+[2024-04-15T09:29:13.503Z] : [info]: ---------------------------------------------
+
+[2024-04-15T09:33:07.534Z] : [success]: Robot saved successfully
+
+[2024-04-15T09:33:13.526Z] : [success]: Bot started
+
+[2024-04-15T09:33:13.528Z] : [info]: Robot start
+
+[2024-04-15T09:33:34.339Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2024-04-15T09:33:35.828Z] : [info]: Total execution time: 20s 811ms
+
+[2024-04-15T09:33:35.830Z] : [info]: ---------------------------------------------
+
+[2024-04-15T09:34:51.817Z] : [success]: Robot saved successfully
+
+[2024-04-15T09:35:03.226Z] : [success]: Robot saved successfully
+
+[2024-04-15T09:35:10.775Z] : [success]: Bot started
+
+[2024-04-15T09:35:10.776Z] : [info]: Robot start
+
+[2024-04-15T09:35:26.749Z] : [error]: ENOENT: no such file or directory, stat 'C:\Users\ASMESPL\AppData\Local\Google\Chrome\User Data\9307f7fc-17d0-4b23-9645-ee9ae589d43f.tmp'
+
+[2024-04-15T09:35:28.660Z] : [info]: Total execution time: 15s 970ms
+
+[2024-04-15T09:35:28.662Z] : [info]: ---------------------------------------------
+
+[2024-04-15T09:36:16.724Z] : [success]: Robot saved successfully
+
+[2024-04-15T09:36:18.096Z] : [success]: Bot started
+
+[2024-04-15T09:36:18.097Z] : [info]: Robot start
+
+[2024-04-15T09:36:38.193Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2024-04-15T09:36:39.533Z] : [info]: Total execution time: 20s 95ms
+
+[2024-04-15T09:36:39.535Z] : [info]: ---------------------------------------------
+
+[2024-04-15T09:39:51.443Z] : [success]: Robot saved successfully
+
+[2024-04-15T09:40:36.942Z] : [success]: Robot saved successfully
+
+[2024-04-15T09:40:44.257Z] : [success]: Bot started
+
+[2024-04-15T09:40:44.258Z] : [info]: Robot start
+
+[2024-04-15T09:41:18.403Z] : [success]: Bot finished successfully, total execution time: 34s 140ms
+
+[2024-04-15T09:41:18.405Z] : [info]: ---------------------------------------------
+
+[2024-04-15T09:44:15.100Z] : [success]: Robot saved successfully
+
+[2024-04-15T09:44:22.177Z] : [success]: Bot started
+
+[2024-04-15T09:44:22.178Z] : [info]: Robot start
+
+[2024-04-15T09:44:50.026Z] : [success]: Bot finished successfully, total execution time: 27s 843ms
+
+[2024-04-15T09:44:50.028Z] : [info]: ---------------------------------------------
+
+[2024-04-15T09:44:55.435Z] : [success]: Bot started
+
+[2024-04-15T09:44:55.436Z] : [info]: Robot start
+
+[2024-04-15T09:45:19.152Z] : [error]: Script Stopped.
+
+[2024-04-15T09:45:20.751Z] : [info]: Total execution time: 23s 715ms
+
+[2024-04-15T09:45:20.753Z] : [info]: ---------------------------------------------
+
+[2024-04-15T09:46:48.368Z] : [success]: Bot started
+
+[2024-04-15T09:46:48.369Z] : [info]: Robot start
+
+[2024-04-15T09:47:29.865Z] : [success]: Bot finished successfully, total execution time: 41s 487ms
+
+[2024-04-15T09:47:29.869Z] : [info]: ---------------------------------------------
+

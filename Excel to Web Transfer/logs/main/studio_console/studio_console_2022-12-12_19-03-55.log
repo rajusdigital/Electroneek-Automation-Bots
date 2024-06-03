@@ -1,0 +1,71 @@
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 12/12/2022, 7:04:02 PM
+  ==========================================
+  
+
+[2022-12-13T00:04:26.077Z] : [success]: Robot saved successfully
+
+[2022-12-13T00:07:17.530Z] : [success]: Robot saved successfully
+
+[2022-12-13T00:11:14.798Z] : [success]: Robot saved successfully
+
+[2022-12-13T00:14:38.137Z] : [success]: Robot saved successfully
+
+[2022-12-13T00:30:41.131Z] : [info]: ---------------------------------------------
+
+[2022-12-13T00:30:41.132Z] : [success]: Bot started
+
+[2022-12-13T00:30:41.133Z] : [info]: Robot start
+
+[2022-12-13T00:31:01.681Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2022-12-13T00:31:01.686Z] : [error]: Total execution time: 20s 546ms
+
+[2022-12-13T00:31:01.688Z] : [info]: ---------------------------------------------
+
+[2022-12-13T00:31:21.691Z] : [success]: Robot saved successfully
+
+[2022-12-13T00:31:28.586Z] : [success]: Bot started
+
+[2022-12-13T00:31:28.587Z] : [info]: Robot start
+
+[2022-12-13T00:31:47.961Z] : [error]: CAN_NOT_FIND_TAB
+
+[2022-12-13T00:31:47.964Z] : [error]: Total execution time: 19s 374ms
+
+[2022-12-13T00:31:47.965Z] : [info]: ---------------------------------------------
+
+[2022-12-13T00:33:01.672Z] : [success]: Bot started
+
+[2022-12-13T00:33:01.673Z] : [info]: Robot start
+
+[2022-12-13T00:33:19.882Z] : [success]: Bot finished successfully, total execution time: 18s 207ms
+
+[2022-12-13T00:33:19.883Z] : [info]: ---------------------------------------------
+
+[2022-12-13T00:39:43.798Z] : [success]: Robot saved successfully
+
+[2022-12-13T00:40:41.338Z] : [success]: Bot started
+
+[2022-12-13T00:40:41.340Z] : [info]: Robot start
+
+[2022-12-13T00:40:59.577Z] : [success]: Bot finished successfully, total execution time: 18s 233ms
+
+[2022-12-13T00:40:59.579Z] : [info]: ---------------------------------------------
+
+[2022-12-13T00:41:34.994Z] : [success]: The workflow has been exported successfully
+
+[2022-12-13T00:41:36.299Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-12-13T00:41:36.300Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-12-13T00:41:36.302Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-12-13T00:41:36.303Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-12-13T00:41:36.303Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-12-13T00:41:36.304Z] : [error]: Cannot read properties of null (reading 'type')
+
