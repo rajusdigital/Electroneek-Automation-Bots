@@ -1,0 +1,33 @@
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 8/29/2023, 5:19:27 PM
+  ==========================================
+  
+
+[2023-08-29T11:50:00.471Z] : [success]: Robot saved successfully
+
+[2023-08-29T11:50:00.719Z] : [success]: Bot started
+
+[2023-08-29T11:50:00.720Z] : [info]: Robot start
+
+[2023-08-29T11:50:05.598Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-08-29T11:50:05.889Z] : [error]: Invalid credentials (Failure)
+
+[2023-08-29T11:50:06.353Z] : [info]: Total execution time: 5s 168ms
+
+[2023-08-29T11:50:06.353Z] : [info]: ---------------------------------------------
+
+[2023-08-29T11:51:50.295Z] : [success]: Robot saved successfully
+
+[2023-08-29T11:51:54.468Z] : [success]: Bot started
+
+[2023-08-29T11:51:54.469Z] : [info]: Robot start
+
+[2023-08-29T11:52:09.426Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-08-29T11:52:09.718Z] : [success]: Bot finished successfully, total execution time: 15s 246ms
+
+[2023-08-29T11:52:09.719Z] : [info]: ---------------------------------------------
+

@@ -1,0 +1,129 @@
+
+  ==========================================
+  Studio Pro version: 9.2.9
+  Started at: 3/10/2023, 4:28:07 PM
+  ==========================================
+  
+
+[2023-03-10T11:10:29.007Z] : [success]: Robot saved successfully
+
+[2023-03-10T11:10:29.279Z] : [info]: ---------------------------------------------
+
+[2023-03-10T11:10:29.281Z] : [success]: Bot started
+
+[2023-03-10T11:10:29.282Z] : [info]: Robot start
+
+[2023-03-10T11:10:35.509Z] : [success]: Bot finished successfully, total execution time: 6s 225ms
+
+[2023-03-10T11:10:35.510Z] : [info]: ---------------------------------------------
+
+[2023-03-10T11:32:56.884Z] : [success]: Robot saved successfully
+
+[2023-03-10T11:33:11.335Z] : [success]: Robot saved successfully
+
+[2023-03-10T11:34:10.549Z] : [success]: Robot saved successfully
+
+[2023-03-10T11:34:14.965Z] : [info]: ---------------------------------------------
+
+[2023-03-10T11:34:14.966Z] : [success]: Bot started
+
+[2023-03-10T11:34:14.967Z] : [info]: Robot start
+
+[2023-03-10T11:34:54.452Z] : [success]: Bot finished successfully, total execution time: 39s 483ms
+
+[2023-03-10T11:34:54.454Z] : [info]: ---------------------------------------------
+
+[2023-03-10T11:43:53.344Z] : [success]: The workflow has been exported successfully
+
+[2023-03-10T11:57:15.236Z] : [success]: Bot started
+
+[2023-03-10T11:57:15.238Z] : [info]: Robot start
+
+[2023-03-10T11:57:33.495Z] : [success]: Bot finished successfully, total execution time: 18s 255ms
+
+[2023-03-10T11:57:33.497Z] : [info]: ---------------------------------------------
+
+[2023-03-10T11:58:17.605Z] : [success]: Bot started
+
+[2023-03-10T11:58:17.607Z] : [info]: Robot start
+
+[2023-03-10T11:58:57.080Z] : [success]: Bot finished successfully, total execution time: 39s 471ms
+
+[2023-03-10T11:58:57.082Z] : [info]: ---------------------------------------------
+
+[2023-03-10T12:02:29.769Z] : [success]: Bot started
+
+[2023-03-10T12:02:29.772Z] : [info]: Robot start
+
+[2023-03-10T12:03:14.230Z] : [success]: Bot finished successfully, total execution time: 44s 456ms
+
+[2023-03-10T12:03:14.232Z] : [info]: ---------------------------------------------
+
+[2023-03-10T12:04:30.789Z] : [success]: Bot started
+
+[2023-03-10T12:04:30.791Z] : [info]: Robot start
+
+[2023-03-10T12:04:42.003Z] : [error]: Script Stopped.
+
+[2023-03-10T12:04:42.006Z] : [info]: Total execution time: 11s 210ms
+
+[2023-03-10T12:04:42.008Z] : [info]: ---------------------------------------------
+
+[2023-03-10T12:07:21.566Z] : [success]: Robot saved successfully
+
+[2023-03-10T12:07:21.755Z] : [info]: ---------------------------------------------
+
+[2023-03-10T12:07:21.756Z] : [success]: Bot started
+
+[2023-03-10T12:07:21.758Z] : [info]: Robot start
+
+[2023-03-10T12:07:36.959Z] : [success]: Bot finished successfully, total execution time: 15s 200ms
+
+[2023-03-10T12:07:36.960Z] : [info]: ---------------------------------------------
+
+[2023-03-10T12:08:27.751Z] : [success]: Bot started
+
+[2023-03-10T12:08:27.753Z] : [info]: Robot start
+
+[2023-03-10T12:08:42.971Z] : [success]: Bot finished successfully, total execution time: 15s 217ms
+
+[2023-03-10T12:08:42.973Z] : [info]: ---------------------------------------------
+
+[2023-03-10T12:10:03.825Z] : [success]: Robot saved successfully
+
+[2023-03-10T12:10:04.167Z] : [success]: Bot started
+
+[2023-03-10T12:10:04.169Z] : [info]: Robot start
+
+[2023-03-10T12:10:59.697Z] : [success]: Bot finished successfully, total execution time: 55s 526ms
+
+[2023-03-10T12:10:59.698Z] : [info]: ---------------------------------------------
+
+[2023-03-10T12:12:55.118Z] : [success]: Bot started
+
+[2023-03-10T12:12:55.120Z] : [info]: Robot start
+
+[2023-03-10T12:13:10.384Z] : [success]: Bot finished successfully, total execution time: 15s 260ms
+
+[2023-03-10T12:13:10.386Z] : [info]: ---------------------------------------------
+
+[2023-03-10T12:16:09.544Z] : [success]: Bot started
+
+[2023-03-10T12:16:09.546Z] : [info]: Robot start
+
+[2023-03-10T12:16:59.986Z] : [success]: Bot finished successfully, total execution time: 50s 439ms
+
+[2023-03-10T12:16:59.988Z] : [info]: ---------------------------------------------
+
+[2023-03-10T13:45:27.950Z] : [success]: Robot saved successfully
+
+[2023-03-10T13:45:29.408Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-10T13:45:29.414Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-10T13:45:29.418Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-10T13:45:29.430Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-10T13:45:29.434Z] : [error]: Cannot read properties of null (reading 'type')
+
