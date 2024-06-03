@@ -1,0 +1,75 @@
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 12/16/2022, 2:57:53 PM
+  ==========================================
+  
+
+[2022-12-16T22:18:16.420Z] : [success]: Robot saved successfully
+
+[2022-12-16T22:18:16.481Z] : [info]: ---------------------------------------------
+
+[2022-12-16T22:18:16.482Z] : [success]: Bot started
+
+[2022-12-16T22:18:16.482Z] : [info]: Robot start
+
+[2022-12-16T22:18:32.848Z] : [error]: ENOENT: no such file or directory, stat 'C:\Users\arran\Documents\ElectroNeek\Tutorials\How to convert multiple files to PDF\How_to_convert_multiple_files_to_PDF_Bot\Lorem ipsum dolor sit amet 1.docx'
+
+[2022-12-16T22:18:32.861Z] : [error]: Total execution time: 16s 365ms
+
+[2022-12-16T22:18:32.863Z] : [info]: ---------------------------------------------
+
+[2022-12-16T22:20:45.279Z] : [success]: Bot started
+
+[2022-12-16T22:20:45.280Z] : [info]: Robot start
+
+[2022-12-16T22:20:56.453Z] : [error]: ENOENT: no such file or directory, stat 'C:\Users\arran\Documents\ElectroNeek\Tutorials\How to convert multiple files to PDF\How_to_convert_multiple_files_to_PDF_Bot\Lorem ipsum dolor sit amet 1.docx'
+
+[2022-12-16T22:20:56.459Z] : [error]: Total execution time: 11s 173ms
+
+[2022-12-16T22:20:56.460Z] : [info]: ---------------------------------------------
+
+[2022-12-16T22:21:37.385Z] : [success]: Robot saved successfully
+
+[2022-12-16T22:21:37.446Z] : [success]: Bot started
+
+[2022-12-16T22:21:37.447Z] : [info]: Robot start
+
+[2022-12-16T22:21:40.513Z] : [error]: Invalid or unexpected token
+
+[2022-12-16T22:21:40.515Z] : [error]: Total execution time: 3s 66ms
+
+[2022-12-16T22:21:40.516Z] : [info]: ---------------------------------------------
+
+[2022-12-16T22:22:46.995Z] : [success]: Robot saved successfully
+
+[2022-12-16T22:22:47.038Z] : [success]: Bot started
+
+[2022-12-16T22:22:47.038Z] : [info]: Robot start
+
+[2022-12-16T22:22:52.137Z] : [error]: Canceled by user
+
+[2022-12-16T22:22:52.138Z] : [error]: Total execution time: 5s 98ms
+
+[2022-12-16T22:22:52.139Z] : [info]: ---------------------------------------------
+
+[2022-12-16T22:23:09.361Z] : [success]: Bot started
+
+[2022-12-16T22:23:09.361Z] : [info]: Robot start
+
+[2022-12-16T22:23:23.574Z] : [success]: Bot finished successfully, total execution time: 14s 211ms
+
+[2022-12-16T22:23:23.575Z] : [info]: ---------------------------------------------
+
+[2022-12-16T22:38:21.771Z] : [success]: Robot saved successfully
+
+[2022-12-16T22:38:21.816Z] : [info]: ---------------------------------------------
+
+[2022-12-16T22:38:21.817Z] : [success]: Bot started
+
+[2022-12-16T22:38:21.817Z] : [info]: Robot start
+
+[2022-12-16T22:38:54.302Z] : [success]: Bot finished successfully, total execution time: 32s 483ms
+
+[2022-12-16T22:38:54.303Z] : [info]: ---------------------------------------------
+
