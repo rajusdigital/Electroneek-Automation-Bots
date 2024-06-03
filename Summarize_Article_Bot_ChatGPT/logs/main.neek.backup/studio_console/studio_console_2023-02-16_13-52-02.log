@@ -1,0 +1,23 @@
+
+  ==========================================
+  Studio Pro version: 9.1.3
+  Started at: 2/16/2023, 1:52:14 PM
+  ==========================================
+  
+
+[2023-02-16T20:52:32.345Z] : [success]: The workflow has been exported successfully
+
+[2023-02-16T20:55:03.026Z] : [info]: ---------------------------------------------
+
+[2023-02-16T20:55:03.027Z] : [success]: Bot started
+
+[2023-02-16T20:55:03.027Z] : [info]: Robot start
+
+[2023-02-16T20:55:17.489Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-02-16T20:55:17.492Z] : [info]: Total execution time: 14s 461ms
+
+[2023-02-16T20:55:17.493Z] : [info]: ---------------------------------------------
+
+[2023-02-16T20:55:27.568Z] : [error]: Cannot read properties of null (reading 'type')
+

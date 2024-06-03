@@ -1,0 +1,77 @@
+[2023-08-28T11:03:09.319Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 8/28/2023, 4:33:09 PM
+  ==========================================
+  
+
+[2023-08-28T11:03:13.495Z] : [info]: ---------------------------------------------
+
+[2023-08-28T11:03:13.495Z] : [success]: Bot started
+
+[2023-08-28T11:03:13.496Z] : [info]: Robot start
+
+[2023-08-28T11:05:01.921Z] : [error]: Script Stopped.
+
+[2023-08-28T11:05:03.052Z] : [info]: Total execution time: 1m 48s 424ms
+
+[2023-08-28T11:05:03.054Z] : [info]: ---------------------------------------------
+
+[2023-08-28T11:06:16.731Z] : [info]: Internet connection // error
+
+[2023-08-28T11:06:16.794Z] : [success]: Robot saved successfully
+
+[2023-08-28T11:06:16.882Z] : [success]: Bot started
+
+[2023-08-28T11:06:16.882Z] : [info]: Robot start
+
+[2023-08-28T11:07:55.341Z] : [error]: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials j7-20020a62e907000000b0064d57ecaa1dsm6351745pfh.28 - gsmtp
+
+[2023-08-28T11:07:55.923Z] : [info]: Total execution time: 1m 38s 459ms
+
+[2023-08-28T11:07:55.924Z] : [info]: ---------------------------------------------
+
+[2023-08-28T11:36:33.866Z] : [success]: Robot saved successfully
+
+[2023-08-28T11:37:14.154Z] : [success]: Robot saved successfully
+
+[2023-08-28T11:37:41.454Z] : [success]: Connection to our licenses server is restored
+
+[2023-08-28T11:37:41.573Z] : [success]: Bot started
+
+[2023-08-28T11:37:41.574Z] : [info]: Robot start
+
+[2023-08-28T11:39:07.492Z] : [error]: Outlook: Could not find file 'D:\automation\BOT\Summarize_Article_Bot_ChatGPT\attachments'.
+
+[2023-08-28T11:39:07.877Z] : [info]: Total execution time: 1m 25s 917ms
+
+[2023-08-28T11:39:07.878Z] : [info]: ---------------------------------------------
+
+[2023-08-28T11:42:39.511Z] : [success]: Robot saved successfully
+
+[2023-08-28T11:42:44.372Z] : [success]: Bot started
+
+[2023-08-28T11:42:44.373Z] : [info]: Robot start
+
+[2023-08-28T11:44:13.349Z] : [success]: Bot finished successfully, total execution time: 1m 28s 973ms
+
+[2023-08-28T11:44:13.350Z] : [info]: ---------------------------------------------
+
+[2023-08-28T11:48:26.373Z] : [success]: Bot started
+
+[2023-08-28T11:48:26.376Z] : [info]: Robot start
+
+[2023-08-28T11:50:20.963Z] : [success]: Bot finished successfully, total execution time: 1m 54s 583ms
+
+[2023-08-28T11:50:20.965Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 8/28/2023, 5:54:12 PM
+  ==========================================
+  
+

@@ -1,0 +1,43 @@
+
+  ==========================================
+  Studio Pro version: 9.1.3
+  Started at: 2/10/2023, 2:26:14 PM
+  ==========================================
+  
+
+[2023-02-10T21:26:37.686Z] : [success]: The workflow has been exported successfully
+
+[2023-02-10T21:30:29.765Z] : [success]: Robot saved successfully
+
+[2023-02-10T21:30:29.845Z] : [info]: ---------------------------------------------
+
+[2023-02-10T21:30:29.845Z] : [success]: Bot started
+
+[2023-02-10T21:30:29.845Z] : [info]: Robot start
+
+[2023-02-10T21:31:14.746Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-02-10T21:31:14.749Z] : [info]: Total execution time: 44s 901ms
+
+[2023-02-10T21:31:14.749Z] : [info]: ---------------------------------------------
+
+[2023-02-10T21:31:32.087Z] : [success]: Bot started
+
+[2023-02-10T21:31:32.088Z] : [info]: Robot start
+
+[2023-02-10T21:32:17.629Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-02-10T21:32:17.631Z] : [info]: Total execution time: 45s 541ms
+
+[2023-02-10T21:32:17.632Z] : [info]: ---------------------------------------------
+
+[2023-02-10T21:32:24.195Z] : [success]: Bot started
+
+[2023-02-10T21:32:24.196Z] : [info]: Robot start
+
+[2023-02-10T21:34:17.532Z] : [error]: Timeout has occurred
+
+[2023-02-10T21:34:17.534Z] : [info]: Total execution time: 1m 53s 336ms
+
+[2023-02-10T21:34:17.535Z] : [info]: ---------------------------------------------
+
