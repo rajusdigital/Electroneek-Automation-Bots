@@ -1,0 +1,41 @@
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 12/5/2022, 5:00:55 PM
+  ==========================================
+  
+
+[2022-12-05T11:31:01.441Z] : [info]: ---------------------------------------------
+
+[2022-12-05T11:31:01.443Z] : [success]: Bot started
+
+[2022-12-05T11:31:01.444Z] : [info]: Robot start
+
+[2022-12-05T11:31:04.096Z] : [info]: test1.txt	is a text file
+
+[2022-12-05T11:31:04.176Z] : [info]: test23232.txt	is a text file
+
+[2022-12-05T11:31:04.730Z] : [success]: Bot finished successfully, total execution time: 3s 283ms
+
+[2022-12-05T11:31:04.731Z] : [info]: ---------------------------------------------
+
+[2022-12-05T11:34:17.837Z] : [info]: ---------------------------------------------
+
+[2022-12-05T11:34:17.840Z] : [success]: Bot started
+
+[2022-12-05T11:34:17.842Z] : [info]: Robot start
+
+[2022-12-05T11:34:20.282Z] : [info]: test1.txt	is a text file
+
+[2022-12-05T11:34:20.372Z] : [info]: test23232.txt	is a text file
+
+[2022-12-05T11:34:20.945Z] : [success]: Bot finished successfully, total execution time: 3s 100ms
+
+[2022-12-05T11:34:20.946Z] : [info]: ---------------------------------------------
+
+[2022-12-05T11:36:22.757Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-12-05T11:36:22.760Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-12-05T11:36:22.763Z] : [error]: Cannot read properties of null (reading 'type')
+

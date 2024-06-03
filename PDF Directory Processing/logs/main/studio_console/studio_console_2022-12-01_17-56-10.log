@@ -1,0 +1,67 @@
+
+  ==========================================
+  Studio Pro version: 8.6.9
+  Started at: 12/1/2022, 5:57:30 PM
+  ==========================================
+  
+
+[2022-12-01T12:37:59.112Z] : [success]: Robot saved successfully
+
+[2022-12-01T12:38:02.691Z] : [info]: ---------------------------------------------
+
+[2022-12-01T12:38:02.692Z] : [success]: Bot started
+
+[2022-12-01T12:38:02.693Z] : [info]: Robot start
+
+[2022-12-01T12:38:05.880Z] : [success]: Bot finished successfully, total execution time: 3s 186ms
+
+[2022-12-01T12:38:05.882Z] : [info]: ---------------------------------------------
+
+[2022-12-01T12:38:43.987Z] : [success]: Robot saved successfully
+
+[2022-12-01T12:38:47.057Z] : [success]: Bot started
+
+[2022-12-01T12:38:47.059Z] : [info]: Robot start
+
+[2022-12-01T12:38:49.546Z] : [info]: test1.txtis a excel
+
+[2022-12-01T12:38:49.629Z] : [info]: test23232.txtis a excel
+
+[2022-12-01T12:38:50.176Z] : [success]: Bot finished successfully, total execution time: 3s 115ms
+
+[2022-12-01T12:38:50.177Z] : [info]: ---------------------------------------------
+
+[2022-12-01T12:39:10.847Z] : [success]: Robot saved successfully
+
+[2022-12-01T12:39:14.172Z] : [success]: Bot started
+
+[2022-12-01T12:39:14.174Z] : [info]: Robot start
+
+[2022-12-01T12:39:16.630Z] : [info]: test1.txt	is a excel
+
+[2022-12-01T12:39:16.719Z] : [info]: test23232.txt	is a excel
+
+[2022-12-01T12:39:17.303Z] : [success]: Bot finished successfully, total execution time: 3s 128ms
+
+[2022-12-01T12:39:17.305Z] : [info]: ---------------------------------------------
+
+[2022-12-01T12:39:29.078Z] : [success]: Robot saved successfully
+
+[2022-12-01T12:39:29.346Z] : [success]: Robot saved successfully
+
+[2022-12-01T12:39:29.516Z] : [success]: Robot saved successfully
+
+[2022-12-01T12:39:29.665Z] : [success]: Robot saved successfully
+
+[2022-12-01T12:39:29.795Z] : [success]: Robot saved successfully
+
+[2022-12-01T12:39:29.921Z] : [success]: Robot saved successfully
+
+[2022-12-01T12:39:34.705Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-12-01T12:39:34.708Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-12-01T12:39:34.710Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-12-01T12:39:34.711Z] : [error]: Cannot read properties of null (reading 'type')
+

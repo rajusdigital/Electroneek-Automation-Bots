@@ -1,0 +1,23 @@
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 12/5/2022, 12:57:55 PM
+  ==========================================
+  
+
+[2022-12-05T07:28:06.739Z] : [info]: ---------------------------------------------
+
+[2022-12-05T07:28:06.740Z] : [success]: Bot started
+
+[2022-12-05T07:28:06.740Z] : [info]: Robot start
+
+[2022-12-05T07:28:08.774Z] : [info]: test1.txt	is a text file
+
+[2022-12-05T07:28:08.858Z] : [info]: test23232.txt	is a text file
+
+[2022-12-05T07:28:09.933Z] : [success]: Bot finished successfully, total execution time: 3s 192ms
+
+[2022-12-05T07:28:09.934Z] : [info]: ---------------------------------------------
+
+[2022-12-05T07:28:46.859Z] : [success]: Robot saved successfully
+

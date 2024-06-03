@@ -1,0 +1,47 @@
+
+  ==========================================
+  Studio Pro version: 8.6.9
+  Started at: 12/2/2022, 3:46:24 PM
+  ==========================================
+  
+
+[2022-12-02T10:16:29.256Z] : [info]: ---------------------------------------------
+
+[2022-12-02T10:16:29.257Z] : [success]: Bot started
+
+[2022-12-02T10:16:29.259Z] : [info]: Robot start
+
+[2022-12-02T10:16:31.903Z] : [info]: test1.txt	is a excel
+
+[2022-12-02T10:16:31.996Z] : [info]: test23232.txt	is a excel
+
+[2022-12-02T10:16:32.507Z] : [success]: Bot finished successfully, total execution time: 3s 246ms
+
+[2022-12-02T10:16:32.508Z] : [info]: ---------------------------------------------
+
+[2022-12-02T10:16:54.104Z] : [success]: Robot saved successfully
+
+[2022-12-02T10:17:03.048Z] : [success]: Robot saved successfully
+
+[2022-12-02T10:17:07.434Z] : [info]: ---------------------------------------------
+
+[2022-12-02T10:17:07.435Z] : [success]: Bot started
+
+[2022-12-02T10:17:07.436Z] : [info]: Robot start
+
+[2022-12-02T10:17:09.855Z] : [info]: test1.txt	is a text file
+
+[2022-12-02T10:17:09.938Z] : [info]: test23232.txt	is a text file
+
+[2022-12-02T10:17:10.538Z] : [success]: Bot finished successfully, total execution time: 3s 101ms
+
+[2022-12-02T10:17:10.540Z] : [info]: ---------------------------------------------
+
+[2022-12-02T10:39:26.978Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-12-02T10:39:26.980Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-12-02T10:39:26.981Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-12-02T10:39:26.982Z] : [error]: Cannot read properties of null (reading 'type')
+
