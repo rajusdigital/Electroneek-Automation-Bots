@@ -1,0 +1,141 @@
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 12/23/2022, 1:54:48 PM
+  ==========================================
+  
+
+[2022-12-23T21:27:10.718Z] : [success]: Robot saved successfully
+
+[2022-12-23T21:27:10.779Z] : [info]: ---------------------------------------------
+
+[2022-12-23T21:27:10.779Z] : [success]: Bot started
+
+[2022-12-23T21:27:10.779Z] : [info]: Robot start
+
+[2022-12-23T21:27:30.142Z] : [success]: Bot finished successfully, total execution time: 19s 360ms
+
+[2022-12-23T21:27:30.144Z] : [info]: ---------------------------------------------
+
+[2022-12-23T21:35:05.789Z] : [success]: Bot started
+
+[2022-12-23T21:35:05.792Z] : [info]: Robot start
+
+[2022-12-23T21:35:19.124Z] : [error]: connection timed out. timeout = 10000 ms
+
+[2022-12-23T21:35:19.128Z] : [error]: Total execution time: 13s 331ms
+
+[2022-12-23T21:35:19.129Z] : [info]: ---------------------------------------------
+
+[2022-12-23T21:36:52.556Z] : [success]: Bot started
+
+[2022-12-23T21:36:52.557Z] : [info]: Robot start
+
+[2022-12-23T21:37:04.787Z] : [error]: connection timed out. timeout = 10000 ms
+
+[2022-12-23T21:37:04.790Z] : [error]: Total execution time: 12s 229ms
+
+[2022-12-23T21:37:04.792Z] : [info]: ---------------------------------------------
+
+[2022-12-23T21:39:29.608Z] : [success]: Robot saved successfully
+
+[2022-12-23T21:39:29.652Z] : [success]: Bot started
+
+[2022-12-23T21:39:29.652Z] : [info]: Robot start
+
+[2022-12-23T21:39:41.891Z] : [error]: connection timed out. timeout = 10000 ms
+
+[2022-12-23T21:39:41.895Z] : [error]: Total execution time: 12s 239ms
+
+[2022-12-23T21:39:41.896Z] : [info]: ---------------------------------------------
+
+[2022-12-23T21:41:38.370Z] : [success]: Bot started
+
+[2022-12-23T21:41:38.371Z] : [info]: Robot start
+
+[2022-12-23T21:41:50.604Z] : [error]: connection timed out. timeout = 10000 ms
+
+[2022-12-23T21:41:50.607Z] : [error]: Total execution time: 12s 232ms
+
+[2022-12-23T21:41:50.608Z] : [info]: ---------------------------------------------
+
+[2022-12-23T21:42:11.430Z] : [success]: Bot started
+
+[2022-12-23T21:42:11.430Z] : [info]: Robot start
+
+[2022-12-23T21:42:23.657Z] : [error]: connection timed out. timeout = 10000 ms
+
+[2022-12-23T21:42:23.660Z] : [error]: Total execution time: 12s 226ms
+
+[2022-12-23T21:42:23.661Z] : [info]: ---------------------------------------------
+
+[2022-12-23T21:46:44.702Z] : [success]: Robot saved successfully
+
+[2022-12-23T21:46:44.754Z] : [success]: Bot started
+
+[2022-12-23T21:46:44.755Z] : [info]: Robot start
+
+[2022-12-23T21:46:56.979Z] : [error]: connection timed out. timeout = 10000 ms
+
+[2022-12-23T21:46:56.982Z] : [error]: Total execution time: 12s 224ms
+
+[2022-12-23T21:46:56.983Z] : [info]: ---------------------------------------------
+
+[2022-12-23T21:48:49.853Z] : [success]: Robot saved successfully
+
+[2022-12-23T21:48:49.900Z] : [success]: Bot started
+
+[2022-12-23T21:48:49.901Z] : [info]: Robot start
+
+[2022-12-23T21:49:02.134Z] : [error]: connection timed out. timeout = 10000 ms
+
+[2022-12-23T21:49:02.138Z] : [error]: Total execution time: 12s 232ms
+
+[2022-12-23T21:49:02.139Z] : [info]: ---------------------------------------------
+
+[2022-12-23T22:01:37.975Z] : [success]: Robot saved successfully
+
+[2022-12-23T22:01:38.024Z] : [success]: Bot started
+
+[2022-12-23T22:01:38.025Z] : [info]: Robot start
+
+[2022-12-23T22:01:50.272Z] : [error]: connection timed out. timeout = 10000 ms
+
+[2022-12-23T22:01:50.275Z] : [error]: Total execution time: 12s 246ms
+
+[2022-12-23T22:01:50.276Z] : [info]: ---------------------------------------------
+
+[2022-12-23T22:03:59.512Z] : [success]: Robot saved successfully
+
+[2022-12-23T22:03:59.562Z] : [success]: Bot started
+
+[2022-12-23T22:03:59.562Z] : [info]: Robot start
+
+[2022-12-23T22:04:11.821Z] : [error]: connection timed out. timeout = 10000 ms
+
+[2022-12-23T22:04:11.823Z] : [error]: Total execution time: 12s 258ms
+
+[2022-12-23T22:04:11.824Z] : [info]: ---------------------------------------------
+
+[2022-12-23T22:11:14.486Z] : [success]: Robot saved successfully
+
+[2022-12-23T22:11:14.532Z] : [success]: Bot started
+
+[2022-12-23T22:11:14.532Z] : [info]: Robot start
+
+[2022-12-23T22:14:50.326Z] : [success]: Bot finished successfully, total execution time: 3m 35s 794ms
+
+[2022-12-23T22:14:50.327Z] : [info]: ---------------------------------------------
+
+[2022-12-23T22:15:42.854Z] : [success]: Robot saved successfully
+
+[2022-12-23T22:15:43.026Z] : [success]: Bot started
+
+[2022-12-23T22:15:43.028Z] : [info]: Robot start
+
+[2022-12-23T22:15:55.298Z] : [error]: connection timed out. timeout = 10000 ms
+
+[2022-12-23T22:15:55.301Z] : [error]: Total execution time: 12s 269ms
+
+[2022-12-23T22:15:55.302Z] : [info]: ---------------------------------------------
+
