@@ -1,0 +1,117 @@
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 8/31/2023, 3:46:22 PM
+  ==========================================
+  
+
+[2023-08-31T10:17:18.134Z] : [info]: ---------------------------------------------
+
+[2023-08-31T10:17:18.135Z] : [success]: Bot started
+
+[2023-08-31T10:17:18.136Z] : [info]: Robot start
+
+[2023-08-31T10:17:50.143Z] : [error]: Cannot read properties of undefined (reading 'value')
+
+[2023-08-31T10:17:50.578Z] : [info]: Total execution time: 32s 6ms
+
+[2023-08-31T10:17:50.579Z] : [info]: ---------------------------------------------
+
+[2023-08-31T10:20:28.420Z] : [success]: Robot saved successfully
+
+[2023-08-31T10:29:24.988Z] : [success]: Robot saved successfully
+
+[2023-08-31T10:41:04.145Z] : [success]: Robot saved successfully
+
+[2023-08-31T10:45:50.069Z] : [success]: Robot saved successfully
+
+[2023-08-31T10:45:50.243Z] : [success]: Robot saved successfully
+
+[2023-08-31T10:45:50.377Z] : [success]: Bot started
+
+[2023-08-31T10:45:50.378Z] : [info]: Robot start
+
+[2023-08-31T10:46:25.397Z] : [error]: Cannot read properties of undefined (reading 'value')
+
+[2023-08-31T10:46:25.794Z] : [info]: Total execution time: 35s 16ms
+
+[2023-08-31T10:46:25.795Z] : [info]: ---------------------------------------------
+
+[2023-08-31T10:50:26.140Z] : [success]: Robot saved successfully
+
+[2023-08-31T10:50:33.522Z] : [success]: Bot started
+
+[2023-08-31T10:50:33.524Z] : [info]: Robot start
+
+[2023-08-31T10:51:04.100Z] : [error]: receiptNumber is not defined
+
+[2023-08-31T10:51:04.561Z] : [info]: Total execution time: 30s 574ms
+
+[2023-08-31T10:51:04.562Z] : [info]: ---------------------------------------------
+
+[2023-08-31T10:52:39.635Z] : [success]: Robot saved successfully
+
+[2023-08-31T10:52:46.332Z] : [success]: Bot started
+
+[2023-08-31T10:52:46.333Z] : [info]: Robot start
+
+[2023-08-31T10:53:16.846Z] : [error]: receiptNumber is not defined
+
+[2023-08-31T10:53:17.315Z] : [info]: Total execution time: 30s 511ms
+
+[2023-08-31T10:53:17.316Z] : [info]: ---------------------------------------------
+
+[2023-08-31T10:53:49.487Z] : [success]: Bot started
+
+[2023-08-31T10:53:49.488Z] : [info]: Robot start
+
+[2023-08-31T10:54:47.451Z] : [error]: receiptNumber is not defined
+
+[2023-08-31T10:54:47.935Z] : [info]: Total execution time: 57s 962ms
+
+[2023-08-31T10:54:47.936Z] : [info]: ---------------------------------------------
+
+[2023-08-31T10:58:25.440Z] : [success]: Robot saved successfully
+
+[2023-08-31T10:58:30.291Z] : [success]: Bot started
+
+[2023-08-31T10:58:30.291Z] : [info]: Robot start
+
+[2023-08-31T10:58:35.552Z] : [error]: Selectors: Cannot access read-only document 'Report.xlsx'.
+
+[2023-08-31T10:58:36.103Z] : [info]: Total execution time: 5s 258ms
+
+[2023-08-31T10:58:36.104Z] : [info]: ---------------------------------------------
+
+[2023-08-31T11:01:08.718Z] : [error]: Uncaught (in promise): Error: Operation was aborted
+Error: Operation was aborted
+
+[2023-08-31T11:01:18.969Z] : [error]: Uncaught (in promise): Error: Operation was aborted
+Error: Operation was aborted
+
+[2023-08-31T11:02:12.428Z] : [success]: Bot started
+
+[2023-08-31T11:02:12.429Z] : [info]: Robot start
+
+[2023-08-31T11:03:22.501Z] : [success]: Bot finished successfully, total execution time: 1m 10s 67ms
+
+[2023-08-31T11:03:22.503Z] : [info]: ---------------------------------------------
+
+[2023-08-31T11:05:47.113Z] : [success]: Bot started
+
+[2023-08-31T11:05:47.115Z] : [info]: Robot start
+
+[2023-08-31T11:06:59.294Z] : [success]: Bot finished successfully, total execution time: 1m 12s 173ms
+
+[2023-08-31T11:06:59.298Z] : [info]: ---------------------------------------------
+
+[2023-08-31T11:07:58.987Z] : [success]: Robot saved successfully
+
+[2023-08-31T11:09:17.851Z] : [success]: Robot saved successfully
+
+[2023-08-31T11:09:18.022Z] : [success]: Robot saved successfully
+
+[2023-08-31T11:09:18.170Z] : [success]: Robot saved successfully
+
+[2023-08-31T11:10:18.623Z] : [success]: The workflow has been exported successfully
+
