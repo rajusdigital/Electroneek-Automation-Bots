@@ -1,0 +1,890 @@
+[2024-02-12T09:39:17.843Z] : [success]: Robot saved successfully
+
+[2024-02-12T09:39:25.888Z] : [info]: Internet connection // error
+
+[2024-02-12T09:39:26.192Z] : [success]: Bot started
+
+[2024-02-12T09:39:26.193Z] : [info]: Robot start
+
+[2024-02-12T09:39:29.444Z] : [error]: Bad Request
+
+[2024-02-12T09:39:30.510Z] : [info]: Total execution time: 3s 251ms
+
+[2024-02-12T09:39:30.511Z] : [info]: ---------------------------------------------
+
+[2024-02-12T09:39:39.402Z] : [success]: Connection to our licenses server is restored
+
+[2024-02-12T09:40:06.483Z] : [info]: Internet connection // error
+
+[2024-02-12T09:40:13.823Z] : [success]: Connection to our licenses server is restored
+
+[2024-02-12T09:40:34.024Z] : [success]: Robot saved successfully
+
+[2024-02-12T09:41:05.930Z] : [info]: Internet connection // error
+
+[2024-02-12T09:41:12.223Z] : [success]: Connection to our licenses server is restored
+
+[2024-02-12T09:42:05.067Z] : [info]: Internet connection // error
+
+[2024-02-12T09:42:16.564Z] : [success]: Connection to our licenses server is restored
+
+[2024-02-12T09:43:34.782Z] : [info]: Internet connection // error
+
+[2024-02-12T09:43:39.599Z] : [success]: Connection to our licenses server is restored
+
+[2024-02-12T09:44:06.380Z] : [info]: Internet connection // error
+
+[2024-02-12T09:44:11.823Z] : [success]: Connection to our licenses server is restored
+
+[2024-02-12T09:45:03.980Z] : [info]: Internet connection // error
+
+[2024-02-12T09:45:11.248Z] : [success]: Connection to our licenses server is restored
+
+[2024-02-12T09:46:03.572Z] : [info]: Internet connection // error
+
+[2024-02-12T09:46:09.538Z] : [success]: Connection to our licenses server is restored
+
+[2024-02-12T09:46:36.364Z] : [info]: Internet connection // error
+
+[2024-02-12T09:46:45.268Z] : [success]: Connection to our licenses server is restored
+
+[2024-02-12T09:47:36.174Z] : [info]: Internet connection // error
+
+[2024-02-12T09:47:43.019Z] : [success]: Connection to our licenses server is restored
+
+[2024-02-12T09:48:35.100Z] : [info]: Internet connection // error
+
+[2024-02-12T09:48:41.963Z] : [success]: Connection to our licenses server is restored
+
+[2024-02-12T09:49:09.324Z] : [success]: Robot saved successfully
+
+[2024-02-12T09:49:17.459Z] : [info]: Internet connection // error
+
+[2024-02-12T09:49:17.816Z] : [success]: Bot started
+
+[2024-02-12T09:49:17.818Z] : [info]: Robot start
+
+[2024-02-12T09:49:21.121Z] : [error]: Traceback (most recent call last):
+  File "C:\Users\ASMESPL\OneDrive\Desktop\popup.py", line 39, in <module>
+    root.mainloop(val2)
+  File "C:\Program Files\Python311\Lib\tkinter\__init__.py", line 1485, in mainloop
+    self.tk.mainloop(n)
+TypeError: 'list' object cannot be interpreted as an integer
+
+
+[2024-02-12T09:49:21.625Z] : [info]: Total execution time: 3s 301ms
+
+[2024-02-12T09:49:21.626Z] : [info]: ---------------------------------------------
+
+[2024-02-12T09:49:42.735Z] : [success]: Connection to our licenses server is restored
+
+[2024-02-12T09:50:15.966Z] : [success]: Robot saved successfully
+
+[2024-02-12T09:50:24.788Z] : [info]: Internet connection // error
+
+[2024-02-12T09:50:25.343Z] : [success]: Bot started
+
+[2024-02-12T09:50:25.344Z] : [info]: Robot start
+
+[2024-02-12T09:50:28.673Z] : [error]: Traceback (most recent call last):
+  File "C:\Users\ASMESPL\OneDrive\Desktop\popup.py", line 39, in <module>
+    root.mainloop(val2)
+  File "C:\Program Files\Python311\Lib\tkinter\__init__.py", line 1485, in mainloop
+    self.tk.mainloop(n)
+TypeError: 'str' object cannot be interpreted as an integer
+
+
+[2024-02-12T09:50:29.377Z] : [info]: Total execution time: 3s 329ms
+
+[2024-02-12T09:50:29.378Z] : [info]: ---------------------------------------------
+
+[2024-02-12T09:50:42.390Z] : [success]: Connection to our licenses server is restored
+
+[2024-02-12T09:51:34.399Z] : [info]: Internet connection // error
+
+[2024-02-12T09:51:43.290Z] : [success]: Connection to our licenses server is restored
+
+[2024-02-12T09:52:35.600Z] : [info]: Internet connection // error
+
+[2024-02-12T09:52:39.477Z] : [success]: Connection to our licenses server is restored
+
+[2024-02-12T11:31:11.624Z] : [info]: Internet connection // error
+
+[2024-02-12T11:31:12.362Z] : [success]: Connection to our licenses server is restored
+
+[2024-02-12T11:32:32.000Z] : [success]: Robot saved successfully
+
+[2024-02-12T11:36:32.824Z] : [success]: Robot saved successfully
+
+[2024-02-12T11:36:40.729Z] : [info]: Internet connection // error
+
+[2024-02-12T11:36:40.968Z] : [success]: Bot started
+
+[2024-02-12T11:36:40.969Z] : [info]: Robot start
+
+[2024-02-12T11:36:43.164Z] : [error]: Unable to execute this activity because you do not have a Python interpreter installed on the computer
+
+[2024-02-12T11:36:43.568Z] : [info]: Total execution time: 2s 194ms
+
+[2024-02-12T11:36:43.569Z] : [info]: ---------------------------------------------
+
+[2024-02-12T11:37:39.251Z] : [success]: Connection to our licenses server is restored
+
+[2024-02-12T11:38:05.910Z] : [info]: Internet connection // error
+
+[2024-02-12T11:38:12.335Z] : [success]: Connection to our licenses server is restored
+
+[2024-02-12T11:40:23.093Z] : [success]: Robot saved successfully
+
+[2024-02-12T11:40:30.778Z] : [info]: Internet connection // error
+
+[2024-02-12T11:40:31.029Z] : [success]: Bot started
+
+[2024-02-12T11:40:31.030Z] : [info]: Robot start
+
+[2024-02-12T11:40:33.246Z] : [error]: Unable to execute this activity because you do not have a Python interpreter installed on the computer
+
+[2024-02-12T11:40:33.804Z] : [info]: Total execution time: 2s 215ms
+
+[2024-02-12T11:40:33.805Z] : [info]: ---------------------------------------------
+
+[2024-02-12T11:41:29.174Z] : [success]: Robot saved successfully
+
+[2024-02-12T11:41:35.723Z] : [success]: Bot started
+
+[2024-02-12T11:41:35.724Z] : [info]: Robot start
+
+[2024-02-12T11:41:41.835Z] : [success]: Connection to our licenses server is restored
+
+[2024-02-12T11:41:47.132Z] : [success]: Bot finished successfully, total execution time: 11s 401ms
+
+[2024-02-12T11:41:47.134Z] : [info]: ---------------------------------------------
+
+[2024-02-12T11:41:56.798Z] : [success]: Robot saved successfully
+
+[2024-02-12T11:42:04.802Z] : [info]: Internet connection // error
+
+[2024-02-12T11:42:05.019Z] : [success]: Bot started
+
+[2024-02-12T11:42:05.020Z] : [info]: Robot start
+
+[2024-02-12T11:42:11.014Z] : [success]: Connection to our licenses server is restored
+
+[2024-02-12T11:42:13.350Z] : [success]: Bot finished successfully, total execution time: 8s 325ms
+
+[2024-02-12T11:42:13.351Z] : [info]: ---------------------------------------------
+
+[2024-02-12T11:45:35.422Z] : [info]: Internet connection // error
+
+[2024-02-12T11:45:40.436Z] : [success]: Connection to our licenses server is restored
+
+[2024-02-12T11:49:05.172Z] : [info]: Internet connection // error
+
+[2024-02-12T11:49:09.460Z] : [success]: Connection to our licenses server is restored
+
+[2024-02-12T11:49:36.081Z] : [info]: Internet connection // error
+
+[2024-02-12T11:49:43.261Z] : [success]: Connection to our licenses server is restored
+
+[2024-02-12T11:50:35.339Z] : [info]: Internet connection // error
+
+[2024-02-12T11:50:38.311Z] : [success]: Connection to our licenses server is restored
+
+[2024-02-12T11:51:05.018Z] : [info]: Internet connection // error
+
+[2024-02-12T11:51:11.376Z] : [success]: Connection to our licenses server is restored
+
+[2024-02-12T11:53:29.565Z] : [success]: Robot saved successfully
+
+[2024-02-12T11:53:36.231Z] : [info]: Internet connection // error
+
+[2024-02-12T11:53:36.427Z] : [success]: Bot started
+
+[2024-02-12T11:53:36.429Z] : [info]: Robot start
+
+[2024-02-12T11:53:46.792Z] : [success]: Bot finished successfully, total execution time: 10s 362ms
+
+[2024-02-12T11:53:46.793Z] : [info]: ---------------------------------------------
+
+[2024-02-12T11:54:21.425Z] : [success]: Robot saved successfully
+
+[2024-02-12T11:54:27.938Z] : [success]: Bot started
+
+[2024-02-12T11:54:27.940Z] : [info]: Robot start
+
+[2024-02-12T11:54:31.186Z] : [error]: Traceback (most recent call last):
+  File "C:\Users\ASMESPL\OneDrive\Desktop\popup.py", line 39, in <module>
+    root.mainloop(val2)
+  File "C:\Program Files\Python311\Lib\tkinter\__init__.py", line 1485, in mainloop
+    self.tk.mainloop(n)
+TypeError: 'str' object cannot be interpreted as an integer
+
+
+[2024-02-12T11:54:31.858Z] : [info]: Total execution time: 3s 245ms
+
+[2024-02-12T11:54:31.859Z] : [info]: ---------------------------------------------
+
+[2024-02-12T11:54:40.335Z] : [success]: Connection to our licenses server is restored
+
+[2024-02-12T11:55:07.175Z] : [info]: Internet connection // error
+
+[2024-02-12T11:55:11.579Z] : [success]: Connection to our licenses server is restored
+
+[2024-02-12T11:56:11.398Z] : [info]: Internet connection // error
+
+[2024-02-12T11:56:11.629Z] : [success]: Bot started
+
+[2024-02-12T11:56:11.630Z] : [info]: Robot start
+
+[2024-02-12T11:56:13.921Z] : [error]: Traceback (most recent call last):
+  File "C:\Users\ASMESPL\OneDrive\Desktop\popup.py", line 39, in <module>
+    root.mainloop(print(sys.argv[1]))
+  File "C:\Program Files\Python311\Lib\tkinter\__init__.py", line 1485, in mainloop
+    self.tk.mainloop(n)
+TypeError: 'NoneType' object cannot be interpreted as an integer
+
+
+[2024-02-12T11:56:14.481Z] : [info]: Total execution time: 2s 291ms
+
+[2024-02-12T11:56:14.482Z] : [info]: ---------------------------------------------
+
+[2024-02-12T12:04:11.453Z] : [success]: Connection to our licenses server is restored
+
+[2024-02-12T12:05:03.527Z] : [info]: Internet connection // error
+
+[2024-02-12T12:05:15.038Z] : [success]: Connection to our licenses server is restored
+
+[2024-02-12T12:06:07.000Z] : [info]: Internet connection // error
+
+[2024-02-12T12:06:12.574Z] : [success]: Connection to our licenses server is restored
+
+[2024-02-12T12:07:04.628Z] : [info]: Internet connection // error
+
+[2024-02-12T12:07:15.222Z] : [success]: Connection to our licenses server is restored
+
+[2024-02-12T12:07:44.750Z] : [success]: Robot saved successfully
+
+[2024-02-12T12:07:52.207Z] : [info]: Internet connection // error
+
+[2024-02-12T12:07:52.337Z] : [success]: Bot started
+
+[2024-02-12T12:07:52.338Z] : [info]: Robot start
+
+[2024-02-12T12:07:55.493Z] : [error]: Traceback (most recent call last):
+  File "C:\Users\ASMESPL\OneDrive\Desktop\popup.py", line 20, in <module>
+    v.set()  # initializing the choice, i.e. Python
+    ^^^^^^^
+TypeError: Variable.set() missing 1 required positional argument: 'value'
+
+
+[2024-02-12T12:07:56.172Z] : [info]: Total execution time: 3s 154ms
+
+[2024-02-12T12:07:56.173Z] : [info]: ---------------------------------------------
+
+[2024-02-12T12:08:10.185Z] : [success]: Bot started
+
+[2024-02-12T12:08:10.186Z] : [info]: Robot start
+
+[2024-02-12T12:08:10.972Z] : [success]: Connection to our licenses server is restored
+
+[2024-02-12T12:08:13.452Z] : [error]: Traceback (most recent call last):
+  File "C:\Users\ASMESPL\OneDrive\Desktop\popup.py", line 20, in <module>
+    v.set()  # initializing the choice, i.e. Python
+    ^^^^^^^
+TypeError: Variable.set() missing 1 required positional argument: 'value'
+
+
+[2024-02-12T12:08:14.184Z] : [info]: Total execution time: 3s 266ms
+
+[2024-02-12T12:08:14.185Z] : [info]: ---------------------------------------------
+
+[2024-02-12T12:08:35.975Z] : [info]: Internet connection // error
+
+[2024-02-12T12:08:42.538Z] : [success]: Connection to our licenses server is restored
+
+[2024-02-12T12:09:08.217Z] : [info]: Internet connection // error
+
+[2024-02-12T12:09:15.541Z] : [success]: Connection to our licenses server is restored
+
+[2024-02-12T12:10:07.703Z] : [info]: Internet connection // error
+
+[2024-02-12T12:10:13.633Z] : [success]: Connection to our licenses server is restored
+
+[2024-02-12T12:10:35.184Z] : [success]: Robot saved successfully
+
+[2024-02-12T12:10:42.722Z] : [info]: Internet connection // error
+
+[2024-02-12T12:10:42.876Z] : [success]: Bot started
+
+[2024-02-12T12:10:42.877Z] : [info]: Robot start
+
+[2024-02-12T12:10:46.140Z] : [error]: Traceback (most recent call last):
+  File "C:\Users\ASMESPL\OneDrive\Desktop\popup.py", line 20, in <module>
+    v.set()  # initializing the choice, i.e. Python
+    ^^^^^^^
+TypeError: Variable.set() missing 1 required positional argument: 'value'
+
+
+[2024-02-12T12:10:46.997Z] : [info]: Total execution time: 3s 262ms
+
+[2024-02-12T12:10:46.998Z] : [info]: ---------------------------------------------
+
+[2024-02-12T12:11:10.905Z] : [success]: Connection to our licenses server is restored
+
+[2024-02-12T12:11:36.327Z] : [info]: Internet connection // error
+
+[2024-02-12T12:11:39.815Z] : [success]: Robot saved successfully
+
+[2024-02-12T12:11:42.481Z] : [success]: Connection to our licenses server is restored
+
+[2024-02-12T12:11:46.913Z] : [info]: Internet connection // error
+
+[2024-02-12T12:11:47.129Z] : [success]: Bot started
+
+[2024-02-12T12:11:47.131Z] : [info]: Robot start
+
+[2024-02-12T12:12:07.662Z] : [success]: Bot finished successfully, total execution time: 20s 531ms
+
+[2024-02-12T12:12:07.663Z] : [info]: ---------------------------------------------
+
+[2024-02-12T12:12:13.297Z] : [success]: Connection to our licenses server is restored
+
+[2024-02-12T12:31:31.051Z] : [info]: Internet connection // error
+
+[2024-02-12T12:31:43.551Z] : [success]: Connection to our licenses server is restored
+
+[2024-02-12T12:32:35.490Z] : [info]: Internet connection // error
+
+[2024-02-12T12:32:42.785Z] : [success]: Connection to our licenses server is restored
+
+[2024-02-12T12:36:06.830Z] : [info]: Internet connection // error
+
+[2024-02-12T12:36:12.028Z] : [success]: Connection to our licenses server is restored
+
+[2024-02-12T12:36:37.892Z] : [info]: Internet connection // error
+
+[2024-02-12T12:36:44.219Z] : [success]: Connection to our licenses server is restored
+
+[2024-02-12T12:37:36.427Z] : [info]: Internet connection // error
+
+[2024-02-12T12:37:44.764Z] : [success]: Connection to our licenses server is restored
+
+[2024-02-14T05:12:25.391Z] : [success]: Robot saved successfully
+
+[2024-02-14T05:12:32.255Z] : [success]: Bot started
+
+[2024-02-14T05:12:32.257Z] : [info]: Robot start
+
+[2024-02-14T05:12:47.306Z] : [success]: Bot finished successfully, total execution time: 15s 44ms
+
+[2024-02-14T05:12:47.308Z] : [info]: ---------------------------------------------
+
+[2024-02-14T05:24:27.009Z] : [success]: Robot saved successfully
+
+[2024-02-14T05:24:32.906Z] : [success]: Bot started
+
+[2024-02-14T05:24:32.907Z] : [info]: Robot start
+
+[2024-02-14T05:24:36.219Z] : [success]: Bot finished successfully, total execution time: 3s 308ms
+
+[2024-02-14T05:24:36.221Z] : [info]: ---------------------------------------------
+
+[2024-02-14T05:25:24.709Z] : [success]: Bot started
+
+[2024-02-14T05:25:24.710Z] : [info]: Robot start
+
+[2024-02-14T05:25:26.925Z] : [success]: Bot finished successfully, total execution time: 2s 211ms
+
+[2024-02-14T05:25:26.926Z] : [info]: ---------------------------------------------
+
+[2024-02-14T05:27:01.044Z] : [success]: Bot started
+
+[2024-02-14T05:27:01.045Z] : [info]: Robot start
+
+[2024-02-14T05:27:02.199Z] : [success]: Bot finished successfully, total execution time: 1s 150ms
+
+[2024-02-14T05:27:02.199Z] : [info]: ---------------------------------------------
+
+[2024-02-14T05:27:52.619Z] : [success]: Bot started
+
+[2024-02-14T05:27:52.620Z] : [info]: Robot start
+
+[2024-02-14T05:27:54.844Z] : [success]: Bot finished successfully, total execution time: 2s 221ms
+
+[2024-02-14T05:27:54.845Z] : [info]: ---------------------------------------------
+
+[2024-02-14T05:28:25.858Z] : [success]: Robot saved successfully
+
+[2024-02-14T05:28:30.675Z] : [success]: Bot started
+
+[2024-02-14T05:28:30.676Z] : [info]: Robot start
+
+[2024-02-14T05:28:39.172Z] : [success]: Bot finished successfully, total execution time: 8s 493ms
+
+[2024-02-14T05:28:39.173Z] : [info]: ---------------------------------------------
+
+[2024-02-14T05:28:58.973Z] : [success]: Bot started
+
+[2024-02-14T05:28:58.973Z] : [info]: Robot start
+
+[2024-02-14T05:29:06.256Z] : [success]: Bot finished successfully, total execution time: 7s 281ms
+
+[2024-02-14T05:29:06.257Z] : [info]: ---------------------------------------------
+
+[2024-02-14T05:31:53.513Z] : [success]: Bot started
+
+[2024-02-14T05:31:53.514Z] : [info]: Robot start
+
+[2024-02-14T05:32:01.903Z] : [success]: Bot finished successfully, total execution time: 8s 385ms
+
+[2024-02-14T05:32:01.905Z] : [info]: ---------------------------------------------
+
+[2024-02-14T05:32:34.206Z] : [success]: Bot started
+
+[2024-02-14T05:32:34.207Z] : [info]: Robot start
+
+[2024-02-14T05:32:41.558Z] : [success]: Bot finished successfully, total execution time: 7s 348ms
+
+[2024-02-14T05:32:41.558Z] : [info]: ---------------------------------------------
+
+[2024-02-14T05:37:52.090Z] : [success]: Robot saved successfully
+
+[2024-02-14T05:37:58.217Z] : [success]: Bot started
+
+[2024-02-14T05:37:58.219Z] : [info]: Robot start
+
+[2024-02-14T05:38:00.510Z] : [error]: jsonString is not defined
+
+[2024-02-14T05:38:01.176Z] : [info]: Total execution time: 2s 290ms
+
+[2024-02-14T05:38:01.177Z] : [info]: ---------------------------------------------
+
+[2024-02-14T05:38:44.133Z] : [success]: Robot saved successfully
+
+[2024-02-14T05:40:00.851Z] : [error]: Cannot read properties of null (reading 'comment')
+
+[2024-02-14T05:40:01.199Z] : [success]: Robot saved successfully
+
+[2024-02-14T05:40:06.929Z] : [success]: Robot saved successfully
+
+[2024-02-14T05:40:24.192Z] : [success]: Robot saved successfully
+
+[2024-02-14T05:40:39.141Z] : [success]: Bot started
+
+[2024-02-14T05:40:39.142Z] : [info]: Robot start
+
+[2024-02-14T05:40:41.419Z] : [error]: jsonData is not defined
+
+[2024-02-14T05:40:41.940Z] : [info]: Total execution time: 2s 276ms
+
+[2024-02-14T05:40:41.942Z] : [info]: ---------------------------------------------
+
+[2024-02-14T05:41:00.589Z] : [success]: Bot started
+
+[2024-02-14T05:41:00.590Z] : [info]: Robot start
+
+[2024-02-14T05:41:03.058Z] : [error]: jsonString is not defined
+
+[2024-02-14T05:41:04.109Z] : [info]: Total execution time: 2s 467ms
+
+[2024-02-14T05:41:04.110Z] : [info]: ---------------------------------------------
+
+[2024-02-14T05:43:12.886Z] : [success]: Robot saved successfully
+
+[2024-02-14T05:43:14.654Z] : [success]: Robot saved successfully
+
+[2024-02-14T05:43:33.006Z] : [success]: Bot started
+
+[2024-02-14T05:43:33.007Z] : [info]: Robot start
+
+[2024-02-14T05:43:48.688Z] : [success]: Bot finished successfully, total execution time: 15s 678ms
+
+[2024-02-14T05:43:48.689Z] : [info]: ---------------------------------------------
+
+[2024-02-14T05:44:19.285Z] : [success]: Robot saved successfully
+
+[2024-02-14T05:44:23.992Z] : [success]: Bot started
+
+[2024-02-14T05:44:23.992Z] : [info]: Robot start
+
+[2024-02-14T05:44:40.628Z] : [success]: Bot finished successfully, total execution time: 16s 633ms
+
+[2024-02-14T05:44:40.629Z] : [info]: ---------------------------------------------
+
+[2024-02-14T05:44:57.062Z] : [success]: Robot saved successfully
+
+[2024-02-14T05:44:59.311Z] : [success]: Robot saved successfully
+
+[2024-02-14T05:45:04.117Z] : [success]: Bot started
+
+[2024-02-14T05:45:04.118Z] : [info]: Robot start
+
+[2024-02-14T05:45:13.580Z] : [success]: Bot finished successfully, total execution time: 9s 459ms
+
+[2024-02-14T05:45:13.581Z] : [info]: ---------------------------------------------
+
+[2024-02-14T05:45:19.667Z] : [success]: Robot saved successfully
+
+[2024-02-14T05:45:25.687Z] : [success]: Bot started
+
+[2024-02-14T05:45:25.688Z] : [info]: Robot start
+
+[2024-02-14T05:45:27.917Z] : [error]: category is not defined
+
+[2024-02-14T05:45:28.540Z] : [info]: Total execution time: 2s 228ms
+
+[2024-02-14T05:45:28.541Z] : [info]: ---------------------------------------------
+
+[2024-02-14T05:45:37.142Z] : [success]: Robot saved successfully
+
+[2024-02-14T05:45:42.623Z] : [success]: Bot started
+
+[2024-02-14T05:45:42.624Z] : [info]: Robot start
+
+[2024-02-14T05:45:49.922Z] : [success]: Bot finished successfully, total execution time: 7s 295ms
+
+[2024-02-14T05:45:49.922Z] : [info]: ---------------------------------------------
+
+[2024-02-14T05:46:02.456Z] : [success]: Robot saved successfully
+
+[2024-02-14T05:46:07.436Z] : [success]: Bot started
+
+[2024-02-14T05:46:07.436Z] : [info]: Robot start
+
+[2024-02-14T05:46:15.877Z] : [success]: Bot finished successfully, total execution time: 8s 437ms
+
+[2024-02-14T05:46:15.881Z] : [info]: ---------------------------------------------
+
+[2024-02-14T05:46:47.141Z] : [success]: Robot saved successfully
+
+[2024-02-14T05:46:51.929Z] : [success]: Bot started
+
+[2024-02-14T05:46:51.930Z] : [info]: Robot start
+
+[2024-02-14T05:46:54.234Z] : [error]: Cannot read properties of undefined (reading 'category')
+
+[2024-02-14T05:46:54.731Z] : [info]: Total execution time: 2s 303ms
+
+[2024-02-14T05:46:54.732Z] : [info]: ---------------------------------------------
+
+[2024-02-14T05:47:04.562Z] : [success]: Robot saved successfully
+
+[2024-02-14T05:47:09.524Z] : [success]: Bot started
+
+[2024-02-14T05:47:09.525Z] : [info]: Robot start
+
+[2024-02-14T05:47:18.952Z] : [success]: Bot finished successfully, total execution time: 9s 423ms
+
+[2024-02-14T05:47:18.953Z] : [info]: ---------------------------------------------
+
+[2024-02-14T05:47:30.187Z] : [success]: Robot saved successfully
+
+[2024-02-14T05:47:35.014Z] : [success]: Bot started
+
+[2024-02-14T05:47:35.014Z] : [info]: Robot start
+
+[2024-02-14T05:47:43.401Z] : [success]: Bot finished successfully, total execution time: 8s 383ms
+
+[2024-02-14T05:47:43.402Z] : [info]: ---------------------------------------------
+
+[2024-02-14T05:48:12.100Z] : [success]: Robot saved successfully
+
+[2024-02-14T05:48:18.088Z] : [success]: Bot started
+
+[2024-02-14T05:48:18.089Z] : [info]: Robot start
+
+[2024-02-14T05:48:27.517Z] : [success]: Bot finished successfully, total execution time: 9s 425ms
+
+[2024-02-14T05:48:27.518Z] : [info]: ---------------------------------------------
+
+[2024-02-14T05:49:04.477Z] : [success]: Robot saved successfully
+
+[2024-02-14T05:49:18.318Z] : [success]: Robot saved successfully
+
+[2024-02-14T05:49:57.940Z] : [success]: Robot saved successfully
+
+[2024-02-14T05:50:03.501Z] : [success]: Bot started
+
+[2024-02-14T05:50:03.502Z] : [info]: Robot start
+
+[2024-02-14T05:50:13.021Z] : [success]: Bot finished successfully, total execution time: 9s 516ms
+
+[2024-02-14T05:50:13.022Z] : [info]: ---------------------------------------------
+
+[2024-02-14T05:50:37.355Z] : [success]: Robot saved successfully
+
+[2024-02-14T05:51:58.552Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 2/14/2024, 11:22:30 AM
+  ==========================================
+  
+
+[2024-02-14T05:53:13.023Z] : [success]: Robot saved successfully
+
+[2024-02-14T05:55:03.291Z] : [success]: Robot saved successfully
+
+[2024-02-14T05:56:25.651Z] : [success]: Robot saved successfully
+
+[2024-02-14T05:56:56.892Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 2/14/2024, 11:28:52 AM
+  ==========================================
+  
+
+[2024-02-14T06:05:45.518Z] : [success]: Robot saved successfully
+
+[2024-02-14T06:08:26.060Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 2/14/2024, 11:39:45 AM
+  ==========================================
+  
+
+[2024-02-14T06:10:15.274Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 2/14/2024, 11:44:08 AM
+  ==========================================
+  
+
+[2024-02-14T06:20:11.085Z] : [success]: Robot saved successfully
+
+[2024-02-14T06:20:19.200Z] : [success]: Robot saved successfully
+
+[2024-02-14T06:22:33.052Z] : [success]: Robot saved successfully
+
+[2024-02-14T06:23:56.851Z] : [error]: Cannot read properties of null (reading 'comment')
+
+[2024-02-14T06:26:08.583Z] : [success]: Robot saved successfully
+
+[2024-02-14T06:31:15.176Z] : [success]: Robot saved successfully
+
+[2024-02-14T06:35:47.579Z] : [success]: Robot saved successfully
+
+[2024-02-14T06:35:55.921Z] : [success]: Robot saved successfully
+
+[2024-02-14T06:35:56.575Z] : [success]: Robot saved successfully
+
+[2024-02-14T06:36:13.775Z] : [success]: Bot started
+
+[2024-02-14T06:36:13.776Z] : [info]: Robot start
+
+[2024-02-14T06:36:37.397Z] : [error]: Selectors: Nothing found
+
+[2024-02-14T06:36:38.645Z] : [info]: Total execution time: 23s 619ms
+
+[2024-02-14T06:36:38.646Z] : [info]: ---------------------------------------------
+
+[2024-02-14T06:36:52.491Z] : [success]: Robot saved successfully
+
+[2024-02-14T06:37:04.200Z] : [success]: Bot started
+
+[2024-02-14T06:37:04.200Z] : [info]: Robot start
+
+[2024-02-14T06:37:26.251Z] : [error]: Selectors: Nothing found
+
+[2024-02-14T06:37:27.512Z] : [info]: Total execution time: 22s 51ms
+
+[2024-02-14T06:37:27.514Z] : [info]: ---------------------------------------------
+
+[2024-02-14T06:38:16.059Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 2/14/2024, 12:08:50 PM
+  ==========================================
+  
+
+[2024-02-14T06:39:28.863Z] : [success]: Robot saved successfully
+
+[2024-02-14T06:39:39.094Z] : [success]: Bot started
+
+[2024-02-14T06:39:39.096Z] : [info]: Robot start
+
+[2024-02-14T06:40:08.851Z] : [error]: Selectors: Nothing found
+
+[2024-02-14T06:40:10.278Z] : [info]: Total execution time: 29s 753ms
+
+[2024-02-14T06:40:10.280Z] : [info]: ---------------------------------------------
+
+[2024-02-14T06:40:57.001Z] : [success]: Robot saved successfully
+
+[2024-02-14T06:41:58.836Z] : [success]: Robot saved successfully
+
+[2024-02-14T06:43:49.594Z] : [success]: Robot saved successfully
+
+[2024-02-14T06:44:01.323Z] : [success]: Bot started
+
+[2024-02-14T06:44:01.323Z] : [info]: Robot start
+
+[2024-02-14T06:44:31.601Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2024-02-14T06:44:33.535Z] : [info]: Total execution time: 30s 277ms
+
+[2024-02-14T06:44:33.536Z] : [info]: ---------------------------------------------
+
+[2024-02-14T06:47:44.547Z] : [success]: Robot saved successfully
+
+[2024-02-14T06:48:10.845Z] : [success]: Robot saved successfully
+
+[2024-02-14T06:48:15.436Z] : [success]: Robot saved successfully
+
+[2024-02-14T06:48:26.319Z] : [success]: Robot saved successfully
+
+[2024-02-14T06:48:32.298Z] : [success]: Bot started
+
+[2024-02-14T06:48:32.299Z] : [info]: Robot start
+
+[2024-02-14T06:49:12.314Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2024-02-14T06:49:13.611Z] : [info]: Total execution time: 40s 14ms
+
+[2024-02-14T06:49:13.613Z] : [info]: ---------------------------------------------
+
+[2024-02-14T06:49:31.571Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 2/14/2024, 12:20:18 PM
+  ==========================================
+  
+
+[2024-02-14T06:51:14.783Z] : [success]: Robot saved successfully
+
+[2024-02-14T06:51:22.613Z] : [success]: Robot saved successfully
+
+[2024-02-14T06:51:35.812Z] : [success]: Bot started
+
+[2024-02-14T06:51:35.814Z] : [info]: Robot start
+
+[2024-02-14T06:52:17.631Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2024-02-14T06:52:18.949Z] : [info]: Total execution time: 41s 816ms
+
+[2024-02-14T06:52:18.951Z] : [info]: ---------------------------------------------
+
+[2024-02-14T06:52:22.155Z] : [success]: Robot saved successfully
+
+[2024-02-14T06:52:32.785Z] : [success]: Bot started
+
+[2024-02-14T06:52:32.787Z] : [info]: Robot start
+
+[2024-02-14T06:53:15.961Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2024-02-14T06:53:17.006Z] : [info]: Total execution time: 43s 174ms
+
+[2024-02-14T06:53:17.007Z] : [info]: ---------------------------------------------
+
+[2024-02-14T06:53:57.809Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 2/14/2024, 12:25:06 PM
+  ==========================================
+  
+
+[2024-02-14T06:55:45.339Z] : [success]: Robot saved successfully
+
+[2024-02-14T06:58:16.705Z] : [success]: Robot saved successfully
+
+[2024-02-14T06:59:00.157Z] : [success]: Robot saved successfully
+
+[2024-02-14T06:59:08.430Z] : [success]: Robot saved successfully
+
+[2024-02-14T06:59:29.126Z] : [success]: Bot started
+
+[2024-02-14T06:59:29.127Z] : [info]: Robot start
+
+[2024-02-14T07:00:12.121Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2024-02-14T07:00:13.116Z] : [info]: Total execution time: 42s 993ms
+
+[2024-02-14T07:00:13.117Z] : [info]: ---------------------------------------------
+
+[2024-02-14T07:00:53.580Z] : [success]: Robot saved successfully
+
+[2024-02-14T07:32:18.225Z] : [success]: Robot saved successfully
+
+[2024-02-14T07:32:43.027Z] : [success]: Robot saved successfully
+
+[2024-02-14T07:32:56.602Z] : [success]: Bot started
+
+[2024-02-14T07:32:56.603Z] : [info]: Robot start
+
+[2024-02-14T07:33:42.119Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2024-02-14T07:33:43.346Z] : [info]: Total execution time: 45s 516ms
+
+[2024-02-14T07:33:43.347Z] : [info]: ---------------------------------------------
+
+[2024-02-14T07:33:56.667Z] : [success]: Robot saved successfully
+
+[2024-02-14T07:34:07.599Z] : [success]: Bot started
+
+[2024-02-14T07:34:07.600Z] : [info]: Robot start
+
+[2024-02-14T07:34:49.725Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2024-02-14T07:34:52.168Z] : [info]: Total execution time: 42s 124ms
+
+[2024-02-14T07:34:52.169Z] : [info]: ---------------------------------------------
+
+[2024-02-14T07:34:57.594Z] : [success]: Bot started
+
+[2024-02-14T07:34:57.596Z] : [info]: Robot start
+
+[2024-02-14T07:35:43.343Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2024-02-14T07:35:44.767Z] : [info]: Total execution time: 45s 746ms
+
+[2024-02-14T07:35:44.768Z] : [info]: ---------------------------------------------
+
+[2024-02-14T07:36:21.520Z] : [success]: Robot saved successfully
+
+[2024-02-14T07:36:46.231Z] : [success]: Bot started
+
+[2024-02-14T07:36:46.232Z] : [info]: Robot start
+
+[2024-02-14T07:37:28.339Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2024-02-14T07:37:29.662Z] : [info]: Total execution time: 42s 107ms
+
+[2024-02-14T07:37:29.664Z] : [info]: ---------------------------------------------
+
+[2024-02-14T07:37:44.755Z] : [success]: Bot started
+
+[2024-02-14T07:37:44.756Z] : [info]: Robot start
+
+[2024-02-14T07:38:26.945Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2024-02-14T07:38:28.820Z] : [info]: Total execution time: 42s 188ms
+
+[2024-02-14T07:38:28.821Z] : [info]: ---------------------------------------------
+
+[2024-02-14T07:38:42.262Z] : [success]: Robot saved successfully
+
+[2024-02-14T07:38:52.644Z] : [success]: Bot started
+
+[2024-02-14T07:38:52.645Z] : [info]: Robot start
+
+[2024-02-14T07:39:48.607Z] : [success]: Bot finished successfully, total execution time: 55s 955ms
+
+[2024-02-14T07:39:48.609Z] : [info]: ---------------------------------------------
+
+[2024-02-14T07:40:41.540Z] : [success]: Robot saved successfully
+
+[2024-02-14T07:40:45.203Z] : [success]: Robot saved successfully
+

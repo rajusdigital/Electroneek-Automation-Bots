@@ -1,0 +1,207 @@
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 3/13/2024, 11:55:47 AM
+  ==========================================
+  
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 3/13/2024, 11:58:31 AM
+  ==========================================
+  
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 3/13/2024, 11:59:12 AM
+  ==========================================
+  
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 3/13/2024, 12:03:35 PM
+  ==========================================
+  
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 3/13/2024, 12:37:09 PM
+  ==========================================
+  
+
+[2024-03-13T07:19:41.018Z] : [success]: Robot saved successfully
+
+[2024-03-13T07:20:11.190Z] : [success]: Robot saved successfully
+
+[2024-03-13T07:20:16.529Z] : [info]: Internet connection // error
+
+[2024-03-13T07:20:23.835Z] : [success]: Connection to our licenses server is restored
+
+[2024-03-13T07:20:25.865Z] : [error]: Failed to run workflow, ocr server unavailable
+
+[2024-03-13T07:20:27.094Z] : [info]: ---------------------------------------------
+
+[2024-03-13T07:20:34.664Z] : [success]: Robot saved successfully
+
+[2024-03-13T07:20:46.946Z] : [success]: Bot started
+
+[2024-03-13T07:20:46.947Z] : [info]: Robot start
+
+[2024-03-13T07:21:34.067Z] : [success]: Bot finished successfully, total execution time: 47s 115ms
+
+[2024-03-13T07:21:34.069Z] : [info]: ---------------------------------------------
+
+[2024-03-13T07:22:09.316Z] : [info]: Internet connection // error
+
+[2024-03-13T07:23:23.613Z] : [success]: Robot saved successfully
+
+[2024-03-13T07:23:32.213Z] : [success]: Robot saved successfully
+
+[2024-03-13T07:23:32.264Z] : [error]: Failed to run workflow, ocr server unavailable
+
+[2024-03-13T07:23:33.453Z] : [info]: ---------------------------------------------
+
+[2024-03-13T07:24:23.039Z] : [success]: Robot saved successfully
+
+[2024-03-13T07:24:29.633Z] : [success]: Robot saved successfully
+
+[2024-03-13T07:24:32.884Z] : [success]: Bot started
+
+[2024-03-13T07:24:32.886Z] : [info]: Robot start
+
+[2024-03-13T07:24:55.136Z] : [error]: Cannot destructure property 'login' of 'object null' as it is null.
+
+[2024-03-13T07:24:56.209Z] : [info]: Total execution time: 22s 250ms
+
+[2024-03-13T07:24:56.209Z] : [info]: ---------------------------------------------
+
+[2024-03-13T07:25:23.256Z] : [success]: Robot saved successfully
+
+[2024-03-13T07:25:39.792Z] : [success]: Bot started
+
+[2024-03-13T07:25:39.793Z] : [info]: Robot start
+
+[2024-03-13T07:25:50.613Z] : [success]: Connection to our licenses server is restored
+
+[2024-03-13T07:25:55.785Z] : [error]: Intellidocs: Page limit is reached
+
+[2024-03-13T07:25:56.927Z] : [info]: Total execution time: 15s 991ms
+
+[2024-03-13T07:25:56.928Z] : [info]: ---------------------------------------------
+
+[2024-03-13T07:26:16.748Z] : [success]: Robot saved successfully
+
+[2024-03-13T07:26:33.194Z] : [success]: Bot started
+
+[2024-03-13T07:26:33.195Z] : [info]: Robot start
+
+[2024-03-13T07:26:39.609Z] : [error]: Cannot destructure property 'login' of 'object null' as it is null.
+
+[2024-03-13T07:26:40.420Z] : [info]: Total execution time: 6s 412ms
+
+[2024-03-13T07:26:40.421Z] : [info]: ---------------------------------------------
+
+[2024-03-13T07:26:52.809Z] : [success]: Robot saved successfully
+
+[2024-03-13T07:27:06.274Z] : [success]: Bot started
+
+[2024-03-13T07:27:06.275Z] : [info]: Robot start
+
+[2024-03-13T07:27:15.616Z] : [error]: Intellidocs: Page limit is reached
+
+[2024-03-13T07:27:16.382Z] : [info]: Total execution time: 9s 341ms
+
+[2024-03-13T07:27:16.383Z] : [info]: ---------------------------------------------
+
+[2024-03-13T07:27:26.825Z] : [success]: Robot saved successfully
+
+[2024-03-13T07:27:38.228Z] : [success]: Robot saved successfully
+
+[2024-03-13T07:45:44.689Z] : [info]: Internet connection // error
+
+[2024-03-13T07:45:50.336Z] : [success]: Connection to our licenses server is restored
+
+[2024-03-13T08:32:37.293Z] : [info]: Internet connection // error
+
+[2024-03-13T08:33:06.111Z] : [success]: Connection to our licenses server is restored
+
+[2024-03-13T09:59:49.232Z] : [info]: Internet connection // error
+
+[2024-03-13T10:00:03.297Z] : [success]: Connection to our licenses server is restored
+
+[2024-03-13T10:00:33.011Z] : [info]: Internet connection // error
+
+[2024-03-13T10:00:55.976Z] : [success]: Connection to our licenses server is restored
+
+[2024-03-13T10:01:25.788Z] : [info]: Internet connection // error
+
+[2024-03-13T10:08:24.240Z] : [success]: Connection to our licenses server is restored
+
+[2024-03-13T12:26:30.717Z] : [success]: Robot saved successfully
+
+[2024-03-13T12:26:31.901Z] : [success]: Bot started
+
+[2024-03-13T12:26:31.902Z] : [info]: Robot start
+
+[2024-03-13T12:27:00.303Z] : [success]: Bot finished successfully, total execution time: 28s 398ms
+
+[2024-03-13T12:27:00.305Z] : [info]: ---------------------------------------------
+
+[2024-03-13T12:27:51.666Z] : [success]: Robot saved successfully
+
+[2024-03-13T12:27:54.325Z] : [success]: Robot saved successfully
+
+[2024-03-13T12:28:10.674Z] : [success]: Robot saved successfully
+
+[2024-03-13T12:28:41.087Z] : [success]: Bot started
+
+[2024-03-13T12:28:41.088Z] : [info]: Robot start
+
+[2024-03-13T12:29:05.956Z] : [error]: Script Stopped.
+
+[2024-03-13T12:29:07.037Z] : [info]: Total execution time: 24s 866ms
+
+[2024-03-13T12:29:07.039Z] : [info]: ---------------------------------------------
+
+[2024-03-13T12:29:23.229Z] : [info]: Internet connection // error
+
+[2024-03-13T12:32:26.303Z] : [success]: Connection to our licenses server is restored
+
+[2024-03-13T12:39:14.427Z] : [info]: Internet connection // error
+
+[2024-03-13T12:39:28.359Z] : [success]: Connection to our licenses server is restored
+
+[2024-03-13T12:40:57.673Z] : [success]: Robot saved successfully
+
+[2024-03-13T12:45:11.523Z] : [success]: Robot saved successfully
+
+[2024-03-13T12:45:31.531Z] : [success]: Bot started
+
+[2024-03-13T12:45:31.532Z] : [info]: Robot start
+
+[2024-03-13T12:46:02.449Z] : [error]: Canceled by user
+
+[2024-03-13T12:46:04.036Z] : [info]: Total execution time: 30s 916ms
+
+[2024-03-13T12:46:04.038Z] : [info]: ---------------------------------------------
+
+[2024-03-13T12:46:30.625Z] : [success]: Robot saved successfully
+
+[2024-03-13T12:46:52.636Z] : [success]: Bot started
+
+[2024-03-13T12:46:52.637Z] : [info]: Robot start
+
+[2024-03-13T12:47:08.309Z] : [error]: Script Stopped.
+
+[2024-03-13T12:47:09.431Z] : [info]: Total execution time: 15s 672ms
+
+[2024-03-13T12:47:09.433Z] : [info]: ---------------------------------------------
+
+[2024-03-13T12:47:26.779Z] : [success]: Robot saved successfully
+
+[2024-03-13T12:47:55.114Z] : [success]: Robot saved successfully
+

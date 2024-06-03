@@ -1,0 +1,493 @@
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 10/30/2023, 10:43:46 AM
+  ==========================================
+  
+
+[2023-10-30T05:26:17.413Z] : [success]: Robot saved successfully
+
+[2023-10-30T05:32:55.108Z] : [success]: Bot started
+
+[2023-10-30T05:32:55.109Z] : [info]: Robot start
+
+[2023-10-30T05:33:06.018Z] : [error]: "File not in PDF format or corrupted"
+
+
+[2023-10-30T05:33:06.858Z] : [info]: Total execution time: 10s 907ms
+
+[2023-10-30T05:33:06.860Z] : [info]: ---------------------------------------------
+
+[2023-10-30T05:36:58.595Z] : [success]: Robot saved successfully
+
+[2023-10-30T05:37:04.176Z] : [success]: Bot started
+
+[2023-10-30T05:37:04.178Z] : [info]: Robot start
+
+[2023-10-30T05:37:08.327Z] : [error]: "File not in PDF format or corrupted"
+
+
+[2023-10-30T05:37:08.777Z] : [info]: Total execution time: 4s 147ms
+
+[2023-10-30T05:37:08.778Z] : [info]: ---------------------------------------------
+
+[2023-10-30T05:40:21.741Z] : [success]: Bot started
+
+[2023-10-30T05:40:21.742Z] : [info]: Robot start
+
+[2023-10-30T05:40:25.920Z] : [error]: "File not in PDF format or corrupted"
+
+
+[2023-10-30T05:40:26.267Z] : [info]: Total execution time: 4s 177ms
+
+[2023-10-30T05:40:26.268Z] : [info]: ---------------------------------------------
+
+[2023-10-30T05:43:24.802Z] : [success]: Robot saved successfully
+
+[2023-10-30T05:43:29.108Z] : [success]: Bot started
+
+[2023-10-30T05:43:29.109Z] : [info]: Robot start
+
+[2023-10-30T05:43:57.665Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-30T05:43:58.367Z] : [info]: Total execution time: 28s 555ms
+
+[2023-10-30T05:43:58.369Z] : [info]: ---------------------------------------------
+
+[2023-10-30T06:01:52.061Z] : [success]: Robot saved successfully
+
+[2023-10-30T06:01:56.286Z] : [success]: Bot started
+
+[2023-10-30T06:01:56.287Z] : [info]: Robot start
+
+[2023-10-30T06:02:19.665Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-30T06:02:19.956Z] : [info]: Total execution time: 23s 378ms
+
+[2023-10-30T06:02:19.957Z] : [info]: ---------------------------------------------
+
+[2023-10-30T06:07:39.740Z] : [success]: Robot saved successfully
+
+[2023-10-30T06:07:47.089Z] : [success]: Bot started
+
+[2023-10-30T06:07:47.090Z] : [info]: Robot start
+
+[2023-10-30T06:07:56.446Z] : [success]: Bot finished successfully, total execution time: 9s 347ms
+
+[2023-10-30T06:07:56.449Z] : [info]: ---------------------------------------------
+
+[2023-10-30T06:08:05.527Z] : [success]: Robot saved successfully
+
+[2023-10-30T06:08:09.219Z] : [success]: Bot started
+
+[2023-10-30T06:08:09.220Z] : [info]: Robot start
+
+[2023-10-30T06:08:16.451Z] : [success]: Bot finished successfully, total execution time: 7s 227ms
+
+[2023-10-30T06:08:16.453Z] : [info]: ---------------------------------------------
+
+[2023-10-30T06:08:44.029Z] : [success]: Robot saved successfully
+
+[2023-10-30T06:08:48.451Z] : [success]: Bot started
+
+[2023-10-30T06:08:48.452Z] : [info]: Robot start
+
+[2023-10-30T06:08:53.650Z] : [error]: "File not in PDF format or corrupted"
+
+
+[2023-10-30T06:08:54.060Z] : [info]: Total execution time: 5s 197ms
+
+[2023-10-30T06:08:54.060Z] : [info]: ---------------------------------------------
+
+[2023-10-30T06:09:30.631Z] : [success]: Robot saved successfully
+
+[2023-10-30T06:09:34.877Z] : [success]: Bot started
+
+[2023-10-30T06:09:34.877Z] : [info]: Robot start
+
+[2023-10-30T06:09:58.419Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-30T06:09:59.375Z] : [info]: Total execution time: 23s 542ms
+
+[2023-10-30T06:09:59.377Z] : [info]: ---------------------------------------------
+
+[2023-10-30T06:10:53.231Z] : [success]: Robot saved successfully
+
+[2023-10-30T06:11:17.137Z] : [success]: Robot saved successfully
+
+[2023-10-30T06:11:22.356Z] : [success]: Bot started
+
+[2023-10-30T06:11:22.357Z] : [info]: Robot start
+
+[2023-10-30T06:11:46.805Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-30T06:11:47.384Z] : [info]: Total execution time: 24s 447ms
+
+[2023-10-30T06:11:47.385Z] : [info]: ---------------------------------------------
+
+[2023-10-30T06:46:56.058Z] : [success]: Robot saved successfully
+
+[2023-10-30T06:48:02.371Z] : [success]: Bot started
+
+[2023-10-30T06:48:02.372Z] : [info]: Robot start
+
+[2023-10-30T06:48:34.030Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-30T06:48:34.704Z] : [info]: Total execution time: 31s 656ms
+
+[2023-10-30T06:48:34.705Z] : [info]: ---------------------------------------------
+
+[2023-10-30T07:02:19.133Z] : [success]: Robot saved successfully
+
+[2023-10-30T07:02:24.335Z] : [success]: Bot started
+
+[2023-10-30T07:02:24.336Z] : [info]: Robot start
+
+[2023-10-30T07:02:30.532Z] : [success]: Bot finished successfully, total execution time: 6s 194ms
+
+[2023-10-30T07:02:30.533Z] : [info]: ---------------------------------------------
+
+[2023-10-30T07:03:19.595Z] : [success]: Robot saved successfully
+
+[2023-10-30T07:03:24.184Z] : [success]: Bot started
+
+[2023-10-30T07:03:24.185Z] : [info]: Robot start
+
+[2023-10-30T07:04:01.893Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-30T07:04:02.450Z] : [info]: Total execution time: 37s 707ms
+
+[2023-10-30T07:04:02.451Z] : [info]: ---------------------------------------------
+
+[2023-10-30T07:11:42.067Z] : [success]: Robot saved successfully
+
+[2023-10-30T07:11:47.638Z] : [success]: Bot started
+
+[2023-10-30T07:11:47.639Z] : [info]: Robot start
+
+[2023-10-30T07:12:18.230Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-30T07:12:19.083Z] : [info]: Total execution time: 30s 590ms
+
+[2023-10-30T07:12:19.084Z] : [info]: ---------------------------------------------
+
+[2023-10-30T07:12:41.424Z] : [success]: Robot saved successfully
+
+[2023-10-30T07:12:49.187Z] : [success]: Bot started
+
+[2023-10-30T07:12:49.188Z] : [info]: Robot start
+
+[2023-10-30T07:13:23.802Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-30T07:13:24.363Z] : [info]: Total execution time: 34s 614ms
+
+[2023-10-30T07:13:24.364Z] : [info]: ---------------------------------------------
+
+[2023-10-30T07:14:37.607Z] : [success]: Robot saved successfully
+
+[2023-10-30T07:14:37.983Z] : [success]: Bot started
+
+[2023-10-30T07:14:37.984Z] : [info]: Robot start
+
+[2023-10-30T07:15:18.791Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-30T07:15:19.398Z] : [info]: Total execution time: 40s 806ms
+
+[2023-10-30T07:15:19.399Z] : [info]: ---------------------------------------------
+
+[2023-10-30T07:18:17.235Z] : [success]: Robot saved successfully
+
+[2023-10-30T07:18:24.789Z] : [success]: Bot started
+
+[2023-10-30T07:18:24.790Z] : [info]: Robot start
+
+[2023-10-30T07:18:59.582Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-30T07:19:00.154Z] : [info]: Total execution time: 34s 792ms
+
+[2023-10-30T07:19:00.155Z] : [info]: ---------------------------------------------
+
+[2023-10-30T07:19:55.764Z] : [success]: Robot saved successfully
+
+[2023-10-30T07:20:01.475Z] : [success]: Bot started
+
+[2023-10-30T07:20:01.476Z] : [info]: Robot start
+
+[2023-10-30T07:20:41.237Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-30T07:20:41.869Z] : [info]: Total execution time: 39s 760ms
+
+[2023-10-30T07:20:41.870Z] : [info]: ---------------------------------------------
+
+[2023-10-30T07:26:46.290Z] : [success]: Robot saved successfully
+
+[2023-10-30T07:26:52.717Z] : [success]: Bot started
+
+[2023-10-30T07:26:52.718Z] : [info]: Robot start
+
+[2023-10-30T07:27:36.455Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-30T07:27:36.904Z] : [info]: Total execution time: 43s 737ms
+
+[2023-10-30T07:27:36.905Z] : [info]: ---------------------------------------------
+
+[2023-10-30T07:34:04.109Z] : [success]: Robot saved successfully
+
+[2023-10-30T07:34:11.074Z] : [success]: Robot saved successfully
+
+[2023-10-30T07:34:17.250Z] : [success]: Bot started
+
+[2023-10-30T07:34:17.251Z] : [info]: Robot start
+
+[2023-10-30T07:35:03.109Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-30T07:35:03.733Z] : [info]: Total execution time: 45s 857ms
+
+[2023-10-30T07:35:03.735Z] : [info]: ---------------------------------------------
+
+[2023-10-30T09:53:15.123Z] : [success]: Robot saved successfully
+
+[2023-10-30T09:53:20.391Z] : [success]: Bot started
+
+[2023-10-30T09:53:20.392Z] : [info]: Robot start
+
+[2023-10-30T09:53:26.558Z] : [success]: Bot finished successfully, total execution time: 6s 163ms
+
+[2023-10-30T09:53:26.559Z] : [info]: ---------------------------------------------
+
+[2023-10-30T09:53:48.073Z] : [success]: Bot started
+
+[2023-10-30T09:53:48.073Z] : [info]: Robot start
+
+[2023-10-30T09:54:15.601Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-30T09:54:16.144Z] : [info]: Total execution time: 27s 527ms
+
+[2023-10-30T09:54:16.145Z] : [info]: ---------------------------------------------
+
+[2023-10-30T10:01:57.189Z] : [success]: Robot saved successfully
+
+[2023-10-30T10:04:43.582Z] : [success]: Robot saved successfully
+
+[2023-10-30T10:04:49.951Z] : [success]: Bot started
+
+[2023-10-30T10:04:49.951Z] : [info]: Robot start
+
+[2023-10-30T10:05:23.543Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-30T10:05:24.144Z] : [info]: Total execution time: 33s 591ms
+
+[2023-10-30T10:05:24.145Z] : [info]: ---------------------------------------------
+
+[2023-10-30T10:06:18.344Z] : [success]: Robot saved successfully
+
+[2023-10-30T10:06:18.931Z] : [success]: Robot saved successfully
+
+[2023-10-30T10:06:27.833Z] : [success]: Bot started
+
+[2023-10-30T10:06:27.833Z] : [info]: Robot start
+
+[2023-10-30T10:07:05.048Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-30T10:07:05.672Z] : [info]: Total execution time: 37s 215ms
+
+[2023-10-30T10:07:05.673Z] : [info]: ---------------------------------------------
+
+[2023-10-30T10:11:45.434Z] : [success]: Robot saved successfully
+
+[2023-10-30T10:11:45.843Z] : [success]: Bot started
+
+[2023-10-30T10:11:45.844Z] : [info]: Robot start
+
+[2023-10-30T10:12:19.850Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-30T10:12:20.446Z] : [info]: Total execution time: 34s 6ms
+
+[2023-10-30T10:12:20.447Z] : [info]: ---------------------------------------------
+
+[2023-10-30T10:15:17.768Z] : [success]: Robot saved successfully
+
+[2023-10-30T10:15:23.239Z] : [success]: Bot started
+
+[2023-10-30T10:15:23.240Z] : [info]: Robot start
+
+[2023-10-30T10:15:27.422Z] : [error]: "File not in PDF format or corrupted"
+
+
+[2023-10-30T10:15:27.895Z] : [info]: Total execution time: 4s 180ms
+
+[2023-10-30T10:15:27.895Z] : [info]: ---------------------------------------------
+
+[2023-10-30T10:16:19.426Z] : [success]: Robot saved successfully
+
+[2023-10-30T10:16:25.431Z] : [success]: Bot started
+
+[2023-10-30T10:16:25.431Z] : [info]: Robot start
+
+[2023-10-30T10:17:00.059Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-30T10:17:00.640Z] : [info]: Total execution time: 34s 628ms
+
+[2023-10-30T10:17:00.641Z] : [info]: ---------------------------------------------
+
+[2023-10-30T10:18:40.077Z] : [success]: Robot saved successfully
+
+[2023-10-30T10:18:46.759Z] : [success]: Bot started
+
+[2023-10-30T10:18:46.760Z] : [info]: Robot start
+
+[2023-10-30T10:19:22.416Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-30T10:19:22.874Z] : [info]: Total execution time: 35s 656ms
+
+[2023-10-30T10:19:22.875Z] : [info]: ---------------------------------------------
+
+[2023-10-30T10:21:47.208Z] : [success]: Robot saved successfully
+
+[2023-10-30T10:21:52.912Z] : [success]: Bot started
+
+[2023-10-30T10:21:52.914Z] : [info]: Robot start
+
+[2023-10-30T10:22:25.583Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-30T10:22:26.478Z] : [info]: Total execution time: 32s 668ms
+
+[2023-10-30T10:22:26.480Z] : [info]: ---------------------------------------------
+
+[2023-10-30T10:26:23.018Z] : [success]: Robot saved successfully
+
+[2023-10-30T10:26:52.473Z] : [success]: Robot saved successfully
+
+[2023-10-30T10:28:03.494Z] : [success]: Robot saved successfully
+
+[2023-10-30T10:28:09.486Z] : [success]: Bot started
+
+[2023-10-30T10:28:09.487Z] : [info]: Robot start
+
+[2023-10-30T10:28:47.308Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-30T10:28:48.107Z] : [info]: Total execution time: 37s 820ms
+
+[2023-10-30T10:28:48.108Z] : [info]: ---------------------------------------------
+
+[2023-10-30T10:29:59.200Z] : [success]: Robot saved successfully
+
+[2023-10-30T10:30:17.044Z] : [success]: Robot saved successfully
+
+[2023-10-30T10:30:25.230Z] : [success]: Bot started
+
+[2023-10-30T10:30:25.230Z] : [info]: Robot start
+
+[2023-10-30T10:31:00.052Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-30T10:31:00.886Z] : [info]: Total execution time: 34s 822ms
+
+[2023-10-30T10:31:00.887Z] : [info]: ---------------------------------------------
+
+[2023-10-30T10:31:34.377Z] : [success]: Robot saved successfully
+
+[2023-10-30T10:31:49.902Z] : [success]: Bot started
+
+[2023-10-30T10:31:49.903Z] : [info]: Robot start
+
+[2023-10-30T10:32:23.670Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-30T10:32:24.389Z] : [info]: Total execution time: 33s 766ms
+
+[2023-10-30T10:32:24.390Z] : [info]: ---------------------------------------------
+
+[2023-10-30T10:34:58.929Z] : [success]: Robot saved successfully
+
+[2023-10-30T10:35:14.697Z] : [success]: Bot started
+
+[2023-10-30T10:35:14.698Z] : [info]: Robot start
+
+[2023-10-30T10:35:59.827Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-30T10:36:00.765Z] : [info]: Total execution time: 45s 129ms
+
+[2023-10-30T10:36:00.766Z] : [info]: ---------------------------------------------
+
+[2023-10-30T10:36:02.330Z] : [success]: Robot saved successfully
+
+[2023-10-30T10:36:21.747Z] : [success]: Bot started
+
+[2023-10-30T10:36:21.748Z] : [info]: Robot start
+
+[2023-10-30T10:37:06.683Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-30T10:37:07.755Z] : [info]: Total execution time: 44s 935ms
+
+[2023-10-30T10:37:07.756Z] : [info]: ---------------------------------------------
+
+[2023-10-30T10:37:57.323Z] : [success]: Robot saved successfully
+
+[2023-10-30T10:38:14.269Z] : [success]: Robot saved successfully
+
+[2023-10-30T10:38:22.765Z] : [success]: Bot started
+
+[2023-10-30T10:38:22.766Z] : [info]: Robot start
+
+[2023-10-30T10:39:07.767Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-30T10:39:08.636Z] : [error]: Uncaught (in promise): TypeError: Cannot read properties of undefined (reading 'replace')
+TypeError: Cannot read properties of undefined (reading 'replace')
+    at e.formatTime (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.409807ad21040c613615.js:1:3555811)
+    at e.<anonymous> (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.409807ad21040c613615.js:1:3551567)
+    at file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.409807ad21040c613615.js:1:3542651
+    at Object.next (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.409807ad21040c613615.js:1:3542756)
+    at a (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.409807ad21040c613615.js:1:3541496)
+    at e.invoke (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.409807ad21040c613615.js:1:584828)
+    at Object.onInvoke (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.409807ad21040c613615.js:1:2280167)
+    at e.invoke (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.409807ad21040c613615.js:1:584768)
+    at t.run (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.409807ad21040c613615.js:1:579928)
+    at file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.409807ad21040c613615.js:1:591849
+
+[2023-10-30T10:43:24.698Z] : [success]: Robot saved successfully
+
+[2023-10-30T10:43:38.246Z] : [success]: Bot started
+
+[2023-10-30T10:43:38.248Z] : [info]: Robot start
+
+[2023-10-30T10:44:24.371Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-30T10:44:25.275Z] : [info]: Total execution time: 46s 123ms
+
+[2023-10-30T10:44:25.277Z] : [info]: ---------------------------------------------
+
+[2023-10-30T10:44:32.195Z] : [success]: Robot saved successfully
+
+[2023-10-30T10:44:50.133Z] : [success]: Bot started
+
+[2023-10-30T10:44:50.134Z] : [info]: Robot start
+
+[2023-10-30T10:45:34.113Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-30T10:45:34.918Z] : [info]: Total execution time: 43s 978ms
+
+[2023-10-30T10:45:34.919Z] : [info]: ---------------------------------------------
+
+[2023-10-30T11:18:42.499Z] : [success]: Robot saved successfully
+
+[2023-10-30T11:18:43.975Z] : [success]: Robot saved successfully
+
+[2023-10-30T11:18:58.758Z] : [success]: Bot started
+
+[2023-10-30T11:18:58.761Z] : [info]: Robot start
+
+[2023-10-30T11:19:51.518Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-30T11:19:52.538Z] : [info]: Total execution time: 52s 756ms
+
+[2023-10-30T11:19:52.540Z] : [info]: ---------------------------------------------
+
+[2023-10-30T11:20:07.838Z] : [success]: Robot saved successfully
+
+[2023-10-30T11:20:23.621Z] : [success]: Bot started
+
+[2023-10-30T11:20:23.621Z] : [info]: Robot start
+
+[2023-10-30T11:21:31.003Z] : [success]: Bot finished successfully, total execution time: 1m 7s 377ms
+
+[2023-10-30T11:21:31.005Z] : [info]: ---------------------------------------------
+

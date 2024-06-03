@@ -1,0 +1,37 @@
+[2024-02-15T10:34:36.744Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 2/15/2024, 4:04:37 PM
+  ==========================================
+  
+
+[2024-02-15T10:35:17.917Z] : [success]: Robot saved successfully
+
+[2024-02-15T10:35:24.272Z] : [info]: ---------------------------------------------
+
+[2024-02-15T10:35:24.272Z] : [success]: Bot started
+
+[2024-02-15T10:35:24.273Z] : [info]: Robot start
+
+[2024-02-15T10:35:51.264Z] : [error]: Selectors: Nothing found
+
+[2024-02-15T10:35:51.802Z] : [info]: Total execution time: 26s 990ms
+
+[2024-02-15T10:35:51.803Z] : [info]: ---------------------------------------------
+
+[2024-02-15T10:36:46.028Z] : [success]: Robot saved successfully
+
+[2024-02-15T10:36:52.579Z] : [success]: Bot started
+
+[2024-02-15T10:36:52.582Z] : [info]: Robot start
+
+[2024-02-15T10:37:35.647Z] : [error]: Outlook: Cannot read properties of undefined (reading 'split')
+
+[2024-02-15T10:37:40.952Z] : [info]: Total execution time: 43s 65ms
+
+[2024-02-15T10:37:40.961Z] : [info]: ---------------------------------------------
+
+[2024-02-17T07:05:57.722Z] : [error]: Cannot read properties of null (reading 'type')
+

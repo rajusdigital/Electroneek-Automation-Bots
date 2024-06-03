@@ -1,0 +1,18 @@
+[2023-10-04T12:08:59.353Z] : [error]: Error saving script
+
+[2023-10-04T12:26:49.701Z] : [success]: Robot saved successfully
+
+[2023-10-04T12:30:51.467Z] : [success]: Robot saved successfully
+
+[2023-10-04T12:30:58.789Z] : [success]: Bot started
+
+[2023-10-04T12:30:58.789Z] : [info]: Robot start
+
+[2023-10-04T12:31:01.950Z] : [error]: directory doesn't exist
+
+[2023-10-04T12:31:02.336Z] : [info]: Total execution time: 3s 160ms
+
+[2023-10-04T12:31:02.336Z] : [info]: ---------------------------------------------
+
+[2023-10-04T12:31:52.024Z] : [error]: Cannot read properties of null (reading 'type')
+

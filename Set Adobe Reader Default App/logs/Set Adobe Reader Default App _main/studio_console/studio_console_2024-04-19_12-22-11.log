@@ -1,0 +1,108 @@
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 4/22/2024, 11:14:24 AM
+  ==========================================
+  
+
+[2024-04-22T05:44:26.074Z] : [success]: Robot saved successfully
+
+[2024-04-22T05:47:47.282Z] : [success]: Robot saved successfully
+
+[2024-04-22T05:53:20.277Z] : [success]: Robot saved successfully
+
+[2024-04-22T05:55:25.344Z] : [success]: Robot saved successfully
+
+[2024-04-22T05:55:26.169Z] : [success]: Robot saved successfully
+
+[2024-04-22T05:55:26.322Z] : [success]: Robot saved successfully
+
+[2024-04-22T05:56:27.397Z] : [success]: Robot saved successfully
+
+[2024-04-22T05:56:36.104Z] : [success]: Robot saved successfully
+
+[2024-04-22T05:56:45.322Z] : [info]: Internet connection // error
+
+[2024-04-22T05:56:46.042Z] : [success]: Bot started
+
+[2024-04-22T05:56:46.044Z] : [info]: Robot start
+
+[2024-04-22T05:57:13.640Z] : [success]: Bot finished successfully, total execution time: 27s 595ms
+
+[2024-04-22T05:57:13.643Z] : [info]: ---------------------------------------------
+
+[2024-04-22T05:58:03.026Z] : [success]: Robot saved successfully
+
+[2024-04-22T05:58:10.618Z] : [success]: Bot started
+
+[2024-04-22T05:58:10.620Z] : [info]: Robot start
+
+[2024-04-22T05:58:32.719Z] : [success]: Bot finished successfully, total execution time: 22s 99ms
+
+[2024-04-22T05:58:32.721Z] : [info]: ---------------------------------------------
+
+[2024-04-22T05:58:57.067Z] : [success]: Robot saved successfully
+
+[2024-04-22T06:05:15.346Z] : [success]: Robot saved successfully
+
+[2024-04-22T06:06:14.153Z] : [success]: Robot saved successfully
+
+[2024-04-22T06:06:37.774Z] : [success]: Robot saved successfully
+
+[2024-04-22T06:06:40.616Z] : [success]: Robot saved successfully
+
+[2024-04-22T06:07:13.963Z] : [success]: Bot started
+
+[2024-04-22T06:07:13.964Z] : [info]: Robot start
+
+[2024-04-22T06:07:55.642Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2024-04-22T06:07:56.411Z] : [info]: Total execution time: 41s 676ms
+
+[2024-04-22T06:07:56.414Z] : [info]: ---------------------------------------------
+
+[2024-04-22T06:09:45.760Z] : [success]: Robot saved successfully
+
+[2024-04-22T06:09:47.532Z] : [success]: Robot saved successfully
+
+[2024-04-22T06:11:16.240Z] : [success]: Robot saved successfully
+
+[2024-04-22T06:11:22.945Z] : [success]: Robot saved successfully
+
+[2024-04-22T06:11:46.136Z] : [success]: Bot started
+
+[2024-04-22T06:11:46.137Z] : [info]: Robot start
+
+[2024-04-22T06:12:45.052Z] : [success]: Bot finished successfully, total execution time: 58s 915ms
+
+[2024-04-22T06:12:45.055Z] : [info]: ---------------------------------------------
+
+[2024-04-22T06:14:51.768Z] : [success]: Robot saved successfully
+
+[2024-04-22T06:15:23.200Z] : [success]: Robot saved successfully
+
+[2024-04-22T06:18:28.508Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 4/22/2024, 4:40:46 PM
+  ==========================================
+  
+
+[2024-04-22T11:10:51.781Z] : [success]: Robot saved successfully
+
+[2024-04-22T11:11:14.943Z] : [info]: Internet connection // error
+
+[2024-04-22T11:11:15.550Z] : [success]: Bot started
+
+[2024-04-22T11:11:15.552Z] : [info]: Robot start
+
+[2024-04-22T11:12:15.346Z] : [success]: Bot finished successfully, total execution time: 59s 794ms
+
+[2024-04-22T11:12:15.349Z] : [info]: ---------------------------------------------
+
+[2024-04-22T11:13:18.207Z] : [success]: Robot saved successfully
+
+[2024-04-22T12:06:42.229Z] : [success]: Connection to our licenses server is restored
+

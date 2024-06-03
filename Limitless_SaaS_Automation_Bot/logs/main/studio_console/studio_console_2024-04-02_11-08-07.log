@@ -1,0 +1,274 @@
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 4/2/2024, 11:08:19 AM
+  ==========================================
+  
+
+[2024-04-02T06:24:09.973Z] : [success]: Robot saved successfully
+
+[2024-04-02T06:24:25.944Z] : [info]: ---------------------------------------------
+
+[2024-04-02T06:24:25.946Z] : [success]: Bot started
+
+[2024-04-02T06:24:25.947Z] : [info]: Robot start
+
+[2024-04-02T06:24:46.113Z] : [success]: Bot finished successfully, total execution time: 20s 162ms
+
+[2024-04-02T06:24:46.114Z] : [info]: ---------------------------------------------
+
+[2024-04-02T06:26:27.071Z] : [success]: Robot saved successfully
+
+[2024-04-02T06:26:29.066Z] : [success]: Robot saved successfully
+
+[2024-04-02T06:26:44.131Z] : [success]: Bot started
+
+[2024-04-02T06:26:44.133Z] : [info]: Robot start
+
+[2024-04-02T06:26:58.602Z] : [success]: Bot finished successfully, total execution time: 14s 465ms
+
+[2024-04-02T06:26:58.604Z] : [info]: ---------------------------------------------
+
+[2024-04-02T07:10:49.337Z] : [info]: Internet connection // error
+
+[2024-04-02T07:11:09.161Z] : [success]: Connection to our licenses server is restored
+
+[2024-04-02T07:20:02.464Z] : [success]: Robot saved successfully
+
+[2024-04-02T07:20:16.585Z] : [success]: Bot started
+
+[2024-04-02T07:20:16.587Z] : [info]: Robot start
+
+[2024-04-02T07:20:36.422Z] : [success]: Bot finished successfully, total execution time: 19s 830ms
+
+[2024-04-02T07:20:36.423Z] : [info]: ---------------------------------------------
+
+[2024-04-02T07:21:57.387Z] : [success]: Robot saved successfully
+
+[2024-04-02T07:22:00.962Z] : [success]: Robot saved successfully
+
+[2024-04-02T07:22:21.276Z] : [success]: Bot started
+
+[2024-04-02T07:22:21.278Z] : [info]: Robot start
+
+[2024-04-02T07:22:53.176Z] : [success]: Bot finished successfully, total execution time: 31s 893ms
+
+[2024-04-02T07:22:53.178Z] : [info]: ---------------------------------------------
+
+[2024-04-02T07:28:13.539Z] : [success]: Robot saved successfully
+
+[2024-04-02T07:28:14.220Z] : [success]: Robot saved successfully
+
+[2024-04-02T07:28:17.428Z] : [success]: Robot saved successfully
+
+[2024-04-02T07:28:45.120Z] : [success]: Bot started
+
+[2024-04-02T07:28:45.122Z] : [info]: Robot start
+
+[2024-04-02T07:29:01.481Z] : [error]: askAI_content is not defined
+
+[2024-04-02T07:29:02.651Z] : [info]: Total execution time: 16s 356ms
+
+[2024-04-02T07:29:02.653Z] : [info]: ---------------------------------------------
+
+[2024-04-02T07:29:17.067Z] : [success]: Robot saved successfully
+
+[2024-04-02T07:29:34.509Z] : [success]: Bot started
+
+[2024-04-02T07:29:34.510Z] : [info]: Robot start
+
+[2024-04-02T07:30:11.649Z] : [error]: Canceled by user
+
+[2024-04-02T07:30:12.716Z] : [info]: Total execution time: 37s 137ms
+
+[2024-04-02T07:30:12.717Z] : [info]: ---------------------------------------------
+
+[2024-04-02T07:30:44.106Z] : [success]: Robot saved successfully
+
+[2024-04-02T07:31:02.946Z] : [success]: Bot started
+
+[2024-04-02T07:31:02.948Z] : [info]: Robot start
+
+[2024-04-02T07:32:59.713Z] : [success]: Bot finished successfully, total execution time: 1m 56s 759ms
+
+[2024-04-02T07:32:59.716Z] : [info]: ---------------------------------------------
+
+[2024-04-02T07:35:00.394Z] : [success]: Robot saved successfully
+
+[2024-04-02T07:35:09.103Z] : [success]: Robot saved successfully
+
+[2024-04-02T07:35:09.711Z] : [success]: Robot saved successfully
+
+[2024-04-02T07:35:47.207Z] : [success]: Bot started
+
+[2024-04-02T07:35:47.209Z] : [info]: Robot start
+
+[2024-04-02T07:36:48.695Z] : [success]: Bot finished successfully, total execution time: 1m 1s 481ms
+
+[2024-04-02T07:36:48.696Z] : [info]: ---------------------------------------------
+
+[2024-04-02T07:37:34.631Z] : [success]: Robot saved successfully
+
+[2024-04-02T07:37:38.375Z] : [success]: Robot saved successfully
+
+[2024-04-02T07:38:01.530Z] : [success]: Bot started
+
+[2024-04-02T07:38:01.533Z] : [info]: Robot start
+
+[2024-04-02T07:39:00.062Z] : [success]: Bot finished successfully, total execution time: 58s 524ms
+
+[2024-04-02T07:39:00.063Z] : [info]: ---------------------------------------------
+
+[2024-04-02T07:39:55.093Z] : [success]: Robot saved successfully
+
+[2024-04-02T07:40:16.586Z] : [success]: Robot saved successfully
+
+[2024-04-02T07:40:19.249Z] : [success]: Robot saved successfully
+
+[2024-04-02T07:40:37.876Z] : [success]: Bot started
+
+[2024-04-02T07:40:37.878Z] : [info]: Robot start
+
+[2024-04-02T07:42:17.918Z] : [success]: Bot finished successfully, total execution time: 1m 40s 31ms
+
+[2024-04-02T07:42:17.922Z] : [info]: ---------------------------------------------
+
+[2024-04-02T07:57:21.897Z] : [info]: Internet connection // error
+
+[2024-04-02T07:58:10.811Z] : [success]: Robot saved successfully
+
+[2024-04-02T07:58:21.957Z] : [success]: Connection to our licenses server is restored
+
+[2024-04-02T07:58:28.018Z] : [success]: Bot started
+
+[2024-04-02T07:58:28.019Z] : [info]: Robot start
+
+[2024-04-02T07:58:56.922Z] : [error]: Selectors: Value cannot be null.
+Parameter name: fileName
+
+[2024-04-02T07:58:57.934Z] : [info]: Total execution time: 28s 902ms
+
+[2024-04-02T07:58:57.937Z] : [info]: ---------------------------------------------
+
+[2024-04-02T08:00:03.165Z] : [success]: Robot saved successfully
+
+[2024-04-02T08:00:20.775Z] : [success]: Bot started
+
+[2024-04-02T08:00:20.777Z] : [info]: Robot start
+
+[2024-04-02T08:00:48.573Z] : [error]: Selectors: Invalid row format.
+
+[2024-04-02T08:00:49.502Z] : [info]: Total execution time: 27s 795ms
+
+[2024-04-02T08:00:49.504Z] : [info]: ---------------------------------------------
+
+[2024-04-02T08:01:26.059Z] : [success]: Robot saved successfully
+
+[2024-04-02T08:01:44.238Z] : [success]: Bot started
+
+[2024-04-02T08:01:44.240Z] : [info]: Robot start
+
+[2024-04-02T08:01:58.024Z] : [error]: Selectors: Unexpected character encountered while parsing value: [. Path 'choices', line 1, position 135.
+
+[2024-04-02T08:01:58.900Z] : [info]: Total execution time: 13s 783ms
+
+[2024-04-02T08:01:58.902Z] : [info]: ---------------------------------------------
+
+[2024-04-02T08:11:29.964Z] : [success]: Robot saved successfully
+
+[2024-04-02T08:11:31.546Z] : [success]: Robot saved successfully
+
+[2024-04-02T08:12:08.331Z] : [success]: Bot started
+
+[2024-04-02T08:12:08.333Z] : [info]: Robot start
+
+[2024-04-02T08:12:29.627Z] : [error]: Selectors: Error converting value "{
+  "file_path": "D:\\automation\\Electroneek\\workspace\\project\\Limitless_SaaS_Automation_Bot\\Invoices\\PDF Images\\page1.png",
+  "data_extracted": {
+    "invoice_number": "INV12345",
+    "invoice_date": "2022-01-15",
+    "due_date": "2022-02-15",
+    "total_amount": "$500.00",
+    "items": [
+      {
+        "item_name": "Product A",
+        "quantity": 2,
+        "unit_price": "$100.00",
+        "total_price": "$200.00"
+      },
+      {
+        "item_name": "Product B",
+        "quantity": 3,
+        "unit_price": "$50.00",
+        "total_price": "$150.00"
+      }
+    ]
+  }
+}" to type 'System.Collections.Generic.IDictionary`2[System.String,System.String]'. Path '', line 1, position 679.
+
+[2024-04-02T08:12:31.561Z] : [info]: Total execution time: 21s 292ms
+
+[2024-04-02T08:12:31.563Z] : [info]: ---------------------------------------------
+
+[2024-04-02T09:45:16.058Z] : [success]: Robot saved successfully
+
+[2024-04-02T09:45:28.086Z] : [success]: Bot started
+
+[2024-04-02T09:45:28.092Z] : [info]: Robot start
+
+[2024-04-02T09:45:44.602Z] : [error]: Selectors: Error converting value "{
+  "file_path": "D:\\automation\\Electroneek\\workspace\\project\\Limitless_SaaS_Automation_Bot\\Invoices\\PDF Images\\page1.png",
+  "data_extracted": {
+    "invoice_number": "INV12345",
+    "invoice_date": "2022-01-15",
+    "due_date": "2022-02-15",
+    "total_amount": "$500.00",
+    "items": [
+      {
+        "item_name": "Product A",
+        "quantity": 2,
+        "unit_price": "$100.00",
+        "total_price": "$200.00"
+      },
+      {
+        "item_name": "Product B",
+        "quantity": 3,
+        "unit_price": "$50.00",
+        "total_price": "$150.00"
+      }
+    ],
+    "tax": "$50.00",
+    "grand_total": "$550.00"
+  }
+}" to type 'System.Collections.Generic.IDictionary`2[System.String,System.String]'. Path '', line 1, position 740.
+
+[2024-04-02T09:45:45.157Z] : [info]: Total execution time: 16s 509ms
+
+[2024-04-02T09:45:45.158Z] : [info]: ---------------------------------------------
+
+[2024-04-02T09:46:21.757Z] : [success]: Robot saved successfully
+
+[2024-04-02T09:46:25.821Z] : [success]: Robot saved successfully
+
+[2024-04-02T09:46:41.326Z] : [success]: Bot started
+
+[2024-04-02T09:46:41.327Z] : [info]: Robot start
+
+[2024-04-02T09:47:42.901Z] : [success]: Bot finished successfully, total execution time: 1m 1s 571ms
+
+[2024-04-02T09:47:42.902Z] : [info]: ---------------------------------------------
+
+[2024-04-02T09:58:26.941Z] : [success]: Robot saved successfully
+
+[2024-04-02T09:58:31.673Z] : [success]: Robot saved successfully
+
+[2024-04-02T09:59:13.787Z] : [success]: Robot saved successfully
+
+[2024-04-02T09:59:30.043Z] : [success]: Bot started
+
+[2024-04-02T09:59:30.045Z] : [info]: Robot start
+
+[2024-04-02T10:00:50.007Z] : [success]: Bot finished successfully, total execution time: 1m 19s 958ms
+
+[2024-04-02T10:00:50.008Z] : [info]: ---------------------------------------------
+

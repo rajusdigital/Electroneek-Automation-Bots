@@ -1,0 +1,70 @@
+[2024-05-20T06:42:07.429Z] : [success]: Robot saved successfully
+
+[2024-05-20T06:43:04.789Z] : [success]: Robot saved successfully
+
+[2024-05-20T06:43:09.361Z] : [success]: Bot started
+
+[2024-05-20T06:43:09.363Z] : [info]: Robot start
+
+[2024-05-20T06:43:12.597Z] : [success]: Bot finished successfully, total execution time: 3s 230ms
+
+[2024-05-20T06:43:12.599Z] : [info]: ---------------------------------------------
+
+[2024-05-20T06:43:50.173Z] : [success]: Robot saved successfully
+
+[2024-05-20T06:43:54.100Z] : [success]: Bot started
+
+[2024-05-20T06:43:54.101Z] : [info]: Robot start
+
+[2024-05-20T06:44:01.441Z] : [error]: Internal Server Error
+
+[2024-05-20T06:44:02.223Z] : [info]: Total execution time: 7s 337ms
+
+[2024-05-20T06:44:02.232Z] : [info]: ---------------------------------------------
+
+[2024-05-20T06:44:34.321Z] : [success]: Robot saved successfully
+
+[2024-05-20T06:44:38.698Z] : [success]: Bot started
+
+[2024-05-20T06:44:38.699Z] : [info]: Robot start
+
+[2024-05-20T06:44:40.928Z] : [success]: Bot finished successfully, total execution time: 2s 225ms
+
+[2024-05-20T06:44:40.929Z] : [info]: ---------------------------------------------
+
+[2024-05-20T06:45:35.069Z] : [success]: Robot saved successfully
+
+[2024-05-20T06:45:39.621Z] : [success]: Bot started
+
+[2024-05-20T06:45:39.622Z] : [info]: Robot start
+
+[2024-05-20T06:45:42.834Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2024-05-20T06:45:42.897Z] : [error]: Unauthorized
+
+[2024-05-20T06:45:43.550Z] : [info]: Total execution time: 3s 273ms
+
+[2024-05-20T06:45:43.551Z] : [info]: ---------------------------------------------
+
+[2024-05-20T06:46:19.878Z] : [success]: Robot saved successfully
+
+[2024-05-20T06:46:23.972Z] : [success]: Bot started
+
+[2024-05-20T06:46:23.973Z] : [info]: Robot start
+
+[2024-05-20T06:46:26.160Z] : [success]: Bot finished successfully, total execution time: 2s 182ms
+
+[2024-05-20T06:46:26.162Z] : [info]: ---------------------------------------------
+
+[2024-05-20T06:48:00.718Z] : [success]: Robot saved successfully
+
+[2024-05-20T06:48:05.008Z] : [success]: Bot started
+
+[2024-05-20T06:48:05.010Z] : [info]: Robot start
+
+[2024-05-20T06:48:08.144Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2024-05-20T06:48:08.194Z] : [success]: Bot finished successfully, total execution time: 3s 180ms
+
+[2024-05-20T06:48:08.196Z] : [info]: ---------------------------------------------
+

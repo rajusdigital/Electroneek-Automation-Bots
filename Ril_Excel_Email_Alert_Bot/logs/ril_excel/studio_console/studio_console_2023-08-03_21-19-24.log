@@ -1,0 +1,103 @@
+
+  ==========================================
+  Studio Pro version: 9.3.16
+  Started at: 8/3/2023, 9:19:45 PM
+  ==========================================
+  
+
+[2023-08-03T15:51:55.701Z] : [info]: ---------------------------------------------
+
+[2023-08-03T15:51:55.702Z] : [success]: Bot started
+
+[2023-08-03T15:51:55.706Z] : [info]: Robot start
+
+[2023-08-03T15:53:04.478Z] : [error]: Script Stopped.
+
+[2023-08-03T15:53:04.826Z] : [info]: Total execution time: 1m 8s 772ms
+
+[2023-08-03T15:53:04.827Z] : [info]: ---------------------------------------------
+
+[2023-08-03T16:09:23.337Z] : [success]: Robot saved successfully
+
+[2023-08-03T16:09:53.302Z] : [success]: Robot saved successfully
+
+[2023-08-03T16:10:11.638Z] : [success]: Robot saved successfully
+
+[2023-08-03T16:10:59.004Z] : [info]: ---------------------------------------------
+
+[2023-08-03T16:10:59.005Z] : [success]: Bot started
+
+[2023-08-03T16:10:59.005Z] : [info]: Robot start
+
+[2023-08-03T16:11:58.918Z] : [error]: Selectors: Excel cannot open the file '~$Book1.xlsx' because the file format or file extension is not valid. Verify that the file has not been corrupted and that the file extension matches the format of the file.
+
+[2023-08-03T16:11:59.327Z] : [info]: Total execution time: 59s 912ms
+
+[2023-08-03T16:11:59.328Z] : [info]: ---------------------------------------------
+
+[2023-08-03T16:12:35.606Z] : [success]: Robot saved successfully
+
+[2023-08-03T16:48:39.519Z] : [success]: Bot started
+
+[2023-08-03T16:48:39.520Z] : [info]: Robot start
+
+[2023-08-03T16:49:39.393Z] : [error]: Selectors: Excel cannot open the file '~$Book1.xlsx' because the file format or file extension is not valid. Verify that the file has not been corrupted and that the file extension matches the format of the file.
+
+[2023-08-03T16:49:40.049Z] : [info]: Total execution time: 59s 872ms
+
+[2023-08-03T16:49:40.050Z] : [info]: ---------------------------------------------
+
+[2023-08-03T16:51:20.406Z] : [success]: Robot saved successfully
+
+[2023-08-03T16:51:20.537Z] : [success]: Bot started
+
+[2023-08-03T16:51:20.538Z] : [info]: Robot start
+
+[2023-08-03T16:52:35.639Z] : [error]: Selectors: Excel cannot open the file '~$Book1.xlsx' because the file format or file extension is not valid. Verify that the file has not been corrupted and that the file extension matches the format of the file.
+
+[2023-08-03T16:52:36.011Z] : [info]: Total execution time: 1m 15s 100ms
+
+[2023-08-03T16:52:36.012Z] : [info]: ---------------------------------------------
+
+[2023-08-03T16:56:51.846Z] : [success]: Robot saved successfully
+
+[2023-08-03T16:56:51.943Z] : [success]: Bot started
+
+[2023-08-03T16:56:51.946Z] : [info]: Robot start
+
+[2023-08-03T16:57:18.446Z] : [error]: Script Stopped.
+
+[2023-08-03T16:57:18.823Z] : [info]: Total execution time: 26s 499ms
+
+[2023-08-03T16:57:18.824Z] : [info]: ---------------------------------------------
+
+[2023-08-03T16:57:55.768Z] : [success]: Robot saved successfully
+
+[2023-08-03T17:00:10.085Z] : [info]: ---------------------------------------------
+
+[2023-08-03T17:00:10.086Z] : [success]: Bot started
+
+[2023-08-03T17:00:10.087Z] : [info]: Robot start
+
+[2023-08-03T17:00:50.826Z] : [error]: Script Stopped.
+
+[2023-08-03T17:00:51.131Z] : [info]: Total execution time: 40s 737ms
+
+[2023-08-03T17:00:51.131Z] : [info]: ---------------------------------------------
+
+[2023-08-03T17:02:27.714Z] : [info]: Internet connection // error
+
+[2023-08-03T17:02:27.833Z] : [success]: Bot started
+
+[2023-08-03T17:02:27.834Z] : [info]: Robot start
+
+[2023-08-03T17:03:14.779Z] : [error]: Script Stopped.
+
+[2023-08-03T17:03:15.068Z] : [info]: Total execution time: 46s 944ms
+
+[2023-08-03T17:03:15.069Z] : [info]: ---------------------------------------------
+
+[2023-08-03T17:07:51.522Z] : [success]: Robot saved successfully
+
+[2023-08-03T17:08:04.916Z] : [success]: The workflow has been exported successfully
+

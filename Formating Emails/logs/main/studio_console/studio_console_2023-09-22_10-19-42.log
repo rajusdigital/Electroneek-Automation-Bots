@@ -1,0 +1,45 @@
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 9/22/2023, 11:13:48 AM
+  ==========================================
+  
+
+[2023-09-22T05:44:04.877Z] : [success]: Robot saved successfully
+
+[2023-09-22T05:44:09.737Z] : [success]: Bot started
+
+[2023-09-22T05:44:09.737Z] : [info]: Robot start
+
+[2023-09-22T05:44:22.983Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-09-22T05:44:23.238Z] : [success]: Bot finished successfully, total execution time: 13s 498ms
+
+[2023-09-22T05:44:23.240Z] : [info]: ---------------------------------------------
+
+[2023-09-22T05:54:25.554Z] : [success]: Robot saved successfully
+
+[2023-09-22T05:54:29.936Z] : [success]: Bot started
+
+[2023-09-22T05:54:29.937Z] : [info]: Robot start
+
+[2023-09-22T05:54:33.573Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-09-22T05:54:34.048Z] : [error]: Outlook: current_tatus_value is not defined
+
+[2023-09-22T05:54:34.695Z] : [info]: Total execution time: 4s 110ms
+
+[2023-09-22T05:54:34.696Z] : [info]: ---------------------------------------------
+
+[2023-09-22T05:55:29.676Z] : [success]: Robot saved successfully
+
+[2023-09-22T05:55:33.378Z] : [success]: Bot started
+
+[2023-09-22T05:55:33.379Z] : [info]: Robot start
+
+[2023-09-22T05:55:39.536Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-09-22T05:55:39.617Z] : [success]: Bot finished successfully, total execution time: 6s 232ms
+
+[2023-09-22T05:55:39.618Z] : [info]: ---------------------------------------------
+

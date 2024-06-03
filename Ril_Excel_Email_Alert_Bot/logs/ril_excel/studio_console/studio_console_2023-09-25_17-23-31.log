@@ -1,0 +1,241 @@
+
+  ==========================================
+  Studio Pro version: 9.3.16
+  Started at: 9/25/2023, 5:23:45 PM
+  ==========================================
+  
+
+[2023-09-25T11:53:52.116Z] : [info]: ---------------------------------------------
+
+[2023-09-25T11:53:52.117Z] : [success]: Bot started
+
+[2023-09-25T11:53:52.117Z] : [info]: Robot start
+
+[2023-09-25T11:53:59.711Z] : [success]: Bot finished successfully, total execution time: 7s 593ms
+
+[2023-09-25T11:53:59.713Z] : [info]: ---------------------------------------------
+
+[2023-09-25T11:58:08.958Z] : [success]: Bot started
+
+[2023-09-25T11:58:08.959Z] : [info]: Robot start
+
+[2023-09-25T11:58:15.103Z] : [success]: Bot finished successfully, total execution time: 6s 142ms
+
+[2023-09-25T11:58:15.106Z] : [info]: ---------------------------------------------
+
+[2023-09-25T12:06:25.647Z] : [success]: Bot started
+
+[2023-09-25T12:06:25.649Z] : [info]: Robot start
+
+[2023-09-25T12:06:59.141Z] : [success]: Bot finished successfully, total execution time: 33s 489ms
+
+[2023-09-25T12:06:59.143Z] : [info]: ---------------------------------------------
+
+[2023-09-25T12:09:11.950Z] : [success]: Bot started
+
+[2023-09-25T12:09:11.951Z] : [info]: Robot start
+
+[2023-09-25T12:09:20.170Z] : [success]: Bot finished successfully, total execution time: 8s 216ms
+
+[2023-09-25T12:09:20.172Z] : [info]: ---------------------------------------------
+
+[2023-09-25T12:10:19.543Z] : [success]: Bot started
+
+[2023-09-25T12:10:19.545Z] : [info]: Robot start
+
+[2023-09-25T12:10:53.021Z] : [success]: Bot finished successfully, total execution time: 33s 473ms
+
+[2023-09-25T12:10:53.024Z] : [info]: ---------------------------------------------
+
+[2023-09-25T12:12:00.091Z] : [success]: Bot started
+
+[2023-09-25T12:12:00.092Z] : [info]: Robot start
+
+[2023-09-25T12:12:07.077Z] : [warn]: Bot is reading an Excel sheet with duplicated column headers. Only first occurences of columns with duplicated headers will be read. To avoid that, try using column letters instead of column headers.
+
+[2023-09-25T12:12:45.707Z] : [error]: Script Stopped.
+
+[2023-09-25T12:12:46.303Z] : [info]: Total execution time: 45s 614ms
+
+[2023-09-25T12:12:46.305Z] : [info]: ---------------------------------------------
+
+[2023-09-25T12:38:32.806Z] : [success]: Robot saved successfully
+
+[2023-09-25T12:38:49.800Z] : [info]: ---------------------------------------------
+
+[2023-09-25T12:38:49.801Z] : [success]: Bot started
+
+[2023-09-25T12:38:49.802Z] : [info]: Robot start
+
+[2023-09-25T12:38:55.257Z] : [warn]: Bot is reading an Excel sheet with duplicated column headers. Only first occurences of columns with duplicated headers will be read. To avoid that, try using column letters instead of column headers.
+
+[2023-09-25T12:39:43.593Z] : [error]: Selectors: Value cannot be null.
+Parameter name: columnName
+
+[2023-09-25T12:39:43.920Z] : [info]: Total execution time: 53s 790ms
+
+[2023-09-25T12:39:43.921Z] : [info]: ---------------------------------------------
+
+[2023-09-25T12:40:29.870Z] : [success]: Robot saved successfully
+
+[2023-09-25T12:40:52.214Z] : [success]: Robot saved successfully
+
+[2023-09-25T12:43:57.462Z] : [success]: Robot saved successfully
+
+[2023-09-25T12:46:17.550Z] : [success]: Robot saved successfully
+
+[2023-09-25T12:46:17.650Z] : [success]: Bot started
+
+[2023-09-25T12:46:17.651Z] : [info]: Robot start
+
+[2023-09-25T12:46:23.222Z] : [warn]: Bot is reading an Excel sheet with duplicated column headers. Only first occurences of columns with duplicated headers will be read. To avoid that, try using column letters instead of column headers.
+
+[2023-09-25T12:46:26.946Z] : [success]: Bot finished successfully, total execution time: 9s 293ms
+
+[2023-09-25T12:46:26.948Z] : [info]: ---------------------------------------------
+
+[2023-09-25T12:47:06.484Z] : [success]: Robot saved successfully
+
+[2023-09-25T12:47:06.555Z] : [success]: Bot started
+
+[2023-09-25T12:47:06.556Z] : [info]: Robot start
+
+[2023-09-25T12:47:14.043Z] : [warn]: Bot is reading an Excel sheet with duplicated column headers. Only first occurences of columns with duplicated headers will be read. To avoid that, try using column letters instead of column headers.
+
+[2023-09-25T12:48:03.414Z] : [error]: Selectors: Value cannot be null.
+Parameter name: columnName
+
+[2023-09-25T12:48:03.722Z] : [info]: Total execution time: 56s 856ms
+
+[2023-09-25T12:48:03.725Z] : [info]: ---------------------------------------------
+
+[2023-09-25T15:41:07.164Z] : [info]: ---------------------------------------------
+
+[2023-09-25T15:41:07.165Z] : [success]: Bot started
+
+[2023-09-25T15:41:07.165Z] : [info]: Robot start
+
+[2023-09-25T15:41:13.203Z] : [warn]: Bot is reading an Excel sheet with duplicated column headers. Only first occurences of columns with duplicated headers will be read. To avoid that, try using column letters instead of column headers.
+
+[2023-09-25T15:42:01.990Z] : [error]: Selectors: Value cannot be null.
+Parameter name: columnName
+
+[2023-09-25T15:42:02.287Z] : [info]: Total execution time: 54s 823ms
+
+[2023-09-25T15:42:02.288Z] : [info]: ---------------------------------------------
+
+[2023-09-25T15:46:37.523Z] : [success]: Robot saved successfully
+
+[2023-09-25T15:46:37.614Z] : [success]: Bot started
+
+[2023-09-25T15:46:37.615Z] : [info]: Robot start
+
+[2023-09-25T15:46:42.966Z] : [warn]: Bot is reading an Excel sheet with duplicated column headers. Only first occurences of columns with duplicated headers will be read. To avoid that, try using column letters instead of column headers.
+
+[2023-09-25T15:46:45.767Z] : [success]: Bot finished successfully, total execution time: 8s 150ms
+
+[2023-09-25T15:46:45.769Z] : [info]: ---------------------------------------------
+
+[2023-09-25T15:49:39.829Z] : [success]: Robot saved successfully
+
+[2023-09-25T15:49:39.919Z] : [success]: Bot started
+
+[2023-09-25T15:49:39.920Z] : [info]: Robot start
+
+[2023-09-25T15:49:45.871Z] : [warn]: Bot is reading an Excel sheet with duplicated column headers. Only first occurences of columns with duplicated headers will be read. To avoid that, try using column letters instead of column headers.
+
+[2023-09-25T15:50:33.689Z] : [error]: Selectors: Value cannot be null.
+Parameter name: columnName
+
+[2023-09-25T15:50:34.035Z] : [info]: Total execution time: 53s 768ms
+
+[2023-09-25T15:50:34.035Z] : [info]: ---------------------------------------------
+
+[2023-09-25T15:53:42.841Z] : [success]: Robot saved successfully
+
+[2023-09-25T16:39:55.387Z] : [info]: ---------------------------------------------
+
+[2023-09-25T16:39:55.389Z] : [success]: Bot started
+
+[2023-09-25T16:39:55.389Z] : [info]: Robot start
+
+[2023-09-25T16:40:01.151Z] : [warn]: Bot is reading an Excel sheet with duplicated column headers. Only first occurences of columns with duplicated headers will be read. To avoid that, try using column letters instead of column headers.
+
+[2023-09-25T16:40:50.204Z] : [error]: Selectors: Value cannot be null.
+Parameter name: columnName
+
+[2023-09-25T16:40:50.513Z] : [info]: Total execution time: 54s 813ms
+
+[2023-09-25T16:40:50.514Z] : [info]: ---------------------------------------------
+
+[2023-09-25T16:45:59.194Z] : [success]: Bot started
+
+[2023-09-25T16:45:59.195Z] : [info]: Robot start
+
+[2023-09-25T16:46:53.045Z] : [error]: Selectors: Value cannot be null.
+Parameter name: columnName
+
+[2023-09-25T16:46:53.345Z] : [info]: Total execution time: 53s 850ms
+
+[2023-09-25T16:46:53.346Z] : [info]: ---------------------------------------------
+
+[2023-09-25T16:54:26.279Z] : [success]: Robot saved successfully
+
+[2023-09-25T16:55:09.894Z] : [success]: Robot saved successfully
+
+[2023-09-25T16:55:32.927Z] : [success]: Robot saved successfully
+
+[2023-09-25T17:00:35.707Z] : [success]: Bot started
+
+[2023-09-25T17:00:35.708Z] : [info]: Robot start
+
+[2023-09-25T17:01:29.502Z] : [error]: Selectors: Value cannot be null.
+Parameter name: columnName
+
+[2023-09-25T17:01:29.819Z] : [info]: Total execution time: 53s 793ms
+
+[2023-09-25T17:01:29.820Z] : [info]: ---------------------------------------------
+
+[2023-09-25T17:08:36.110Z] : [success]: Robot saved successfully
+
+[2023-09-25T17:09:09.275Z] : [info]: ---------------------------------------------
+
+[2023-09-25T17:09:09.276Z] : [success]: Bot started
+
+[2023-09-25T17:09:09.277Z] : [info]: Robot start
+
+[2023-09-25T17:10:03.065Z] : [error]: Selectors: Value cannot be null.
+Parameter name: columnName
+
+[2023-09-25T17:10:03.392Z] : [info]: Total execution time: 53s 786ms
+
+[2023-09-25T17:10:03.393Z] : [info]: ---------------------------------------------
+
+[2023-09-25T17:15:49.962Z] : [success]: Robot saved successfully
+
+[2023-09-25T17:16:14.378Z] : [success]: Robot saved successfully
+
+[2023-09-25T17:16:46.053Z] : [info]: ---------------------------------------------
+
+[2023-09-25T17:16:46.054Z] : [success]: Bot started
+
+[2023-09-25T17:16:46.055Z] : [info]: Robot start
+
+[2023-09-25T17:17:50.991Z] : [error]: Selectors: Value cannot be null.
+Parameter name: columnName
+
+[2023-09-25T17:17:51.309Z] : [info]: Total execution time: 1m 4s 934ms
+
+[2023-09-25T17:17:51.310Z] : [info]: ---------------------------------------------
+
+[2023-09-25T17:28:28.052Z] : [success]: Bot started
+
+[2023-09-25T17:28:28.054Z] : [info]: Robot start
+
+[2023-09-25T17:29:31.984Z] : [error]: Selectors: Value cannot be null.
+Parameter name: columnName
+
+[2023-09-25T17:29:32.332Z] : [info]: Total execution time: 1m 3s 929ms
+
+[2023-09-25T17:29:32.334Z] : [info]: ---------------------------------------------
+

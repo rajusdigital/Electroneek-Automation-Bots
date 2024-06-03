@@ -1,0 +1,470 @@
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 4/24/2024, 11:59:31 AM
+  ==========================================
+  
+
+[2024-04-24T06:29:34.711Z] : [success]: Robot saved successfully
+
+[2024-04-24T06:32:51.418Z] : [success]: Robot saved successfully
+
+[2024-04-24T06:32:58.060Z] : [success]: Robot saved successfully
+
+[2024-04-24T06:33:02.246Z] : [success]: Bot started
+
+[2024-04-24T06:33:02.248Z] : [info]: Robot start
+
+[2024-04-24T06:33:08.592Z] : [success]: Bot finished successfully, total execution time: 6s 339ms
+
+[2024-04-24T06:33:08.595Z] : [info]: ---------------------------------------------
+
+[2024-04-24T06:33:47.880Z] : [success]: Robot saved successfully
+
+[2024-04-24T06:33:59.262Z] : [success]: Robot saved successfully
+
+[2024-04-24T06:34:02.899Z] : [success]: Robot saved successfully
+
+[2024-04-24T06:34:07.194Z] : [success]: Bot started
+
+[2024-04-24T06:34:07.195Z] : [info]: Robot start
+
+[2024-04-24T06:34:11.343Z] : [success]: Bot finished successfully, total execution time: 4s 142ms
+
+[2024-04-24T06:34:11.346Z] : [info]: ---------------------------------------------
+
+[2024-04-24T06:34:29.599Z] : [success]: Robot saved successfully
+
+[2024-04-24T06:34:34.727Z] : [success]: Bot started
+
+[2024-04-24T06:34:34.728Z] : [info]: Robot start
+
+[2024-04-24T06:34:38.889Z] : [success]: Bot finished successfully, total execution time: 4s 153ms
+
+[2024-04-24T06:34:38.892Z] : [info]: ---------------------------------------------
+
+[2024-04-24T06:35:01.088Z] : [success]: Robot saved successfully
+
+[2024-04-24T06:35:05.053Z] : [success]: Bot started
+
+[2024-04-24T06:35:05.054Z] : [info]: Robot start
+
+[2024-04-24T06:35:09.231Z] : [error]: Unexpected token H in JSON at position 0
+
+[2024-04-24T06:35:09.676Z] : [info]: Total execution time: 4s 175ms
+
+[2024-04-24T06:35:09.677Z] : [info]: ---------------------------------------------
+
+[2024-04-24T06:36:20.540Z] : [success]: Robot saved successfully
+
+[2024-04-24T06:36:24.803Z] : [success]: Bot started
+
+[2024-04-24T06:36:24.804Z] : [info]: Robot start
+
+[2024-04-24T06:36:28.947Z] : [error]: Unexpected token , in JSON at position 1
+
+[2024-04-24T06:36:29.432Z] : [info]: Total execution time: 4s 142ms
+
+[2024-04-24T06:36:29.433Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 4/24/2024, 12:09:38 PM
+  ==========================================
+  
+
+[2024-04-24T06:40:00.393Z] : [success]: Robot saved successfully
+
+[2024-04-24T06:40:04.178Z] : [success]: Bot started
+
+[2024-04-24T06:40:04.179Z] : [info]: Robot start
+
+[2024-04-24T06:40:08.454Z] : [error]: Unexpected token H in JSON at position 0
+
+[2024-04-24T06:40:09.030Z] : [info]: Total execution time: 4s 274ms
+
+[2024-04-24T06:40:09.032Z] : [info]: ---------------------------------------------
+
+[2024-04-24T06:45:01.807Z] : [success]: Robot saved successfully
+
+[2024-04-24T06:45:06.617Z] : [success]: Bot started
+
+[2024-04-24T06:45:06.619Z] : [info]: Robot start
+
+[2024-04-24T06:45:11.962Z] : [success]: Bot finished successfully, total execution time: 5s 338ms
+
+[2024-04-24T06:45:11.964Z] : [info]: ---------------------------------------------
+
+[2024-04-24T06:47:00.715Z] : [success]: Robot saved successfully
+
+[2024-04-24T06:47:04.905Z] : [success]: Bot started
+
+[2024-04-24T06:47:04.906Z] : [info]: Robot start
+
+[2024-04-24T06:47:09.128Z] : [success]: Bot finished successfully, total execution time: 4s 218ms
+
+[2024-04-24T06:47:09.129Z] : [info]: ---------------------------------------------
+
+[2024-04-24T06:48:32.923Z] : [success]: Robot saved successfully
+
+[2024-04-24T06:48:36.852Z] : [success]: Bot started
+
+[2024-04-24T06:48:36.853Z] : [info]: Robot start
+
+[2024-04-24T06:48:41.083Z] : [success]: Bot finished successfully, total execution time: 4s 224ms
+
+[2024-04-24T06:48:41.085Z] : [info]: ---------------------------------------------
+
+[2024-04-24T06:50:06.767Z] : [success]: Robot saved successfully
+
+[2024-04-24T06:50:11.610Z] : [success]: Bot started
+
+[2024-04-24T06:50:11.612Z] : [info]: Robot start
+
+[2024-04-24T06:50:15.870Z] : [success]: Bot finished successfully, total execution time: 4s 253ms
+
+[2024-04-24T06:50:15.872Z] : [info]: ---------------------------------------------
+
+[2024-04-24T06:51:03.453Z] : [success]: Robot saved successfully
+
+[2024-04-24T06:51:07.401Z] : [success]: Bot started
+
+[2024-04-24T06:51:07.402Z] : [info]: Robot start
+
+[2024-04-24T06:51:11.594Z] : [success]: Bot finished successfully, total execution time: 4s 183ms
+
+[2024-04-24T06:51:11.597Z] : [info]: ---------------------------------------------
+
+[2024-04-24T06:52:31.563Z] : [success]: Robot saved successfully
+
+[2024-04-24T06:52:35.630Z] : [success]: Bot started
+
+[2024-04-24T06:52:35.631Z] : [info]: Robot start
+
+[2024-04-24T06:52:40.938Z] : [error]: Unexpected token H in JSON at position 0
+
+[2024-04-24T06:52:41.579Z] : [info]: Total execution time: 5s 307ms
+
+[2024-04-24T06:52:41.581Z] : [info]: ---------------------------------------------
+
+[2024-04-24T06:54:56.150Z] : [success]: Robot saved successfully
+
+[2024-04-24T06:55:00.592Z] : [success]: Bot started
+
+[2024-04-24T06:55:00.594Z] : [info]: Robot start
+
+[2024-04-24T06:55:09.943Z] : [success]: Bot finished successfully, total execution time: 9s 343ms
+
+[2024-04-24T06:55:09.944Z] : [info]: ---------------------------------------------
+
+[2024-04-24T06:55:44.313Z] : [success]: Robot saved successfully
+
+[2024-04-24T06:55:48.757Z] : [success]: Bot started
+
+[2024-04-24T06:55:48.758Z] : [info]: Robot start
+
+[2024-04-24T06:55:57.047Z] : [success]: Bot finished successfully, total execution time: 8s 285ms
+
+[2024-04-24T06:55:57.049Z] : [info]: ---------------------------------------------
+
+[2024-04-24T06:57:11.806Z] : [success]: Robot saved successfully
+
+[2024-04-24T06:57:13.852Z] : [success]: Robot saved successfully
+
+[2024-04-24T06:57:17.840Z] : [success]: Bot started
+
+[2024-04-24T06:57:17.841Z] : [info]: Robot start
+
+[2024-04-24T06:57:28.171Z] : [success]: Bot finished successfully, total execution time: 10s 324ms
+
+[2024-04-24T06:57:28.174Z] : [info]: ---------------------------------------------
+
+[2024-04-24T06:58:27.101Z] : [success]: Robot saved successfully
+
+[2024-04-24T06:58:28.073Z] : [success]: Robot saved successfully
+
+[2024-04-24T06:58:32.123Z] : [success]: Bot started
+
+[2024-04-24T06:58:32.124Z] : [info]: Robot start
+
+[2024-04-24T06:58:42.294Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2024-04-24T06:58:42.446Z] : [success]: Bot finished successfully, total execution time: 10s 317ms
+
+[2024-04-24T06:58:42.448Z] : [info]: ---------------------------------------------
+
+[2024-04-24T07:03:45.167Z] : [success]: Robot saved successfully
+
+[2024-04-24T07:04:18.994Z] : [success]: Robot saved successfully
+
+[2024-04-24T07:04:23.693Z] : [success]: Bot started
+
+[2024-04-24T07:04:23.694Z] : [info]: Robot start
+
+[2024-04-24T07:04:36.081Z] : [error]: Selectors: Error converting value "{
+  "clientVisitDate": "22nd April 2024",
+  "issueDescription": "Systems not working",
+  "ticketRaised": true,
+  "machines": [
+    {
+      "S.No": 1,
+      "Machine Description": "Server SAP",
+      "IP": "12.1.1.12",
+      "Location": "First floor"
+    },
+    {
+      "S.No": 2,
+      "Machine Description": "Server Salesforce",
+      "IP": "12.1.1.14",
+      "Location": "First floor"
+    },
+    {
+      "S.No": 3,
+      "Machine Description": "Server Oracle",
+      "IP": "12.1.1.15",
+      "Location": "First floor"
+    }
+  ],
+  "contactPerson": {
+    "name": "Deval Narkhede",
+    "contactNumber": "8208374161"
+  }
+}" to type 'System.Collections.Generic.IDictionary`2[System.String,System.String]'. Path '', line 1, position 715.
+
+[2024-04-24T07:04:36.720Z] : [info]: Total execution time: 12s 386ms
+
+[2024-04-24T07:04:36.722Z] : [info]: ---------------------------------------------
+
+[2024-04-24T07:05:39.372Z] : [success]: Robot saved successfully
+
+[2024-04-24T07:05:43.177Z] : [success]: Bot started
+
+[2024-04-24T07:05:43.178Z] : [info]: Robot start
+
+[2024-04-24T07:05:53.574Z] : [error]: Selectors: Unexpected character encountered while parsing value: [. Path 'machines', line 1, position 110.
+
+[2024-04-24T07:05:54.125Z] : [info]: Total execution time: 10s 396ms
+
+[2024-04-24T07:05:54.127Z] : [info]: ---------------------------------------------
+
+[2024-04-24T07:06:10.584Z] : [success]: Robot saved successfully
+
+[2024-04-24T07:06:14.787Z] : [success]: Bot started
+
+[2024-04-24T07:06:14.788Z] : [info]: Robot start
+
+[2024-04-24T07:06:25.145Z] : [error]: Selectors: Error converting value ""{\n  \"clientVisitDate\": \"22nd April 2024\",\n  \"issueDescription\": \"Systems not working\",\n  \"ticketRaised\": true,\n  \"machines\": [\n    {\n      \"S.No\": 1,\n      \"Machine Description\": \"Server SAP\",\n      \"IP\": \"12.1.1.12\",\n      \"Location\": \"First floor\"\n    },\n    {\n      \"S.No\": 2,\n      \"Machine Description\": \"Server Salesforce\",\n      \"IP\": \"12.1.1.14\",\n      \"Location\": \"First floor\"\n    },\n    {\n      \"S.No\": 3,\n      \"Machine Description\": \"Server Oracle\",\n      \"IP\": \"12.1.1.15\",\n      \"Location\": \"First floor\"\n    }\n  ],\n  \"contactPerson\": {\n    \"name\": \"Deval Narkhede\",\n    \"contactNumber\": \"8208374161\"\n  }\n}"" to type 'System.Collections.Generic.IDictionary`2[System.String,System.String]'. Path '', line 1, position 875.
+
+[2024-04-24T07:06:25.767Z] : [info]: Total execution time: 10s 356ms
+
+[2024-04-24T07:06:25.768Z] : [info]: ---------------------------------------------
+
+[2024-04-24T07:08:25.525Z] : [success]: Robot saved successfully
+
+[2024-04-24T07:08:29.532Z] : [success]: Bot started
+
+[2024-04-24T07:08:29.534Z] : [info]: Robot start
+
+[2024-04-24T07:08:37.853Z] : [success]: Bot finished successfully, total execution time: 8s 314ms
+
+[2024-04-24T07:08:37.855Z] : [info]: ---------------------------------------------
+
+[2024-04-24T07:09:10.493Z] : [success]: Robot saved successfully
+
+[2024-04-24T07:09:10.994Z] : [success]: Robot saved successfully
+
+[2024-04-24T07:09:15.384Z] : [success]: Bot started
+
+[2024-04-24T07:09:15.385Z] : [info]: Robot start
+
+[2024-04-24T07:09:24.866Z] : [success]: Bot finished successfully, total execution time: 9s 477ms
+
+[2024-04-24T07:09:24.868Z] : [info]: ---------------------------------------------
+
+[2024-04-24T07:09:56.365Z] : [success]: Robot saved successfully
+
+[2024-04-24T07:10:00.254Z] : [success]: Bot started
+
+[2024-04-24T07:10:00.254Z] : [info]: Robot start
+
+[2024-04-24T07:10:09.535Z] : [success]: Bot finished successfully, total execution time: 9s 278ms
+
+[2024-04-24T07:10:09.535Z] : [info]: ---------------------------------------------
+
+[2024-04-24T07:12:21.583Z] : [success]: Robot saved successfully
+
+[2024-04-24T07:12:26.023Z] : [success]: Bot started
+
+[2024-04-24T07:12:26.024Z] : [info]: Robot start
+
+[2024-04-24T07:12:35.193Z] : [success]: Bot finished successfully, total execution time: 9s 167ms
+
+[2024-04-24T07:12:35.194Z] : [info]: ---------------------------------------------
+
+[2024-04-24T07:14:21.110Z] : [success]: Robot saved successfully
+
+[2024-04-24T07:14:24.907Z] : [success]: Bot started
+
+[2024-04-24T07:14:24.908Z] : [info]: Robot start
+
+[2024-04-24T07:14:33.798Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2024-04-24T07:14:34.093Z] : [success]: Bot finished successfully, total execution time: 9s 183ms
+
+[2024-04-24T07:14:34.093Z] : [info]: ---------------------------------------------
+
+[2024-04-24T07:15:03.245Z] : [success]: Robot saved successfully
+
+[2024-04-24T07:15:07.124Z] : [success]: Bot started
+
+[2024-04-24T07:15:07.125Z] : [info]: Robot start
+
+[2024-04-24T07:15:17.839Z] : [success]: Bot finished successfully, total execution time: 10s 709ms
+
+[2024-04-24T07:15:17.842Z] : [info]: ---------------------------------------------
+
+[2024-04-24T07:15:59.655Z] : [success]: Robot saved successfully
+
+[2024-04-24T07:16:01.686Z] : [success]: Robot saved successfully
+
+[2024-04-24T07:16:01.843Z] : [success]: Robot saved successfully
+
+[2024-04-24T07:16:22.659Z] : [success]: Robot saved successfully
+
+[2024-04-24T07:16:26.894Z] : [success]: Bot started
+
+[2024-04-24T07:16:26.895Z] : [info]: Robot start
+
+[2024-04-24T07:16:37.199Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2024-04-24T07:16:37.289Z] : [success]: Bot finished successfully, total execution time: 10s 390ms
+
+[2024-04-24T07:16:37.291Z] : [info]: ---------------------------------------------
+
+[2024-04-24T07:17:14.432Z] : [success]: Robot saved successfully
+
+[2024-04-24T07:17:18.724Z] : [success]: Bot started
+
+[2024-04-24T07:17:18.725Z] : [info]: Robot start
+
+[2024-04-24T07:17:22.124Z] : [success]: Bot finished successfully, total execution time: 3s 392ms
+
+[2024-04-24T07:17:22.126Z] : [info]: ---------------------------------------------
+
+[2024-04-24T07:17:47.981Z] : [success]: Robot saved successfully
+
+[2024-04-24T07:17:52.222Z] : [success]: Bot started
+
+[2024-04-24T07:17:52.223Z] : [info]: Robot start
+
+[2024-04-24T07:17:54.708Z] : [success]: Bot finished successfully, total execution time: 2s 478ms
+
+[2024-04-24T07:17:54.710Z] : [info]: ---------------------------------------------
+
+[2024-04-24T07:18:47.095Z] : [success]: Robot saved successfully
+
+[2024-04-24T07:19:00.099Z] : [success]: Robot saved successfully
+
+[2024-04-24T07:19:05.800Z] : [success]: Bot started
+
+[2024-04-24T07:19:05.802Z] : [info]: Robot start
+
+[2024-04-24T07:19:09.204Z] : [success]: Bot finished successfully, total execution time: 3s 396ms
+
+[2024-04-24T07:19:09.207Z] : [info]: ---------------------------------------------
+
+[2024-04-24T07:19:19.568Z] : [success]: Robot saved successfully
+
+[2024-04-24T07:19:23.376Z] : [success]: Bot started
+
+[2024-04-24T07:19:23.378Z] : [info]: Robot start
+
+[2024-04-24T07:19:34.017Z] : [error]: Cannot read properties of undefined (reading 'client_visit_date')
+
+[2024-04-24T07:19:35.240Z] : [info]: Total execution time: 10s 637ms
+
+[2024-04-24T07:19:35.242Z] : [info]: ---------------------------------------------
+
+[2024-04-24T07:20:03.785Z] : [success]: Robot saved successfully
+
+[2024-04-24T07:20:07.507Z] : [success]: Bot started
+
+[2024-04-24T07:20:07.508Z] : [info]: Robot start
+
+[2024-04-24T07:20:10.908Z] : [success]: Bot finished successfully, total execution time: 3s 391ms
+
+[2024-04-24T07:20:10.911Z] : [info]: ---------------------------------------------
+
+[2024-04-24T07:20:24.453Z] : [success]: Robot saved successfully
+
+[2024-04-24T07:20:29.228Z] : [success]: Bot started
+
+[2024-04-24T07:20:29.230Z] : [info]: Robot start
+
+[2024-04-24T07:20:32.432Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2024-04-24T07:20:32.654Z] : [success]: Bot finished successfully, total execution time: 3s 416ms
+
+[2024-04-24T07:20:32.657Z] : [info]: ---------------------------------------------
+
+[2024-04-24T07:21:14.869Z] : [success]: Robot saved successfully
+
+[2024-04-24T07:29:22.166Z] : [success]: Robot saved successfully
+
+[2024-04-24T07:29:34.925Z] : [success]: Robot saved successfully
+
+[2024-04-24T07:29:42.245Z] : [success]: Robot saved successfully
+
+[2024-04-24T07:29:47.321Z] : [success]: Bot started
+
+[2024-04-24T07:29:47.322Z] : [info]: Robot start
+
+[2024-04-24T07:30:17.067Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2024-04-24T07:30:17.288Z] : [success]: Bot finished successfully, total execution time: 29s 962ms
+
+[2024-04-24T07:30:17.289Z] : [info]: ---------------------------------------------
+
+[2024-04-24T07:33:41.088Z] : [success]: Robot saved successfully
+
+[2024-04-24T07:34:47.579Z] : [success]: Robot saved successfully
+
+[2024-04-24T07:38:02.748Z] : [success]: Robot saved successfully
+
+[2024-04-24T07:38:03.571Z] : [success]: Robot saved successfully
+
+[2024-04-24T07:38:03.722Z] : [success]: Robot saved successfully
+
+[2024-04-24T07:38:03.850Z] : [success]: Robot saved successfully
+
+[2024-04-24T07:38:07.672Z] : [success]: Robot saved successfully
+
+[2024-04-24T07:38:14.438Z] : [success]: Bot started
+
+[2024-04-24T07:38:14.439Z] : [info]: Robot start
+
+[2024-04-24T07:38:43.654Z] : [success]: Execution Finished successfully
+
+[2024-04-24T07:38:44.179Z] : [success]: Bot finished successfully, total execution time: 29s 737ms
+
+[2024-04-24T07:38:44.181Z] : [info]: ---------------------------------------------
+
+[2024-04-24T07:38:48.756Z] : [success]: Robot saved successfully
+
+[2024-04-24T07:39:50.171Z] : [success]: Robot saved successfully
+
+[2024-04-24T07:39:50.871Z] : [success]: Robot saved successfully
+
+[2024-04-24T07:40:17.813Z] : [success]: Robot saved successfully
+
+[2024-04-24T07:41:30.011Z] : [success]: Bot started
+
+[2024-04-24T07:41:30.013Z] : [info]: Robot start
+
+[2024-04-24T07:41:55.407Z] : [success]: Execution Finished successfully
+
+[2024-04-24T07:41:55.898Z] : [success]: Bot finished successfully, total execution time: 25s 880ms
+
+[2024-04-24T07:41:55.900Z] : [info]: ---------------------------------------------
+

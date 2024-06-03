@@ -1,0 +1,55 @@
+working:
+{"Sheet1":[
+{
+"Incident ID":incident_id,
+"Title":Title,
+"Depend":Depend,
+"Current Status":current_status,
+"ActualAssignment":actual_assignment,
+"Assignment Date":assignment_date,
+"Open Time": open_time,
+"Ageing": Ageing,
+"Open": Open,
+"Priority Code":priority_code,
+"Assignee": Assignee
+}]}
+
+
+
+
+
+missing
+{
+"Sheet1": [
+{
+"Incident ID":IncidentID,
+"Depend":Depend,
+"Title":Title,
+"Current Status":current_status,
+"Actual Assignment": actual_assignment,
+"Assignment Date": assignment_date,
+"Open Time": open_time,
+"Ageing": Ageing,
+"Open": Open,
+"Priority Code": priority_code,
+"Assignee": Assignee
+}]}
+
+
+old
+{
+  "Sheet1": [
+    {
+      "IncidentID": IncidentID,
+      "Current Status": current_status,
+      "Actual Assignment": actual_assignment,
+      "Assignment Date": assignment_date,
+      "Open Time": open_time,
+      "Ageing": Ageing,
+      "Open": Open,
+      "Priority Code": priority_code,
+      "Assignee": Assignee
+    }]}
+
+actual_assignment
+IncidentID+"    "+current_status + "NO EMAIL ADDRESS for Ticket Number means that the specific ticket number mentioned does not have an associated or linked email address in the system or database. It suggests that either the ticket was created without an email address provided, or the email address associated with the ticket might have been removed or not recorded properly. As a result, any communication or updates related to that ticket would not be sent to an email address since there is none available for that particular ticket number."

@@ -1,0 +1,104 @@
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 4/19/2024, 4:37:20 PM
+  ==========================================
+  
+
+[2024-04-19T11:08:37.936Z] : [success]: Robot saved successfully
+
+[2024-04-19T11:08:49.748Z] : [info]: Internet connection // error
+
+[2024-04-19T11:08:49.837Z] : [success]: Robot saved successfully
+
+[2024-04-19T11:08:49.943Z] : [info]: ---------------------------------------------
+
+[2024-04-19T11:08:49.944Z] : [success]: Bot started
+
+[2024-04-19T11:08:49.945Z] : [info]: Robot start
+
+[2024-04-19T11:08:56.636Z] : [error]: Outlook: Access to the path 'downloads' is denied.
+
+[2024-04-19T11:08:57.324Z] : [info]: Total execution time: 6s 690ms
+
+[2024-04-19T11:08:57.326Z] : [info]: ---------------------------------------------
+
+[2024-04-19T11:10:04.793Z] : [success]: Robot saved successfully
+
+[2024-04-19T11:10:13.377Z] : [success]: Bot started
+
+[2024-04-19T11:10:13.378Z] : [info]: Robot start
+
+[2024-04-19T11:10:16.540Z] : [error]: Outlook: Access to the path 'downloads' is denied.
+
+[2024-04-19T11:10:16.996Z] : [info]: Total execution time: 3s 161ms
+
+[2024-04-19T11:10:16.997Z] : [info]: ---------------------------------------------
+
+[2024-04-19T11:10:41.256Z] : [success]: Robot saved successfully
+
+[2024-04-19T11:10:48.736Z] : [success]: Bot started
+
+[2024-04-19T11:10:48.737Z] : [info]: Robot start
+
+[2024-04-19T11:10:51.983Z] : [success]: Bot finished successfully, total execution time: 3s 246ms
+
+[2024-04-19T11:10:51.984Z] : [info]: ---------------------------------------------
+
+[2024-04-19T11:14:32.303Z] : [success]: Robot saved successfully
+
+[2024-04-19T11:14:39.687Z] : [success]: Bot started
+
+[2024-04-19T11:14:39.689Z] : [info]: Robot start
+
+[2024-04-19T11:14:42.863Z] : [success]: Bot finished successfully, total execution time: 3s 173ms
+
+[2024-04-19T11:14:42.864Z] : [info]: ---------------------------------------------
+
+[2024-04-19T11:15:09.754Z] : [success]: Robot saved successfully
+
+[2024-04-19T11:15:17.979Z] : [success]: Bot started
+
+[2024-04-19T11:15:17.981Z] : [info]: Robot start
+
+[2024-04-19T11:15:21.245Z] : [error]: Json is not defined
+
+[2024-04-19T11:15:21.733Z] : [info]: Total execution time: 3s 262ms
+
+[2024-04-19T11:15:21.734Z] : [info]: ---------------------------------------------
+
+[2024-04-19T11:15:35.125Z] : [success]: Robot saved successfully
+
+[2024-04-19T11:15:42.595Z] : [success]: Bot started
+
+[2024-04-19T11:15:42.596Z] : [info]: Robot start
+
+[2024-04-19T11:15:45.786Z] : [error]: Unexpected token H in JSON at position 0
+
+[2024-04-19T11:15:46.277Z] : [info]: Total execution time: 3s 190ms
+
+[2024-04-19T11:15:46.278Z] : [info]: ---------------------------------------------
+
+[2024-04-19T11:16:49.215Z] : [success]: Robot saved successfully
+
+[2024-04-19T11:16:56.142Z] : [success]: Bot started
+
+[2024-04-19T11:16:56.143Z] : [info]: Robot start
+
+[2024-04-19T11:16:59.312Z] : [success]: Bot finished successfully, total execution time: 3s 169ms
+
+[2024-04-19T11:16:59.313Z] : [info]: ---------------------------------------------
+
+[2024-04-19T17:13:25.523Z] : [success]: Connection to our licenses server is restored
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 4/22/2024, 11:49:30 AM
+  ==========================================
+  
+
+[2024-04-22T11:10:38.953Z] : [success]: Robot saved successfully
+
+[2024-04-22T11:10:41.436Z] : [success]: Connection to our licenses server is restored
+

@@ -1,0 +1,50 @@
+[2023-08-03T12:58:30.568Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.3.16
+  Started at: 8/3/2023, 6:28:30 PM
+  ==========================================
+  
+
+[2023-08-03T12:58:39.310Z] : [info]: ---------------------------------------------
+
+[2023-08-03T12:58:39.311Z] : [success]: Bot started
+
+[2023-08-03T12:58:39.311Z] : [info]: Robot start
+
+[2023-08-03T12:59:41.727Z] : [error]: Selectors: Value cannot be null.
+Parameter name: columnName
+
+[2023-08-03T12:59:42.078Z] : [info]: Total execution time: 1m 2s 414ms
+
+[2023-08-03T12:59:42.088Z] : [info]: ---------------------------------------------
+
+[2023-08-03T13:02:41.314Z] : [success]: Robot saved successfully
+
+[2023-08-03T13:04:44.262Z] : [info]: ---------------------------------------------
+
+[2023-08-03T13:04:44.263Z] : [success]: Bot started
+
+[2023-08-03T13:04:44.263Z] : [info]: Robot start
+
+[2023-08-03T13:05:24.929Z] : [error]: Script stopped.
+
+[2023-08-03T13:05:25.291Z] : [info]: Total execution time: 40s 665ms
+
+[2023-08-03T13:05:25.292Z] : [info]: ---------------------------------------------
+
+[2023-08-03T13:07:41.144Z] : [info]: ---------------------------------------------
+
+[2023-08-03T13:07:41.145Z] : [success]: Bot started
+
+[2023-08-03T13:07:41.146Z] : [info]: Robot start
+
+[2023-08-03T13:08:45.027Z] : [success]: Bot finished successfully, total execution time: 1m 3s 879ms
+
+[2023-08-03T13:08:45.029Z] : [info]: ---------------------------------------------
+
+[2023-08-03T13:12:00.059Z] : [success]: Robot saved successfully
+
+[2023-08-03T13:13:40.231Z] : [success]: Robot saved successfully
+

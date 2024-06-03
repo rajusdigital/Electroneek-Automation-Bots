@@ -1,0 +1,90 @@
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 2/14/2024, 2:18:22 PM
+  ==========================================
+  
+
+[2024-02-14T08:50:11.254Z] : [success]: Robot saved successfully
+
+[2024-02-14T08:50:29.290Z] : [success]: Robot saved successfully
+
+[2024-02-14T08:50:36.378Z] : [info]: ---------------------------------------------
+
+[2024-02-14T08:50:36.379Z] : [success]: Bot started
+
+[2024-02-14T08:50:36.380Z] : [info]: Robot start
+
+[2024-02-14T08:50:45.170Z] : [success]: Bot finished successfully, total execution time: 8s 784ms
+
+[2024-02-14T08:50:45.172Z] : [info]: ---------------------------------------------
+
+[2024-02-14T08:51:11.723Z] : [success]: Robot saved successfully
+
+[2024-02-14T08:51:18.690Z] : [success]: Bot started
+
+[2024-02-14T08:51:18.691Z] : [info]: Robot start
+
+[2024-02-14T08:51:20.879Z] : [error]: Cannot read properties of null (reading 'category')
+
+[2024-02-14T08:51:21.384Z] : [info]: Total execution time: 2s 187ms
+
+[2024-02-14T08:51:21.385Z] : [info]: ---------------------------------------------
+
+[2024-02-14T08:53:18.336Z] : [success]: Robot saved successfully
+
+[2024-02-14T08:53:26.430Z] : [success]: Bot started
+
+[2024-02-14T08:53:26.432Z] : [info]: Robot start
+
+[2024-02-14T08:53:32.762Z] : [success]: Bot finished successfully, total execution time: 6s 323ms
+
+[2024-02-14T08:53:32.765Z] : [info]: ---------------------------------------------
+
+[2024-02-14T08:54:11.071Z] : [success]: Robot saved successfully
+
+[2024-02-14T08:54:14.780Z] : [success]: Bot started
+
+[2024-02-14T08:54:14.781Z] : [info]: Robot start
+
+[2024-02-14T08:55:32.065Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2024-02-14T08:55:32.568Z] : [info]: Total execution time: 1m 17s 282ms
+
+[2024-02-14T08:55:32.569Z] : [info]: ---------------------------------------------
+
+[2024-02-14T08:55:59.764Z] : [success]: Robot saved successfully
+
+[2024-02-14T08:56:06.697Z] : [success]: Bot started
+
+[2024-02-14T08:56:06.699Z] : [info]: Robot start
+
+[2024-02-14T08:56:29.283Z] : [error]: Selectors: Nothing found
+
+[2024-02-14T08:56:30.276Z] : [info]: Total execution time: 22s 584ms
+
+[2024-02-14T08:56:30.277Z] : [info]: ---------------------------------------------
+
+[2024-02-14T08:58:39.962Z] : [success]: Robot saved successfully
+
+[2024-02-14T09:20:19.003Z] : [success]: Robot saved successfully
+
+[2024-02-14T09:20:19.604Z] : [success]: Robot saved successfully
+
+[2024-02-14T09:20:19.894Z] : [success]: Robot saved successfully
+
+[2024-02-14T09:20:19.985Z] : [success]: Robot saved successfully
+
+[2024-02-14T09:20:20.140Z] : [success]: Robot saved successfully
+
+[2024-02-14T09:20:20.314Z] : [success]: Robot saved successfully
+
+[2024-02-14T09:35:07.111Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 2/14/2024, 3:16:15 PM
+  ==========================================
+  
+

@@ -1,0 +1,97 @@
+[2023-10-05T04:38:26.862Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 10/5/2023, 10:08:27 AM
+  ==========================================
+  
+
+[2023-10-05T04:38:34.044Z] : [info]: ---------------------------------------------
+
+[2023-10-05T04:38:34.045Z] : [success]: Bot started
+
+[2023-10-05T04:38:34.046Z] : [info]: Robot start
+
+[2023-10-05T04:38:42.699Z] : [error]: Selectors: Sorry, we couldn't find D:\automation\Ril_Excel_Email_Alert_Bot\Group Email ID.xlsx. Is it possible it was moved, renamed or deleted?
+
+[2023-10-05T04:38:43.177Z] : [info]: Total execution time: 8s 653ms
+
+[2023-10-05T04:38:43.178Z] : [info]: ---------------------------------------------
+
+[2023-10-05T04:39:09.617Z] : [success]: Robot saved successfully
+
+[2023-10-05T04:39:17.121Z] : [success]: Bot started
+
+[2023-10-05T04:39:17.122Z] : [info]: Robot start
+
+[2023-10-05T04:42:29.640Z] : [success]: Bot finished successfully, total execution time: 3m 12s 517ms
+
+[2023-10-05T04:42:29.642Z] : [info]: ---------------------------------------------
+
+[2023-10-05T05:32:52.695Z] : [success]: Connection to our licenses server is restored
+
+[2023-10-05T09:57:25.081Z] : [info]: Internet connection // error
+
+[2023-10-05T09:57:25.103Z] : [success]: Connection to our licenses server is restored
+
+[2023-10-05T10:00:18.653Z] : [success]: Robot saved successfully
+
+[2023-10-05T10:02:46.035Z] : [success]: Robot saved successfully
+
+[2023-10-05T10:02:53.539Z] : [info]: Internet connection // error
+
+[2023-10-05T10:02:53.698Z] : [success]: Bot started
+
+[2023-10-05T10:02:53.699Z] : [info]: Robot start
+
+[2023-10-05T10:03:08.030Z] : [error]: Script Stopped.
+
+[2023-10-05T10:03:08.668Z] : [info]: Total execution time: 14s 329ms
+
+[2023-10-05T10:03:08.669Z] : [info]: ---------------------------------------------
+
+[2023-10-05T10:05:27.869Z] : [success]: Robot saved successfully
+
+[2023-10-05T10:05:35.430Z] : [success]: Bot started
+
+[2023-10-05T10:05:35.430Z] : [info]: Robot start
+
+[2023-10-05T10:05:50.746Z] : [error]: Outlook: Outlook does not recognize one or more names. 
+
+[2023-10-05T10:05:52.008Z] : [info]: Total execution time: 15s 316ms
+
+[2023-10-05T10:05:52.008Z] : [info]: ---------------------------------------------
+
+[2023-10-05T10:06:31.510Z] : [success]: Bot started
+
+[2023-10-05T10:06:31.511Z] : [info]: Robot start
+
+[2023-10-05T10:06:56.015Z] : [error]: Script Stopped.
+
+[2023-10-05T10:06:56.575Z] : [info]: Total execution time: 24s 504ms
+
+[2023-10-05T10:06:56.576Z] : [info]: ---------------------------------------------
+
+[2023-10-05T10:12:39.670Z] : [success]: Robot saved successfully
+
+[2023-10-05T10:12:58.436Z] : [success]: The workflow has been exported successfully
+
+[2023-10-05T10:18:56.779Z] : [success]: Connection to our licenses server is restored
+
+[2023-10-05T11:17:49.432Z] : [info]: Internet connection // error
+
+[2023-10-05T11:17:56.566Z] : [success]: Connection to our licenses server is restored
+
+[2023-10-05T11:22:38.099Z] : [info]: Internet connection // error
+
+[2023-10-05T11:22:43.725Z] : [success]: Connection to our licenses server is restored
+
+[2023-10-05T11:23:36.075Z] : [info]: Internet connection // error
+
+[2023-10-05T11:23:43.554Z] : [success]: Connection to our licenses server is restored
+
+[2023-10-05T11:25:04.091Z] : [info]: Internet connection // error
+
+[2023-10-06T04:45:07.860Z] : [success]: Connection to our licenses server is restored
+

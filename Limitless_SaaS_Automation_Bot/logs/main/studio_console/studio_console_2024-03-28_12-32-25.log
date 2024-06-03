@@ -1,0 +1,85 @@
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 3/28/2024, 1:02:27 PM
+  ==========================================
+  
+
+[2024-03-28T07:32:41.226Z] : [success]: Robot saved successfully
+
+[2024-03-28T07:32:50.511Z] : [info]: Internet connection // error
+
+[2024-03-28T07:32:56.520Z] : [error]: Failed to run workflow, ocr server unavailable
+
+[2024-03-28T07:32:57.549Z] : [info]: ---------------------------------------------
+
+[2024-03-28T07:37:06.079Z] : [success]: Robot saved successfully
+
+[2024-03-28T07:37:16.009Z] : [success]: Bot started
+
+[2024-03-28T07:37:16.011Z] : [info]: Robot start
+
+[2024-03-28T07:37:37.663Z] : [error]: Unexpected token u in JSON at position 0
+
+[2024-03-28T07:37:38.316Z] : [info]: Total execution time: 21s 651ms
+
+[2024-03-28T07:37:38.318Z] : [info]: ---------------------------------------------
+
+[2024-03-28T07:38:16.426Z] : [error]: Cannot read properties of undefined (reading 'attributes')
+
+[2024-03-28T07:38:17.729Z] : [error]: Cannot read properties of undefined (reading 'atom')
+
+[2024-03-28T09:45:52.909Z] : [success]: Connection to our licenses server is restored
+
+[2024-03-28T09:48:59.029Z] : [info]: Internet connection // error
+
+[2024-03-28T09:49:22.707Z] : [success]: Connection to our licenses server is restored
+
+[2024-03-28T10:00:29.116Z] : [info]: Internet connection // error
+
+[2024-03-28T10:00:55.470Z] : [success]: Connection to our licenses server is restored
+
+[2024-03-28T10:07:24.565Z] : [info]: Internet connection // error
+
+[2024-03-28T10:07:31.127Z] : [success]: Connection to our licenses server is restored
+
+[2024-03-28T10:08:02.777Z] : [info]: Internet connection // error
+
+[2024-03-28T10:08:33.625Z] : [success]: Connection to our licenses server is restored
+
+[2024-03-28T10:10:16.436Z] : [info]: Internet connection // error
+
+[2024-03-28T10:10:24.231Z] : [success]: Connection to our licenses server is restored
+
+[2024-03-28T10:11:47.091Z] : [info]: Internet connection // error
+
+[2024-03-28T10:12:11.296Z] : [success]: Connection to our licenses server is restored
+
+[2024-03-28T10:15:18.419Z] : [info]: Internet connection // error
+
+[2024-03-28T10:18:36.432Z] : [success]: Connection to our licenses server is restored
+
+[2024-03-28T10:19:08.080Z] : [info]: Internet connection // error
+
+[2024-03-28T10:24:25.888Z] : [success]: Connection to our licenses server is restored
+
+[2024-03-28T10:26:38.595Z] : [info]: Internet connection // error
+
+[2024-03-28T10:27:08.740Z] : [success]: Connection to our licenses server is restored
+
+[2024-03-28T10:30:41.431Z] : [info]: Internet connection // error
+
+[2024-03-28T10:32:22.625Z] : [success]: Connection to our licenses server is restored
+
+[2024-03-28T10:36:18.291Z] : [success]: Robot saved successfully
+
+[2024-03-28T10:36:31.216Z] : [info]: Internet connection // error
+
+[2024-03-28T10:36:39.865Z] : [success]: Bot started
+
+[2024-03-28T10:36:39.866Z] : [info]: Robot start
+
+[2024-03-28T10:37:01.992Z] : [success]: Bot finished successfully, total execution time: 22s 125ms
+
+[2024-03-28T10:37:01.993Z] : [info]: ---------------------------------------------
+

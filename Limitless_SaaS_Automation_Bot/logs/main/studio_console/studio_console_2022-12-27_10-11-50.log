@@ -1,0 +1,113 @@
+
+  ==========================================
+  Studio Pro version: 9.0.4
+  Started at: 12/27/2022, 10:12:22 AM
+  ==========================================
+  
+
+[2022-12-27T17:14:09.916Z] : [success]: Robot saved successfully
+
+[2022-12-27T17:14:09.967Z] : [info]: ---------------------------------------------
+
+[2022-12-27T17:14:09.967Z] : [success]: Bot started
+
+[2022-12-27T17:14:09.968Z] : [info]: Robot start
+
+[2022-12-27T17:14:19.332Z] : [success]: Bot finished successfully, total execution time: 9s 359ms
+
+[2022-12-27T17:14:19.334Z] : [info]: ---------------------------------------------
+
+[2022-12-27T17:16:37.380Z] : [success]: Robot saved successfully
+
+[2022-12-27T17:16:37.446Z] : [success]: Bot started
+
+[2022-12-27T17:16:37.447Z] : [info]: Robot start
+
+[2022-12-27T17:16:53.653Z] : [error]: Selectors: Value cannot be null.
+Parameter name: columnName
+
+[2022-12-27T17:16:53.656Z] : [info]: Total execution time: 16s 205ms
+
+[2022-12-27T17:16:53.657Z] : [info]: ---------------------------------------------
+
+[2022-12-27T17:20:58.632Z] : [success]: Robot saved successfully
+
+[2022-12-27T17:20:58.684Z] : [success]: Bot started
+
+[2022-12-27T17:20:58.684Z] : [info]: Robot start
+
+[2022-12-27T17:21:10.824Z] : [error]: Selectors: Value cannot be null.
+Parameter name: columnName
+
+[2022-12-27T17:21:10.825Z] : [info]: Total execution time: 12s 140ms
+
+[2022-12-27T17:21:10.826Z] : [info]: ---------------------------------------------
+
+[2022-12-27T17:24:31.799Z] : [success]: Robot saved successfully
+
+[2022-12-27T17:24:31.857Z] : [success]: Bot started
+
+[2022-12-27T17:24:31.857Z] : [info]: Robot start
+
+[2022-12-27T17:24:44.004Z] : [success]: Bot finished successfully, total execution time: 12s 146ms
+
+[2022-12-27T17:24:44.005Z] : [info]: ---------------------------------------------
+
+[2022-12-27T18:07:26.228Z] : [success]: Robot saved successfully
+
+[2022-12-27T18:08:05.136Z] : [success]: Robot saved successfully
+
+[2022-12-27T18:08:05.210Z] : [success]: Bot started
+
+[2022-12-27T18:08:05.211Z] : [info]: Robot start
+
+[2022-12-27T18:08:41.763Z] : [error]: [object Object]
+
+[2022-12-27T18:08:41.767Z] : [info]: Total execution time: 36s 552ms
+
+[2022-12-27T18:08:41.767Z] : [info]: ---------------------------------------------
+
+[2022-12-27T18:11:07.875Z] : [success]: Robot saved successfully
+
+[2022-12-27T18:11:07.964Z] : [success]: Bot started
+
+[2022-12-27T18:11:07.964Z] : [info]: Robot start
+
+[2022-12-27T18:12:05.747Z] : [error]: Script Stopped.
+
+[2022-12-27T18:12:05.749Z] : [info]: Total execution time: 57s 782ms
+
+[2022-12-27T18:12:05.750Z] : [info]: ---------------------------------------------
+
+[2022-12-27T18:13:53.478Z] : [success]: Robot saved successfully
+
+[2022-12-27T18:13:57.567Z] : [success]: Bot started
+
+[2022-12-27T18:13:57.567Z] : [info]: Robot start
+
+[2022-12-27T18:15:03.687Z] : [success]: Bot finished successfully, total execution time: 1m 6s 118ms
+
+[2022-12-27T18:15:03.689Z] : [info]: ---------------------------------------------
+
+[2022-12-27T18:18:39.104Z] : [success]: Robot saved successfully
+
+[2022-12-27T18:18:39.166Z] : [success]: Bot started
+
+[2022-12-27T18:18:39.166Z] : [info]: Robot start
+
+[2022-12-27T18:19:33.875Z] : [error]: Script Stopped.
+
+[2022-12-27T18:19:33.877Z] : [info]: Total execution time: 54s 709ms
+
+[2022-12-27T18:19:33.878Z] : [info]: ---------------------------------------------
+
+[2022-12-27T18:22:10.683Z] : [success]: Robot saved successfully
+
+[2022-12-27T18:22:10.757Z] : [success]: Bot started
+
+[2022-12-27T18:22:10.757Z] : [info]: Robot start
+
+[2022-12-27T18:23:16.625Z] : [success]: Bot finished successfully, total execution time: 1m 5s 865ms
+
+[2022-12-27T18:23:16.626Z] : [info]: ---------------------------------------------
+

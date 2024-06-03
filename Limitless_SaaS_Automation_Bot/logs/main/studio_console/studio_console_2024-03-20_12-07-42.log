@@ -1,0 +1,240 @@
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 3/20/2024, 12:07:59 PM
+  ==========================================
+  
+
+[2024-03-20T06:38:25.720Z] : [success]: Robot saved successfully
+
+[2024-03-20T06:39:26.822Z] : [error]: Can't get document type list, please make sure that your credentials are valid
+
+[2024-03-20T06:39:28.100Z] : [error]: Can't get document type list, please make sure that your credentials are valid
+
+[2024-03-20T06:39:28.847Z] : [error]: Can't get document type list, please make sure that your credentials are valid
+
+[2024-03-20T06:39:35.718Z] : [error]: Can't get document type list, please make sure that your credentials are valid
+
+[2024-03-20T06:41:10.024Z] : [success]: Robot saved successfully
+
+[2024-03-20T06:44:04.866Z] : [success]: Robot saved successfully
+
+[2024-03-20T06:44:38.182Z] : [success]: Robot saved successfully
+
+[2024-03-20T06:44:51.161Z] : [success]: Robot saved successfully
+
+[2024-03-20T06:45:03.871Z] : [info]: ---------------------------------------------
+
+[2024-03-20T06:45:03.872Z] : [success]: Bot started
+
+[2024-03-20T06:45:03.873Z] : [info]: Robot start
+
+[2024-03-20T06:45:22.013Z] : [error]: Selectors: Unexpected character encountered while parsing value: [. Path 'A', line 1, position 6.
+
+[2024-03-20T06:45:23.002Z] : [info]: Total execution time: 18s 139ms
+
+[2024-03-20T06:45:23.003Z] : [info]: ---------------------------------------------
+
+[2024-03-20T06:46:59.046Z] : [success]: Robot saved successfully
+
+[2024-03-20T06:47:14.087Z] : [success]: Bot started
+
+[2024-03-20T06:47:14.088Z] : [info]: Robot start
+
+[2024-03-20T06:47:31.593Z] : [error]: Selectors: Unexpected character encountered while parsing value: {. Path '', line 1, position 2.
+
+[2024-03-20T06:47:32.443Z] : [info]: Total execution time: 17s 504ms
+
+[2024-03-20T06:47:32.445Z] : [info]: ---------------------------------------------
+
+[2024-03-20T06:48:40.580Z] : [success]: Robot saved successfully
+
+[2024-03-20T06:48:53.439Z] : [success]: Bot started
+
+[2024-03-20T06:48:53.441Z] : [info]: Robot start
+
+[2024-03-20T06:49:09.969Z] : [error]: Selectors: Unexpected character encountered while parsing value: {. Path '', line 1, position 2.
+
+[2024-03-20T06:49:10.642Z] : [info]: Total execution time: 16s 529ms
+
+[2024-03-20T06:49:10.643Z] : [info]: ---------------------------------------------
+
+[2024-03-20T06:52:06.578Z] : [success]: Robot saved successfully
+
+[2024-03-20T06:52:22.893Z] : [success]: Bot started
+
+[2024-03-20T06:52:22.894Z] : [info]: Robot start
+
+[2024-03-20T06:52:47.523Z] : [error]: Selectors: Unexpected character encountered while parsing value: {. Path '', line 1, position 2.
+
+[2024-03-20T06:52:48.235Z] : [info]: Total execution time: 24s 627ms
+
+[2024-03-20T06:52:48.237Z] : [info]: ---------------------------------------------
+
+[2024-03-20T06:54:24.970Z] : [success]: Robot saved successfully
+
+[2024-03-20T06:54:49.990Z] : [success]: Bot started
+
+[2024-03-20T06:54:49.992Z] : [info]: Robot start
+
+[2024-03-20T06:55:05.997Z] : [error]: Selectors: Error converting value "Selectors: Unexpected character encountered while parsing value: {. Path '', line 1, position 2." to type 'System.Collections.Generic.IDictionary`2[System.String,System.Collections.Generic.IDictionary`2[System.String,System.String][]]'. Path '', line 1, position 98.
+
+[2024-03-20T06:55:06.925Z] : [info]: Total execution time: 16s 4ms
+
+[2024-03-20T06:55:06.926Z] : [info]: ---------------------------------------------
+
+[2024-03-20T07:10:17.115Z] : [success]: Robot saved successfully
+
+[2024-03-20T07:10:33.530Z] : [success]: Bot started
+
+[2024-03-20T07:10:33.532Z] : [info]: Robot start
+
+[2024-03-20T07:11:19.726Z] : [success]: Bot finished successfully, total execution time: 46s 188ms
+
+[2024-03-20T07:11:19.728Z] : [info]: ---------------------------------------------
+
+[2024-03-20T07:16:33.273Z] : [success]: Robot saved successfully
+
+[2024-03-20T07:22:39.696Z] : [success]: Robot saved successfully
+
+[2024-03-20T07:22:54.708Z] : [success]: Bot started
+
+[2024-03-20T07:22:54.710Z] : [info]: Robot start
+
+[2024-03-20T07:24:01.236Z] : [success]: Bot finished successfully, total execution time: 1m 6s 519ms
+
+[2024-03-20T07:24:01.238Z] : [info]: ---------------------------------------------
+
+[2024-03-20T07:25:56.933Z] : [success]: Robot saved successfully
+
+[2024-03-20T07:26:13.918Z] : [success]: Robot saved successfully
+
+[2024-03-20T07:26:13.975Z] : [error]: Activity parameters required: Microsoft Cloud OCR
+
+[2024-03-20T07:26:16.101Z] : [info]: ---------------------------------------------
+
+[2024-03-20T07:26:51.556Z] : [success]: Robot saved successfully
+
+[2024-03-20T07:27:04.446Z] : [success]: Bot started
+
+[2024-03-20T07:27:04.447Z] : [info]: Robot start
+
+[2024-03-20T07:27:18.955Z] : [success]: Bot finished successfully, total execution time: 14s 502ms
+
+[2024-03-20T07:27:18.957Z] : [info]: ---------------------------------------------
+
+[2024-03-20T07:29:10.956Z] : [success]: Robot saved successfully
+
+[2024-03-20T07:29:11.359Z] : [success]: Robot saved successfully
+
+[2024-03-20T07:29:11.850Z] : [success]: Robot saved successfully
+
+[2024-03-20T07:29:12.503Z] : [success]: Robot saved successfully
+
+[2024-03-20T07:29:36.959Z] : [success]: Robot saved successfully
+
+[2024-03-20T07:30:22.719Z] : [success]: Bot started
+
+[2024-03-20T07:30:22.721Z] : [info]: Robot start
+
+[2024-03-20T07:32:09.172Z] : [error]: Canceled by user
+
+[2024-03-20T07:32:09.835Z] : [info]: Total execution time: 1m 46s 450ms
+
+[2024-03-20T07:32:09.836Z] : [info]: ---------------------------------------------
+
+[2024-03-20T07:33:45.690Z] : [success]: Robot saved successfully
+
+[2024-03-20T07:34:03.108Z] : [success]: Robot saved successfully
+
+[2024-03-20T07:34:06.909Z] : [success]: Bot started
+
+[2024-03-20T07:34:06.911Z] : [info]: Robot start
+
+[2024-03-20T07:34:22.407Z] : [error]: The security token included in the request is invalid.
+
+[2024-03-20T07:34:22.944Z] : [info]: Total execution time: 15s 496ms
+
+[2024-03-20T07:34:22.945Z] : [info]: ---------------------------------------------
+
+[2024-03-20T07:35:53.182Z] : [success]: Robot saved successfully
+
+[2024-03-20T07:42:43.704Z] : [success]: Robot saved successfully
+
+[2024-03-20T07:43:00.475Z] : [success]: Robot saved successfully
+
+[2024-03-20T07:43:16.653Z] : [success]: Bot started
+
+[2024-03-20T07:43:16.655Z] : [info]: Robot start
+
+[2024-03-20T07:43:28.151Z] : [success]: Bot finished successfully, total execution time: 11s 492ms
+
+[2024-03-20T07:43:28.153Z] : [info]: ---------------------------------------------
+
+[2024-03-20T07:43:53.149Z] : [success]: Robot saved successfully
+
+[2024-03-20T07:43:54.022Z] : [success]: Bot started
+
+[2024-03-20T07:43:54.024Z] : [info]: Robot start
+
+[2024-03-20T07:45:07.107Z] : [success]: Bot finished successfully, total execution time: 1m 13s 78ms
+
+[2024-03-20T07:45:07.108Z] : [info]: ---------------------------------------------
+
+[2024-03-20T07:48:54.639Z] : [success]: Robot saved successfully
+
+[2024-03-20T07:49:49.099Z] : [success]: Robot saved successfully
+
+[2024-03-20T07:50:45.045Z] : [info]: Internet connection // error
+
+[2024-03-20T07:51:05.672Z] : [success]: Connection to our licenses server is restored
+
+[2024-03-20T07:51:12.130Z] : [info]: Internet connection // error
+
+[2024-03-20T07:51:17.865Z] : [success]: Robot saved successfully
+
+[2024-03-20T07:51:32.796Z] : [success]: Robot saved successfully
+
+[2024-03-20T07:51:33.048Z] : [success]: Robot saved successfully
+
+[2024-03-20T07:51:33.317Z] : [success]: Robot saved successfully
+
+[2024-03-20T07:51:33.611Z] : [success]: Robot saved successfully
+
+[2024-03-20T07:51:33.925Z] : [success]: Robot saved successfully
+
+[2024-03-20T07:51:34.448Z] : [success]: Robot saved successfully
+
+[2024-03-20T07:51:35.081Z] : [success]: Robot saved successfully
+
+[2024-03-20T07:51:35.761Z] : [success]: Robot saved successfully
+
+[2024-03-20T07:51:41.796Z] : [success]: Robot saved successfully
+
+[2024-03-20T07:54:05.517Z] : [success]: Connection to our licenses server is restored
+
+[2024-03-20T07:54:10.688Z] : [info]: Internet connection // error
+
+[2024-03-20T07:54:16.644Z] : [success]: Connection to our licenses server is restored
+
+[2024-03-20T08:49:40.916Z] : [success]: Robot saved successfully
+
+[2024-03-20T08:49:49.502Z] : [success]: Bot started
+
+[2024-03-20T08:49:49.502Z] : [info]: Robot start
+
+[2024-03-20T08:50:39.395Z] : [success]: Bot finished successfully, total execution time: 49s 890ms
+
+[2024-03-20T08:50:39.396Z] : [info]: ---------------------------------------------
+
+[2024-03-20T09:48:47.500Z] : [info]: Internet connection // error
+
+[2024-03-20T09:59:22.455Z] : [success]: Connection to our licenses server is restored
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 3/20/2024, 4:47:04 PM
+  ==========================================
+  
+
