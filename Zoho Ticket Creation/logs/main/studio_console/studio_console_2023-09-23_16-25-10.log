@@ -1,0 +1,47 @@
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 9/23/2023, 4:25:47 PM
+  ==========================================
+  
+
+[2023-09-23T11:02:11.079Z] : [success]: Robot saved successfully
+
+[2023-09-23T11:13:14.727Z] : [success]: Robot saved successfully
+
+[2023-09-23T11:13:22.901Z] : [info]: ---------------------------------------------
+
+[2023-09-23T11:13:22.902Z] : [success]: Bot started
+
+[2023-09-23T11:13:22.902Z] : [info]: Robot start
+
+[2023-09-23T11:13:34.192Z] : [info]: Retrying to perform the For Each Email activity, №1
+
+[2023-09-23T11:13:54.213Z] : [info]: Retrying to perform the For Each Email activity, №2
+
+[2023-09-23T11:14:24.239Z] : [info]: Retrying to perform the For Each Email activity, №3
+
+[2023-09-23T11:15:05.223Z] : [error]: Timed out while connecting to server
+
+[2023-09-23T11:15:06.010Z] : [info]: Total execution time: 1m 42s 320ms
+
+[2023-09-23T11:15:06.012Z] : [info]: ---------------------------------------------
+
+[2023-09-23T11:15:12.188Z] : [success]: Robot saved successfully
+
+[2023-09-23T11:15:23.885Z] : [success]: Bot started
+
+[2023-09-23T11:15:23.885Z] : [info]: Robot start
+
+[2023-09-23T11:15:35.217Z] : [info]: Retrying to perform the For Each Email activity, №1
+
+[2023-09-23T11:15:55.223Z] : [info]: Retrying to perform the For Each Email activity, №2
+
+[2023-09-23T11:16:25.236Z] : [info]: Retrying to perform the For Each Email activity, №3
+
+[2023-09-23T11:17:05.808Z] : [error]: Timed out while connecting to server
+
+[2023-09-23T11:17:06.039Z] : [info]: Total execution time: 1m 41s 922ms
+
+[2023-09-23T11:17:06.039Z] : [info]: ---------------------------------------------
+

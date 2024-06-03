@@ -1,0 +1,41 @@
+[2023-09-24T06:10:37.726Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 9/24/2023, 11:40:37 AM
+  ==========================================
+  
+
+[2023-09-24T06:10:49.720Z] : [info]: ---------------------------------------------
+
+[2023-09-24T06:10:49.721Z] : [success]: Bot started
+
+[2023-09-24T06:10:49.722Z] : [info]: Robot start
+
+[2023-09-24T06:11:08.094Z] : [info]: Retrying to perform the For Each Email activity, №1
+
+[2023-09-24T06:11:28.107Z] : [info]: Retrying to perform the For Each Email activity, №2
+
+[2023-09-24T06:11:58.119Z] : [info]: Retrying to perform the For Each Email activity, №3
+
+[2023-09-24T06:12:23.967Z] : [error]: Script Stopped.
+
+[2023-09-24T06:12:24.119Z] : [info]: ---------------------------------------------
+
+[2023-09-24T06:12:40.201Z] : [success]: Robot saved successfully
+
+[2023-09-24T06:12:50.244Z] : [success]: Bot started
+
+[2023-09-24T06:12:50.245Z] : [info]: Robot start
+
+[2023-09-24T06:13:01.963Z] : [info]: Retrying to perform the For Each Email activity, №1
+
+[2023-09-24T06:13:21.981Z] : [info]: Retrying to perform the For Each Email activity, №2
+
+[2023-09-24T06:13:52.001Z] : [info]: Retrying to perform the For Each Email activity, №3
+
+[2023-09-24T06:14:19.613Z] : [error]: Script Stopped.
+
+[2023-09-24T06:14:19.662Z] : [info]: ---------------------------------------------
+

@@ -1,0 +1,175 @@
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 9/26/2023, 10:30:43 AM
+  ==========================================
+  
+
+[2023-09-26T05:01:03.721Z] : [success]: Robot saved successfully
+
+[2023-09-26T05:01:07.770Z] : [info]: ---------------------------------------------
+
+[2023-09-26T05:01:07.770Z] : [success]: Bot started
+
+[2023-09-26T05:01:07.771Z] : [info]: Robot start
+
+[2023-09-26T05:01:13.058Z] : [info]: 
+
+{"Category": "Comment", "Action": "Analyze sentiment", "Information": "Positive"}
+
+[2023-09-26T05:01:16.247Z] : [success]: Bot finished successfully, total execution time: 8s 474ms
+
+[2023-09-26T05:01:16.248Z] : [info]: ---------------------------------------------
+
+[2023-09-26T05:02:43.992Z] : [success]: Robot saved successfully
+
+[2023-09-26T05:02:47.869Z] : [success]: Bot started
+
+[2023-09-26T05:02:47.870Z] : [info]: Robot start
+
+[2023-09-26T05:02:51.978Z] : [success]: Bot finished successfully, total execution time: 4s 106ms
+
+[2023-09-26T05:02:51.979Z] : [info]: ---------------------------------------------
+
+[2023-09-26T05:04:38.846Z] : [success]: Robot saved successfully
+
+[2023-09-26T05:04:43.219Z] : [success]: Bot started
+
+[2023-09-26T05:04:43.220Z] : [info]: Robot start
+
+[2023-09-26T05:04:49.902Z] : [info]: 
+
+{"Category": "Support Ticket", "Action": "Fix Outlook Email Issue", "Information": "Customer is not able to send emails"}
+
+[2023-09-26T05:05:29.153Z] : [success]: Bot finished successfully, total execution time: 45s 931ms
+
+[2023-09-26T05:05:29.154Z] : [info]: ---------------------------------------------
+
+[2023-09-26T05:07:42.236Z] : [success]: Robot saved successfully
+
+[2023-09-26T05:09:22.395Z] : [success]: Robot saved successfully
+
+[2023-09-26T05:09:24.308Z] : [success]: Bot started
+
+[2023-09-26T05:09:24.309Z] : [info]: Robot start
+
+[2023-09-26T05:09:29.608Z] : [info]: 
+
+{"Category": "Support Ticket", "Action": "Fix Outlook Email Issue", "Information": "Customer is not able to send emails"}
+
+[2023-09-26T05:10:01.973Z] : [success]: Bot finished successfully, total execution time: 37s 661ms
+
+[2023-09-26T05:10:01.974Z] : [info]: ---------------------------------------------
+
+[2023-09-26T05:11:55.136Z] : [success]: Robot saved successfully
+
+[2023-09-26T05:11:58.969Z] : [success]: Bot started
+
+[2023-09-26T05:11:58.970Z] : [info]: Robot start
+
+[2023-09-26T05:12:04.029Z] : [info]: 
+
+{"Category": "Support Ticket", "Action": "Fix Outlook email issue", "Information": "Customer is unable to send emails"}
+
+[2023-09-26T05:12:40.896Z] : [success]: Bot finished successfully, total execution time: 41s 917ms
+
+[2023-09-26T05:12:40.899Z] : [info]: ---------------------------------------------
+
+[2023-09-26T05:16:25.627Z] : [success]: Robot saved successfully
+
+[2023-09-26T05:16:29.580Z] : [success]: Bot started
+
+[2023-09-26T05:16:29.580Z] : [info]: Robot start
+
+[2023-09-26T05:16:34.747Z] : [info]: 
+
+{"Category": "Support Ticket", "Action": "Fix Outlook Email Issue", "Information": "Customer is not able to send emails"}
+
+[2023-09-26T05:16:56.058Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-09-26T05:16:56.546Z] : [info]: Total execution time: 26s 477ms
+
+[2023-09-26T05:16:56.547Z] : [info]: ---------------------------------------------
+
+[2023-09-26T05:18:18.777Z] : [success]: Robot saved successfully
+
+[2023-09-26T05:18:23.301Z] : [success]: Robot saved successfully
+
+[2023-09-26T05:18:23.455Z] : [success]: Bot started
+
+[2023-09-26T05:18:23.456Z] : [info]: Robot start
+
+[2023-09-26T05:18:29.412Z] : [info]: 
+
+{"Category": "Support Ticket", "Action": "Fix Outlook email issue", "Information": "Customer is not able to send emails"}
+
+[2023-09-26T05:18:50.913Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-09-26T05:18:51.362Z] : [info]: Total execution time: 27s 457ms
+
+[2023-09-26T05:18:51.362Z] : [info]: ---------------------------------------------
+
+[2023-09-26T05:20:04.659Z] : [success]: Robot saved successfully
+
+[2023-09-26T05:20:09.194Z] : [success]: Bot started
+
+[2023-09-26T05:20:09.196Z] : [info]: Robot start
+
+[2023-09-26T05:20:15.279Z] : [info]: 
+
+{"Category": "Support Ticket", "Action": "Fix Outlook email issue", "Information": "Customer is not able to send emails"}
+
+[2023-09-26T05:20:43.610Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-09-26T05:20:44.127Z] : [info]: Total execution time: 34s 414ms
+
+[2023-09-26T05:20:44.128Z] : [info]: ---------------------------------------------
+
+[2023-09-26T05:22:25.706Z] : [success]: Robot saved successfully
+
+[2023-09-26T05:22:29.555Z] : [success]: Bot started
+
+[2023-09-26T05:22:29.556Z] : [info]: Robot start
+
+[2023-09-26T05:22:35.691Z] : [info]: 
+
+{"Category": "Support Ticket", "Action": "Fix Outlook Email Issue", "Information": "Customer is not able to send emails"}
+
+[2023-09-26T05:22:57.394Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-09-26T05:22:57.848Z] : [info]: Total execution time: 27s 837ms
+
+[2023-09-26T05:22:57.849Z] : [info]: ---------------------------------------------
+
+[2023-09-26T05:33:46.239Z] : [success]: Robot saved successfully
+
+[2023-09-26T05:33:50.054Z] : [success]: Bot started
+
+[2023-09-26T05:33:50.055Z] : [info]: Robot start
+
+[2023-09-26T05:33:55.834Z] : [info]: 
+
+{"Category": "Support Ticket", "Action": "Fix Outlook email issue", "Information": "Customer is not able to send emails"}
+
+[2023-09-26T05:34:18.758Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-09-26T05:34:19.189Z] : [info]: Total execution time: 28s 702ms
+
+[2023-09-26T05:34:19.191Z] : [info]: ---------------------------------------------
+
+[2023-09-26T05:38:04.636Z] : [success]: Rel file saved successfully
+
+[2023-09-26T05:38:04.644Z] : [success]: Robot saved successfully
+
+[2023-09-26T05:38:10.694Z] : [success]: Bot started
+
+[2023-09-26T05:38:10.694Z] : [info]: Robot start
+
+[2023-09-26T05:38:15.698Z] : [info]: 
+
+{"Category": "Support Ticket", "Action": "Fix Outlook Email Issue", "Information": "Customer is unable to send emails"}
+
+[2023-09-26T05:38:55.295Z] : [success]: Bot finished successfully, total execution time: 44s 597ms
+
+[2023-09-26T05:38:55.296Z] : [info]: ---------------------------------------------
+

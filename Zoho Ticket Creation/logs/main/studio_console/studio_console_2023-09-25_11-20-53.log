@@ -1,0 +1,127 @@
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 9/25/2023, 11:21:38 AM
+  ==========================================
+  
+
+[2023-09-25T12:03:33.496Z] : [success]: Robot saved successfully
+
+[2023-09-25T12:03:40.625Z] : [success]: Bot started
+
+[2023-09-25T12:03:40.626Z] : [info]: Robot start
+
+[2023-09-25T12:04:40.802Z] : [success]: Bot finished successfully, total execution time: 1m 176ms
+
+[2023-09-25T12:04:40.804Z] : [info]: ---------------------------------------------
+
+[2023-09-25T13:04:35.443Z] : [success]: Connection to our licenses server is restored
+
+[2023-09-25T13:11:45.449Z] : [success]: Robot saved successfully
+
+[2023-09-25T13:16:03.468Z] : [success]: Robot saved successfully
+
+[2023-09-25T13:16:03.609Z] : [success]: Bot started
+
+[2023-09-25T13:16:03.610Z] : [info]: Robot start
+
+[2023-09-25T13:16:33.291Z] : [success]: Bot finished successfully, total execution time: 29s 681ms
+
+[2023-09-25T13:16:33.293Z] : [info]: ---------------------------------------------
+
+[2023-09-25T13:17:22.947Z] : [success]: Robot saved successfully
+
+[2023-09-25T13:17:23.033Z] : [success]: Bot started
+
+[2023-09-25T13:17:23.034Z] : [info]: Robot start
+
+[2023-09-25T13:17:51.691Z] : [success]: Bot finished successfully, total execution time: 28s 657ms
+
+[2023-09-25T13:17:51.693Z] : [info]: ---------------------------------------------
+
+[2023-09-25T13:18:13.570Z] : [success]: Connection to our licenses server is restored
+
+[2023-09-25T13:27:48.749Z] : [success]: Robot saved successfully
+
+[2023-09-25T13:27:56.698Z] : [info]: Internet connection // error
+
+[2023-09-25T13:27:56.983Z] : [success]: Bot started
+
+[2023-09-25T13:27:56.984Z] : [info]: Robot start
+
+[2023-09-25T13:28:26.158Z] : [error]: Cannot read properties of undefined (reading 'params')
+
+[2023-09-25T13:28:26.798Z] : [info]: Total execution time: 29s 172ms
+
+[2023-09-25T13:28:26.800Z] : [info]: ---------------------------------------------
+
+[2023-09-25T13:29:05.993Z] : [success]: Robot saved successfully
+
+[2023-09-25T13:29:35.574Z] : [success]: Robot saved successfully
+
+[2023-09-25T13:29:43.273Z] : [success]: Bot started
+
+[2023-09-25T13:29:43.274Z] : [info]: Robot start
+
+[2023-09-25T13:30:14.848Z] : [error]: Cannot read properties of undefined (reading 'params')
+
+[2023-09-25T13:30:15.313Z] : [info]: Total execution time: 31s 573ms
+
+[2023-09-25T13:30:15.315Z] : [info]: ---------------------------------------------
+
+[2023-09-25T13:32:58.805Z] : [success]: Robot saved successfully
+
+[2023-09-25T13:33:06.835Z] : [success]: Bot started
+
+[2023-09-25T13:33:06.836Z] : [info]: Robot start
+
+[2023-09-25T13:33:36.428Z] : [success]: Bot finished successfully, total execution time: 29s 592ms
+
+[2023-09-25T13:33:36.430Z] : [info]: ---------------------------------------------
+
+[2023-09-25T13:34:04.597Z] : [success]: Robot saved successfully
+
+[2023-09-25T13:34:11.497Z] : [success]: Bot started
+
+[2023-09-25T13:34:11.498Z] : [info]: Robot start
+
+[2023-09-25T13:34:41.174Z] : [success]: Bot finished successfully, total execution time: 29s 676ms
+
+[2023-09-25T13:34:41.175Z] : [info]: ---------------------------------------------
+
+[2023-09-25T13:36:57.581Z] : [success]: Robot saved successfully
+
+[2023-09-25T13:37:04.973Z] : [success]: Bot started
+
+[2023-09-25T13:37:04.974Z] : [info]: Robot start
+
+[2023-09-25T13:37:37.712Z] : [success]: Bot finished successfully, total execution time: 32s 738ms
+
+[2023-09-25T13:37:37.713Z] : [info]: ---------------------------------------------
+
+[2023-09-25T13:40:34.148Z] : [success]: Robot saved successfully
+
+[2023-09-25T13:41:58.040Z] : [success]: Robot saved successfully
+
+[2023-09-25T13:42:05.729Z] : [success]: Bot started
+
+[2023-09-25T13:42:05.730Z] : [info]: Robot start
+
+[2023-09-25T13:42:35.341Z] : [error]: Cannot read properties of undefined (reading 'params')
+
+[2023-09-25T13:42:35.895Z] : [info]: Total execution time: 29s 610ms
+
+[2023-09-25T13:42:35.897Z] : [info]: ---------------------------------------------
+
+[2023-09-25T13:43:07.072Z] : [success]: Robot saved successfully
+
+[2023-09-25T13:43:11.972Z] : [success]: Bot started
+
+[2023-09-25T13:43:11.973Z] : [info]: Robot start
+
+[2023-09-25T13:43:40.595Z] : [error]: Cannot read properties of undefined (reading 'params')
+
+[2023-09-25T13:43:41.127Z] : [info]: Total execution time: 28s 622ms
+
+[2023-09-25T13:43:41.128Z] : [info]: ---------------------------------------------
+

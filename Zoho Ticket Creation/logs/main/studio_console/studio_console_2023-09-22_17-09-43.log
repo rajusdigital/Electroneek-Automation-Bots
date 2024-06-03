@@ -1,0 +1,41 @@
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 9/22/2023, 5:10:24 PM
+  ==========================================
+  
+
+[2023-09-22T11:40:57.068Z] : [success]: Robot saved successfully
+
+[2023-09-22T11:41:06.286Z] : [info]: ---------------------------------------------
+
+[2023-09-22T11:41:06.287Z] : [success]: Bot started
+
+[2023-09-22T11:41:06.289Z] : [info]: Robot start
+
+[2023-09-22T11:41:20.218Z] : [info]: 
+
+{"Category": "Support Ticket", "Action": "Refer to the Information Security Management System Policies for further details and requirements", "Information": "Bulletin no: W-31/2023"}
+
+[2023-09-22T11:41:27.440Z] : [error]: login event received from electroneekrpa.zendesk.com but no credentials provided
+
+[2023-09-22T11:41:31.751Z] : [info]: Total execution time: 21s 150ms
+
+[2023-09-22T11:41:31.754Z] : [info]: ---------------------------------------------
+
+[2023-09-22T11:43:28.961Z] : [success]: Robot saved successfully
+
+[2023-09-22T11:43:34.095Z] : [success]: Bot started
+
+[2023-09-22T11:43:34.096Z] : [info]: Robot start
+
+[2023-09-22T11:43:48.953Z] : [info]: 
+
+{"Category": "Support Ticket", "Action": "Fix Outlook Email", "Information": "Raju Saini is not able to send emails"}
+
+[2023-09-22T11:43:55.141Z] : [error]: login event received from electroneekrpa.zendesk.com but no credentials provided
+
+[2023-09-22T11:43:57.329Z] : [info]: Total execution time: 21s 44ms
+
+[2023-09-22T11:43:57.331Z] : [info]: ---------------------------------------------
+

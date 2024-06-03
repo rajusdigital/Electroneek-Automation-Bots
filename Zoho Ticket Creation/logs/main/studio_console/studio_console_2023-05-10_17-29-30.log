@@ -1,0 +1,43 @@
+
+  ==========================================
+  Studio Pro version: 9.3.16
+  Started at: 5/10/2023, 5:29:34 PM
+  ==========================================
+  
+
+[2023-05-10T11:59:38.282Z] : [success]: Robot saved successfully
+
+[2023-05-10T11:59:45.991Z] : [info]: ---------------------------------------------
+
+[2023-05-10T11:59:45.993Z] : [success]: Bot started
+
+[2023-05-10T11:59:45.994Z] : [info]: Robot start
+
+[2023-05-10T12:00:00.143Z] : [info]: 
+
+{"Category": "Support Ticket", "Action": "Unlock Oracle Account", "Information": ""}
+
+[2023-05-10T12:00:11.630Z] : [info]: 
+
+{"Category": "Support Ticket", "Action": "Understand the line in the document", "Information": "The line in the document"}
+
+[2023-05-10T12:00:21.337Z] : [info]: 
+
+{"Category": "Comment", "Action": "None", "Information": "Positive"}
+
+[2023-05-10T12:00:26.820Z] : [success]: Bot finished successfully, total execution time: 40s 823ms
+
+[2023-05-10T12:00:26.822Z] : [info]: ---------------------------------------------
+
+[2023-05-10T12:02:26.982Z] : [success]: The workflow has been exported successfully
+
+[2023-05-10T12:32:45.733Z] : [success]: Robot saved successfully
+
+[2023-05-10T12:32:52.071Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-05-10T12:32:52.076Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-05-10T12:32:52.078Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-05-10T12:32:52.085Z] : [error]: Cannot read properties of null (reading 'type')
+

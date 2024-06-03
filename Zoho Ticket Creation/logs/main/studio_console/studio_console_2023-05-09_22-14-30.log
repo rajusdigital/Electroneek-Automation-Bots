@@ -1,0 +1,73 @@
+
+  ==========================================
+  Studio Pro version: 9.3.16
+  Started at: 5/9/2023, 10:14:54 PM
+  ==========================================
+  
+
+[2023-05-09T16:45:13.007Z] : [success]: Robot saved successfully
+
+[2023-05-09T16:45:28.651Z] : [success]: Robot saved successfully
+
+[2023-05-09T16:46:06.986Z] : [success]: The workflow has been exported successfully
+
+[2023-05-09T16:47:10.103Z] : [info]: ---------------------------------------------
+
+[2023-05-09T16:47:10.105Z] : [success]: Bot started
+
+[2023-05-09T16:47:10.106Z] : [info]: Robot start
+
+[2023-05-09T16:47:23.915Z] : [info]: 
+
+{"Category": "Comment", "Action": "Analyze sentiment", "Information": "Positive"}
+
+[2023-05-09T16:47:29.609Z] : [success]: Bot finished successfully, total execution time: 19s 501ms
+
+[2023-05-09T16:47:29.611Z] : [info]: ---------------------------------------------
+
+[2023-05-09T16:55:24.332Z] : [success]: Robot saved successfully
+
+[2023-05-09T16:55:28.307Z] : [success]: Bot started
+
+[2023-05-09T16:55:28.309Z] : [info]: Robot start
+
+[2023-05-09T16:55:41.183Z] : [info]: 
+
+{"Category": "New Order", "Action": "Create new account", "Information": "User information"}
+
+[2023-05-09T16:55:46.521Z] : [success]: Bot finished successfully, total execution time: 18s 210ms
+
+[2023-05-09T16:55:46.523Z] : [info]: ---------------------------------------------
+
+[2023-05-09T16:57:03.247Z] : [success]: Bot started
+
+[2023-05-09T16:57:03.249Z] : [info]: Robot start
+
+[2023-05-09T16:57:14.592Z] : [info]: 
+
+{"Category": "Support Ticket", "Action": "Unlock Oracle Account", "Information": ""}
+
+[2023-05-09T16:57:24.737Z] : [info]: 
+
+{"Category": "Support Ticket", "Action": "Understand the line in the document", "Information": "The line in the document"}
+
+[2023-05-09T16:57:31.572Z] : [success]: Bot finished successfully, total execution time: 28s 321ms
+
+[2023-05-09T16:57:31.574Z] : [info]: ---------------------------------------------
+
+[2023-05-09T16:58:15.529Z] : [success]: Robot saved successfully
+
+[2023-05-09T16:58:30.738Z] : [success]: The workflow has been exported successfully
+
+[2023-05-09T18:51:53.458Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-05-09T18:51:53.464Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-05-09T18:51:53.467Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-05-09T18:51:53.470Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-05-09T18:51:53.472Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-05-09T18:51:53.476Z] : [error]: Cannot read properties of null (reading 'type')
+

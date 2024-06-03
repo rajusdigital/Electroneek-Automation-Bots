@@ -1,0 +1,39 @@
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 9/23/2023, 4:50:24 PM
+  ==========================================
+  
+
+[2023-09-23T11:20:26.003Z] : [info]: Internet connection // error
+
+[2023-09-23T11:20:41.517Z] : [info]: ---------------------------------------------
+
+[2023-09-23T11:20:41.518Z] : [success]: Bot started
+
+[2023-09-23T11:20:41.519Z] : [info]: Robot start
+
+[2023-09-23T11:20:52.874Z] : [info]: Retrying to perform the For Each Email activity, №1
+
+[2023-09-23T11:21:12.898Z] : [info]: Retrying to perform the For Each Email activity, №2
+
+[2023-09-23T11:21:42.930Z] : [info]: Retrying to perform the For Each Email activity, №3
+
+[2023-09-23T11:22:24.247Z] : [error]: Timed out while connecting to server
+
+[2023-09-23T11:22:24.863Z] : [info]: Total execution time: 1m 42s 727ms
+
+[2023-09-23T11:22:24.865Z] : [info]: ---------------------------------------------
+
+[2023-09-23T12:57:25.091Z] : [success]: Connection to our licenses server is restored
+
+[2023-09-23T13:01:12.663Z] : [info]: Internet connection // error
+
+[2023-09-23T13:01:13.008Z] : [success]: Bot started
+
+[2023-09-23T13:01:13.009Z] : [info]: Robot start
+
+[2023-09-23T13:02:59.535Z] : [error]: Script Stopped.
+
+[2023-09-23T13:02:59.694Z] : [info]: ---------------------------------------------
+

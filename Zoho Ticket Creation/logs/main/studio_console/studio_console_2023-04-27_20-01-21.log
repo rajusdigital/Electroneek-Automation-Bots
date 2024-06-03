@@ -1,0 +1,131 @@
+
+  ==========================================
+  Studio Pro version: 9.3.15
+  Started at: 4/27/2023, 8:05:58 PM
+  ==========================================
+  
+
+[2023-04-27T17:28:37.733Z] : [success]: Robot saved successfully
+
+[2023-04-27T17:28:37.857Z] : [info]: ---------------------------------------------
+
+[2023-04-27T17:28:37.857Z] : [success]: Bot started
+
+[2023-04-27T17:28:37.858Z] : [info]: Robot start
+
+[2023-04-27T17:28:41.243Z] : [error]: login event received from electroneekrpa.zendesk.com but no credentials provided
+
+[2023-04-27T17:28:41.630Z] : [info]: Total execution time: 3s 385ms
+
+[2023-04-27T17:28:41.631Z] : [info]: ---------------------------------------------
+
+[2023-04-27T17:29:08.751Z] : [success]: Robot saved successfully
+
+[2023-04-27T17:29:12.189Z] : [success]: Bot started
+
+[2023-04-27T17:29:12.190Z] : [info]: Robot start
+
+[2023-04-27T17:29:14.286Z] : [error]: login event received from electroneekrpa.zendesk.com but no credentials provided
+
+[2023-04-27T17:29:14.734Z] : [info]: Total execution time: 2s 95ms
+
+[2023-04-27T17:29:14.735Z] : [info]: ---------------------------------------------
+
+[2023-04-27T17:30:46.024Z] : [success]: Robot saved successfully
+
+[2023-04-27T17:30:46.105Z] : [success]: Bot started
+
+[2023-04-27T17:30:46.107Z] : [info]: Robot start
+
+[2023-04-27T17:30:49.203Z] : [error]: login event received from electroneekrpa.zendesk.com but no credentials provided
+
+[2023-04-27T17:30:49.568Z] : [info]: Total execution time: 3s 96ms
+
+[2023-04-27T17:30:49.569Z] : [info]: ---------------------------------------------
+
+[2023-04-27T17:31:50.919Z] : [success]: Robot saved successfully
+
+[2023-04-27T17:31:50.983Z] : [success]: Bot started
+
+[2023-04-27T17:31:50.983Z] : [info]: Robot start
+
+[2023-04-27T17:31:54.100Z] : [error]: login event received from electroneekrpa.zendesk.com but no credentials provided
+
+[2023-04-27T17:31:54.536Z] : [info]: Total execution time: 3s 116ms
+
+[2023-04-27T17:31:54.536Z] : [info]: ---------------------------------------------
+
+[2023-04-27T17:33:01.617Z] : [success]: Bot started
+
+[2023-04-27T17:33:01.619Z] : [info]: Robot start
+
+[2023-04-27T17:33:04.718Z] : [error]: login event received from electroneekrpa.zendesk.com but no credentials provided
+
+[2023-04-27T17:33:05.098Z] : [info]: Total execution time: 3s 98ms
+
+[2023-04-27T17:33:05.099Z] : [info]: ---------------------------------------------
+
+[2023-04-27T17:33:34.097Z] : [success]: Bot started
+
+[2023-04-27T17:33:34.097Z] : [info]: Robot start
+
+[2023-04-27T17:33:36.189Z] : [error]: login event received from electroneekrpa.zendesk.com but no credentials provided
+
+[2023-04-27T17:33:36.615Z] : [info]: Total execution time: 2s 92ms
+
+[2023-04-27T17:33:36.615Z] : [info]: ---------------------------------------------
+
+[2023-04-27T17:34:11.728Z] : [success]: Robot saved successfully
+
+[2023-04-27T17:34:11.792Z] : [success]: Bot started
+
+[2023-04-27T17:34:11.793Z] : [info]: Robot start
+
+[2023-04-27T17:34:14.887Z] : [success]: Bot finished successfully, total execution time: 3s 94ms
+
+[2023-04-27T17:34:14.888Z] : [info]: ---------------------------------------------
+
+[2023-04-27T17:35:32.082Z] : [success]: Robot saved successfully
+
+[2023-04-27T17:35:32.166Z] : [success]: Bot started
+
+[2023-04-27T17:35:32.167Z] : [info]: Robot start
+
+[2023-04-27T17:35:35.232Z] : [error]: login event received from electroneekrpa.zendesk.com but no credentials provided
+
+[2023-04-27T17:35:35.588Z] : [info]: Total execution time: 3s 64ms
+
+[2023-04-27T17:35:35.589Z] : [info]: ---------------------------------------------
+
+[2023-04-27T17:41:21.390Z] : [success]: Robot saved successfully
+
+[2023-04-27T17:41:21.497Z] : [success]: Bot started
+
+[2023-04-27T17:41:21.498Z] : [info]: Robot start
+
+[2023-04-27T17:41:24.590Z] : [error]: login event received from electroneekrpa.zendesk.com but no credentials provided
+
+[2023-04-27T17:41:24.974Z] : [info]: Total execution time: 3s 91ms
+
+[2023-04-27T17:41:24.975Z] : [info]: ---------------------------------------------
+
+[2023-04-27T17:42:20.039Z] : [success]: Robot saved successfully
+
+[2023-04-27T17:42:20.147Z] : [success]: Bot started
+
+[2023-04-27T17:42:20.148Z] : [info]: Robot start
+
+[2023-04-27T17:42:22.239Z] : [error]: login event received from electroneekrpa.zendesk.com but no credentials provided
+
+[2023-04-27T17:42:22.687Z] : [info]: Total execution time: 2s 89ms
+
+[2023-04-27T17:42:22.687Z] : [info]: ---------------------------------------------
+
+[2023-04-27T18:10:11.772Z] : [success]: Robot saved successfully
+
+[2023-04-27T18:10:12.829Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-04-27T18:10:12.831Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-04-27T18:10:12.831Z] : [error]: Cannot read properties of null (reading 'type')
+

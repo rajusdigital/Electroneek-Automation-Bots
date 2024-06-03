@@ -1,0 +1,16 @@
+[2023-05-09T13:49:41.809Z] : [success]: Robot saved successfully
+
+[2023-05-09T13:50:54.317Z] : [success]: Robot saved successfully
+
+[2023-05-09T13:50:54.468Z] : [info]: ---------------------------------------------
+
+[2023-05-09T13:50:54.469Z] : [success]: Bot started
+
+[2023-05-09T13:50:54.470Z] : [info]: Robot start
+
+[2023-05-09T13:51:04.258Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-05-09T13:51:04.806Z] : [success]: Bot finished successfully, total execution time: 10s 333ms
+
+[2023-05-09T13:51:04.807Z] : [info]: ---------------------------------------------
+

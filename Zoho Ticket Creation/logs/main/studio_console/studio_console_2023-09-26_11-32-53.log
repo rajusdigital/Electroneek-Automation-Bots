@@ -1,0 +1,29 @@
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 9/26/2023, 11:32:57 AM
+  ==========================================
+  
+
+[2023-09-26T06:03:04.268Z] : [info]: ---------------------------------------------
+
+[2023-09-26T06:03:04.269Z] : [success]: Bot started
+
+[2023-09-26T06:03:04.270Z] : [info]: Robot start
+
+[2023-09-26T06:03:11.792Z] : [info]: 
+
+{"Category": "Support Ticket", "Action": "Fix Outlook email issue", "Information": "Customer is not able to send emails"}
+
+[2023-09-26T06:03:33.309Z] : [error]: Script Stopped.
+
+[2023-09-26T06:03:33.758Z] : [info]: Total execution time: 29s 39ms
+
+[2023-09-26T06:03:33.759Z] : [info]: ---------------------------------------------
+
+[2023-09-26T06:03:57.517Z] : [info]: Internet connection // error
+
+[2023-09-26T06:04:06.329Z] : [success]: Connection to our licenses server is restored
+
+[2023-09-26T06:05:45.115Z] : [error]: Cannot read properties of null (reading 'type')
+

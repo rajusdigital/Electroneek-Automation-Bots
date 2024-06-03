@@ -1,0 +1,61 @@
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 2/5/2024, 5:06:14 PM
+  ==========================================
+  
+
+[2024-02-05T11:36:49.963Z] : [success]: Robot saved successfully
+
+[2024-02-05T11:36:57.194Z] : [info]: ---------------------------------------------
+
+[2024-02-05T11:36:57.196Z] : [success]: Bot started
+
+[2024-02-05T11:36:57.197Z] : [info]: Robot start
+
+[2024-02-05T11:37:09.065Z] : [info]: Retrying to perform the For Each Email activity, №1
+
+[2024-02-05T11:37:29.089Z] : [info]: Retrying to perform the For Each Email activity, №2
+
+[2024-02-05T11:37:59.111Z] : [info]: Retrying to perform the For Each Email activity, №3
+
+[2024-02-05T11:38:40.833Z] : [error]: Connection lost due to Error: Timed out while connecting to server
+
+[2024-02-05T11:38:41.878Z] : [info]: Total execution time: 1m 43s 635ms
+
+[2024-02-05T11:38:41.880Z] : [info]: ---------------------------------------------
+
+[2024-02-05T11:39:54.634Z] : [success]: Robot saved successfully
+
+[2024-02-05T11:40:05.802Z] : [success]: Bot started
+
+[2024-02-05T11:40:05.803Z] : [info]: Robot start
+
+[2024-02-05T11:40:17.501Z] : [info]: Retrying to perform the For Each Email activity, №1
+
+[2024-02-05T11:40:37.511Z] : [info]: Retrying to perform the For Each Email activity, №2
+
+[2024-02-05T11:41:00.083Z] : [error]: Script Stopped.
+
+[2024-02-05T11:41:00.319Z] : [info]: ---------------------------------------------
+
+[2024-02-05T11:57:09.393Z] : [success]: Robot saved successfully
+
+[2024-02-05T11:57:17.345Z] : [success]: Bot started
+
+[2024-02-05T11:57:17.346Z] : [info]: Robot start
+
+[2024-02-05T11:57:29.215Z] : [info]: Retrying to perform the For Each Email activity, №1
+
+[2024-02-05T11:57:49.230Z] : [info]: Retrying to perform the For Each Email activity, №2
+
+[2024-02-05T11:58:19.241Z] : [info]: Retrying to perform the For Each Email activity, №3
+
+[2024-02-05T11:58:33.603Z] : [error]: Script Stopped.
+
+[2024-02-05T11:58:33.997Z] : [info]: ---------------------------------------------
+
+[2024-02-05T11:59:31.537Z] : [success]: Robot saved successfully
+
+[2024-02-05T11:59:33.762Z] : [success]: Robot saved successfully
+

@@ -1,0 +1,183 @@
+
+  ==========================================
+  Studio Pro version: 9.3.15
+  Started at: 4/28/2023, 5:05:18 PM
+  ==========================================
+  
+
+[2023-04-28T14:12:47.718Z] : [success]: Robot saved successfully
+
+[2023-04-28T14:12:47.796Z] : [info]: ---------------------------------------------
+
+[2023-04-28T14:12:47.797Z] : [success]: Bot started
+
+[2023-04-28T14:12:47.797Z] : [info]: Robot start
+
+[2023-04-28T14:12:49.922Z] : [success]: Bot finished successfully, total execution time: 2s 124ms
+
+[2023-04-28T14:12:49.923Z] : [info]: ---------------------------------------------
+
+[2023-04-28T14:12:58.357Z] : [success]: Robot saved successfully
+
+[2023-04-28T14:12:58.416Z] : [success]: Bot started
+
+[2023-04-28T14:12:58.417Z] : [info]: Robot start
+
+[2023-04-28T14:13:06.277Z] : [info]: 
+
+{"Category": "New Order", "Action": "Place Order", "Information":"Experience the unique taste"}
+
+[2023-04-28T14:13:09.029Z] : [info]: 
+
+{"Category":"New Order", "Action":"Provide quote", "Information":"Windows Server 2022 Standard 8 Core License Pack 1 Year (Software)" }
+
+[2023-04-28T14:13:10.505Z] : [info]: 
+
+{"Category":"Comment", "Action":"None Required", "Information":"Positive"}
+
+[2023-04-28T14:13:12.190Z] : [info]:  {"Category": "Support Ticket", "Action": "Unlock user", "Information": "usr_oracle_1"}
+
+[2023-04-28T14:13:12.639Z] : [success]: Bot finished successfully, total execution time: 14s 219ms
+
+[2023-04-28T14:13:12.640Z] : [info]: ---------------------------------------------
+
+[2023-04-28T14:26:35.802Z] : [success]: Robot saved successfully
+
+[2023-04-28T14:26:35.878Z] : [success]: Bot started
+
+[2023-04-28T14:26:35.878Z] : [info]: Robot start
+
+[2023-04-28T14:26:42.739Z] : [info]: 
+
+{"Category": "New Order", "Action": "Provide a quote", "Information": "Windows Server 2022 Standard - 8 Core License Pack - 1 Year (Software)"}
+
+[2023-04-28T14:26:43.048Z] : [success]: Bot finished successfully, total execution time: 7s 169ms
+
+[2023-04-28T14:26:43.049Z] : [info]: ---------------------------------------------
+
+[2023-04-28T14:57:59.593Z] : [success]: Robot saved successfully
+
+[2023-04-28T14:57:59.663Z] : [success]: Bot started
+
+[2023-04-28T14:57:59.663Z] : [info]: Robot start
+
+[2023-04-28T14:58:06.643Z] : [info]: 
+
+{"Category": "New Order", "Action": "Quote", "Information": "Windows Server 2022 Standard - 8 Core License Pack - 1 Year (Software)"}
+
+[2023-04-28T14:58:07.876Z] : [info]: 
+
+{"Category": "Comment", "Action": "none", "Information": "positive"}
+
+[2023-04-28T14:58:10.217Z] : [info]: 
+
+{"Category": "Support Ticket", "Action": "Unlock user usr_oracle_1", "Information": ""}
+
+[2023-04-28T14:58:17.972Z] : [success]: Bot finished successfully, total execution time: 18s 308ms
+
+[2023-04-28T14:58:17.973Z] : [info]: ---------------------------------------------
+
+[2023-04-28T15:13:48.804Z] : [success]: Robot saved successfully
+
+[2023-04-28T15:13:48.934Z] : [success]: Bot started
+
+[2023-04-28T15:13:48.934Z] : [info]: Robot start
+
+[2023-04-28T15:13:53.051Z] : [success]: Bot finished successfully, total execution time: 4s 115ms
+
+[2023-04-28T15:13:53.053Z] : [info]: ---------------------------------------------
+
+[2023-04-28T15:16:47.963Z] : [success]: Robot saved successfully
+
+[2023-04-28T15:16:48.099Z] : [success]: Bot started
+
+[2023-04-28T15:16:48.100Z] : [info]: Robot start
+
+[2023-04-28T15:16:55.049Z] : [info]: 
+
+{"Category": "New Order", "Action": "Generate a quote", "Information": "Windows Server 2022 Standard - 8 Core License Pack - 1 Year (Software)"}
+
+[2023-04-28T15:16:57.089Z] : [info]: 
+
+{"Category": "Comment", "Action": "none", "Information": "positive"}
+
+[2023-04-28T15:16:59.063Z] : [info]: 
+
+{"Category": "Support Ticket", "Action": "Unlock user 'usr_oracle_1'", "Information": ""}
+
+[2023-04-28T15:17:07.354Z] : [success]: Bot finished successfully, total execution time: 19s 253ms
+
+[2023-04-28T15:17:07.354Z] : [info]: ---------------------------------------------
+
+[2023-04-28T15:18:58.751Z] : [success]: Robot saved successfully
+
+[2023-04-28T15:19:18.402Z] : [success]: Bot started
+
+[2023-04-28T15:19:18.403Z] : [info]: Robot start
+
+[2023-04-28T15:19:25.340Z] : [info]: 
+
+{"Category": "New Order", "Action": "Provide a Quote for Windows Server 2022 Standard 8 Core License Pack - 1 Year (Software)", "Information": "Server Details"}
+
+[2023-04-28T15:19:26.958Z] : [info]: 
+
+{"Category": "Comment", "Action": "No Action Necessary", "Information": "Positive Comment"}
+
+[2023-04-28T15:19:28.713Z] : [info]: 
+
+{"Category": "Support Ticket", "Action": "Unlock user", "Information": "usr_oracle_1"}
+
+[2023-04-28T15:19:36.617Z] : [success]: Bot finished successfully, total execution time: 18s 213ms
+
+[2023-04-28T15:19:36.619Z] : [info]: ---------------------------------------------
+
+[2023-04-28T15:26:08.512Z] : [success]: Robot saved successfully
+
+[2023-04-28T15:26:08.615Z] : [success]: Bot started
+
+[2023-04-28T15:26:08.616Z] : [info]: Robot start
+
+[2023-04-28T15:26:13.731Z] : [success]: Bot finished successfully, total execution time: 5s 114ms
+
+[2023-04-28T15:26:13.732Z] : [info]: ---------------------------------------------
+
+[2023-04-28T15:48:07.382Z] : [success]: Robot saved successfully
+
+[2023-04-28T15:48:07.497Z] : [success]: Bot started
+
+[2023-04-28T15:48:07.499Z] : [info]: Robot start
+
+[2023-04-28T15:48:15.178Z] : [info]: 
+
+{"Category": "New Order", "Action": "Provide a quote for Windows Server 2022 Standard - 8 Core License Pack - 1 Year (Software)", "Information": ""}
+
+[2023-04-28T15:48:16.515Z] : [info]: 
+
+{"Category": "Comment", "Action": "None", "Information": "Positive"}
+
+[2023-04-28T15:48:18.586Z] : [info]: 
+
+{"Category": "Support Ticket", "Action": "Unlock user usr_oracle_1", "Information": ""}
+
+[2023-04-28T15:48:26.857Z] : [success]: Bot finished successfully, total execution time: 19s 357ms
+
+[2023-04-28T15:48:26.858Z] : [info]: ---------------------------------------------
+
+[2023-04-28T16:07:32.654Z] : [success]: Robot saved successfully
+
+[2023-04-28T16:07:32.753Z] : [success]: Bot started
+
+[2023-04-28T16:07:32.753Z] : [info]: Robot start
+
+[2023-04-28T16:07:39.898Z] : [info]: 
+
+{"Category": "New Order", "Action": "Provide a quote for a Windows Server 2022 Standard - 8 Core License Pack - 1 Year (Software)", "Information": ""}
+
+[2023-04-28T16:07:45.044Z] : [success]: Bot finished successfully, total execution time: 12s 290ms
+
+[2023-04-28T16:07:45.045Z] : [info]: ---------------------------------------------
+
+[2023-04-28T16:07:48.234Z] : [success]: Robot saved successfully
+
+[2023-04-28T16:07:53.069Z] : [error]: Cannot read properties of null (reading 'type')
+

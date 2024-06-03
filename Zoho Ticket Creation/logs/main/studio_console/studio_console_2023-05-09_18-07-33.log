@@ -1,0 +1,253 @@
+
+  ==========================================
+  Studio Pro version: 9.3.16
+  Started at: 5/9/2023, 6:11:42 PM
+  ==========================================
+  
+
+[2023-05-09T12:52:05.578Z] : [success]: Robot saved successfully
+
+[2023-05-09T12:52:05.803Z] : [info]: ---------------------------------------------
+
+[2023-05-09T12:52:05.805Z] : [success]: Bot started
+
+[2023-05-09T12:52:05.807Z] : [info]: Robot start
+
+[2023-05-09T12:52:40.450Z] : [error]: Script Stopped.
+
+[2023-05-09T12:52:40.835Z] : [info]: Total execution time: 34s 642ms
+
+[2023-05-09T12:52:40.837Z] : [info]: ---------------------------------------------
+
+[2023-05-09T12:53:10.789Z] : [info]: ---------------------------------------------
+
+[2023-05-09T12:53:10.792Z] : [success]: Bot started
+
+[2023-05-09T12:53:10.797Z] : [info]: Robot start
+
+[2023-05-09T12:53:46.179Z] : [error]: Bad parameters
+
+[2023-05-09T12:53:46.700Z] : [info]: Total execution time: 35s 382ms
+
+[2023-05-09T12:53:46.702Z] : [info]: ---------------------------------------------
+
+[2023-05-09T12:54:53.013Z] : [success]: Robot saved successfully
+
+[2023-05-09T12:54:53.207Z] : [info]: ---------------------------------------------
+
+[2023-05-09T12:54:53.209Z] : [success]: Bot started
+
+[2023-05-09T12:54:53.210Z] : [info]: Robot start
+
+[2023-05-09T12:55:27.623Z] : [error]: Bad parameters
+
+[2023-05-09T12:55:28.148Z] : [info]: Total execution time: 34s 412ms
+
+[2023-05-09T12:55:28.150Z] : [info]: ---------------------------------------------
+
+[2023-05-09T13:25:57.651Z] : [success]: Robot saved successfully
+
+[2023-05-09T13:26:01.338Z] : [info]: ---------------------------------------------
+
+[2023-05-09T13:26:01.339Z] : [success]: Bot started
+
+[2023-05-09T13:26:01.340Z] : [info]: Robot start
+
+[2023-05-09T13:26:06.447Z] : [error]: Invalid credentials (Failure)
+
+[2023-05-09T13:26:06.771Z] : [info]: Total execution time: 5s 106ms
+
+[2023-05-09T13:26:06.772Z] : [info]: ---------------------------------------------
+
+[2023-05-09T13:26:30.404Z] : [success]: Robot saved successfully
+
+[2023-05-09T13:26:30.473Z] : [info]: ---------------------------------------------
+
+[2023-05-09T13:26:30.474Z] : [success]: Bot started
+
+[2023-05-09T13:26:30.474Z] : [info]: Robot start
+
+[2023-05-09T13:26:34.560Z] : [error]: Invalid credentials (Failure)
+
+[2023-05-09T13:26:34.848Z] : [info]: Total execution time: 4s 86ms
+
+[2023-05-09T13:26:34.849Z] : [info]: ---------------------------------------------
+
+[2023-05-09T13:28:26.559Z] : [info]: ---------------------------------------------
+
+[2023-05-09T13:28:26.561Z] : [success]: Bot started
+
+[2023-05-09T13:28:26.562Z] : [info]: Robot start
+
+[2023-05-09T13:28:31.707Z] : [error]: Invalid credentials (Failure)
+
+[2023-05-09T13:28:31.978Z] : [info]: Total execution time: 5s 145ms
+
+[2023-05-09T13:28:31.979Z] : [info]: ---------------------------------------------
+
+[2023-05-09T13:30:03.029Z] : [success]: Robot saved successfully
+
+[2023-05-09T13:30:08.247Z] : [info]: ---------------------------------------------
+
+[2023-05-09T13:30:08.248Z] : [success]: Bot started
+
+[2023-05-09T13:30:08.248Z] : [info]: Robot start
+
+[2023-05-09T13:30:15.364Z] : [error]: Invalid credentials (Failure)
+
+[2023-05-09T13:30:15.686Z] : [info]: Total execution time: 7s 115ms
+
+[2023-05-09T13:30:15.687Z] : [info]: ---------------------------------------------
+
+[2023-05-09T13:31:25.112Z] : [success]: Robot saved successfully
+
+[2023-05-09T13:32:40.781Z] : [info]: ---------------------------------------------
+
+[2023-05-09T13:32:40.782Z] : [success]: Bot started
+
+[2023-05-09T13:32:40.783Z] : [info]: Robot start
+
+[2023-05-09T13:33:02.089Z] : [info]: 
+
+{"Category": "Comment", "Action": "Analyze sentiment", "Information": "Positive"}
+
+[2023-05-09T13:33:08.023Z] : [success]: Bot finished successfully, total execution time: 27s 239ms
+
+[2023-05-09T13:33:08.024Z] : [info]: ---------------------------------------------
+
+[2023-05-09T13:34:00.167Z] : [success]: Robot saved successfully
+
+[2023-05-09T13:34:06.244Z] : [info]: ---------------------------------------------
+
+[2023-05-09T13:34:06.245Z] : [success]: Bot started
+
+[2023-05-09T13:34:06.245Z] : [info]: Robot start
+
+[2023-05-09T13:34:13.358Z] : [error]: Invalid credentials (Failure)
+
+[2023-05-09T13:34:13.618Z] : [info]: Total execution time: 7s 112ms
+
+[2023-05-09T13:34:13.619Z] : [info]: ---------------------------------------------
+
+[2023-05-09T13:35:08.363Z] : [success]: Robot saved successfully
+
+[2023-05-09T13:35:13.633Z] : [info]: ---------------------------------------------
+
+[2023-05-09T13:35:13.634Z] : [success]: Bot started
+
+[2023-05-09T13:35:13.635Z] : [info]: Robot start
+
+[2023-05-09T13:35:19.753Z] : [error]: Invalid credentials (Failure)
+
+[2023-05-09T13:35:20.037Z] : [info]: Total execution time: 6s 118ms
+
+[2023-05-09T13:35:20.038Z] : [info]: ---------------------------------------------
+
+[2023-05-09T13:47:56.038Z] : [success]: Robot saved successfully
+
+[2023-05-09T13:48:01.194Z] : [info]: ---------------------------------------------
+
+[2023-05-09T13:48:01.195Z] : [success]: Bot started
+
+[2023-05-09T13:48:01.195Z] : [info]: Robot start
+
+[2023-05-09T13:48:22.425Z] : [error]: Bad parameters
+
+[2023-05-09T13:48:22.943Z] : [info]: Total execution time: 21s 229ms
+
+[2023-05-09T13:48:22.945Z] : [info]: ---------------------------------------------
+
+[2023-05-09T13:52:41.360Z] : [success]: Robot saved successfully
+
+[2023-05-09T13:52:45.940Z] : [info]: ---------------------------------------------
+
+[2023-05-09T13:52:45.942Z] : [success]: Bot started
+
+[2023-05-09T13:52:45.943Z] : [info]: Robot start
+
+[2023-05-09T13:53:10.694Z] : [info]: 
+
+{"Category": "New Order", "Action": "Provide a quote for Windows Server 2022 Standard 8 Core license pack - 1 year(Software)", "Information": "Kudlappa Gouder, Sales Engineer at ElectroNeek, Phone: +91 (63) 62366640, E-mail: k.gouder@electroneek.com"}
+
+[2023-05-09T13:53:15.785Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-05-09T13:53:16.345Z] : [success]: Bot finished successfully, total execution time: 30s 401ms
+
+[2023-05-09T13:53:16.347Z] : [info]: ---------------------------------------------
+
+[2023-05-09T14:28:41.136Z] : [success]: Robot saved successfully
+
+[2023-05-09T14:28:48.211Z] : [info]: ---------------------------------------------
+
+[2023-05-09T14:28:48.212Z] : [success]: Bot started
+
+[2023-05-09T14:28:48.213Z] : [info]: Robot start
+
+[2023-05-09T14:29:07.882Z] : [info]: 
+
+{"Category": "New Order", "Action": "Provide a quote for Windows Server 2022 Standard 8 Core license pack for 1 year", "Information": "Kudlappa Gouder, Sales Engineer at ElectroNeek, Phone: +91 (63) 62366640, E-mail: k.gouder@electroneek.com"}
+
+[2023-05-09T14:29:12.963Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-05-09T14:29:13.581Z] : [success]: Bot finished successfully, total execution time: 25s 366ms
+
+[2023-05-09T14:29:13.583Z] : [info]: ---------------------------------------------
+
+[2023-05-09T14:30:17.142Z] : [success]: Robot saved successfully
+
+[2023-05-09T14:30:17.296Z] : [success]: Bot started
+
+[2023-05-09T14:30:17.297Z] : [info]: Robot start
+
+[2023-05-09T14:30:34.108Z] : [info]: 
+
+{"Category": "New Order", "Action": "Provide a quote for Windows Server 2022 Standard 8 Core license pack for 1 year", "Information": "Kudlappa Gouder, Sales Engineer at ElectroNeek, Phone: +91 (63) 62366640, E-mail: k.gouder@electroneek.com"}
+
+[2023-05-09T14:30:39.176Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-05-09T14:30:39.629Z] : [success]: Bot finished successfully, total execution time: 22s 330ms
+
+[2023-05-09T14:30:39.630Z] : [info]: ---------------------------------------------
+
+[2023-05-09T14:53:50.341Z] : [success]: Bot started
+
+[2023-05-09T14:53:50.343Z] : [info]: Robot start
+
+[2023-05-09T14:54:01.636Z] : [info]: 
+
+{"Category": "New Order", "Action": "Provide a quote for Windows Server 2022 Standard 8 Core license pack for 1 year", "Information": "Kudlappa Gouder, Sales Engineer at ElectroNeek, Phone: +91 (63) 62366640, E-mail: k.gouder@electroneek.com"}
+
+[2023-05-09T14:54:10.678Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-05-09T14:54:10.750Z] : [success]: Bot finished successfully, total execution time: 20s 405ms
+
+[2023-05-09T14:54:10.752Z] : [info]: ---------------------------------------------
+
+[2023-05-09T16:08:36.619Z] : [info]: ---------------------------------------------
+
+[2023-05-09T16:08:36.622Z] : [success]: Bot started
+
+[2023-05-09T16:08:36.623Z] : [info]: Robot start
+
+[2023-05-09T16:09:24.437Z] : [info]: 
+
+{"Category": "New Order", "Action": "Provide a quote for Windows Server 2022 Standard 8 Core license pack for 1 year", "Information": "Kudlappa Gouder, Sales Engineer at ElectroNeek, Phone: +91 (63) 62366640, E-mail: k.gouder@electroneek.com"}
+
+[2023-05-09T16:09:40.582Z] : [info]: 
+
+{"Category": "New Order", "Action": "Provide a quote for Windows Server 2022 Standard 8 Core license pack for 1 year", "Information": "Kudlappa Gouder, Sales Engineer at ElectroNeek, Phone: +91 (63) 62366640, E-mail: k.gouder@electroneek.com"}
+
+[2023-05-09T16:09:52.649Z] : [info]: 
+
+{"Category": "New Order", "Action": "Provide a quote for Windows Server 2022 Standard 8 Core license pack for 1 year", "Information": "Kudlappa Gouder, Sales Engineer at ElectroNeek, Phone: +91 (63) 62366640, E-mail: k.gouder@electroneek.com"}
+
+[2023-05-09T16:09:55.339Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-05-09T16:09:55.496Z] : [success]: Bot finished successfully, total execution time: 1m 18s 872ms
+
+[2023-05-09T16:09:55.498Z] : [info]: ---------------------------------------------
+
+[2023-05-09T16:18:10.576Z] : [success]: The workflow has been exported successfully
+
+[2023-05-09T16:29:51.092Z] : [success]: The workflow has been exported successfully
+

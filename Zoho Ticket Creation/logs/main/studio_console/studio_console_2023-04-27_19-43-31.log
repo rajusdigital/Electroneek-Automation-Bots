@@ -1,0 +1,29 @@
+
+  ==========================================
+  Studio Pro version: 9.3.14
+  Started at: 4/27/2023, 7:43:35 PM
+  ==========================================
+  
+
+[2023-04-27T16:44:09.558Z] : [success]: Robot saved successfully
+
+[2023-04-27T16:44:09.607Z] : [error]: Activity parameters required: For Each Email
+
+[2023-04-27T16:44:09.921Z] : [info]: ---------------------------------------------
+
+[2023-04-27T16:44:31.788Z] : [success]: Robot saved successfully
+
+[2023-04-27T16:44:31.847Z] : [info]: ---------------------------------------------
+
+[2023-04-27T16:44:31.847Z] : [success]: Bot started
+
+[2023-04-27T16:44:31.848Z] : [info]: Robot start
+
+[2023-04-27T16:44:35.923Z] : [error]: Invalid credentials (Failure)
+
+[2023-04-27T16:44:36.180Z] : [info]: Total execution time: 4s 74ms
+
+[2023-04-27T16:44:36.181Z] : [info]: ---------------------------------------------
+
+[2023-04-27T16:59:56.174Z] : [success]: Robot saved successfully
+

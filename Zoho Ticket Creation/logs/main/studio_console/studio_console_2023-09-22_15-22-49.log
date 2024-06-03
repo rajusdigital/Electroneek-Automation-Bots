@@ -1,0 +1,79 @@
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 9/22/2023, 3:22:59 PM
+  ==========================================
+  
+
+[2023-09-22T09:53:51.586Z] : [success]: Robot saved successfully
+
+[2023-09-22T09:54:22.444Z] : [success]: Robot saved successfully
+
+[2023-09-22T09:54:39.662Z] : [info]: ---------------------------------------------
+
+[2023-09-22T09:54:39.663Z] : [success]: Bot started
+
+[2023-09-22T09:54:39.664Z] : [info]: Robot start
+
+[2023-09-22T09:54:43.217Z] : [error]: Invalid credentials (Failure)
+
+[2023-09-22T09:54:43.930Z] : [info]: Total execution time: 3s 552ms
+
+[2023-09-22T09:54:43.931Z] : [info]: ---------------------------------------------
+
+[2023-09-22T09:55:42.199Z] : [success]: Robot saved successfully
+
+[2023-09-22T09:55:46.194Z] : [success]: Bot started
+
+[2023-09-22T09:55:46.198Z] : [info]: Robot start
+
+[2023-09-22T09:55:50.580Z] : [error]: getaddrinfo ENOTFOUND outlook
+
+[2023-09-22T09:55:51.181Z] : [info]: Total execution time: 4s 381ms
+
+[2023-09-22T09:55:51.182Z] : [info]: ---------------------------------------------
+
+[2023-09-22T10:03:31.083Z] : [success]: Robot saved successfully
+
+[2023-09-22T10:12:58.129Z] : [success]: Robot saved successfully
+
+[2023-09-22T10:13:00.657Z] : [success]: Bot started
+
+[2023-09-22T10:13:00.657Z] : [info]: Robot start
+
+[2023-09-22T10:13:06.066Z] : [error]: getaddrinfo ENOTFOUND outlook
+
+[2023-09-22T10:13:06.779Z] : [info]: Total execution time: 5s 408ms
+
+[2023-09-22T10:13:06.780Z] : [info]: ---------------------------------------------
+
+[2023-09-22T10:13:17.628Z] : [success]: Robot saved successfully
+
+[2023-09-22T10:13:17.855Z] : [success]: Robot saved successfully
+
+[2023-09-22T10:13:23.251Z] : [success]: Bot started
+
+[2023-09-22T10:13:23.254Z] : [info]: Robot start
+
+[2023-09-22T10:13:28.781Z] : [error]: getaddrinfo ENOTFOUND outlook
+
+[2023-09-22T10:13:29.758Z] : [info]: Total execution time: 5s 527ms
+
+[2023-09-22T10:13:29.760Z] : [info]: ---------------------------------------------
+
+[2023-09-22T10:13:54.582Z] : [success]: Robot saved successfully
+
+[2023-09-22T10:13:58.602Z] : [success]: Bot started
+
+[2023-09-22T10:13:58.604Z] : [info]: Robot start
+
+[2023-09-22T10:14:01.944Z] : [error]: Invalid credentials (Failure)
+
+[2023-09-22T10:14:02.860Z] : [info]: Total execution time: 3s 340ms
+
+[2023-09-22T10:14:02.861Z] : [info]: ---------------------------------------------
+
+[2023-09-22T10:14:07.656Z] : [success]: Robot saved successfully
+
+[2023-09-22T10:14:07.834Z] : [success]: Robot saved successfully
+

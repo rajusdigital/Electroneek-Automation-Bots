@@ -1,0 +1,73 @@
+[2023-09-23T10:20:29.893Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 9/23/2023, 3:50:29 PM
+  ==========================================
+  
+
+[2023-09-23T10:20:37.088Z] : [info]: ---------------------------------------------
+
+[2023-09-23T10:20:37.089Z] : [success]: Bot started
+
+[2023-09-23T10:20:37.090Z] : [info]: Robot start
+
+[2023-09-23T10:21:35.681Z] : [info]: 
+
+{"Category": "Support Ticket", "Action": "Fix Outlook Email Issue", "Information": "None"}
+
+[2023-09-23T10:21:42.912Z] : [error]: Can't launch browser
+
+[2023-09-23T10:21:43.400Z] : [info]: Total execution time: 1m 5s 821ms
+
+[2023-09-23T10:21:43.408Z] : [info]: ---------------------------------------------
+
+[2023-09-23T10:27:18.164Z] : [success]: Robot saved successfully
+
+[2023-09-23T10:27:25.557Z] : [success]: Bot started
+
+[2023-09-23T10:27:25.558Z] : [info]: Robot start
+
+[2023-09-23T10:28:16.632Z] : [info]: 
+
+{"Category": "Support Ticket", "Action": "Fix Outlook Email Issue", "Information": "Raju Saini, Practice Head - Automation (RPA/IPA)"}
+
+[2023-09-23T10:28:22.677Z] : [error]: http_response is not defined
+
+[2023-09-23T10:28:23.557Z] : [info]: Total execution time: 57s 117ms
+
+[2023-09-23T10:28:23.559Z] : [info]: ---------------------------------------------
+
+[2023-09-23T10:29:31.461Z] : [success]: Robot saved successfully
+
+[2023-09-23T10:29:38.484Z] : [success]: Bot started
+
+[2023-09-23T10:29:38.485Z] : [info]: Robot start
+
+[2023-09-23T10:30:26.143Z] : [info]: 
+
+{"Category": "Support Ticket", "Action": "Fix Outlook email issue", "Information": "Raju Saini, Practice Head - Automation (RPA/IPA)"}
+
+[2023-09-23T10:30:30.490Z] : [error]: http_response is not defined
+
+[2023-09-23T10:30:31.530Z] : [info]: Total execution time: 52s 3ms
+
+[2023-09-23T10:30:31.531Z] : [info]: ---------------------------------------------
+
+[2023-09-23T10:32:09.255Z] : [success]: Robot saved successfully
+
+[2023-09-23T10:32:16.092Z] : [success]: Bot started
+
+[2023-09-23T10:32:16.093Z] : [info]: Robot start
+
+[2023-09-23T10:33:01.293Z] : [info]: 
+
+{"Category": "Support Ticket", "Action": "Fix Outlook Email Issue", "Information": "Raju Saini is not able to send emails"}
+
+[2023-09-23T10:33:07.151Z] : [error]: Outlook: http_response is not defined
+
+[2023-09-23T10:33:07.992Z] : [info]: Total execution time: 51s 57ms
+
+[2023-09-23T10:33:07.993Z] : [info]: ---------------------------------------------
+

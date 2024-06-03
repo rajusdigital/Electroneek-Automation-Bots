@@ -1,0 +1,88 @@
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 9/26/2023, 11:54:10 AM
+  ==========================================
+  
+
+[2023-09-26T06:24:41.607Z] : [success]: Robot saved successfully
+
+[2023-09-26T06:27:56.709Z] : [success]: Robot saved successfully
+
+[2023-09-26T06:28:35.350Z] : [success]: Robot saved successfully
+
+[2023-09-26T06:28:39.440Z] : [info]: ---------------------------------------------
+
+[2023-09-26T06:28:39.441Z] : [success]: Bot started
+
+[2023-09-26T06:28:39.441Z] : [info]: Robot start
+
+[2023-09-26T06:28:44.911Z] : [info]: 
+
+{"Category": "Support Ticket", "Action": "Fix Outlook Email Issue", "Information": "Customer is not able to send emails"}
+
+[2023-09-26T06:29:19.755Z] : [success]: Bot finished successfully, total execution time: 40s 312ms
+
+[2023-09-26T06:29:19.756Z] : [info]: ---------------------------------------------
+
+[2023-09-26T06:40:49.298Z] : [success]: Robot saved successfully
+
+[2023-09-26T06:43:27.617Z] : [success]: Robot saved successfully
+
+[2023-09-26T06:43:48.836Z] : [success]: Robot saved successfully
+
+[2023-09-26T06:43:59.989Z] : [success]: Bot started
+
+[2023-09-26T06:43:59.990Z] : [info]: Robot start
+
+[2023-09-26T06:44:05.269Z] : [info]: 
+
+{"Category": "Support Ticket", "Action": "Fix Outlook email issue", "Information": "Customer is not able to send emails"}
+
+[2023-09-26T06:44:40.787Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-09-26T06:44:41.667Z] : [success]: Bot finished successfully, total execution time: 41s 674ms
+
+[2023-09-26T06:44:41.668Z] : [info]: ---------------------------------------------
+
+[2023-09-26T06:51:52.499Z] : [success]: Robot saved successfully
+
+[2023-09-26T06:52:17.356Z] : [success]: Bot started
+
+[2023-09-26T06:52:17.357Z] : [info]: Robot start
+
+[2023-09-26T06:52:27.862Z] : [info]: 
+
+{"Category": "Support Ticket", "Action": "Open ticket", "Information": "https://na.electroneek.com/account/support-center/ticket/EZ1-I33"}
+
+[2023-09-26T06:53:01.839Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-09-26T06:53:02.291Z] : [success]: Bot finished successfully, total execution time: 44s 930ms
+
+[2023-09-26T06:53:02.293Z] : [info]: ---------------------------------------------
+
+[2023-09-26T06:55:01.208Z] : [success]: Bot started
+
+[2023-09-26T06:55:01.210Z] : [info]: Robot start
+
+[2023-09-26T06:55:06.621Z] : [info]: 
+
+{"Category": "Support Ticket", "Action": "Open ticket", "Information": "https://na.electroneek.com/account/support-center/ticket/EZ1-I33"}
+
+[2023-09-26T06:55:41.049Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-09-26T06:55:41.364Z] : [success]: Bot finished successfully, total execution time: 40s 151ms
+
+[2023-09-26T06:55:41.365Z] : [info]: ---------------------------------------------
+
+[2023-09-26T07:30:51.051Z] : [success]: Robot saved successfully
+
+[2023-09-26T08:30:06.020Z] : [warn]: You opened a file that contained UI elements to interact with. But Studio Pro can't find the elements. This happens because the .neek file can't find the .elm file associated with the workflow. Please, put the .elm file to the corresponding elements folder in the same folder where the workflow is placed or select the elements manually again. Reopen the workflow
+
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 9/26/2023, 2:00:06 PM
+  ==========================================
+  
+

@@ -1,0 +1,43 @@
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 9/22/2023, 10:22:12 AM
+  ==========================================
+  
+
+[2023-09-22T04:52:46.271Z] : [success]: Robot saved successfully
+
+[2023-09-22T04:52:50.403Z] : [error]: Activity parameters required: Send email
+
+[2023-09-22T04:52:51.037Z] : [info]: ---------------------------------------------
+
+[2023-09-22T04:52:57.560Z] : [success]: Robot saved successfully
+
+[2023-09-22T04:53:01.553Z] : [info]: ---------------------------------------------
+
+[2023-09-22T04:53:01.553Z] : [success]: Bot started
+
+[2023-09-22T04:53:01.554Z] : [info]: Robot start
+
+[2023-09-22T04:53:04.848Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-09-22T04:53:05.665Z] : [error]: Invalid credentials (Failure)
+
+[2023-09-22T04:53:06.053Z] : [info]: Total execution time: 4s 111ms
+
+[2023-09-22T04:53:06.054Z] : [info]: ---------------------------------------------
+
+[2023-09-22T05:00:52.445Z] : [success]: Robot saved successfully
+
+[2023-09-22T05:00:56.323Z] : [success]: Bot started
+
+[2023-09-22T05:00:56.324Z] : [info]: Robot start
+
+[2023-09-22T05:00:59.374Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-09-22T05:00:59.467Z] : [error]: Invalid credentials (Failure)
+
+[2023-09-22T05:00:59.804Z] : [info]: Total execution time: 3s 141ms
+
+[2023-09-22T05:00:59.806Z] : [info]: ---------------------------------------------
+

@@ -1,0 +1,15 @@
+[2023-05-09T13:35:39.253Z] : [success]: Robot saved successfully
+
+[2023-05-09T13:36:08.733Z] : [success]: Robot saved successfully
+
+[2023-05-09T13:36:20.106Z] : [success]: Bot started
+
+[2023-05-09T13:36:20.107Z] : [info]: Robot start
+
+[2023-05-09T13:36:22.183Z] : [error]: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials jo13-20020a170903054d00b001a641e4738asm1584275plb.1 - gsmtp
+
+[2023-05-09T13:36:22.467Z] : [info]: Total execution time: 2s 75ms
+
+[2023-05-09T13:36:22.468Z] : [info]: ---------------------------------------------
+

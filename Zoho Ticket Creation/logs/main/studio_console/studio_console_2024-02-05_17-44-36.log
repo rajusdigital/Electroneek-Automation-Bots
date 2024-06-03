@@ -1,0 +1,53 @@
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 2/5/2024, 5:45:05 PM
+  ==========================================
+  
+
+[2024-02-05T12:15:07.395Z] : [success]: Robot saved successfully
+
+[2024-02-05T12:16:03.378Z] : [success]: Robot saved successfully
+
+[2024-02-05T12:16:11.100Z] : [info]: ---------------------------------------------
+
+[2024-02-05T12:16:11.102Z] : [success]: Bot started
+
+[2024-02-05T12:16:11.103Z] : [info]: Robot start
+
+[2024-02-05T12:16:22.891Z] : [info]: Retrying to perform the For Each Email activity, №1
+
+[2024-02-05T12:16:44.107Z] : [error]: Connection lost due to Error: read ECONNRESET
+
+[2024-02-05T12:16:45.201Z] : [info]: Total execution time: 33s 3ms
+
+[2024-02-05T12:16:45.205Z] : [info]: ---------------------------------------------
+
+[2024-02-05T12:17:34.950Z] : [success]: Robot saved successfully
+
+[2024-02-05T12:17:35.070Z] : [success]: Robot saved successfully
+
+[2024-02-05T12:17:35.261Z] : [success]: Robot saved successfully
+
+[2024-02-05T12:18:38.515Z] : [success]: Robot saved successfully
+
+[2024-02-05T12:18:50.150Z] : [success]: Robot saved successfully
+
+[2024-02-05T12:18:50.304Z] : [success]: Robot saved successfully
+
+[2024-02-05T12:18:50.443Z] : [success]: Robot saved successfully
+
+[2024-02-05T12:18:50.596Z] : [success]: Robot saved successfully
+
+[2024-02-05T12:19:05.787Z] : [success]: Robot saved successfully
+
+[2024-02-05T12:19:13.332Z] : [success]: Bot started
+
+[2024-02-05T12:19:13.335Z] : [info]: Robot start
+
+[2024-02-05T12:19:16.231Z] : [success]: Bot finished successfully, total execution time: 2s 895ms
+
+[2024-02-05T12:19:16.232Z] : [info]: ---------------------------------------------
+
+[2024-02-05T12:21:11.502Z] : [success]: Robot saved successfully
+
